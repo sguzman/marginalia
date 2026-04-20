@@ -1,0 +1,28 @@
+<li>
+  <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+  {{- $authors := .Params.authors -}}
+  {{- if not $authors -}}
+    {{- with .Params.author -}}
+      {{- $authors = slice . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $authors -}}
+    {{- $authors = slice "Salvador Guzman" -}}
+  {{- end -}}
+  {{- if gt (len $authors) 0 -}}
+  <span class="post-author-icons" aria-label="Authors">
+    {{- range $authors -}}
+      {{- $author := . -}}
+      {{- $key := lower (trim $author " ") -}}
+      {{- if eq $key "salvador guzman" -}}
+      <img class="post-author-icon" src="{{ "images/avatar-icon-64.png" | relURL }}" alt="Salvador Guzman">
+      {{- else if or (eq $key "chatgpt") (eq $key "openai chatgpt") -}}
+      <img class="post-author-icon" src="{{ "images/chatgpt-icon-64.png" | relURL }}" alt="ChatGPT">
+      {{- else -}}
+      <span class="post-author-fallback" title="{{ $author }}">{{ slicestr $author 0 1 | upper }}</span>
+      {{- end -}}
+    {{- end -}}
+  </span>
+  {{- end -}}
+  <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+</li>

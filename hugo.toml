@@ -1,0 +1,19 @@
+baseURL = "https://sguzman.github.io/marginalia/"
+languageCode = "en-us"
+title = "Gold, Velvet and Ashes"
+theme = "coder"
+
+[params]
+avatarURL = "images/avatar.png"
+customCSS = ["css/custom.css"]
+
+[menus]
+[[menus.main]]
+name = "Posts"
+pageRef = "/posts"
+weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

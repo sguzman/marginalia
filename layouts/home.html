@@ -1,0 +1,17 @@
+{{ define "content" }}
+  {{- $posts := where .Site.RegularPages "Section" "posts" -}}
+  {{- $p := .Paginate $posts -}}
+  <section class="container list">
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">Posts</a>
+      </h1>
+    </header>
+    <ul>
+      {{- range $p.Pages -}}
+        {{- .Render "li" -}}
+      {{- end -}}
+    </ul>
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}

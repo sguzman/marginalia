@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Lexend:wght@400;500;600&family=Oswald:wght@500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+:root {
+  --font-body: "Lexend", sans-serif;
+  --font-heading: "Cinzel", serif;
+  --font-ui: "Space Grotesk", sans-serif;
+  --font-entry: "Oswald", sans-serif;
+  --font-title: "Cinzel", serif;
+  --font-code: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--site-bg);
+  color: var(--site-fg);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  letter-spacing: 0.01em;
+}
+
+.navigation,
+.float-container,
+button,
+input,
+select,
+label {
+  font-family: var(--font-ui);
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: var(--font-code);
+}
+
+body.colorscheme-light {
+  --site-bg: #fafafa;
+  --site-fg: #212121;
+  --ui-text: #2d2219;
+  --ui-muted: #64564a;
+  --ui-input-bg: #fffdf9;
+  --ui-input-border: #cdb8a0;
+  --ui-panel-bg: #fff8ee;
+  --ui-panel-border: #e3d1b8;
+  --ui-btn-bg: #f8e7cd;
+  --ui-btn-border: #c8ab86;
+  --ui-btn-text: #2d2219;
+}
+
+body.colorscheme-dark {
+  --site-bg: #171312;
+  --site-fg: #e9dfd2;
+  --ui-text: #eadfcf;
+  --ui-muted: #cabaa6;
+  --ui-input-bg: #2d2520;
+  --ui-input-border: #695744;
+  --ui-panel-bg: #33271f;
+  --ui-panel-border: #58412f;
+  --ui-btn-bg: #4a3525;
+  --ui-btn-border: #82644a;
+  --ui-btn-text: #f5e7d2;
+}
+
+body.colorscheme-auto {
+  --site-bg: #fafafa;
+  --site-fg: #212121;
+  --ui-text: #2d2219;
+  --ui-muted: #64564a;
+  --ui-input-bg: #fffdf9;
+  --ui-input-border: #cdb8a0;
+  --ui-panel-bg: #fff8ee;
+  --ui-panel-border: #e3d1b8;
+  --ui-btn-bg: #f8e7cd;
+  --ui-btn-border: #c8ab86;
+  --ui-btn-text: #2d2219;
+}
+
+@media (prefers-color-scheme: dark) {
+  body.colorscheme-auto {
+    --site-bg: #171312;
+    --site-fg: #e9dfd2;
+    --ui-text: #eadfcf;
+    --ui-muted: #cabaa6;
+    --ui-input-bg: #2d2520;
+    --ui-input-border: #695744;
+    --ui-panel-bg: #33271f;
+    --ui-panel-border: #58412f;
+    --ui-btn-bg: #4a3525;
+    --ui-btn-border: #82644a;
+    --ui-btn-text: #f5e7d2;
+  }
+}
+
+.list ul li .title {
+  font-family: var(--font-entry);
+}
+
+.post-author-icons {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  margin: 0 0.45rem;
+  vertical-align: middle;
+  font-size: 1em;
+}
+
+.post-author-icon,
+.post-author-fallback {
+  width: 1em;
+  height: 1em;
+  border-radius: 9999px;
+  border: 1px solid var(--ui-panel-border);
+  vertical-align: middle;
+}
+
+.post-author-fallback {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.62rem;
+  font-weight: 700;
+  color: var(--ui-text);
+  background: var(--ui-panel-bg);
+}
+
+.navigation .navigation-title {
+  font-size: 2.45rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  font-family: var(--font-title);
+}
+
+.navigation .navigation-title .brand-word {
+  font-weight: 900;
+}
+
+.navigation .navigation-title .brand-gold {
+  color: #c99700;
+}
+
+.navigation .navigation-title .brand-velvet {
+  color: #a53131;
+}
