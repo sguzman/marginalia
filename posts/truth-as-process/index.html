@@ -1,0 +1,471 @@
+<!doctype html><html lang=en><head><title>Truth as Process · Gold, Velvet and Ashes</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=color-scheme content="light dark"><meta name=description content="An essay arguing that the halting problem's paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict."><meta name=keywords content="halting problem,computability,paradox,platonism,axioms,truth,topology,CAP theorem"><meta name=twitter:card content="summary"><meta name=twitter:title content="Truth as Process"><meta name=twitter:description content="An essay arguing that the halting problem's paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict."><meta property="og:url" content="https://sguzman.github.io/marginalia/posts/truth-as-process/"><meta property="og:site_name" content="Gold, Velvet and Ashes"><meta property="og:title" content="Truth as Process"><meta property="og:description" content="An essay arguing that the halting problem's paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict."><meta property="og:locale" content="en_us"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2026-02-11T00:00:00+00:00"><meta property="article:modified_time" content="2021-11-22T00:00:00+00:00"><meta property="article:tag" content="Halting Problem"><meta property="article:tag" content="Computability"><meta property="article:tag" content="Paradox"><meta property="article:tag" content="Axioms"><meta property="article:tag" content="Platonism"><meta property="article:tag" content="Tool-Worship"><link rel=canonical href=https://sguzman.github.io/marginalia/posts/truth-as-process/><link rel=preload href=/fonts/fa-brands-400.woff2 as=font type=font/woff2 crossorigin><link rel=preload href=/fonts/fa-regular-400.woff2 as=font type=font/woff2 crossorigin><link rel=preload href=/fonts/fa-solid-900.woff2 as=font type=font/woff2 crossorigin><link rel=stylesheet href=/marginalia/css/coder.min.4b392a85107b91dbdabc528edf014a6ab1a30cd44cafcd5325c8efe796794fca.css integrity="sha256-SzkqhRB7kdvavFKO3wFKarGjDNRMr81TJcjv55Z5T8o=" crossorigin=anonymous media=screen><link rel=stylesheet href=/marginalia/css/custom.min.1eec25d4d6e099b04130f2292623cd4642ce6c9acc25c102fc3ddc818a6ecfc1.css integrity="sha256-Huwl1NbgmbBBMPIpJiPNRkLObJrMJcEC/D3cgYpuz8E=" crossorigin=anonymous media=screen><link rel=icon href=/icons/favicon.ico sizes=any><link rel="shortcut icon" href=/icons/favicon.ico><link rel=icon type=image/png sizes=32x32 href=/icons/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/icons/favicon-16x16.png><link rel=apple-touch-icon href=/icons/apple-touch-icon.png><link rel=alternate type=application/rss+xml href=/marginalia/posts/truth-as-process/index.xml title="Gold, Velvet and Ashes"></head><body class="preload-transitions colorscheme-light"><div class=float-container><a id=dark-mode-toggle class=colorscheme-toggle><i class="fa-solid fa-adjust fa-fw" aria-hidden=true></i></a></div><main class=wrapper><nav class=navigation><section class=container><a class=navigation-title href=https://sguzman.github.io/marginalia/><span class="brand-word brand-gold">Gold</span>, <span class="brand-word brand-velvet">Velvet</span> and Ashes
+</a><input type=checkbox id=menu-toggle>
+<label class="menu-button float-right" for=menu-toggle><i class="fa-solid fa-bars fa-fw" aria-hidden=true></i></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=/marginalia/posts/>Posts</a></li></ul></section></nav><div class=content><section class="container post"><article><header><div class=post-title><h1 class=title><a class=title-link href=https://sguzman.github.io/marginalia/posts/truth-as-process/>Truth as Process</a></h1></div><div class=post-meta><div class=date><span class=posted-on><i class="fa-solid fa-calendar" aria-hidden=true></i>
+<time datetime=2021-11-22T00:00:00Z>November 22, 2021
+</time></span><span class=reading-time><i class="fa-solid fa-clock" aria-hidden=true></i>
+24-minute read</span></div><div class=categories><i class="fa-solid fa-folder" aria-hidden=true></i>
+<a href=/marginalia/categories/philosophy-of-computation/>Philosophy of Computation</a>
+<span class=separator>•</span>
+<a href=/marginalia/categories/logic/>Logic</a>
+<span class=separator>•</span>
+<a href=/marginalia/categories/philosophy-of-mathematics/>Philosophy of Mathematics</a>
+<span class=separator>•</span>
+<a href=/marginalia/categories/epistemology/>Epistemology</a></div><div class=tags><i class="fa-solid fa-tag" aria-hidden=true></i>
+<span class=tag><a href=/marginalia/tags/halting-problem/>Halting Problem</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/computability/>Computability</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/paradox/>Paradox</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/axioms/>Axioms</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/platonism/>Platonism</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/tool-worship/>Tool-Worship</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/truth-as-process/>Truth as Process</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/topology/>Topology</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/distributed-systems/>Distributed Systems</a>
+</span><span class=separator>•</span>
+<span class=tag><a href=/marginalia/tags/cap-theorem/>CAP Theorem</a></span></div></div></header><div class=post-content><h1 id=introduction>Introduction
+<a class=heading-link href=#introduction><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h1><p>The Halting Problem and its constituent pedagogical discourse
+circumscribing it always has impressed me with its oddity. This peculiar
+problem, I would introspect in private, has availed itself lavishly to
+the contemplative spirit of the human imagination and very much
+ensconced notions of computation for our age. Through whatever inventive
+machinations it could afford, the broad outline of this logical exercise
+in futility had found purchase in the minds of many.</p><p>That this phenomena could be explained perhaps by the eagerness of
+computer scientists to have under their purview a body of literature
+rivaling that of more established intellectual traditions shines
+brightly for me. The zealotry in which a nascent school of thought
+possesses can of course be explained very much in this way without
+betraying any elucidating penetrative insight into the matter that
+animates this discussion in the first place of course. Should this
+explanation prevail, they can be forgiven for their overzealous efforts.
+No one is immune from the lofty ambitions that one inherits when
+commencing an endeavor of intellectual character. Moreover, doubly can
+they be forgiven when their undertaking is haunted by the charismatic
+bravado that posterity insists on oppressively bequeathing us.</p><p>Truth be had, however, lest those traditions haughtily gesture beyond
+their worth, they suffer a similar fate. Not of course in their
+evocative sense of eagerness, as time for theirs has come and pass to
+reap them. No, no; what I mean to point out, with all this meandering
+word mincing is that mundane ideas are granted stature beyond what
+should be afforded in all sensibility to meager modicums of thought.</p><h2 id=the-halting-problem-proper>The Halting Problem Proper
+<a class=heading-link href=#the-halting-problem-proper><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>So what is the problem in question that animates this article to be
+written? The Halting Problem, as described in my own terms, is often
+rendered as the proposition that is it impossible to design or engineer
+an algorithm, using whatever matriculation you have at your disposal,
+whether some arbitrarily given process (read: algorithm) will terminate.</p><p>Substantive to this problem is the asymmetric exhaustion associated with
+the two possibilities for the process in question. Either the process
+exits normally and subsequently allows the algorithm to determine that
+the process halted or the process never halts. Note that the algorithm
+and the process both are assumed to run on the same thread, e.g.
+execution context, and must therefore trade off execution.</p><p>If the process halts, it permits the algorithm the capacity to reason
+about the freshly terminated process and conclude that it has ended.
+However, the difficulty comes in the non-terminating case. Since
+execution context is shared, the process executing starves the algorithm
+of the ability not just to run, but to reason. Thusly, the algorithm
+never is permitted to conclude one way or another.</p><p>Approximately, this resembles the dilemma. I do not wish to rehash the
+minutia here. Let it be said there exist many online resources that can
+do the problem justice. My purpose here is exposition and only do I
+weakly desire to capture the problem in its full scope.</p><h2 id=deconstructing-a-problem>Deconstructing a Problem
+<a class=heading-link href=#deconstructing-a-problem><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>More paramount that I capture the problem faithfully, the general
+contours of the problem are what motivated me to write this article.
+This problem is not unique in investiture to the lapse of logical rigor
+in satisfying some arbitrarily given criteria. Men are creatures of
+innovation as much as they are of habit and on circumstance often
+haunted by tedium. Often their ravenous analytical ability is animus
+enough to bleed their contemporary tools of all wit.</p><h2 id=paradox-if-you-want-it>Paradox if you want it
+<a class=heading-link href=#paradox-if-you-want-it><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>What I belabor to say, with all matter of pomp and prose, is that the
+problem is no problem at all. What the Halting Problem, and other
+rigorous intellectual pursuits share, is that their inabilities to
+whittle away at purported intractable propositions is by design.
+Granted, subconscious or otherwise beholding to unconscious passions but
+intentional nonetheless.</p><p>What always struck me as queer, whenever mathematicians (yes, they are
+the other guilty party I alluded to in the past) insist on the injurious
+and injudicious leveraging of the word paradox. I do labor as far as to
+permit that one man&rsquo;s paradox is relative to each and everyone. Nay;
+using the most stringent adherence to the definitions espoused wherein a
+paradox is concocted, one can easily arrive at any paradox proper. That
+is not in question and the character of the intellectually curious I do
+not which to mar.</p><p>However, still permitted and what still persists with the tenacity that
+arrived at paradox in the first place is the desire to faithfully set
+the scene. What scene? Well, that mathematics and all of its
+accompanying syntax and notation are man-made, not God-given; that the
+tools are expressions and manifestations of human intellect; that these
+intellectual exercises impress more of the authors&rsquo; peculiarities than
+of the material on which they are exercised; and finally that any
+expressions of ineffectual treatment of some subject or other by these
+authors articulates more a futility of particular imagination rather
+than a bulwark against the intellectual treatment in the first place.</p><p>That is all.</p><h2 id=paradox-a-choice>Paradox, a choice?
+<a class=heading-link href=#paradox-a-choice><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>What permits this conclusion, that paradoxes encountered amid the
+exercise of reason are more children of circumstance and temperament of
+the author than of some conclusive global statement on the nature of
+logic itself, is no grandiose overture. It is the simple return to
+vision that these are tools. Intellectual or otherwise; just tools. The
+constructions we use to wander our way through the hinterlands of
+logical consequence are no more objective, no more perfect, no more
+Godly, than we are. You would no more engage in the sacrilegious
+apotheosis of a simple hammer; wherefore then cometh your faith?</p><h2 id=platos-revenge>Plato&rsquo;s Revenge
+<a class=heading-link href=#platos-revenge><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>If you would afford me a slight digression, I would like to speculate at
+length the source of this tool-worship. The name Plato should be no
+stranger to you. A great man of great import. What suffices for the
+subsequent discussion is that the man possessed a opinionated
+understanding of mathematics and its place in our universe.</p><p>Plato envisioned that mathematical entities, whether geometric figures
+or numbers or proofs, were endowed with an existence that was difficult
+to differentiate from the nominal sense of the word as we know of it.
+The eponymous platonic solids themselves existed in a divinely inspired
+realm of which we have scant knowledge of. Obviously, the prima facie
+situation is that we have knowledge enough to know of this divine realm
+and the constituent mathematical entities.</p><p>It always striked me as odd that one would need to posit the existence
+of a whole inaccessible just to permit us the luxury of our mathematical
+fiction. Regardless, what is paramount here is the fatal entanglement of
+beauty and perfection that Plato assigned to mathematics. There could be
+little talk of math without invoking, even indirectly of its capacity to
+be consumed aesthetically as well.</p><p>Numbers are perfect. Solids are perfect and pristine. And they all exist
+in some celestial realm. And we, the unfortunate residents of this
+miserable joyless world, can but ruminate on our fall from grace. Humans
+have only access to impure analogues to the perfect entities which can
+only guide speculation towards the more heavenly realm.</p><p>This is Plato. This is his revenge. That we miserable creatures of minor
+fame and important and can only lust after perfection, the culmination
+of aesthetics, and never adequately indulge our appetite for godliness.
+This is his venomous tonic that humanity has only recently braved the
+effort to overthrow.</p><h2 id=vindictive-consequences>Vindictive Consequences
+<a class=heading-link href=#vindictive-consequences><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Given Plato, what is entailed? As aforementioned, worshiping our tools
+of logic is one of those consequences. That these tools, sculpted with
+precision and rigor, demands a captivated audience and an awed user.
+What follows from Plato is nothing less than tool worship. The pious
+fever dream that devoured us for nigh two millennia is that history has
+bequeathed to us numbers, solids, equations, surfaces; meticulous
+crafted by better men than us, men more deserving and god-like. We, the
+pathetic creatures that the contemporary modern age contains, should
+have sense enough of how unworthy we are to possess these tools. We do
+not deserve to behold these treasures, let alone harbor manic desires to
+transmogrify them for our provincial inventions. Now that we have sinned
+against God and coveted these gifts, preserve them for the next age. And
+God damn those who fail in this duty.</p><h2 id=a-curse-elided>A Curse Elided
+<a class=heading-link href=#a-curse-elided><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>That is the curse. History has inherited us these gifts and we strive
+only in standing in awe of these creations.</p><p>Avoiding the cult-like status that Platonism requires, it simply fails
+as a pragmatic paradigm. Tools are tools. As tautological as it sounds,
+tools have authors and authors are always of material flesh. They are
+designed to improve our lot in life and the authors are no more Godly
+than we are. Thus, what is permitted by the tacit admission of tool
+creation is the ability to create and modify the very same tools to our
+liking.</p><p>That is what is meant that paradoxes are optional. It is not that they
+can always be avoided but rather the emphasis is on their capacity to
+transpire being contingent on tools.</p><h2 id=logic-nothing-but-a-game>Logic: Nothing but a Game
+<a class=heading-link href=#logic-nothing-but-a-game><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>In reasoning about system of intellectual importance, it is helpful to
+liken the subject to something more familiar and less exotic. In my
+case, games are very simple to understand. They are simple in that they
+contain rules that are enforced but ultimately negotiable. What follows
+from these rules controls the resulting experience had. Logic is the
+same way.</p><p>Logic is no different way in that its judicious exercise contains rules
+that are set before any logical consequences can be had. The axioms are
+ultimately negotiable as well.</p><p>With this admission, the chief question that should occupy your mind is
+then what is the primary concern of logical deduction or induction when
+the definitions are fluid. That concern is speculation beyond what I am
+occupied with. What should suffice for now is that whatever the
+motivation is, those who play games may perchance be intimate to some
+fragment of wisdom in that respect.</p><h2 id=what-is-meant-by-paradox-in-common-parlance>What is Meant by Paradox in Common Parlance
+<a class=heading-link href=#what-is-meant-by-paradox-in-common-parlance><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Constituting the semantic interpretation of paradox, then, in
+mathematical literature is a more mundane, boring and dry definition. It
+is meant that given some finite set of axioms, some formal sentence
+composed in a scaffold manner from them stubbornly refuses to permit an
+exhaustive and conclusive resolution in regard to its truth value. This
+is because the rogue sentence villainously commits to evade logical
+exhaustion by the auspices granted by those same axioms. Of course, it
+is agnostic on the matter on whether or not some modification of
+axiomatic origin would allow a concise logical denouement.</p><h2 id=due-diligence>Due Diligence
+<a class=heading-link href=#due-diligence><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Yet this simple fact is presented with the same pious resolve that one
+voices a belief in a deity. Theistic discourse is not resented by this
+author at all. What I regard with derision is the ambiguity that
+tolerates talking of God and mathematics in the same breath. Speak of
+God in the firmness of God and speak of mathematics in the firmness of
+mathematics.</p><p>If mathematics and more chiefly paradoxes were presented in the spirit
+of human creations to be tampered with, I imagine more progress would be
+had since it would not require a rebellious animus to commit sin against
+God to progress forward. Lowering the threshold to less sacrilegious
+means would be a boom to development of the mathematical and logical
+arts since they would possess more a material character that invites
+contribution.</p><h2 id=permitting-a-solution-to-the-halting-problem>Permitting a Solution to the Halting Problem
+<a class=heading-link href=#permitting-a-solution-to-the-halting-problem><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Now that all the lucid speculation is finished, I can proceed to brief
+outline of what I would consider a modest but satisfactory solution to
+the halting problem. A simple solution for the halting problem is
+possible if one permits the malleability of the topology of the
+solution. Instead of a single moment where the algorithm emits a yes or
+not, the concept of truth is extended to a process.</p><p>Thus, a simple sketch of my solution is as follows. Each list item
+occurs chronologically. The algorithms is executed twice and emits two
+opposite results. The process in question runs in between these two
+calls.</p><ol><li>Algorithm assumes that the process will not halt, outputting no</li><li>Process is ran</li><li>If this step is reached, then process must have exited and algorithm
+outputs a yes</li></ol><p>In the case that the process does not halt, the initial answer is
+tantamount to a conclusive and definitive answer on the matter. However,
+should the process actually halt, the initial answer will of course be
+incorrect. This should not be problem in atomic conceptions of this
+construction. Assuming one allows it, there are obviously available
+versions of this construction that posits the existence of a small time
+gap between each step, infinitesimally small or otherwise, would burden
+the entire exercise with a spurious assertion for the duration of the
+time gap between steps.</p><h2 id=what-exactly-is-supplicated>What Exactly is Supplicated
+<a class=heading-link href=#what-exactly-is-supplicated><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>The central position of this attempted position is that the topology of
+the solution space should match that of the problem. To this observer,
+it is not judicious to stoically endure the hardship demanded by those
+seeking a point answer to a line problem. In short, the problem has the
+topology of a line since execution proceeds in a linear fashion yet a
+single atomic point is demanded. There is nothing brave about
+handicapping oneself in search of a solution. Even in the case that
+brevity is preferred, a characteristic of a more parsimonious approach
+should not wantonly burden the solution-provider with unnecessary
+constraints.</p><p>Thus, the supplication asks fairness in dimensions. That the topology of
+the problem match that of the solution is prime concern. There is no
+reason for ask for a crippled solution, specially when
+pragmatically-inclined in the first place. This rough solution that I
+offered is better than no solution.</p><h2 id=more-on-truth-as-process>More on Truth as Process
+<a class=heading-link href=#more-on-truth-as-process><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>More important than the attempted amelioration of the halting problem is
+the idea that truth can be conferred on the basis of a process. If one
+requires truth, it can be given on a basis that tolerates deviation from
+true veracity as long as the deviation is within some agreed degree. One
+thinks of probability theory and statistics which has the idea of a
+confidence level. There is no reason that truth cannot function on a
+more loose footing to allow for more flexibility.</p><p>In distributed systems in computing, there is a well-known theorem
+called the CAP theorem that dictates the trade-off inherent in a
+distributed domain. In such a setting, truth as a process that
+eventually is correct is not such an alien concept.</p><p>It is my humble opinion that mathematicians and logicians can learn to
+treat truth with more malleability to allow for the formation of more
+formidable domain tools.</p><h2 id=introduction-1>Introduction
+<a class=heading-link href=#introduction-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>The Halting Problem and its constituent pedagogical discourse
+circumscribing it always has impressed me with its oddity. This peculiar
+problem, I would introspect in private, has availed itself lavishly to
+the contemplative spirit of the human imagination and very much
+ensconced notions of computation for our age. Through whatever inventive
+machinations it could afford, the broad outline of this logical exercise
+in futility had found purchase in the minds of many.</p><p>That this phenomena could be explained perhaps by the eagerness of
+computer scientists to have under their purview a body of literature
+rivaling that of more established intellectual traditions shines
+brightly for me. The zealotry in which a nascent school of thought
+possesses can of course be explained very much in this way without
+betraying any elucidating penetrative insight into the matter that
+animates this discussion in the first place of course. Should this
+explanation prevail, they can be forgiven for their overzealous efforts.
+No one is immune from the lofty ambitions that one inherits when
+commencing an endeavor of intellectual character. Moreover, doubly can
+they be forgiven when their undertaking is haunted by the charismatic
+bravado that posterity insists on oppressively bequeathing us.</p><p>Truth be had, however, lest those traditions haughtily gesture beyond
+their worth, they suffer a similar fate. Not of course in their
+evocative sense of eagerness, as time for theirs has come and pass to
+reap them. No, no; what I mean to point out, with all this meandering
+word mincing is that mundane ideas are granted stature beyond what
+should be afforded in all sensibility to meager modicums of thought.</p><h2 id=the-halting-problem-proper-1>The Halting Problem Proper
+<a class=heading-link href=#the-halting-problem-proper-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>So what is the problem in question that animates this article to be
+written? The Halting Problem, as described in my own terms, is often
+rendered as the proposition that is it impossible to design or engineer
+an algorithm, using whatever matriculation you have at your disposal,
+whether some arbitrarily given process (read: algorithm) will terminate.</p><p>Substantive to this problem is the asymmetric exhaustion associated with
+the two possibilities for the process in question. Either the process
+exits normally and subsequently allows the algorithm to determine that
+the process halted or the process never halts. Note that the algorithm
+and the process both are assumed to run on the same thread, e.g.
+execution context, and must therefore trade off execution.</p><p>If the process halts, it permits the algorithm the capacity to reason
+about the freshly terminated process and conclude that it has ended.
+However, the difficulty comes in the non-terminating case. Since
+execution context is shared, the process executing starves the algorithm
+of the ability not just to run, but to reason. Thusly, the algorithm
+never is permitted to conclude one way or another.</p><p>Approximately, this resembles the dilemma. I do not wish to rehash the
+minutia here. Let it be said there exist many online resources that can
+do the problem justice. My purpose here is exposition and only do I
+weakly desire to capture the problem in its full scope.</p><h2 id=deconstructing-a-problem-1>Deconstructing a Problem
+<a class=heading-link href=#deconstructing-a-problem-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>More paramount that I capture the problem faithfully, the general
+contours of the problem are what motivated me to write this article.
+This problem is not unique in investiture to the lapse of logical rigor
+in satisfying some arbitrarily given criteria. Men are creatures of
+innovation as much as they are of habit and on circumstance often
+haunted by tedium. Often their ravenous analytical ability is animus
+enough to bleed their contemporary tools of all wit.</p><h2 id=paradox-if-you-want-it-1>Paradox if you want it
+<a class=heading-link href=#paradox-if-you-want-it-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>What I belabor to say, with all matter of pomp and prose, is that the
+problem is no problem at all. What the Halting Problem, and other
+rigorous intellectual pursuits share, is that their inabilities to
+whittle away at purported intractable propositions is by design.
+Granted, subconscious or otherwise beholding to unconscious passions but
+intentional nonetheless.</p><p>What always struck me as queer, whenever mathematicians (yes, they are
+the other guilty party I alluded to in the past) insist on the injurious
+and injudicious leveraging of the word paradox. I do labor as far as to
+permit that one man&rsquo;s paradox is relative to each and everyone. Nay;
+using the most stringent adherence to the definitions espoused wherein a
+paradox is concocted, one can easily arrive at any paradox proper. That
+is not in question and the character of the intellectually curious I do
+not which to mar.</p><p>However, still permitted and what still persists with the tenacity that
+arrived at paradox in the first place is the desire to faithfully set
+the scene. What scene? Well, that mathematics and all of its
+accompanying syntax and notation are man-made, not God-given; that the
+tools are expressions and manifestations of human intellect; that these
+intellectual exercises impress more of the authors&rsquo; peculiarities than
+of the material on which they are exercised; and finally that any
+expressions of ineffectual treatment of some subject or other by these
+authors articulates more a futility of particular imagination rather
+than a bulwark against the intellectual treatment in the first place.</p><p>That is all.</p><h2 id=paradox-a-choice-1>Paradox, a choice?
+<a class=heading-link href=#paradox-a-choice-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>What permits this conclusion, that paradoxes encountered amid the
+exercise of reason are more children of circumstance and temperament of
+the author than of some conclusive global statement on the nature of
+logic itself, is no grandiose overture. It is the simple return to
+vision that these are tools. Intellectual or otherwise; just tools. The
+constructions we use to wander our way through the hinterlands of
+logical consequence are no more objective, no more perfect, no more
+Godly, than we are. You would no more engage in the sacrilegious
+apotheosis of a simple hammer; wherefore then cometh your faith?</p><h2 id=platos-revenge-1>Plato&rsquo;s Revenge
+<a class=heading-link href=#platos-revenge-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>If you would afford me a slight digression, I would like to speculate at
+length the source of this tool-worship. The name Plato should be no
+stranger to you. A great man of great import. What suffices for the
+subsequent discussion is that the man possessed a opinionated
+understanding of mathematics and its place in our universe.</p><p>Plato envisioned that mathematical entities, whether geometric figures
+or numbers or proofs, were endowed with an existence that was difficult
+to differentiate from the nominal sense of the word as we know of it.
+The eponymous platonic solids themselves existed in a divinely inspired
+realm of which we have scant knowledge of. Obviously, the prima facie
+situation is that we have knowledge enough to know of this divine realm
+and the constituent mathematical entities.</p><p>It always striked me as odd that one would need to posit the existence
+of a whole inaccessible just to permit us the luxury of our mathematical
+fiction. Regardless, what is paramount here is the fatal entanglement of
+beauty and perfection that Plato assigned to mathematics. There could be
+little talk of math without invoking, even indirectly of its capacity to
+be consumed aesthetically as well.</p><p>Numbers are perfect. Solids are perfect and pristine. And they all exist
+in some celestial realm. And we, the unfortunate residents of this
+miserable joyless world, can but ruminate on our fall from grace. Humans
+have only access to impure analogues to the perfect entities which can
+only guide speculation towards the more heavenly realm.</p><p>This is Plato. This is his revenge. That we miserable creatures of minor
+fame and important and can only lust after perfection, the culmination
+of aesthetics, and never adequately indulge our appetite for godliness.
+This is his venomous tonic that humanity has only recently braved the
+effort to overthrow.</p><h2 id=vindictive-consequences-1>Vindictive Consequences
+<a class=heading-link href=#vindictive-consequences-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Given Plato, what is entailed? As aforementioned, worshiping our tools
+of logic is one of those consequences. That these tools, sculpted with
+precision and rigor, demands a captivated audience and an awed user.
+What follows from Plato is nothing less than tool worship. The pious
+fever dream that devoured us for nigh two millennia is that history has
+bequeathed to us numbers, solids, equations, surfaces; meticulous
+crafted by better men than us, men more deserving and god-like. We, the
+pathetic creatures that the contemporary modern age contains, should
+have sense enough of how unworthy we are to possess these tools. We do
+not deserve to behold these treasures, let alone harbor manic desires to
+transmogrify them for our provincial inventions. Now that we have sinned
+against God and coveted these gifts, preserve them for the next age. And
+God damn those who fail in this duty.</p><h2 id=a-curse-elided-1>A Curse Elided
+<a class=heading-link href=#a-curse-elided-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>That is the curse. History has inherited us these gifts and we strive
+only in standing in awe of these creations.</p><p>Avoiding the cult-like status that Platonism requires, it simply fails
+as a pragmatic paradigm. Tools are tools. As tautological as it sounds,
+tools have authors and authors are always of material flesh. They are
+designed to improve our lot in life and the authors are no more Godly
+than we are. Thus, what is permitted by the tacit admission of tool
+creation is the ability to create and modify the very same tools to our
+liking.</p><p>That is what is meant that paradoxes are optional. It is not that they
+can always be avoided but rather the emphasis is on their capacity to
+transpire being contingent on tools.</p><h2 id=logic-nothing-but-a-game-1>Logic: Nothing but a Game
+<a class=heading-link href=#logic-nothing-but-a-game-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>In reasoning about system of intellectual importance, it is helpful to
+liken the subject to something more familiar and less exotic. In my
+case, games are very simple to understand. They are simple in that they
+contain rules that are enforced but ultimately negotiable. What follows
+from these rules controls the resulting experience had. Logic is the
+same way.</p><p>Logic is no different way in that its judicious exercise contains rules
+that are set before any logical consequences can be had. The axioms are
+ultimately negotiable as well.</p><p>With this admission, the chief question that should occupy your mind is
+then what is the primary concern of logical deduction or induction when
+the definitions are fluid. That concern is speculation beyond what I am
+occupied with. What should suffice for now is that whatever the
+motivation is, those who play games may perchance be intimate to some
+fragment of wisdom in that respect.</p><h2 id=what-is-meant-by-paradox-in-common-parlance-1>What is Meant by Paradox in Common Parlance
+<a class=heading-link href=#what-is-meant-by-paradox-in-common-parlance-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Constituting the semantic interpretation of paradox, then, in
+mathematical literature is a more mundane, boring and dry definition. It
+is meant that given some finite set of axioms, some formal sentence
+composed in a scaffold manner from them stubbornly refuses to permit an
+exhaustive and conclusive resolution in regard to its truth value. This
+is because the rogue sentence villainously commits to evade logical
+exhaustion by the auspices granted by those same axioms. Of course, it
+is agnostic on the matter on whether or not some modification of
+axiomatic origin would allow a concise logical denouement.</p><h2 id=due-diligence-1>Due Diligence
+<a class=heading-link href=#due-diligence-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Yet this simple fact is presented with the same pious resolve that one
+voices a belief in a deity. Theistic discourse is not resented by this
+author at all. What I regard with derision is the ambiguity that
+tolerates talking of God and mathematics in the same breath. Speak of
+God in the firmness of God and speak of mathematics in the firmness of
+mathematics.</p><p>If mathematics and more chiefly paradoxes were presented in the spirit
+of human creations to be tampered with, I imagine more progress would be
+had since it would not require a rebellious animus to commit sin against
+God to progress forward. Lowering the threshold to less sacrilegious
+means would be a boom to development of the mathematical and logical
+arts since they would possess more a material character that invites
+contribution.</p><h2 id=permitting-a-solution-to-the-halting-problem-1>Permitting a Solution to the Halting Problem
+<a class=heading-link href=#permitting-a-solution-to-the-halting-problem-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>Now that all the lucid speculation is finished, I can proceed to brief
+outline of what I would consider a modest but satisfactory solution to
+the halting problem. A simple solution for the halting problem is
+possible if one permits the malleability of the topology of the
+solution. Instead of a single moment where the algorithm emits a yes or
+not, the concept of truth is extended to a process.</p><p>Thus, a simple sketch of my solution is as follows. Each list item
+occurs chronologically. The algorithms is executed twice and emits two
+opposite results. The process in question runs in between these two
+calls.</p><ol><li>Algorithm assumes that the process will not halt, outputting no</li><li>Process is ran</li><li>If this step is reached, then process must have exited and algorithm
+outputs a yes</li></ol><p>In the case that the process does not halt, the initial answer is
+tantamount to a conclusive and definitive answer on the matter. However,
+should the process actually halt, the initial answer will of course be
+incorrect. This should not be problem in atomic conceptions of this
+construction. Assuming one allows it, there are obviously available
+versions of this construction that posits the existence of a small time
+gap between each step, infinitesimally small or otherwise, would burden
+the entire exercise with a spurious assertion for the duration of the
+time gap between steps.</p><h2 id=what-exactly-is-supplicated-1>What Exactly is Supplicated
+<a class=heading-link href=#what-exactly-is-supplicated-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>The central position of this attempted position is that the topology of
+the solution space should match that of the problem. To this observer,
+it is not judicious to stoically endure the hardship demanded by those
+seeking a point answer to a line problem. In short, the problem has the
+topology of a line since execution proceeds in a linear fashion yet a
+single atomic point is demanded. There is nothing brave about
+handicapping oneself in search of a solution. Even in the case that
+brevity is preferred, a characteristic of a more parsimonious approach
+should not wantonly burden the solution-provider with unnecessary
+constraints.</p><p>Thus, the supplication asks fairness in dimensions. That the topology of
+the problem match that of the solution is prime concern. There is no
+reason for ask for a crippled solution, specially when
+pragmatically-inclined in the first place. This rough solution that I
+offered is better than no solution.</p><h2 id=more-on-truth-as-process-1>More on Truth as Process
+<a class=heading-link href=#more-on-truth-as-process-1><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><p>More important than the attempted amelioration of the halting problem is
+the idea that truth can be conferred on the basis of a process. If one
+requires truth, it can be given on a basis that tolerates deviation from
+true veracity as long as the deviation is within some agreed degree. One
+thinks of probability theory and statistics which has the idea of a
+confidence level. There is no reason that truth cannot function on a
+more loose footing to allow for more flexibility.</p><p>In distributed systems in computing, there is a well-known theorem
+called the CAP theorem that dictates the trade-off inherent in a
+distributed domain. In such a setting, truth as a process that
+eventually is correct is not such an alien concept.</p><p>It is my humble opinion that mathematicians and logicians can learn to
+treat truth with more malleability to allow for the formation of more
+formidable domain tools.</p></div><footer></footer></article></section></div><footer class=footer><section class=container>©
+2026
+·
+Powered by <a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/ target=_blank rel=noopener>Coder</a>.</section></footer></main><script src=/marginalia/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script></body></html>
