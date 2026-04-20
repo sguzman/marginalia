@@ -1,6 +1,6 @@
 baseURL = "https://sguzman.github.io/marginalia/"
 languageCode = "en-us"
-title = "Gold, Velvet and Ashes"
+title = "Marginalia"
 theme = "coder"
 
 [params]

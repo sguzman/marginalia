@@ -2,9 +2,7 @@
   <section class="container">
     {{ with .Site }}
     <a class="navigation-title" href="{{ absLangURL "" }}">
-      {{ $brand := replace .Title "Gold" "<span class=\"brand-word brand-gold\">Gold</span>" }}
-      {{ $brand = replace $brand "Velvet" "<span class=\"brand-word brand-velvet\">Velvet</span>" }}
-      {{ $brand | safeHTML }}
+      {{ .Title }}
     </a>
     {{ end }}
     {{ if or .Site.Menus.main hugo.IsMultilingual }}
