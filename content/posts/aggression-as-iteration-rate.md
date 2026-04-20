@@ -13,6 +13,45 @@ expiryDate: ""
 draft: false
 authors:
   - "Salvador Guzman"
+  - "ChatGPT"
+meta:
+  abstract: >-
+    This essay proposes a mathematical framework for understanding behavior as a competitive process among biological impulses.
+    By modeling these impulses as fractional strengths within a normalized unit, the author defines aggression not as a purely
+    violent phenomenon, but as the 'stickiness' and persistence of strategy execution under conditions of scarcity and competition.
+    The work explores the relationship between genetics, the extended phenotype, and aggression tolerance, ultimately framing
+    behavior as a rational calculus derived from biological primitives.
+  creator: "Salvador Guzman"
+  dataset_id: "behavioral-modeling-2023"
+  identifier: "behavior-2023-001"
+  language: "en-US"
+  library_of_congress_classification:
+    primary: "BF575.A3"
+    area: "Psychology; Aggression"
+    note: "Theoretical modeling of behavioral impulses and strategic iteration."
+  license: "CC0-1.0"
+  publisher: "Marginalia"
+  reference-section-title: "References"
+  report:
+    kind: "theoretical-essay"
+    domain: "behavioral-science"
+    topic: "aggression-modeling"
+    scope: "conceptual-framework"
+    audience: "intellectual"
+  revision: "1.1.0"
+  rights: "© 2023 Salvador Guzman"
+  status: "final"
+  subject: "behavior"
+  subjects:
+    - "behavioral modeling"
+    - "mathematical psychology"
+    - "evolutionary biology"
+    - "aggression"
+    - "game theory"
+    - "strategic iteration"
+  subtitle: "Behavior as a Mathematical Process"
+  toc: true
+  type: "article"
 layout: "single"
 weight: 0
 categories:
@@ -37,6 +76,21 @@ keywords:
   - "aggression as strategic iteration"
   - "scarcity and aggression"
   - "aggression tolerance inheritance"
+  - "behavioral iteration"
+  - "mathematical psychology"
+  - "evolutionary stable strategies"
+  - "biological primitives"
+  - "homeostasis and behavior"
+  - "circadian rhythms"
+  - "genetic determinism"
+  - "phenotypic plasticity"
+  - "extended phenotype"
+  - "Richard Dawkins"
+  - "strategic persistence"
+  - "competition for actuation"
+  - "impulse thresholds"
+  - "behavioral grammar"
+  - "rational calculus of behavior"
 markup: "goldmark"
 outputs:
   - "HTML"

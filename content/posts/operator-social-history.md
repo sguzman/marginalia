@@ -77,48 +77,49 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: 'A chronological, social-intellectual history of how “operators” moved from being informal
-    calculation procedures (differentiate, integrate, take differences) to fully legitimate mathematical
-    objects with their own algebra, classification, and theories. The essay tracks the reification of
-    actions into entities through notation, pedagogy, and disciplinary conflict: early operational calculus
-    and the symbolic D; the 19th-century rise of matrices and linear transformations; debates between
-    quaternionists and vector analysts; engineers’ pragmatic operator methods (notably Heaviside) versus
-    demands for rigor; and the early 20th-century consolidation of operator theory inside functional analysis
-    (Fredholm, Hilbert, Riesz), culminating in the central role of operators in modern physics and computation.'
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-  - Salvador Guzman
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:operator-social-history-mathematics
-  language: English
-  license: CC0-1.0
-  number-sections: true
-  publisher: Marginalia
-  reference-section-title: References
-  report_no: 0
-  report_year: 0
-  revision: '1'
-  rights: CC0 1.0 Universal (CC0-1.0) - Public Domain Dedication
-  status: published
-  subject:
-  - Operator theory
-  - Functional analysis
-  - History of mathematics
-  - Mathematical physics
-  - Scientific notation
-  - Engineering mathematics
+  abstract: >-
+    A chronological, social-intellectual history of how “operators” moved from
+    being informal calculation procedures (differentiate, integrate, take
+    differences) to fully legitimate mathematical objects with their own
+    algebra, classification, and theories. The essay tracks the reification of
+    actions into entities through notation, pedagogy, and disciplinary
+    conflict: early operational calculus and the symbolic D; the 19th-century
+    rise of matrices and linear transformations; debates between
+    quaternionists and vector analysts; engineers’ pragmatic operator methods
+    (notably Heaviside) versus demands for rigor; and the early 20th-century
+    consolidation of operator theory inside functional analysis (Fredholm,
+    Hilbert, Riesz), culminating in the central role of operators in modern
+    physics and computation.
+  creator: "Salvador Guzman"
+  dataset_id: "operator-history-2026"
+  identifier: "gva:operator-social-history-mathematics"
+  language: "en-US"
+  library_of_congress_classification:
+    primary: "QA329"
+    area: "Operator Theory"
+    note: "Social and conceptual history of mathematical operators."
+  license: "CC0-1.0"
+  publisher: "Marginalia"
+  report:
+    kind: "historical-analysis"
+    domain: "mathematics"
+    topic: "operator-theory"
+    scope: "intellectual-history"
+    audience: "scholars"
+  revision: "1.0.0"
+  rights: "CC0-1.0 (Public Domain Dedication)"
+  status: "final"
+  subject: "operator theory"
   subjects:
-  - Operator theory
-  - Functional analysis
-  - History of mathematics
-  - Mathematical physics
-  - Scientific notation
-  - Engineering mathematics
+    - "operator theory"
+    - "functional analysis"
+    - "history of mathematics"
+    - "mathematical physics"
+    - "scientific notation"
+    - "engineering mathematics"
+  subtitle: "From Actions to Objects"
+  toc: true
+  type: "article"
   subtitle: How actions became objects
   toc: true
   toc-depth: 3

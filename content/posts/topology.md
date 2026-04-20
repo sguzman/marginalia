@@ -61,60 +61,45 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: 'A comprehensive, historically grounded survey of topology: its 18th-century precursors (Euler
-    and early structural problems), its formal birth in the late 19th century (Poincare and analysis situs),
-    its 20th-century axiomatization and algebraic revolution (point-set topology, homology, homotopy),
-    and its modern frontiers and applications (manifold theory, low-dimensional topology, and topological
-    methods in data science, physics, and engineering). The piece emphasizes topology’s qualitative viewpoint
-    - invariance under continuous deformation - and maps major subfields and conceptual bridges to geometry
-    and analysis.'
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-  - Salvador Guzman
-  dataset_id: gva-essay-topology-2026-02-12
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: text/markdown
-  identifier: gva:article:topology:2026-02-12
-  language: English
+  abstract: >-
+    A comprehensive, historically grounded survey of topology: its
+    18th-century precursors (Euler and early structural problems), its formal
+    birth in the late 19th century (Poincare and analysis situs), its
+    20th-century axiomatization and algebraic revolution (point-set topology,
+    homology, homotopy), and its modern frontiers and applications (manifold
+    theory, low-dimensional topology, and topological methods in data
+    science, physics, and engineering). The piece emphasizes topology’s
+    qualitative viewpoint - invariance under continuous deformation - and
+    maps major subfields and conceptual bridges to geometry and analysis.
+  creator: "Salvador Guzman"
+  dataset_id: "gva-essay-topology-2026-02-12"
+  identifier: "gva:article:topology:2026-02-12"
+  language: "en-US"
   library_of_congress_classification:
-    class: QA611
-    label: Topology
-  license: CC0-1.0
-  number-sections: true
-  publisher: Marginalia
-  reference-section-title: References
+    primary: "QA611"
+    area: "Topology"
+    note: "Comprehensive history and conceptual report on topological spaces."
+  license: "CC0-1.0"
+  publisher: "Marginalia"
   report:
-    kind: longform research essay
-    domain: mathematics
-    topic: topology
-    scope: history + core concepts + subfields + applications
-    audience: general mathematically literate reader
-  report_no: 0
-  report_year: 0
-  revision: 1.0.0
-  rights: CC0-1.0
-  status: complete
-  subject:
-  - Mathematics
-  - Topology
-  - History of Mathematics
+    kind: "longform research essay"
+    domain: "mathematics"
+    topic: "topology"
+    scope: "history, core concepts, subfields, applications"
+    audience: "scholars"
+  revision: "1.0.0"
+  rights: "CC0-1.0 (Public Domain Dedication)"
+  status: "final"
+  subject: "topology"
   subjects:
-  - Mathematics
-  - Topology
-  - History of Mathematics
-  subtitle: From 18th-Century Precursors to Present-Day Frontiers
+    - "mathematics"
+    - "topology"
+    - "history of mathematics"
+    - "differential topology"
+    - "algebraic topology"
+  subtitle: "From 18th-Century Precursors to Present-Day Frontiers"
   toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-  report_series: gold-velvet-and-ashes
-  report_series_title: Marginalia
-  report_series_number: 0
+  type: "article"
 series: []
 ---
 

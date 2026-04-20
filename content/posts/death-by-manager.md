@@ -13,6 +13,47 @@ expiryDate: ""
 draft: false
 authors:
   - "Salvador Guzman"
+  - "ChatGPT"
+meta:
+  abstract: >-
+    This polemical essay examines the rise and pervasive influence of the managerial class across capitalism,
+    communism, and fascism. The author argues that the separation of ownership and control has birthed a
+    parasitic elite whose power is derived from the ambiguity of their roles and the monopoly of industrial
+    knowledge. By dismantling the profit motive and subverting both labor and capital, the managerial class
+    has become an apex predator of modern organizational life. The paper proposes a technological and
+    pedagogical alternative—inspired by open-source governance and "transparent society" ideals—to
+    decentralize management and restore individual agency.
+  creator: "Salvador Guzman"
+  dataset_id: "managerial-studies-2023"
+  identifier: "politics-2023-001"
+  language: "en-US"
+  library_of_congress_classification:
+    primary: "HD31"
+    area: "Management; Political Science"
+    note: "Critique of the managerial class and organizational power structures."
+  license: "CC0-1.0"
+  publisher: "Marginalia"
+  reference-section-title: "References"
+  report:
+    kind: "polemic-essay"
+    domain: "political-theory"
+    topic: "managerialism"
+    scope: "critique-and-proposal"
+    audience: "intellectual"
+  revision: "1.1.0"
+  rights: "© 2023 Salvador Guzman"
+  status: "final"
+  subject: "politics"
+  subjects:
+    - "managerial class"
+    - "political theory"
+    - "organizational design"
+    - "labor relations"
+    - "industrial sociology"
+    - "power dynamics"
+  subtitle: "The Manager as the Apex Corporate Predator"
+  toc: true
+  type: "article"
 layout: "single"
 weight: 0
 categories:
@@ -35,6 +76,22 @@ keywords:
   - "power capture"
   - "open source governance"
   - "anti-violence"
+  - "separation of ownership and control"
+  - "James Burnham"
+  - "managerial revolution"
+  - "technocracy"
+  - "bureaucracy"
+  - "organizational theory"
+  - "labor exploitation"
+  - "capitalist hollowing"
+  - "profit motive"
+  - "job security"
+  - "pedagogical objects"
+  - "transparent society"
+  - "Karl Popper"
+  - "bazaar vs cathedral"
+  - "decentralized governance"
+  - "industrial knowledge monopoly"
 markup: "goldmark"
 outputs:
   - "HTML"

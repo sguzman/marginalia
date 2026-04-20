@@ -1,18 +1,69 @@
 ---
 title: "The Tragedy of Formalism"
 linkTitle: "The Tragedy of Formalism"
-description: "Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding."
-summary: "Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding."
+description: >-
+  Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to
+  a proposed algebra of iterated operations on polynomials via syntactic
+  encoding.
+summary: >-
+  Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to
+  a proposed algebra of iterated operations on polynomials via syntactic
+  encoding.
 slug: "iterated-function-algebra"
 url: ""
 aliases: []
 date: "2023-04-16"
 publishDate: "2026-02-11"
-lastmod: "2023-04-16"
+lastmod: "2026-04-20T15:45:00Z"
 expiryDate: ""
 draft: false
 authors:
   - "Salvador Guzman"
+  - "ChatGPT"
+meta:
+  abstract: >-
+    This paper explores the intersection of mathematical formalism,
+    computation, and symbolic syntax. Framing the "death" of the Hilbert
+    program as a necessary tragedy that birthed modern computation, the author
+    proposes a novel "Iterated Function Algebra." By encoding algebraic
+    operations (addition, multiplication, exponentiation) as rank-ordered
+    syntactic primitives, the work attempts to reduce the closed-form
+    computation of iterated polynomials to pure function composition. The
+    essay bridges historical philosophical debates—between formalism and
+    intuitionism—with practical syntactic methods for model reduction to
+    arithmetic.
+  creator: "Salvador Guzman"
+  dataset_id: "iterated-algebra-2023"
+  identifier: "math-2023-001"
+  language: "en-US"
+  library_of_congress_classification:
+    primary: "QA155"
+    area: "Algebra; Logic; Computation"
+    note: "Theoretical foundations of iterated functions and formal systems."
+  license: "CC0-1.0"
+  publisher: "Marginalia"
+  reference-section-title: "References"
+  report:
+    kind: "theoretical-mathematics-report"
+    domain: "algebra-and-logic"
+    topic: "iterated-functions"
+    scope: "theoretical-and-computational"
+    audience: "academic"
+  revision: "1.1.0"
+  rights: "© 2023 Salvador Guzman"
+  status: "final"
+  subject: "mathematics"
+  subjects:
+    - "mathematics"
+    - "algebra"
+    - "formalism"
+    - "computation"
+    - "iterated functions"
+    - "symbolic logic"
+    - "polynomial dynamics"
+  subtitle: "Syntax as the Poetry of Computation"
+  toc: true
+  type: "article"
 layout: "single"
 weight: 0
 categories:
@@ -41,6 +92,13 @@ keywords:
   - "closed form"
   - "operator theory"
   - "Godel numbering"
+  - "iterated function algebra"
+  - "syntactic primitives"
+  - "function composition"
+  - "model reduction"
+  - "arithmetic reduction"
+  - "computational poetry"
+  - "symbolic syntax"
 markup: "goldmark"
 outputs:
   - "HTML"

@@ -650,7 +650,7 @@ In this appendix, we include code snippets and configurations from various eras 
       };
     })(jQuery);
 
-    // Usage: $("p.notice").highlight(); 
+    // Usage: $("p.notice").highlight();
 
 *Commentary:* This IIFE (Immediately Invoked Function Expression) takes jQuery as `$` and adds a function to `$.fn` (which is jQuery's prototype for selected sets). By returning `this` (or using `each` which returns original set), it kept chainability. This pattern was ubiquitous in the late 2000s -- the jQuery plugin ecosystem produced hundreds of plugins for sliders, modals, etc., in this style. It shows how developers shared reusable DOM logic before module systems were standard (each plugin typically attached itself globally to jQuery). The self-invoking wrapper ensured `$` was the jQuery object even if `$` was aliased (no conflict mode).
 

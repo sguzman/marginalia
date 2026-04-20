@@ -67,55 +67,45 @@ meta:
   cover_image: cover.png
   creator:
   - Salvador Guzman
-  dataset_id: gva.article.complex-plane-culture.v1
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: text/markdown
-  identifier: gva:complex-plane-culture:2026-02-12
-  language: English
+meta:
+  abstract: >-
+    A cultural-intellectual history of the complex plane, tracing its
+    evolution from Euler’s 18th-century symbolic "imaginary" numbers to its
+    21st-century role as a fundamental framework in quantum mechanics,
+    electrical engineering, and digital art. The report explores how the
+    geometric interpretation by Argand and Gauss transformed $i$ from a
+    useful fiction into a tangible visual medium, eventually powering the
+    modern world through phasors, signal processing, and fractal geometry.
+  creator: "Salvador Guzman"
+  dataset_id: "gva-article-complex-plane-culture-2026-02-12"
+  identifier: "gva:article:complex-plane-culture:2026-02-12"
+  language: "en-US"
   library_of_congress_classification:
-    primary: QA331.7
-    note: Complex analysis / functions of a complex variable
-  license: CC0-1.0
-  number-sections: true
-  plate_id: complex-plane-culture
-  publisher: Marginalia
-  reference-section-title: Sources
+    primary: "QA331.7"
+    area: "Complex Analysis"
+    note: "History and cultural impact of the complex plane and functions of a complex variable."
+  license: "CC0-1.0"
+  publisher: "Marginalia"
   report:
-    kind: ''
-    number: ''
-    year: 0
-  report_no: 0
-  report_year: 0
-  revision: '2026-02-12'
-  rights: CC0-1.0 (Public Domain Dedication)
-  status: published
-  subject:
-  - Complex numbers
-  - Complex plane
-  - History of mathematics
-  - Mathematical visualization
-  - Mathematics in culture
+    kind: "longform research essay"
+    domain: "mathematics"
+    topic: "complex plane history"
+    scope: "1748--2025 chronology + applications"
+    audience: "scholars"
+  revision: "1.0.0"
+  rights: "CC0-1.0 (Public Domain Dedication)"
+  status: "final"
+  subject: "complex analysis"
   subjects:
-  - Complex analysis
-  - Argand plane
-  - Euler's formula
-  - Mathematics and physics
-  - Mathematics and technology
-  - Mathematics and art
-  - Fractals
-  - Quantum phase
-  subtitle: A Cultural-Intellectual History of the Complex Plane (1748--2025)
+    - "mathematics"
+    - "complex numbers"
+    - "history of mathematics"
+    - "mathematical visualization"
+    - "fractals"
+    - "quantum mechanics"
+  subtitle: "A Cultural-Intellectual History of the Complex Plane (1748--2025)"
   toc: true
-  toc-depth: 3
-  toc-title: Table of Contents
-  type: posts
-  report_series: Complex Plane
-  report_series_title: Complex Plane Essays
-  report_series_number: 1
+  type: "article"
 series: []
 ---
 

@@ -235,7 +235,7 @@ The timeline below interweaves major **specification milestones**, **browser/eng
 
 <!-- -->
 
--   .nav { 
+-   .nav {
           color: red;
           li { list-style: none; }             /* .nav li */
           li a { text-decoration: none; }      /* .nav li a */
@@ -417,7 +417,7 @@ These preprocessors required a **build step** -- a major shift. It meant front-e
 
 <!-- -->
 
--   .nav { 
+-   .nav {
           ul { list-style: none; }
           li { display: inline-block; }
           a { color: $link-color; &:hover { color: $link-hover; } }
