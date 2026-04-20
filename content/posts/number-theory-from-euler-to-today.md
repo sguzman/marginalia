@@ -13,7 +13,6 @@ slug: number-theory-from-euler-to-today
 url: ''
 aliases: []
 date: '2026-02-12'
-publishDate: '2026-04-20'
 lastmod: '2026-02-12'
 expiryDate: ''
 draft: false

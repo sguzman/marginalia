@@ -6,6 +6,7 @@ theme = "coder"
 [params]
 avatarURL = "images/avatar.png"
 customCSS = ["css/custom.css"]
+math = true
 
 [markup]
   [markup.goldmark]
