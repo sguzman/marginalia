@@ -57,17 +57,6 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: A cultural-intellectual history of the complex plane from the mid-18th century to the mid-2020s,
-    tracing how “imaginary” numbers moved from disputed algebraic fictions to a stable geometric picture
-    and then into the practical core of physics, engineering, computing, and visual culture. The essay
-    follows key conceptual shifts (symbol → plane → toolkit → canvas), highlights major historical actors
-    and applications, and argues that the complex plane became a durable bridge between abstraction and
-    reality.
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-  - Salvador Guzman
-meta:
   abstract: >-
     A cultural-intellectual history of the complex plane, tracing its
     evolution from Euler’s 18th-century symbolic "imaginary" numbers to its

@@ -62,11 +62,16 @@ meta:
     a testbed for the site's rendering capabilities and a statement of our
     technical philosophy regarding the preservation and presentation of
     high-resolution inquiry.
-  creator: "Salvador Guzman"
+  creator:
+    - "Salvador Guzman"
+    - "ChatGPT"
   dataset_id: "marginalia-style-2026"
   identifier: "meta-2026-001"
   language: "en-US"
-  library_of_congress_classification: "AC1"
+  library_of_congress_classification:
+    primary: "AC1"
+    area: "General collections"
+    note: "Stylistic and formatting conventions for the Marginalia research series."
   license: "CC0-1.0"
   publisher: "Marginalia"
   report:

@@ -64,7 +64,9 @@ meta:
     rigorous metadata, Marginalia seeks to provide a platform for
     high-resolution inquiry into the mechanics of behavior, governance, and
     formal logic.
-  creator: "Salvador Guzman"
+  creator:
+    - "Salvador Guzman"
+    - "ChatGPT"
   dataset_id: "marginalia-initialization-2026"
   identifier: "meta-2026-000"
   language: "en-US"
