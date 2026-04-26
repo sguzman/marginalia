@@ -1,36 +1,84 @@
 ---
 title: Federal Legal Landscape
-subtitle: ''
-date: '2026-01-31'
-draft: false
+linkTitle: Federal Legal Landscape
+description: >-
+  Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
+summary: >-
+  Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-2020_0.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)(https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is still prohibited by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforce…
 slug: federal-legal-landscape
+url: ''
+aliases: []
+date: '2026-01-31'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: 'Under federal law, cannabis (marijuana) remains a **Schedule I** controlled
-    substance. The DEA confirms that marijuana has “no currently accepted medical
-    use” and remains illegal to cultivate[\[1\]](https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-2020_0.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug).
-    Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)[\[2\]](https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A),
-    no change is in effect, so cultivation is **still prohibited** by the Controlled
-    Substances Act. Consequently, licensed growers face federal enforcement risk:
-    in theory DEA or DOJ could raid or prosecute operations that violate fed…'
+  abstract: 'Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-2020_0.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)(https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is still prohibited by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforce…'
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-01-31'
+  description: Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: Federal Legal Landscape.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: federal-legal-landscape
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Federal Legal Landscape
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# Federal Legal Landscape
 
 Under federal law, cannabis (marijuana) remains a **Schedule I** controlled substance. The DEA confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate[\[1\]](https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-2020_0.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)[\[2\]](https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is **still prohibited** by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforcement today targets large unlicensed grows and traffickers[\[3\]](https://www.dea.gov/press-releases/2025/05/15/dea-releases-2025-national-drug-threat-assessment#:~:text=,30)).
 

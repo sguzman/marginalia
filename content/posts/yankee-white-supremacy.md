@@ -1,39 +1,84 @@
 ---
-title: yankee-white-supremacy
-subtitle: ''
-date: '2026-02-27'
-draft: false
+title: Executive Summary
+linkTitle: Executive Summary
+description: >-
+  We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
+summary: >-
+  We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control, denying agency to subordinated groups, and exempting themselves from critiques of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation of others’ racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century supports many elements of this pattern. For example, Reconstruction-era bureaucrats (wi…
 slug: yankee-white-supremacy
+url: ''
+aliases: []
+date: '2026-02-27'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: 'We define **Managerial Yankee White Supremacy** as a paternalistic ideology
-    in which (Northern) white elites disclaim overt racism but claim a unique moral
-    and administrative role in “uplifting” other races. In practice they frame racial
-    hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control,
-    denying agency to subordinated groups, and exempting themselves from critiques
-    of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial
-    language, (H2) condemnation of *others’* racism while self-exempt, (H3) portrayal
-    of nonwhites as incapable without guidance, and (H4) centering the white actor’s
-    virtue. Historical evidence from Reconstruction through the 21st century supports
-    many elements of this pattern. For example, Reconstruction-era bureaucra…'
+  abstract: 'We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control, denying agency to subordinated groups, and exempting themselves from critiques of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation of others’ racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century supports many elements of this pattern. For example, Reconstruction-era bureaucrats (wi…'
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-02-27'
+  description: We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: yankee-white-supremacy.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: yankee-white-supremacy
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Executive Summary
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# yankee-white-supremacy
 
 We define **Managerial Yankee White Supremacy** as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control, denying agency to subordinated groups, and exempting themselves from critiques of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation of *others’* racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century supports many elements of this pattern. For example, Reconstruction-era bureaucrats (with northern philanthropists) established schools for freedmen under the premise of *uplift*[\[1\]](https://nmaahc.si.edu/explore/stories/freedmens-bureau-new-beginnings-recently-freed#:~:text=The%20bureau%20lacked%20military%20and,once%20were%20denied%20that%20right). In 1898 President McKinley proclaimed a *“mission…of benevolent assimilation”* in the Philippines, promising Filipinos the “blessings of good and stable government” under U.S. rule[\[2\]](https://peacehistory-usfp.org/1898-1899/#:~:text=that%20%E2%80%9Cthe%20mission%20of%20the,5). After WWII, Truman’s 1949 **Point Four** program vowed to share American “technical knowledge” with “underdeveloped areas” to relieve suffering[\[3\]](https://www.trumanlibrary.gov/library/public-papers/19/inaugural-address#:~:text=Fourth%2C%20we%20must%20embark%20on,and%20growth%20of%20underdeveloped%20areas)[\[4\]](https://www.trumanlibrary.gov/library/public-papers/19/inaugural-address#:~:text=For%20the%20first%20time%20in,relieve%20suffering%20of%20these%20people). In each case the language stresses aid and progress, not racial domination, while effectively casting others as needing U.S. management. Contemporary critics (e.g. Teju Cole) note that such “white savior” interventions often *validate privilege* rather than deliver justice[\[5\]](https://www.theatlantic.com/international/archive/2012/03/the-white-savior-industrial-complex/254843/#:~:text=%3E%205,tejucole%29%20March%208%2C%202012).
 

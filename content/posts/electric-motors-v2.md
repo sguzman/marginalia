@@ -1,34 +1,84 @@
 ---
-title: electric-motors-v2
-subtitle: ''
-date: '2026-04-04'
-draft: false
+title: Executive Summary
+linkTitle: Executive Summary
+description: >-
+  Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
+summary: >-
+  Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20rotating%20device%20driven,Barlow%27s%20Wheel)(https://en.wikipedia.org/wiki/Timeline_of_the_electric_motor#:~:text=1871%E2%80%931873%2C%C2%A0Z%C3%A9nobe%20Th%C3%A9ophile%20Gramme%20%20,laminated%20magnetic%20cores%20of%20insulated). Motors operate on basic electromagnetic laws (Lorentz force and Faraday’s law), yielding torque $τ=K_t I$ and back‐EMF $E=K_e omega$(https://www.bodine-electric.com/blog/wp-content/uploads/2021/11/bodine-gearmotors-introduction-to-motor-constants-for-fractional-horsepower-07470050.pdf?srsltid=AfmBOoo1pUx34XnGbZMz9gUi4YrdssXAbm…
 slug: electric-motors-v2
+url: ''
+aliases: []
+date: '2026-04-04'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: Electric motors have evolved from 19th-century experiments to today’s
-    high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky
-    laid the foundation[\[1\]](https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20rotating%20device%20driven,Barlow%27s%20Wheel)[\[2\]](https://en.wikipedia.org/wiki/Timeline_of_the_electric_motor#:~:text=1871%E2%80%931873%2C%C2%A0Z%C3%A9nobe%20Th%C3%A9ophile%20Gramme%20%20,laminated%20magnetic%20cores%20of%20insulated).
-    Motors operate on basic electromagnetic laws (Lorentz force and Faraday’s law),
-    yielding torque \$τ=K_t I\$ and back‐EMF \$E=K_e \omega\$[\[3\]](https://www.bodine-electric.com/blog/wp-content/uploads/2021/11/bodine-gearmotors-introduction-to-motor-constants-for-fractional-horsepower-07470050.pdf?srsltid=AfmBOoo1…
+  abstract: Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20rotating%20device%20driven,Barlow%27s%20Wheel)(https://en.wikipedia.org/wiki/Timeline_of_the_electric_motor#:~:text=1871%E2%80%931873%2C%C2%A0Z%C3%A9nobe%20Th%C3%A9ophile%20Gramme%20%20,laminated%20magnetic%20cores%20of%20insulated). Motors operate on basic electromagnetic laws (Lorentz force and Faraday’s law), yielding torque $τ=K_t I$ and back‐EMF $E=K_e omega$(https://www.bodine-electric.com/blog/wp-content/uploads/2021/11/bodine-gearmotors-introduction-to-motor-constants-for-fractional-horsepower-07470050.pdf?srsltid=AfmBOoo1pUx34XnGbZMz9gUi4YrdssXAbm…
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-04-04'
+  description: Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: electric-motors-v2.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: electric-motors-v2
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Executive Summary
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# electric-motors-v2
 
 Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation[\[1\]](https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20rotating%20device%20driven,Barlow%27s%20Wheel)[\[2\]](https://en.wikipedia.org/wiki/Timeline_of_the_electric_motor#:~:text=1871%E2%80%931873%2C%C2%A0Z%C3%A9nobe%20Th%C3%A9ophile%20Gramme%20%20,laminated%20magnetic%20cores%20of%20insulated). Motors operate on basic electromagnetic laws (Lorentz force and Faraday’s law), yielding torque \$τ=K_t I\$ and back‐EMF \$E=K_e \omega\$[\[3\]](https://www.bodine-electric.com/blog/wp-content/uploads/2021/11/bodine-gearmotors-introduction-to-motor-constants-for-fractional-horsepower-07470050.pdf?srsltid=AfmBOoo1pUx34XnGbZMz9gUi4YrdssXAbm945dv6iOl-CerC2QrU0gLX#:~:text=T%20%3D%20Kt%20I%20where,relates%20current%20to%20developed%20torque)[\[4\]](https://www.bodine-electric.com/blog/wp-content/uploads/2021/11/bodine-gearmotors-introduction-to-motor-constants-for-fractional-horsepower-07470050.pdf?srsltid=AfmBOoo1pUx34XnGbZMz9gUi4YrdssXAbm945dv6iOl-CerC2QrU0gLX#:~:text=V%20%3D%20Rw%20I%20%2B,It%20is%20a%20proportionality%20constant). Today’s motors span brushed DC, BLDC/PMSM, induction, synchronous, stepper, switched/synchronous-reluctance, and axial-flux designs. Each has trade-offs in torque/power density, efficiency, cost, and control. For example, PM motors (BLDC/PMSM) achieve very high torque and efficiency (~95–98%), but require expensive magnets[\[5\]](https://www.horizontechnology.biz/blog/induction-vs-permanent-magnet-motor-efficiency-auto-electrification#:~:text=Motor%20Efficiency%20Auto%20Electrification%20,torque%20chart)[\[6\]](https://osenc.com/motor-and-permanent-magnet/#:~:text=Permanent%20magnet%20motors%20offer%20much,as%20electric%20vehicles%20and%20robotics); induction motors are cheaper and robust but slightly lower-efficiency (~90–93%)[\[5\]](https://www.horizontechnology.biz/blog/induction-vs-permanent-magnet-motor-efficiency-auto-electrification#:~:text=Motor%20Efficiency%20Auto%20Electrification%20,torque%20chart)[\[7\]](https://osenc.com/motor-and-permanent-magnet/#:~:text=Permanent%20magnet%20motors%20deliver%20higher,efficiency%20and%20energy%20efficiency%20goals). Design involves material choices (copper vs. aluminum windings, silicon steel laminations[\[8\]](https://www.nema.org/docs/default-source/motor-and-generator-guides-and-resources-library/2-1-ac-motor-components-detailed-v2.pdf?sfvrsn=947aee6f_2#:~:text=What%20is%20Electrical%20Steel%3F%20%E2%80%A2,silicon%20%E2%80%A2%20Very%20efficient%20at), NdFeB/SmCo/ferrite magnets), cooling, bearings, and precise tolerances. Manufacturing techniques include lamination stamping, winding (hairpin or distributed), rotor assembly (gluing or mechanical retention of magnets), and balancing. Modern drives use PWM inverters, vector (FOC) control, and sensors (encoders/Hall) or sensorless methods[\[9\]](https://www.alliedmotion.com/choosing-between-brush-and-brushless-dc-motors/#:~:text=Figure%205%3A%20In%20a%20BLDC,sensors%20to%20determine%20rotor%20position)[\[3\]](https://www.bodine-electric.com/blog/wp-content/uploads/2021/11/bodine-gearmotors-introduction-to-motor-constants-for-fractional-horsepower-07470050.pdf?srsltid=AfmBOoo1pUx34XnGbZMz9gUi4YrdssXAbm945dv6iOl-CerC2QrU0gLX#:~:text=T%20%3D%20Kt%20I%20where,relates%20current%20to%20developed%20torque). Testing covers torque-speed curves, efficiency maps, and thermal/vibration analysis under standards (IEC/NEMA). Optimization often employs finite-element (Maxwell) simulation for electromagnetic and thermal design. Future trends feature axial-flux machines (even higher torque density[\[10\]](https://www.stanfordmagnets.com/radial-vs-axial-flux-motor-which-is-suitable-for-the-future-of-electric-machines.html#:~:text=Torque%20and%20Power%20Density)), wide-bandgap (SiC/GaN) drives, magnet-free designs (syn-reluctance), and demands from EV/robotics. In practice, one follows a step-by-step design checklist (specs → topology → electromagnetic and thermal design → control system → prototyping/testing). Two example projects are included: a high-speed BLDC drone motor and a medium-power axial-flux hub motor, with BOM, rough sizing, and expected performance.
 

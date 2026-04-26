@@ -1,38 +1,84 @@
 ---
 title: Desalination Plant Design and Construction
-subtitle: ''
-date: '2026-04-04'
-draft: false
+linkTitle: Desalination Plant Design and Construction
+description: >-
+  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…
+summary: >-
+  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity(https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging tre…
 slug: desalination-plant-design-and-construction
+url: ''
+aliases: []
+date: '2026-04-04'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: '**Executive Summary:** Desalination is rapidly growing to meet freshwater
-    shortages, especially in arid regions. Modern desalination is dominated by membrane
-    processes (chiefly reverse osmosis, RO) which now account for \>80% of global
-    capacity[\[1\]](https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010),
-    though thermal methods (MSF/MED) remain important in integrated power–water plants.
-    This report presents a comprehensive guide for a desalination plant builder, covering
-    historical development, physical principles, technologies, design components,
-    example calculations, environmental and regulatory considerations, procurement
-    and costing, operations, and…'
+  abstract: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity(https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging tre…'
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-04-04'
+  description: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: Desalination Plant Design and Construction.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: desalination-plant-design-and-construction
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Desalination Plant Design and Construction
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# Desalination Plant Design and Construction
 
 **Executive Summary:** Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for \>80% of global capacity[\[1\]](https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging trends. Desalination uses either heat or pressure to overcome the osmotic pressure of saline feedwater. For example, SWRO typically requires 40–80 bar feed pressure (∼6,000–8,000 kPa) to overcome ~26 bar osmotic pressure, using modern membranes and energy recovery to achieve ~2.5–6 kWh/m³ energy use[\[2\]](https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=Thermal%20plants%20are%20highly%20energy,full%20car%20tank%20of%20gas)[\[3\]](https://www.desware.net/energy-requirements-desalination-processes.aspx#:~:text=100%20,to%207%20with%20Boron%20treatment). Thermal processes (MSF/MED) require large heat input (e.g. ~11–28 kWh/m³ equivalent[\[3\]](https://www.desware.net/energy-requirements-desalination-processes.aspx#:~:text=100%20,to%207%20with%20Boron%20treatment), roughly an order of magnitude more than RO) and are used where waste heat or low-cost steam is available.
 

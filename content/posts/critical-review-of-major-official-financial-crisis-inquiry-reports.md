@@ -1,30 +1,84 @@
 ---
 title: Critical Review of Major Official Financial-Crisis Inquiry Reports
-subtitle: ''
-date: '2026-03-21'
-draft: false
+linkTitle: Critical Review of Major Official Financial-Crisis Inquir…
+description: >-
+  Critical Review of Major Official Financial-Crisis Inquiry Reports
+summary: >-
+  Critical Review of Major Official Financial-Crisis Inquiry Reports
 slug: critical-review-of-major-official-financial-crisis-inquiry-reports
+url: ''
+aliases: []
+date: '2026-03-21'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
   abstract: Critical Review of Major Official Financial-Crisis Inquiry Reports
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-03-21'
+  description: Critical Review of Major Official Financial-Crisis Inquiry Reports
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: Critical Review of Major Official Financial-Crisis Inquiry Reports.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: critical-review-of-major-official-financial-crisis-inquiry-reports
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Critical Review of Major Official Financial-Crisis Inquiry Reports
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# Critical Review of Major Official Financial-Crisis Inquiry Reports
 
 ## Executive summary
 

@@ -1,39 +1,84 @@
 ---
-title: grrm-deconstructed
-subtitle: ''
-date: '2026-03-04'
-draft: false
+title: Executive Summary
+linkTitle: Executive Summary
+description: >-
+  George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
+summary: >-
+  George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecology into the very fabric of his world. In Martin’s work the focus is on power struggles and personal histories; nature mostly serves as a setting or symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast, Tolkien (drawing on his own affection for pastoral England and medieval lore) imbues landscapes with character – from the fertile Shire farms to the living forests of Fangorn and the dying wilds of Mordor – integrating culture, language, and values into ecology.
 slug: grrm-deconstructed
+url: ''
+aliases: []
+date: '2026-03-04'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel
-    vivid, but their “natural worlds” are realized very differently. Martin builds
-    **dynamic human conflict** on a mostly **static backdrop**, whereas Tolkien weaves
-    **mythic ecology** into the very fabric of his world. In Martin’s work the focus
-    is on **power struggles and personal histories**; nature mostly serves as a setting
-    or symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast,
-    Tolkien (drawing on his own affection for pastoral England and medieval lore)
-    imbues landscapes with character – from the fertile Shire farms to the living
-    forests of Fangorn and the dying wilds of Mordor – integrating culture, language,
-    and values into ecology.
+  abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecology into the very fabric of his world. In Martin’s work the focus is on power struggles and personal histories; nature mostly serves as a setting or symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast, Tolkien (drawing on his own affection for pastoral England and medieval lore) imbues landscapes with character – from the fertile Shire farms to the living forests of Fangorn and the dying wilds of Mordor – integrating culture, language, and values into ecology.
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-03-04'
+  description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: grrm-deconstructed.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: grrm-deconstructed
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Executive Summary
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# grrm-deconstructed
 
 George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds **dynamic human conflict** on a mostly **static backdrop**, whereas Tolkien weaves **mythic ecology** into the very fabric of his world. In Martin’s work the focus is on **power struggles and personal histories**; nature mostly serves as a setting or symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast, Tolkien (drawing on his own affection for pastoral England and medieval lore) imbues landscapes with character – from the fertile Shire farms to the living forests of Fangorn and the dying wilds of Mordor – integrating culture, language, and values into ecology.
 

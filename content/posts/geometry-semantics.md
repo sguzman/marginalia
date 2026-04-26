@@ -1,42 +1,26 @@
 ---
-title: The Semantics of "Geometry" from Euler to Today
-linkTitle: The Semantics of "Geometry" from Euler to Today
-description: A historical-semantic survey of what "geometry" has meant in mathematics from Euler’s 18th-century
-  contrast with analysis through modern differential, topological, algebraic, and computational geometries,
-  focusing on Europe and the United States.
-summary: This report traces the evolving meanings of "geometry" in European and American mathematics from
-  the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry"
-  has expanded from denoting the classical study of shapes and Euclidean space to a sprawling family of
-  subfields and methodologies. We examine what mathematicians of each era understood "geometry" to mean,
-  how new theories and external pressures reshaped those meanings, and how "geometry" functioned both
-  as a subject area and a style of reasoning. Key transitions include the rise of analytic and coordinate
-  methods, the introduction of projective and non-Euclidean geometries, the 19th-century unification of
-  geometry via transformation groups (Klein's Erlangen Program), the axiomatization of geometry by Hilbert,
-  the 20th-century branching into differential, topological, algebraic, and computational geometries,
-  and the influence of physics and computing. We also explore enduring tensions---synthetic vs. analytic
-  methods, intuition vs. rigor, local vs. global perspectives, continuous vs. discrete structures, algebraic
-  vs. geometric mindsets---and how the term "geometry" at times unified mathematicians and at other times
-  fragmented into specialized "geometries." Through historical narrative, case studies, and quotations
-  from major figures, we show how "geometry" evolved from the study of tangible figures in Euclidean space
-  to a unifying language of mathematical structure, and why it remains a plurality of approaches today.
+title: The Semantics of "Geometry" from Euler to Today (Europe & the United States)
+linkTitle: The Semantics of "Geometry" from Euler to Today (Europe &…
+description: >-
+  Abstract: This report traces the evolving meanings of "geometry" in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the…
+summary: >-
+  Abstract: This report traces the evolving meanings of "geometry" in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the classical study of shapes and Euclidean space to a sprawling family of subfields and methodologies. We examine what mathematicians of each era understood "geometry" to mean, how new theories and external pressures reshaped those meanings, and how "geometry" functioned both as a subject area and a style of reasoning. Key transitions include the rise of analytic and coordinate methods, the introduction of projective and non-Euclidean geometries, the 19th-century unification of geometry via transformation groups (Klein's Erlangen Program), the axiomatizatio…
 slug: geometry-semantics
 url: ''
 aliases: []
 date: '2026-02-12'
-lastmod: '2026-02-12'
-expiryDate: ''
+lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
-- ChatGPT
 layout: single
 weight: 0
-categories:
+categories: &id001
 - Mathematics
 - History of Mathematics
 - Philosophy of Mathematics
 - Semantics
-tags:
+tags: &id003
 - geometry
 - euler
 - klein
@@ -45,7 +29,7 @@ tags:
 - differential-geometry
 - algebraic-geometry
 - computational-geometry
-keywords:
+keywords: &id002
 - geometry
 - synthetic geometry
 - analytic geometry
@@ -67,27 +51,18 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: This report traces the evolving meanings of "geometry" in European and American mathematics
-    from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry"
-    has expanded from denoting the classical study of shapes and Euclidean space to a sprawling family
-    of subfields and methodologies. We examine what mathematicians of each era understood "geometry" to
-    mean, how new theories and external pressures reshaped those meanings, and how "geometry" functioned
-    both as a subject area and a style of reasoning. Key transitions include the rise of analytic and
-    coordinate methods, the introduction of projective and non-Euclidean geometries, the 19th-century
-    unification of geometry via transformation groups (Klein's Erlangen Program), the axiomatization of
-    geometry by Hilbert, the 20th-century branching into differential, topological, algebraic, and computational
-    geometries, and the influence of physics and computing. We also explore enduring tensions---synthetic
-    vs. analytic methods, intuition vs. rigor, local vs. global perspectives, continuous vs. discrete
-    structures, algebraic vs. geometric mindsets---and how the term "geometry" at times unified mathematicians
-    and at other times fragmented into specialized "geometries." Through historical narrative, case studies,
-    and quotations from major figures, we show how "geometry" evolved from the study of tangible figures
-    in Euclidean space to a unifying language of mathematical structure, and why it remains a plurality
-    of approaches today.
+  abstract: 'Abstract: This report traces the evolving meanings of "geometry" in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the classical study of shapes and Euclidean space to a sprawling family of subfields and methodologies. We examine what mathematicians of each era understood "geometry" to mean, how new theories and external pressures reshaped those meanings, and how "geometry" functioned both as a subject area and a style of reasoning. Key transitions include the rise of analytic and coordinate methods, the introduction of projective and non-Euclidean geometries, the 19th-century unification of geometry via transformation groups (Klein''s Erlangen Program), the axiomatizatio…'
+  author:
+  - Salvador Guzman
+  categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
   - Salvador Guzman
   dataset_id: gva-geometry-semantics-2026-02-12
+  date: '2026-02-12'
+  description: 'Abstract: This report traces the evolving meanings of "geometry" in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the…'
+  draft: false
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -95,6 +70,8 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva:geometry-semantics:euler-to-today
+  keywords: *id002
+  lang: en
   language: English
   library_of_congress_classification:
     primary: QA
@@ -102,7 +79,7 @@ meta:
   license: CC0-1.0
   number-sections: true
   plate_id: gva-geometry-semantics
-  publisher: Marginalia
+  publisher: Gold, Velvet and Ashes
   reference-section-title: References
   report:
     region_focus:
@@ -117,6 +94,10 @@ meta:
   report_year: 2026
   revision: r1
   rights: CC0-1.0
+  series: Gold, Velvet and Ashes
+  series-number: 1
+  series-title: Gold, Velvet and Ashes Reports
+  slug: geometry-semantics
   status: final
   subject:
   - Mathematics
@@ -127,14 +108,12 @@ meta:
   - Mathematics -- philosophy
   - Mathematical terminology
   subtitle: Europe & the United States
+  tags: *id003
+  title: The Semantics of "Geometry" from Euler to Today (Europe & the United States)
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: report
-  report_series: Marginalia
-  report_series_title: Marginalia Reports
-  report_series_number: 1
-series: []
 ---
 
 **Abstract:** This report traces the evolving meanings of *"geometry"* in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the classical study of shapes and Euclidean space to a sprawling family of subfields and methodologies. We examine what mathematicians of each era understood "geometry" to mean, how new theories and external pressures reshaped those meanings, and how "geometry" functioned both as a subject area and a style of reasoning. Key transitions include the rise of analytic and coordinate methods, the introduction of projective and non-Euclidean geometries, the 19th-century unification of geometry via transformation groups (Klein's Erlangen Program), the axiomatization of geometry by Hilbert, the 20th-century branching into differential, topological, algebraic, and computational geometries, and the influence of physics and computing. We also explore enduring tensions---synthetic vs. analytic methods, intuition vs. rigor, local vs. global perspectives, continuous vs. discrete structures, algebraic vs. geometric mindsets---and how the term "geometry" at times unified mathematicians and at other times fragmented into specialized "geometries." Through historical narrative, case studies, and quotations from major figures, we show how "geometry" evolved from the study of tangible figures in Euclidean space to a unifying language of mathematical structure, and why it remains a plurality of approaches today.

@@ -1,34 +1,27 @@
 ---
 title: The History and Impact of Homological Algebra
 linkTitle: The History and Impact of Homological Algebra
-description: A narrative history of homological algebra and why its tools (complexes, exact sequences,
-  derived functors, spectral sequences, and derived categories) became foundational across topology, algebra,
-  geometry, and number theory.
-summary: Homological algebra grew out of 19th-century topology and became a central 20th-century language
-  for modern mathematics. This essay traces the field from early homology invariants (Riemann, Betti,
-  Poincaré) through Noether’s structural viewpoint, the Eilenberg–Mac Lane categorical turn, the Cartan–Eilenberg
-  synthesis of derived functors, and the Grothendieck/Verdier revolution of abelian and derived categories.
-  It closes with late-20th and 21st century developments including dg- and infinity-categories, derived
-  algebraic geometry, and ongoing computational practice.
+description: >-
+  The History and Impact of Homological Algebra
+summary: >-
+  The History and Impact of Homological Algebra
 slug: homological-algebra
 url: ''
 aliases: []
 date: '2026-02-12'
-lastmod: '2026-02-12'
-expiryDate: ''
+lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
-- ChatGPT
 layout: single
 weight: 0
-categories:
+categories: &id001
 - mathematics
 - history-of-mathematics
 - algebra
 - topology
 - algebraic-geometry
-tags:
+tags: &id003
 - math
 - history
 - homology
@@ -37,7 +30,7 @@ tags:
 - categories
 - spectral-sequences
 - grothendieck
-keywords:
+keywords: &id002
 - homological algebra
 - chain complexes
 - homology
@@ -64,17 +57,18 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: Homological algebra grew out of 19th-century topology and became a central 20th-century language
-    for modern mathematics. This essay traces the field from early homology invariants (Riemann, Betti,
-    Poincaré) through Noether’s structural viewpoint, the Eilenberg–Mac Lane categorical turn, the Cartan–Eilenberg
-    synthesis of derived functors, and the Grothendieck/Verdier revolution of abelian and derived categories.
-    It closes with late-20th and 21st century developments including dg- and infinity-categories, derived
-    algebraic geometry, and ongoing computational practice.
+  abstract: The History and Impact of Homological Algebra
+  author:
+  - Salvador Guzman
+  categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
   - Salvador Guzman
   dataset_id: gva.article.homological-algebra
+  date: '2026-02-12'
+  description: The History and Impact of Homological Algebra
+  draft: false
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -82,6 +76,8 @@ meta:
   epub_cover_image: cover.png
   format: article
   identifier: gva:article:homological-algebra:2026-02-12
+  keywords: *id002
+  lang: en-US
   language: English
   library_of_congress_classification:
     primary: QA612.3
@@ -90,7 +86,7 @@ meta:
   license: CC0-1.0
   number-sections: true
   plate_id: gva-plate-homological-algebra-0001
-  publisher: Marginalia
+  publisher: Gold, Velvet and Ashes
   reference-section-title: References
   report:
     kind: historical-technical-report
@@ -111,6 +107,10 @@ meta:
   report_year: 2026
   revision: 1.0.0
   rights: CC0-1.0
+  series: gva-math-histories
+  series-number: 1
+  series-title: 'Gold, Velvet and Ashes: Mathematical Histories'
+  slug: homological-algebra
   status: published
   subject:
   - Homological algebra
@@ -129,14 +129,12 @@ meta:
   - spectral-sequences
   - derived-categories
   subtitle: From Betti Numbers to Infinity-Categories
+  tags: *id003
+  title: The History and Impact of Homological Algebra
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: report
-  report_series: gva-math-histories
-  report_series_title: 'Marginalia: Mathematical Histories'
-  report_series_number: 1
-series: []
 ---
 
 ## Executive Summary

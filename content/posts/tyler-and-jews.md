@@ -1,35 +1,84 @@
 ---
-title: tyler-and-jews
-subtitle: ''
-date: '2026-03-03'
-draft: false
+title: Executive Summary
+linkTitle: Executive Summary
+description: >-
+  Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+summary: >-
+  Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views), triggering hundreds of complaints and being widely condemned(https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)(https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public). Independent fact-checks find some isolated welfare‑fraud cases in Lakewood (e.g. seven couples indicted for ~$2M fraud(https://abc7ny.com/post/mugshots-more-nj-couples-char…
 slug: tyler-and-jews
+url: ''
+aliases: []
+date: '2026-03-03'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues
-    (rapid Orthodox population growth and school budgeting) with overt antisemitic
-    framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+
-    views), triggering hundreds of complaints and being widely condemned[\[1\]](https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)[\[2\]](https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public).
-    Independent fact-checks find *some* isolated welfare‑fraud cases in Lakewood (e.g.
-    seven couples indicted for ~\$2M fraud[\[3\]](https://abc7ny.com/post/mugsh…
+  abstract: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views), triggering hundreds of complaints and being widely condemned(https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)(https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public). Independent fact-checks find some isolated welfare‑fraud cases in Lakewood (e.g. seven couples indicted for ~$2M fraud(https://abc7ny.com/post/mugshots-more-nj-couples-char…
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-03-03'
+  description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: tyler-and-jews.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: tyler-and-jews
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Executive Summary
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# tyler-and-jews
 
 Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views), triggering hundreds of complaints and being widely condemned[\[1\]](https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)[\[2\]](https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public). Independent fact-checks find *some* isolated welfare‑fraud cases in Lakewood (e.g. seven couples indicted for ~\$2M fraud[\[3\]](https://abc7ny.com/post/mugshots-more-nj-couples-charged-with-welfare-fraud/2159354/#:~:text=LAKEWOOD%2C%20New%20Jersey%20,which%20they%20were%20not%20entitled)), but **no evidence of systemic corruption or secret “invasion.”** Serious issues like state intervention in Lakewood schools stem from predictable fiscal pressures (only 6,000 of 50,000 children in public schools[\[4\]](https://www.jns.org/new-jersey-cites-fiscal-concerns-in-move-to-take-over-lakewood-school-district/#:~:text=Lakewood%E2%80%99s%20population%20is%20largely%20made,growing%20municipalities)), not hidden schemes. The video relies on loaded rhetoric (“invasion,” “welfare‑addicted Jews”) and selective editing[\[2\]](https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public)[\[5\]](https://forward.com/news/antisemitism-decoded/808060/tyler-oliveira-kiryas-joel-lakewood/#:~:text=Oliveira%20repeatedly%20seeks%20to%20connect,kosher%20grocery%20and%20similar%20tales).
 

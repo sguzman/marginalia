@@ -1,36 +1,84 @@
 ---
 title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-subtitle: ''
-date: '2026-04-11'
-draft: false
+linkTitle: Prestige Economy of Knowledge in Early Modern Europe (c.1…
+description: >-
+  Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ cla…
+summary: >-
+  Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ claims, property, and administration. Mastery of law – through universities, courts, and legal offices – was a direct route to high office and even hereditary nobility (e.g. France’s noblesse de robe(https://www.britannica.com/topic/noblesse-de-robe#:~:text=noblesse%20de%20robe%2C%20,were%20the%20officers%20of%20such)(https://www.britannica.com/topic/noblesse-de-robe#:~:text=Because%20of%20their%20bourgeois%20background%2C,lead%20in%20opposition%20to%20reform)). From the 17th century onward, however, mathematics began rising in prestige as emergent state pr…
 slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+url: ''
+aliases: []
+date: '2026-04-11'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: '**Executive Summary:** In medieval and early modern Europe, a discipline’s
-    prestige depended largely on its *convertibility* into real power and status.
-    Law attained immense prestige from c.1100–1700 because it underpinned kings’ and
-    nobles’ claims, property, and administration. Mastery of law – through universities,
-    courts, and legal offices – was a direct route to high office and even hereditary
-    nobility (e.g. France’s *noblesse de robe*[\[1\]](https://www.britannica.com/topic/noblesse-de-robe#:~:text=noblesse%20de%20robe%2C%20,were%20the%20officers%20of%20such)[\[2\]](https://www.britannica.com/topic/noblesse-de-robe#:~:text=Because%20of%20their%20bourgeois%20background%2C,lead%20in%20opposition%20to%20reform)).
-    From the 17th century onward, however, mathematics began rising in prestig…'
+  abstract: 'Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ claims, property, and administration. Mastery of law – through universities, courts, and legal offices – was a direct route to high office and even hereditary nobility (e.g. France’s noblesse de robe(https://www.britannica.com/topic/noblesse-de-robe#:~:text=noblesse%20de%20robe%2C%20,were%20the%20officers%20of%20such)(https://www.britannica.com/topic/noblesse-de-robe#:~:text=Because%20of%20their%20bourgeois%20background%2C,lead%20in%20opposition%20to%20reform)). From the 17th century onward, however, mathematics began rising in prestige as emergent state pr…'
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-04-11'
+  description: 'Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ cla…'
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850).docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
 
 **Executive Summary:** In medieval and early modern Europe, a discipline’s prestige depended largely on its *convertibility* into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ claims, property, and administration. Mastery of law – through universities, courts, and legal offices – was a direct route to high office and even hereditary nobility (e.g. France’s *noblesse de robe*[\[1\]](https://www.britannica.com/topic/noblesse-de-robe#:~:text=noblesse%20de%20robe%2C%20,were%20the%20officers%20of%20such)[\[2\]](https://www.britannica.com/topic/noblesse-de-robe#:~:text=Because%20of%20their%20bourgeois%20background%2C,lead%20in%20opposition%20to%20reform)). From the 17th century onward, however, mathematics began rising in prestige as emergent state projects, commerce, and scientific academies valued calculation and quantitative skill. Families like the Bernoullis defied traditional careers to cultivate mathematics, contributing to a dynasty of professors and scientists[\[3\]](https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Jacob/#:~:text=During%20the%20time%20that%20Jacob,studying%20mathematics%20and%20mathematical%20physics)[\[4\]](https://www.lindahall.org/about/news/scientist-of-the-day/jacob-bernoulli/#:~:text=Jacob%20Bernoulli%2C%20a%20Swiss%20mathematician%2C,from%201687%20until%20his%20death). Ultimately, **prestige in the “prestige economy” era flowed toward the discipline most useful for power**. In medieval Europe that was law; by the Enlightenment and beyond it was mathematics and the sciences.
 

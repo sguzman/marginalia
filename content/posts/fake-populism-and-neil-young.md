@@ -1,38 +1,84 @@
 ---
-title: fake-populism-and-neil-young
-subtitle: ''
-date: '2026-03-04'
-draft: false
+title: Executive Summary
+linkTitle: Executive Summary
+description: >-
+  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+summary: >-
+  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997(https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys(https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric a…
 slug: fake-populism-and-neil-young
+url: ''
+aliases: []
+date: '2026-03-04'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: 'Neil Young’s career has long been framed around a “common man” authenticity
-    – as a solitary troubadour recording rough-and-ready folk-rock while championing
-    farmers, the working poor and environmental causes. Yet this cultivated persona
-    coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall
-    of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997[\[1\]](https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)),
-    numerous awards (including a MusiCares “Person of the Year” honor and multiple
-    Grammys[\[2\]](https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)),
-    and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis
-    shows that Young’s pub…'
+  abstract: 'Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997(https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys(https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric a…'
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-03-04'
+  description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: fake-populism-and-neil-young.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: fake-populism-and-neil-young
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Executive Summary
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# fake-populism-and-neil-young
 
 Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997[\[1\]](https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys[\[2\]](https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric and aesthetic (raw sound, “eclectic” performances, plainspoken lyrics) project anti-establishment sincerity, but critics note that such authenticity often functions as a performance that simplifies complex issues. Young’s strategy – rapid-release “commentary” albums, anti‑sponsorship stances (“I ain’t singing for Pepsi… this note’s for you”[\[3\]](https://www.wsws.org/en/articles/2020/07/04/neil-j04.html#:~:text=Ain%E2%80%99t%20singing%20for%20Pepsi%20Ain%E2%80%99t,joke%20This%20note%E2%80%99s%20for%20you)), denial of corporate ties[\[4\]](https://www.grammy.com/artists/neil-young/8101#:~:text=won%20Best%20Rock%20Song%20for,Angry%20World) – reinforces his image. Yet scholars argue that this very *devotion* to authenticity can become a myth demanding “extreme simplification” and narrow life-narratives[\[5\]](https://www.popmatters.com/springsteen-the-working-class-and-authenticity-2495457186.html#:~:text=authenticity%20resulted%20from%20his%20ability,teams%2C%20let%20me%20offer%20the). In other words, authenticity itself is mediated and marketed, generating symbolic capital (artistic credibility) even as Young benefits from institutional recognition.
 

@@ -1,37 +1,84 @@
 ---
 title: Marxism Research Clarifications
-subtitle: ''
-date: '2026-01-25'
-draft: false
+linkTitle: Marxism Research Clarifications
+description: >-
+  Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…
+summary: >-
+  Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/How…
 slug: marxism-research-clarifications
+url: ''
+aliases: []
+date: '2026-01-25'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: '**Executive Summary** - **Evolution of Marxism (1840s–2020s):** Marxism
-    originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels,
-    calling for proletarian revolution against capitalism[\[1\]](https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry).
-    Over nearly two centuries it has evolved through various phases – from **classical
-    Marxism** in the 19th century, through **Leninism** and 20th-century communism,
-    to diverse contemporary currents. Marxism changed over time in response to historical
-    conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia
-    (introducing the **vanguard party** and emphasizing peasant revolutions)[\[2\]](https:…'
+  abstract: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/How…'
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-01-25'
+  description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…'
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: Marxism Research Clarifications.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: marxism-research-clarifications
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Marxism Research Clarifications
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# Marxism Research Clarifications
 
 **Executive Summary**  
 - **Evolution of Marxism (1840s–2020s):** Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism[\[1\]](https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from **classical Marxism** in the 19th century, through **Leninism** and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the **vanguard party** and emphasizing peasant revolutions)[\[2\]](https://www.britannica.com/question/How-does-Marxism-differ-from-Leninism#:~:text=Marxism%20predicted%20a%20spontaneous%20revolution,such%20as%20Russia), Mao’s later strategy of protracted **peasant guerrilla warfare**, and recent re-evaluations in light of globalization and the 2008 financial crisis[\[3\]](https://www.theguardian.com/books/2008/oct/15/marx-germany-popularity-financial-crisis#:~:text=The%20rise%20in%20his%20popularity,steeply%20before%20the%20year%27s%20end).

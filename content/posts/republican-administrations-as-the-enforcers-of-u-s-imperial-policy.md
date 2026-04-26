@@ -1,30 +1,84 @@
 ---
 title: Republican Administrations as the Enforcers of U.S. Imperial Policy
-subtitle: ''
-date: '2026-03-22'
-draft: false
+linkTitle: Republican Administrations as the Enforcers of U.S. Imper…
+description: >-
+  Republican Administrations as the Enforcers of U.S. Imperial Policy
+summary: >-
+  Republican Administrations as the Enforcers of U.S. Imperial Policy
 slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
+url: ''
+aliases: []
+date: '2026-03-22'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
   abstract: Republican Administrations as the Enforcers of U.S. Imperial Policy
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-03-22'
+  description: Republican Administrations as the Enforcers of U.S. Imperial Policy
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: Republican Administrations as the Enforcers of U.S. Imperial Policy.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Republican Administrations as the Enforcers of U.S. Imperial Policy
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# Republican Administrations as the Enforcers of U.S. Imperial Policy
 
 ## Executive Summary
 

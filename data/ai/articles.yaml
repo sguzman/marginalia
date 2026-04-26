@@ -1,0 +1,821 @@
+generated: '2026-04-26T17:35:33.153611+00:00'
+articles:
+- slug: 1inventing-socialism
+  title: Executive Summary
+  date: '2026-02-12'
+  description: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s co-op…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/1inventing-socialism/main.md
+  meta_path: tmp/ai-research-reports/data/md/1inventing-socialism/article.yaml
+  assets_files: 0
+  published: true
+- slug: 2christian-socialism
+  title: Christian Socialism in Mid-Victorian Britain
+  date: '2026-02-12'
+  description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity''s core doctr…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/2christian-socialism/main.md
+  meta_path: tmp/ai-research-reports/data/md/2christian-socialism/article.yaml
+  assets_files: 0
+  published: true
+- slug: 3mutualism
+  title: 'Mutualism: Markets Without Capitalism'
+  date: '2026-02-12'
+  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/3mutualism/main.md
+  meta_path: tmp/ai-research-reports/data/md/3mutualism/article.yaml
+  assets_files: 1
+  published: true
+- slug: 4chartist
+  title: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
+  date: '2026-02-12'
+  description: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/4chartist/main.md
+  meta_path: tmp/ai-research-reports/data/md/4chartist/article.yaml
+  assets_files: 0
+  published: true
+- slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+  title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+  date: '2026-01-25'
+  description: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture/main.md
+  meta_path: tmp/ai-research-reports/data/md/a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture/article.yaml
+  assets_files: 0
+  published: true
+- slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
+  title: A Post-Chomskyan Theory of Language in the Age of LLMs
+  date: '2026-03-03'
+  description: A Post-Chomskyan Theory of Language in the Age of LLMs
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/main.md
+  meta_path: tmp/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/article.yaml
+  assets_files: 0
+  published: true
+- slug: algebra-evolution
+  title: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
+  date: '2026-02-12'
+  description: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/algebra-evolution/main.md
+  meta_path: tmp/ai-research-reports/data/md/algebra-evolution/article.yaml
+  assets_files: 0
+  published: true
+- slug: analysis-semantics
+  title: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
+  date: '2026-02-12'
+  description: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
+  source: md
+  md_path: tmp/ai-research-reports/data/md/analysis-semantics/main.md
+  meta_path: tmp/ai-research-reports/data/md/analysis-semantics/article.yaml
+  assets_files: 0
+  published: true
+- slug: brickmaking-history-materials-processes-and-production-planning
+  title: 'Brickmaking: History, Materials, Processes, and Production Planning'
+  date: '2026-04-04'
+  description: 'Brickmaking: History, Materials, Processes, and Production Planning'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/brickmaking-history-materials-processes-and-production-planning/main.md
+  meta_path: tmp/ai-research-reports/data/md/brickmaking-history-materials-processes-and-production-planning/article.yaml
+  assets_files: 2
+  published: true
+- slug: category-theory
+  title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
+  date: '2026-02-12'
+  description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
+  source: md
+  md_path: tmp/ai-research-reports/data/md/category-theory/main.md
+  meta_path: tmp/ai-research-reports/data/md/category-theory/article.yaml
+  assets_files: 0
+  published: true
+- slug: category-theory-research-scope
+  title: Category Theory Research Scope
+  date: '2026-01-25'
+  description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/category-theory-research-scope/main.md
+  meta_path: tmp/ai-research-reports/data/md/category-theory-research-scope/article.yaml
+  assets_files: 0
+  published: true
+- slug: chip-industry
+  title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
+  date: '2026-02-12'
+  description: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
+  source: md
+  md_path: tmp/ai-research-reports/data/md/chip-industry/main.md
+  meta_path: tmp/ai-research-reports/data/md/chip-industry/article.yaml
+  assets_files: 0
+  published: true
+- slug: christian-socialism-report-request
+  title: Christian Socialism Report Request
+  date: '2026-01-25'
+  description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctr…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/christian-socialism-report-request/main.md
+  meta_path: tmp/ai-research-reports/data/md/christian-socialism-report-request/article.yaml
+  assets_files: 0
+  published: true
+- slug: civilizing-injustice-colonial-conquest-and-moral-pretexts
+  title: Civilizing Injustice? Colonial Conquest and Moral Pretexts
+  date: '2026-03-04'
+  description: 'Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/main.md
+  meta_path: tmp/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/article.yaml
+  assets_files: 2
+  published: true
+- slug: co-opting-the-left
+  title: '**Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)**'
+  date: '2026-02-12'
+  description: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/co-opting-the-left/main.md
+  meta_path: tmp/ai-research-reports/data/md/co-opting-the-left/article.yaml
+  assets_files: 0
+  published: true
+- slug: complex-plane-canvas
+  title: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'
+  date: '2026-02-12'
+  description: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/complex-plane-canvas/main.md
+  meta_path: tmp/ai-research-reports/data/md/complex-plane-canvas/article.yaml
+  assets_files: 0
+  published: true
+- slug: complex-plane-culture
+  title: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'
+  date: '2026-02-12'
+  description: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/complex-plane-culture/main.md
+  meta_path: tmp/ai-research-reports/data/md/complex-plane-culture/article.yaml
+  assets_files: 2
+  published: true
+- slug: conserving-radicalism
+  title: Conservation of Radicalism and Asymmetric Co-optability
+  date: '2026-02-12'
+  description: Conservation of Radicalism and Asymmetric Co-optability
+  source: md
+  md_path: tmp/ai-research-reports/data/md/conserving-radicalism/main.md
+  meta_path: tmp/ai-research-reports/data/md/conserving-radicalism/article.yaml
+  assets_files: 0
+  published: true
+- slug: corporate-capital-and-progressive-cultural-politics
+  title: Corporate Capital and Progressive Cultural Politics
+  date: '2026-02-15'
+  description: Corporate Capital and Progressive Cultural Politics
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/corporate-capital-and-progressive-cultural-politics/main.md
+  meta_path: tmp/ai-research-reports/data/md/corporate-capital-and-progressive-cultural-politics/article.yaml
+  assets_files: 0
+  published: true
+- slug: critical-review-of-major-official-financial-crisis-inquiry-reports
+  title: Critical Review of Major Official Financial-Crisis Inquiry Reports
+  date: '2026-03-21'
+  description: Critical Review of Major Official Financial-Crisis Inquiry Reports
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/critical-review-of-major-official-financial-crisis-inquiry-reports/main.md
+  meta_path: tmp/ai-research-reports/data/md/critical-review-of-major-official-financial-crisis-inquiry-reports/article.yaml
+  assets_files: 0
+  published: true
+- slug: css-history
+  title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
+  date: '2026-02-12'
+  description: A Comprehensive History of CSS --- Institutions, Specs, and Practice
+  source: md
+  md_path: tmp/ai-research-reports/data/md/css-history/main.md
+  meta_path: tmp/ai-research-reports/data/md/css-history/article.yaml
+  assets_files: 0
+  published: true
+- slug: culture-gothic
+  title: Aesthetics for the Maimed
+  date: '2026-04-20'
+  description: Aesthetics for the Maimed
+  source: md
+  md_path: tmp/ai-research-reports/data/md/culture-gothic/main.md
+  meta_path: tmp/ai-research-reports/data/md/culture-gothic/article.yaml
+  assets_files: 0
+  published: true
+- slug: darrieus-vawt-design-construction-1-10-kw
+  title: Darrieus VAWT Design & Construction (1–10 kW)
+  date: '2026-04-04'
+  description: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/darrieus-vawt-design-construction-1-10-kw/main.md
+  meta_path: tmp/ai-research-reports/data/md/darrieus-vawt-design-construction-1-10-kw/article.yaml
+  assets_files: 1
+  published: true
+- slug: desalination-plant-design-and-construction
+  title: Desalination Plant Design and Construction
+  date: '2026-04-04'
+  description: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/desalination-plant-design-and-construction/main.md
+  meta_path: tmp/ai-research-reports/data/md/desalination-plant-design-and-construction/article.yaml
+  assets_files: 0
+  published: true
+- slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+  title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
+  date: '2026-03-04'
+  description: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/main.md
+  meta_path: tmp/ai-research-reports/data/md/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/article.yaml
+  assets_files: 3
+  published: true
+- slug: electric-motor-design-principles-types-and-practices
+  title: 'Electric Motor Design: Principles, Types, and Practices'
+  date: '2026-04-04'
+  description: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://national…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/electric-motor-design-principles-types-and-practices/main.md
+  meta_path: tmp/ai-research-reports/data/md/electric-motor-design-principles-types-and-practices/article.yaml
+  assets_files: 1
+  published: true
+- slug: electric-motors-v2
+  title: Executive Summary
+  date: '2026-04-04'
+  description: Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/electric-motors-v2/main.md
+  meta_path: tmp/ai-research-reports/data/md/electric-motors-v2/article.yaml
+  assets_files: 0
+  published: true
+- slug: emptiness-of-deleuze
+  title: Executive Summary
+  date: '2026-03-04'
+  description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/emptiness-of-deleuze/main.md
+  meta_path: tmp/ai-research-reports/data/md/emptiness-of-deleuze/article.yaml
+  assets_files: 0
+  published: true
+- slug: fake-populism-and-neil-young
+  title: Executive Summary
+  date: '2026-03-04'
+  description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/fake-populism-and-neil-young/main.md
+  meta_path: tmp/ai-research-reports/data/md/fake-populism-and-neil-young/article.yaml
+  assets_files: 0
+  published: true
+- slug: federal-legal-landscape
+  title: Federal Legal Landscape
+  date: '2026-01-31'
+  description: Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has “no currently accepted medical use” and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/federal-legal-landscape/main.md
+  meta_path: tmp/ai-research-reports/data/md/federal-legal-landscape/article.yaml
+  assets_files: 0
+  published: true
+- slug: gaht
+  title: Gender and GAHT
+  date: '2026-02-12'
+  description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+  source: md
+  md_path: tmp/ai-research-reports/data/md/gaht/main.md
+  meta_path: tmp/ai-research-reports/data/md/gaht/article.yaml
+  assets_files: 0
+  published: true
+- slug: gaht-research-report-summary
+  title: GAHT Research Report Summary
+  date: '2026-01-31'
+  description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/gaht-research-report-summary/main.md
+  meta_path: tmp/ai-research-reports/data/md/gaht-research-report-summary/article.yaml
+  assets_files: 0
+  published: true
+- slug: geometry-semantics
+  title: The Semantics of "Geometry" from Euler to Today (Europe & the United States)
+  date: '2026-02-12'
+  description: 'Abstract: This report traces the evolving meanings of "geometry" in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/geometry-semantics/main.md
+  meta_path: tmp/ai-research-reports/data/md/geometry-semantics/article.yaml
+  assets_files: 0
+  published: true
+- slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
+  title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
+  date: '2026-03-21'
+  description: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/global-population-dynamics-peaks-in-population-level-and-growth-rates/main.md
+  meta_path: tmp/ai-research-reports/data/md/global-population-dynamics-peaks-in-population-level-and-growth-rates/article.yaml
+  assets_files: 0
+  published: true
+- slug: grrm-deconstructed
+  title: Executive Summary
+  date: '2026-03-04'
+  description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/grrm-deconstructed/main.md
+  meta_path: tmp/ai-research-reports/data/md/grrm-deconstructed/article.yaml
+  assets_files: 0
+  published: true
+- slug: hasan
+  title: HasanAbi as a Platform-Native Political Brand
+  date: '2026-02-12'
+  description: '1. Executive Summary: Hasan "HasanAbi" Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch''s interactive platform to cultivate a massive following and influence online political…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/hasan/main.md
+  meta_path: tmp/ai-research-reports/data/md/hasan/article.yaml
+  assets_files: 0
+  published: true
+- slug: hasanabi-popularity-analysis
+  title: HasanAbi Popularity Analysis
+  date: '2026-01-25'
+  description: '1. Executive Summary: Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online political…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/hasanabi-popularity-analysis/main.md
+  meta_path: tmp/ai-research-reports/data/md/hasanabi-popularity-analysis/article.yaml
+  assets_files: 0
+  published: true
+- slug: heaviside
+  title: Executive Summary
+  date: '2026-03-04'
+  description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/heaviside/main.md
+  meta_path: tmp/ai-research-reports/data/md/heaviside/article.yaml
+  assets_files: 1
+  published: true
+- slug: highway-engineering
+  title: From Dirt Track to Durable Highway -- Engineering, Material Science & Historic Precedent
+  date: '2026-02-12'
+  description: 'Introduction: Upgrading an unpaved dirt or gravel road into a long-lasting, high-speed highway involves a multi-phase engineering process. It requires improving the foundation (subgrade), adding structured base layers with proper drainage,…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/highway-engineering/main.md
+  meta_path: tmp/ai-research-reports/data/md/highway-engineering/article.yaml
+  assets_files: 1
+  published: true
+- slug: hitler-philosophy
+  title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+  date: '2026-02-12'
+  description: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+  source: md
+  md_path: tmp/ai-research-reports/data/md/hitler-philosophy/main.md
+  meta_path: tmp/ai-research-reports/data/md/hitler-philosophy/article.yaml
+  assets_files: 0
+  published: true
+- slug: homological-algebra
+  title: The History and Impact of Homological Algebra
+  date: '2026-02-12'
+  description: The History and Impact of Homological Algebra
+  source: md
+  md_path: tmp/ai-research-reports/data/md/homological-algebra/main.md
+  meta_path: tmp/ai-research-reports/data/md/homological-algebra/article.yaml
+  assets_files: 0
+  published: true
+- slug: how-llms-challenge-chomskyan-assumptions-analytical-report
+  title: 'How LLMs Challenge Chomskyan Assumptions: Analytical Report'
+  date: '2026-03-03'
+  description: 'Executive Summary: Noam Chomsky’s linguistic framework hinges on strong innate structures (Universal Grammar) and a sharp distinction between internal competence and observable performance. He has long argued that children learn language “…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/how-llms-challenge-chomskyan-assumptions-analytical-report/main.md
+  meta_path: tmp/ai-research-reports/data/md/how-llms-challenge-chomskyan-assumptions-analytical-report/article.yaml
+  assets_files: 0
+  published: true
+- slug: html-history
+  title: History of HTML (1990--2025)
+  date: '2026-02-12'
+  description: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
+  source: md
+  md_path: tmp/ai-research-reports/data/md/html-history/main.md
+  meta_path: tmp/ai-research-reports/data/md/html-history/article.yaml
+  assets_files: 0
+  published: true
+- slug: in-house-vertical-farms
+  title: Executive Summary
+  date: '2026-04-04'
+  description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/in-house-vertical-farms/main.md
+  meta_path: tmp/ai-research-reports/data/md/in-house-vertical-farms/article.yaml
+  assets_files: 2
+  published: true
+- slug: javascript-history
+  title: The Formal and Informal History of JavaScript (1995--2025)
+  date: '2026-02-12'
+  description: The Formal and Informal History of JavaScript (1995--2025)
+  source: md
+  md_path: tmp/ai-research-reports/data/md/javascript-history/main.md
+  meta_path: tmp/ai-research-reports/data/md/javascript-history/article.yaml
+  assets_files: 0
+  published: true
+- slug: jewish-political-activism
+  title: Jewish Political Activism in the United States (1880--2025)
+  date: '2026-02-12'
+  description: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/jewish-political-activism/main.md
+  meta_path: tmp/ai-research-reports/data/md/jewish-political-activism/article.yaml
+  assets_files: 0
+  published: true
+- slug: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+  title: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
+  date: '2026-03-21'
+  description: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence/main.md
+  meta_path: tmp/ai-research-reports/data/md/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence/article.yaml
+  assets_files: 0
+  published: true
+- slug: kern-weed
+  title: Federal Legal Landscape
+  date: '2026-02-12'
+  description: Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
+  source: md
+  md_path: tmp/ai-research-reports/data/md/kern-weed/main.md
+  meta_path: tmp/ai-research-reports/data/md/kern-weed/article.yaml
+  assets_files: 0
+  published: true
+- slug: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
+  title: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
+  date: '2026-02-15'
+  description: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in/main.md
+  meta_path: tmp/ai-research-reports/data/md/labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in/article.yaml
+  assets_files: 0
+  published: true
+- slug: land-rooted-ethno
+  title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
+  date: '2026-02-12'
+  description: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
+  source: md
+  md_path: tmp/ai-research-reports/data/md/land-rooted-ethno/main.md
+  meta_path: tmp/ai-research-reports/data/md/land-rooted-ethno/article.yaml
+  assets_files: 0
+  published: true
+- slug: lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
+  title: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+  date: '2026-03-21'
+  description: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens/main.md
+  meta_path: tmp/ai-research-reports/data/md/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens/article.yaml
+  assets_files: 0
+  published: true
+- slug: liberal-gothic-an-analytical-report
+  title: 'Liberal Gothic: An Analytical Report'
+  date: '2026-04-13'
+  description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/liberal-gothic-an-analytical-report/main.md
+  meta_path: tmp/ai-research-reports/data/md/liberal-gothic-an-analytical-report/article.yaml
+  assets_files: 2
+  published: true
+- slug: liberal-gothic-quick-facts
+  title: Executive Summary
+  date: '2026-04-13'
+  description: '- Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure where…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/liberal-gothic-quick-facts/main.md
+  meta_path: tmp/ai-research-reports/data/md/liberal-gothic-quick-facts/article.yaml
+  assets_files: 0
+  published: true
+- slug: male-suicide
+  title: Male Suicide in the United States (2000--Present)
+  date: '2026-02-12'
+  description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/male-suicide/main.md
+  meta_path: tmp/ai-research-reports/data/md/male-suicide/article.yaml
+  assets_files: 5
+  published: true
+- slug: male-suicide-research-outline
+  title: Male Suicide Research Outline
+  date: '2026-01-25'
+  description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/male-suicide-research-outline/main.md
+  meta_path: tmp/ai-research-reports/data/md/male-suicide-research-outline/article.yaml
+  assets_files: 5
+  published: true
+- slug: marx-engels
+  title: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
+  date: '2026-02-12'
+  description: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between "socialism" and "communism," positioning their own doctrine as scientific socialism. Prior to 1848, "socialism" was often associa…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/marx-engels/main.md
+  meta_path: tmp/ai-research-reports/data/md/marx-engels/article.yaml
+  assets_files: 0
+  published: true
+- slug: marx-engels-manifesto-analysis
+  title: Marx Engels Manifesto Analysis
+  date: '2026-01-25'
+  description: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often associa…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/marx-engels-manifesto-analysis/main.md
+  meta_path: tmp/ai-research-reports/data/md/marx-engels-manifesto-analysis/article.yaml
+  assets_files: 0
+  published: true
+- slug: marxism-bibliography
+  title: '**Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide**'
+  date: '2026-02-12'
+  description: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/marxism-bibliography/main.md
+  meta_path: tmp/ai-research-reports/data/md/marxism-bibliography/article.yaml
+  assets_files: 0
+  published: true
+- slug: marxism-evolution
+  title: Evolution of Marxism
+  date: '2026-02-12'
+  description: 'Executive Summary: - Evolution of Marxism (1840s--2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/c…'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/marxism-evolution/main.md
+  meta_path: tmp/ai-research-reports/data/md/marxism-evolution/article.yaml
+  assets_files: 0
+  published: true
+- slug: marxism-research-clarifications
+  title: Marxism Research Clarifications
+  date: '2026-01-25'
+  description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/marxism-research-clarifications/main.md
+  meta_path: tmp/ai-research-reports/data/md/marxism-research-clarifications/article.yaml
+  assets_files: 0
+  published: true
+- slug: matrix-culture
+  title: 'The Matrix as Cultural Technology: A Mythical & Social History'
+  date: '2026-02-12'
+  description: 'The Matrix as Cultural Technology: A Mythical & Social History'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/matrix-culture/main.md
+  meta_path: tmp/ai-research-reports/data/md/matrix-culture/article.yaml
+  assets_files: 0
+  published: true
+- slug: mauler
+  title: '**Ad Hoc "Maulerian School of Film Criticism"**'
+  date: '2026-02-12'
+  description: Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is th…
+  source: md
+  md_path: tmp/ai-research-reports/data/md/mauler/main.md
+  meta_path: tmp/ai-research-reports/data/md/mauler/article.yaml
+  assets_files: 0
+  published: true
+- slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
+  title: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
+  date: '2026-03-04'
+  description: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/maxwells-equations-a-human-centered-historical-and-scientific-analysis/main.md
+  meta_path: tmp/ai-research-reports/data/md/maxwells-equations-a-human-centered-historical-and-scientific-analysis/article.yaml
+  assets_files: 2
+  published: true
+- slug: meme-culture-and-borderer-right-style-a-research-report
+  title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
+  date: '2026-03-04'
+  description: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/meme-culture-and-borderer-right-style-a-research-report/main.md
+  meta_path: tmp/ai-research-reports/data/md/meme-culture-and-borderer-right-style-a-research-report/article.yaml
+  assets_files: 1
+  published: true
+- slug: moby-dick-as-yankee-self-aggrandizement-and-self-indictment
+  title: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+  date: '2026-03-21'
+  description: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/moby-dick-as-yankee-self-aggrandizement-and-self-indictment/main.md
+  meta_path: tmp/ai-research-reports/data/md/moby-dick-as-yankee-self-aggrandizement-and-self-indictment/article.yaml
+  assets_files: 0
+  published: true
+- slug: nations-right-wing-critique
+  title: Executive Summary
+  date: '2026-04-04'
+  description: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/nations-right-wing-critique/main.md
+  meta_path: tmp/ai-research-reports/data/md/nations-right-wing-critique/article.yaml
+  assets_files: 3
+  published: true
+- slug: neural-networks
+  title: History of Neural Networks in Computing (1940s--2026)
+  date: '2026-02-12'
+  description: History of Neural Networks in Computing (1940s--2026)
+  source: md
+  md_path: tmp/ai-research-reports/data/md/neural-networks/main.md
+  meta_path: tmp/ai-research-reports/data/md/neural-networks/article.yaml
+  assets_files: 0
+  published: true
+- slug: nietzche-math-critique
+  title: Dead Symbols and their Worship
+  date: '2026-04-20'
+  description: Dead Symbols and their Worship
+  source: md
+  md_path: tmp/ai-research-reports/data/md/nietzche-math-critique/main.md
+  meta_path: tmp/ai-research-reports/data/md/nietzche-math-critique/article.yaml
+  assets_files: 0
+  published: true
+- slug: number-theory-from-euler
+  title: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
+  date: '2026-02-12'
+  description: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/number-theory-from-euler/main.md
+  meta_path: tmp/ai-research-reports/data/md/number-theory-from-euler/article.yaml
+  assets_files: 0
+  published: true
+- slug: obj-vs-sub
+  title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+  date: '2026-02-12'
+  description: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/obj-vs-sub/main.md
+  meta_path: tmp/ai-research-reports/data/md/obj-vs-sub/article.yaml
+  assets_files: 0
+  published: true
+- slug: operators-social-history
+  title: A Social History of "Operators" in Mathematics
+  date: '2026-02-12'
+  description: A Social History of "Operators" in Mathematics
+  source: md
+  md_path: tmp/ai-research-reports/data/md/operators-social-history/main.md
+  meta_path: tmp/ai-research-reports/data/md/operators-social-history/article.yaml
+  assets_files: 0
+  published: true
+- slug: piketty-liberal-pmc-critique
+  title: Executive Summary
+  date: '2026-03-22'
+  description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/piketty-liberal-pmc-critique/main.md
+  meta_path: tmp/ai-research-reports/data/md/piketty-liberal-pmc-critique/article.yaml
+  assets_files: 1
+  published: true
+- slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+  title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
+  date: '2026-04-11'
+  description: 'Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ cla…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850/main.md
+  meta_path: tmp/ai-research-reports/data/md/prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850/article.yaml
+  assets_files: 0
+  published: true
+- slug: proudhon-mutualism-report
+  title: Proudhon Mutualism Report
+  date: '2026-01-25'
+  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20b…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/proudhon-mutualism-report/main.md
+  meta_path: tmp/ai-research-reports/data/md/proudhon-mutualism-report/article.yaml
+  assets_files: 1
+  published: true
+- slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+  title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
+  date: '2026-02-15'
+  description: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti/main.md
+  meta_path: tmp/ai-research-reports/data/md/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti/article.yaml
+  assets_files: 0
+  published: true
+- slug: report-elite-discourse-and-structural-critique
+  title: 'Report: Elite Discourse and Structural Critique'
+  date: '2026-02-27'
+  description: 'Report: Elite Discourse and Structural Critique'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/report-elite-discourse-and-structural-critique/main.md
+  meta_path: tmp/ai-research-reports/data/md/report-elite-discourse-and-structural-critique/article.yaml
+  assets_files: 0
+  published: true
+- slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
+  title: Republican Administrations as the Enforcers of U.S. Imperial Policy
+  date: '2026-03-22'
+  description: Republican Administrations as the Enforcers of U.S. Imperial Policy
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/republican-administrations-as-the-enforcers-of-u-s-imperial-policy/main.md
+  meta_path: tmp/ai-research-reports/data/md/republican-administrations-as-the-enforcers-of-u-s-imperial-policy/article.yaml
+  assets_files: 0
+  published: true
+- slug: savonius-wind-turbines-comprehensive-design-diy-guide
+  title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
+  date: '2026-04-04'
+  description: 'Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)(http…'
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/savonius-wind-turbines-comprehensive-design-diy-guide/main.md
+  meta_path: tmp/ai-research-reports/data/md/savonius-wind-turbines-comprehensive-design-diy-guide/article.yaml
+  assets_files: 1
+  published: true
+- slug: selective-freudian-explanations-in-political-and-media-discourse
+  title: Selective Freudian Explanations in Political and Media Discourse
+  date: '2026-03-21'
+  description: Selective Freudian Explanations in Political and Media Discourse
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/selective-freudian-explanations-in-political-and-media-discourse/main.md
+  meta_path: tmp/ai-research-reports/data/md/selective-freudian-explanations-in-political-and-media-discourse/article.yaml
+  assets_files: 0
+  published: true
+- slug: symbolic-post-masculinity
+  title: Executive Summary
+  date: '2026-03-04'
+  description: As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, phys…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/symbolic-post-masculinity/main.md
+  meta_path: tmp/ai-research-reports/data/md/symbolic-post-masculinity/article.yaml
+  assets_files: 1
+  published: true
+- slug: taylor
+  title: Executive Summary
+  date: '2026-02-12'
+  description: Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
+  source: md
+  md_path: tmp/ai-research-reports/data/md/taylor/main.md
+  meta_path: tmp/ai-research-reports/data/md/taylor/article.yaml
+  assets_files: 0
+  published: true
+- slug: the-carousel-of-right-wing-resistance-in-the-united-states
+  title: The Carousel of Right-Wing Resistance in the United States
+  date: '2026-02-15'
+  description: The Carousel of Right-Wing Resistance in the United States
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/main.md
+  meta_path: tmp/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/article.yaml
+  assets_files: 0
+  published: true
+- slug: the-u-s-post-world-war-ii-boom-1945-1975
+  title: The U.S. Post–World War II Boom, 1945–1975
+  date: '2026-03-21'
+  description: The U.S. Post–World War II Boom, 1945–1975
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/the-u-s-post-world-war-ii-boom-1945-1975/main.md
+  meta_path: tmp/ai-research-reports/data/md/the-u-s-post-world-war-ii-boom-1945-1975/article.yaml
+  assets_files: 0
+  published: true
+- slug: topology
+  title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
+  date: '2026-02-12'
+  description: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
+  source: md
+  md_path: tmp/ai-research-reports/data/md/topology/main.md
+  meta_path: tmp/ai-research-reports/data/md/topology/article.yaml
+  assets_files: 0
+  published: true
+- slug: tyler-and-jews
+  title: Executive Summary
+  date: '2026-03-03'
+  description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/tyler-and-jews/main.md
+  meta_path: tmp/ai-research-reports/data/md/tyler-and-jews/article.yaml
+  assets_files: 0
+  published: true
+- slug: type-theory-history
+  title: A Comprehensive History of Type Theory (1900s--Present)
+  date: '2026-02-12'
+  description: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
+  source: md
+  md_path: tmp/ai-research-reports/data/md/type-theory-history/main.md
+  meta_path: tmp/ai-research-reports/data/md/type-theory-history/article.yaml
+  assets_files: 0
+  published: true
+- slug: united-states-of-empire
+  title: Executive Summary
+  date: '2026-03-04'
+  description: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/united-states-of-empire/main.md
+  meta_path: tmp/ai-research-reports/data/md/united-states-of-empire/article.yaml
+  assets_files: 2
+  published: true
+- slug: when-subverted-masculinity-boomerangs-into-underdog-masculinity
+  title: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
+  date: '2026-02-15'
+  description: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/main.md
+  meta_path: tmp/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/article.yaml
+  assets_files: 0
+  published: true
+- slug: yankee-courts-and-legal-bias
+  title: Executive Summary
+  date: '2026-03-21'
+  description: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/yankee-courts-and-legal-bias/main.md
+  meta_path: tmp/ai-research-reports/data/md/yankee-courts-and-legal-bias/article.yaml
+  assets_files: 0
+  published: true
+- slug: yankee-left
+  title: Executive Summary
+  date: '2026-03-04'
+  description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/yankee-left/main.md
+  meta_path: tmp/ai-research-reports/data/md/yankee-left/article.yaml
+  assets_files: 0
+  published: true
+- slug: yankee-white-supremacy
+  title: Executive Summary
+  date: '2026-02-27'
+  description: We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
+  source: docx
+  md_path: tmp/ai-research-reports/data/md/yankee-white-supremacy/main.md
+  meta_path: tmp/ai-research-reports/data/md/yankee-white-supremacy/article.yaml
+  assets_files: 0
+  published: true

@@ -1,17 +1,26 @@
 ---
 title: History of HTML (1990--2025)
-subtitle: From SGML Roots to the Living Standard
-date: '2026-02-12'
-draft: false
+linkTitle: History of HTML (1990--2025)
+description: >-
+  HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
+summary: >-
+  HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by formal standards bodies (IETF, W3C, WHATWG) and by the practical needs and innovations of web developers. This report chronicles HTML's history in thematic eras, highlighting milestones in governance, parsing and conformance, semantic enrichment, accessibility, developer practices, and the broader cultural and economic forces at play. Each era illustrates how HTML grew in response to new challenges -- from early academic information-sharing to the mobile and app-centric web -- and how the web community continually returned to HTML's core strengths. The re…
 slug: html-history
+url: ''
+aliases: []
+date: '2026-02-12'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories:
+layout: single
+weight: 0
+categories: &id001
 - Computing
 - Web
 - Internet History
 - Standards
-tags:
+tags: &id003
 - html
 - web
 - internet
@@ -22,32 +31,89 @@ tags:
 - html5
 - xhtml
 - browsers
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+keywords: &id002
+- HTML
+- World Wide Web
+- W3C
+- WHATWG
+- IETF
+- HTML5
+- XHTML
+- Browser wars
+- Web standards
+- DOM
+- JavaScript
+- CSS
+- Parsing
+- Accessibility
+- Metadata
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: 'A chronological and thematic history of HTML from 1990 to 2025, tracing
-    its evolution from a small SGML-inspired markup language into a sprawling “living
-    standard.” Covers the shift in governance across the IETF, W3C, and WHATWG; the
-    browser wars and the emergence of JavaScript, CSS, and the DOM; the XHTML detour
-    and the eventual consolidation around HTML5; and later eras focused on parsing
-    rules, semantic enrichment, accessibility, metadata practices, and the broader
-    cultural and economic forces shaping the Web. Includes appendices on tag evolution,
-    doctypes and parsing modes, accessibility guidance, metadata standards, and HTML
-    email.
-
-    '
+  abstract: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by formal standards bodies (IETF, W3C, WHATWG) and by the practical needs and innovations of web developers. This report chronicles HTML's history in thematic eras, highlighting milestones in governance, parsing and conformance, semantic enrichment, accessibility, developer practices, and the broader cultural and economic forces at play. Each era illustrates how HTML grew in response to new challenges -- from early academic information-sharing to the mobile and app-centric web -- and how the web community continually returned to HTML's core strengths. The re…
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: cover.png
+  cover_image: cover.png
   creator:
   - Salvador Guzman
   dataset_id: html-history
+  date: '2026-02-12'
+  description: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
+  draft: false
+  edition: '1'
+  epub-chapter-level: 2
+  epub-cover-image: cover.png
+  epub-title-page: false
+  epub_cover_image: cover.png
+  format: article
+  identifier: urn:gva:html-history
+  keywords: *id002
+  lang: en
+  language: English
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: true
+  plate_id: gva-html-history
+  publisher: Gold, Velvet and Ashes
+  reference-section-title: References
   report:
     series: Gold, Velvet and Ashes Reports
     number: HTML-001
     year: 2026
+  report-no: HTML-001
+  report-number: HTML-001
+  report-year: '2026'
+  report_no: 1
+  report_year: 2026
+  revision: 1.0.0
+  rights: CC0-1.0
+  series: web-histories
+  series-number: 1
+  series-title: Web Histories
+  slug: html-history
+  status: published
+  subject:
+  - HTML
+  - Web standards
+  - Internet history
+  subjects:
+  - HyperText Markup Language
+  - World Wide Web
+  - Web browsers
+  - Standards organizations
+  - Document formats
+  subtitle: From SGML Roots to the Living Standard
+  tags: *id003
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+  title: History of HTML (1990--2025)
 ---
-
-# History of HTML (1990--2025)
 
 HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by formal standards bodies (IETF, W3C, WHATWG) and by the practical needs and innovations of web developers. This report chronicles HTML's history in thematic eras, highlighting milestones in governance, parsing and conformance, semantic enrichment, accessibility, developer practices, and the broader cultural and economic forces at play. Each era illustrates how HTML grew in response to new challenges -- from early academic information-sharing to the mobile and app-centric web -- and how the web community continually returned to HTML's core strengths. The report concludes with appendices detailing the evolution of HTML tags, doctype behaviors and parsing modes, accessibility best practices, metadata standards, and the idiosyncratic world of HTML email.
 

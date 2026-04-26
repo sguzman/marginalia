@@ -1,36 +1,26 @@
 ---
-title: The Matrix as Cultural Technology
-linkTitle: The Matrix as Cultural Technology
-description: A mythical and social history of matrices as a cultural technology—how matrix thinking scaled
-  science, industry, and computation, and why “the Matrix” became a modern metaphor for control, networks,
-  and simulation.
-summary: A cultural and historical essay arguing that matrices are not merely a piece of mathematics but
-  a practical “technology of complexity” that helped humans represent many relationships at once, scale
-  institutions, and operate modern machines. Beginning with early table-based methods and the institutional
-  spread of linear algebra, the piece traces how matrix thinking became a lingua franca of science, engineering,
-  computing, and data. It then maps the word “matrix” into a set of recurring cultural motifs—mother/source,
-  grid, network, and simulation—showing how each motif produces hopes (creation, order, connection, imaginative
-  freedom) and fears (dehumanization, bureaucracy, surveillance, unreality). The essay closes by arguing
-  that these mythic frames shape policy and public intuition about technology, and that understanding
-  them is part of navigating the “future matrix” we are building.
+title: 'The Matrix as Cultural Technology: A Mythical & Social History'
+linkTitle: 'The Matrix as Cultural Technology: A Mythical & Social Hi…'
+description: >-
+  The Matrix as Cultural Technology: A Mythical & Social History
+summary: >-
+  The Matrix as Cultural Technology: A Mythical & Social History
 slug: matrix-culture
 url: ''
 aliases: []
 date: '2026-02-12'
-lastmod: '2026-02-12'
-expiryDate: ''
+lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
-- ChatGPT
 layout: single
 weight: 0
-categories:
+categories: &id001
 - Mathematics
 - Technology
 - History
 - Culture
-tags:
+tags: &id003
 - matrix-culture
 - linear-algebra
 - history-of-math
@@ -38,7 +28,7 @@ tags:
 - culture
 - computing
 - ai
-keywords:
+keywords: &id002
 - matrix
 - matrices
 - linear algebra
@@ -60,20 +50,18 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: A cultural and historical essay arguing that matrices are not merely a piece of mathematics
-    but a practical “technology of complexity” that helped humans represent many relationships at once,
-    scale institutions, and operate modern machines. Beginning with early table-based methods and the
-    institutional spread of linear algebra, the piece traces how matrix thinking became a lingua franca
-    of science, engineering, computing, and data. It then maps the word “matrix” into a set of recurring
-    cultural motifs—mother/source, grid, network, and simulation—showing how each motif produces hopes
-    (creation, order, connection, imaginative freedom) and fears (dehumanization, bureaucracy, surveillance,
-    unreality). The essay closes by arguing that these mythic frames shape policy and public intuition
-    about technology, and that understanding them is part of navigating the “future matrix” we are building.
+  abstract: 'The Matrix as Cultural Technology: A Mythical & Social History'
+  author:
+  - Salvador Guzman
+  categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
   - Salvador Guzman
   dataset_id: matrix-culture.v1
+  date: '2026-02-12'
+  description: 'The Matrix as Cultural Technology: A Mythical & Social History'
+  draft: false
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -81,16 +69,27 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva.matrix-culture.2026-02-12
+  keywords: *id002
+  lang: en
   language: English
+  library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: true
   plate_id: matrix-culture
-  publisher: Marginalia
+  publisher: Gold, Velvet and Ashes
   reference-section-title: Further Reading
+  report: {}
+  report-no: ''
+  report-number: ''
+  report-year: ''
   report_no: 0
   report_year: 0
   revision: '1'
   rights: CC0-1.0
+  series: essays
+  series-number: 0
+  series-title: Gold, Velvet and Ashes
+  slug: matrix-culture
   status: stable
   subject:
   - Matrices (Mathematics)
@@ -103,14 +102,12 @@ meta:
   - 'Matrix mythology: mother, grid, network, simulation'
   - Computing, data centers, and AI as matrix engines
   subtitle: A Mythical & Social History
+  tags: *id003
+  title: 'The Matrix as Cultural Technology: A Mythical & Social History'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: essay
-  report_series: essays
-  report_series_title: Marginalia
-  report_series_number: 0
-series: []
 ---
 
 ## Introduction -- Power Over Complexity

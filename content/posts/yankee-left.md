@@ -1,39 +1,84 @@
 ---
-title: yankee-left
-subtitle: ''
-date: '2026-03-04'
-draft: false
+title: Executive Summary
+linkTitle: Executive Summary
+description: >-
+  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+summary: >-
+  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse that frames all conflicts in terms of universalized ethical values. Drawing on historical context, political theory, and concrete examples, we show how this elite coalition manufactures consent through cultural hegemony and institutional control, often at the expense of working-class concerns. Key findings include: a history rooted in early 20th-century Social Gospel liberalism that secularized into modern “woke” managerialis…
 slug: yankee-left
+url: ''
+aliases: []
+date: '2026-03-04'
+lastmod: '2026-04-26'
+draft: false
 authors:
 - Salvador Guzman
-categories: []
-tags: []
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: ''
+- ChatGPT
+layout: single
+weight: 0
+categories: &id001 []
+tags: &id003 []
+keywords: &id002 []
+markup: goldmark
+outputs:
+- HTML
+- RSS
 meta:
-  abstract: 'This report examines the so-called **“Yankee-left”** – broadly identified
-    with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
-    ruling formation. We argue that a class of highly educated professionals and bureaucrats
-    has come to dominate culture and politics through technocratic expertise, symbolic
-    status rituals, and a moralistic discourse that frames all conflicts in terms
-    of universalized ethical values. Drawing on historical context, political theory,
-    and concrete examples, we show how this elite coalition manufactures consent through
-    cultural hegemony and institutional control, often at the expense of working-class
-    concerns. Key findings include: a history rooted in early 20th-century Social
-    Gospel liberalism that secularized into modern “woke” manageri…'
+  abstract: 'This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse that frames all conflicts in terms of universalized ethical values. Drawing on historical context, political theory, and concrete examples, we show how this elite coalition manufactures consent through cultural hegemony and institutional control, often at the expense of working-class concerns. Key findings include: a history rooted in early 20th-century Social Gospel liberalism that secularized into modern “woke” managerialis…'
+  author:
+  - Salvador Guzman
+  categories: *id001
+  cover-image: ''
+  cover_image: ''
   creator:
   - Salvador Guzman
   dataset_id: ''
+  date: '2026-03-04'
+  description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+  draft: false
+  edition: ''
+  epub-chapter-level: 0
+  epub-cover-image: ''
+  epub-title-page: false
+  epub_cover_image: ''
+  format: markdown
+  identifier: ''
+  keywords: *id002
+  lang: ''
+  language: ''
+  library_of_congress_classification: {}
+  license: CC0-1.0
+  number-sections: false
+  plate_id: ''
+  publisher: Marginalia
+  reference-section-title: ''
   report:
     conversion:
       source_docx: yankee-left.docx
       tool: pandoc 3.6
       date: '2026-04-20'
+  report-no: ''
+  report-number: ''
+  report-year: ''
+  report_no: 0
+  report_year: 0
+  revision: ''
+  rights: CC0-1.0
+  series: ''
+  series-number: 0
+  series-title: ''
+  slug: yankee-left
+  status: ''
+  subject: []
+  subjects: []
+  subtitle: ''
+  tags: *id003
+  title: Executive Summary
+  toc: false
+  toc-depth: 0
+  toc-title: ''
+  type: ''
 ---
-
-# yankee-left
 
 This report examines the so-called **“Yankee-left”** – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse that frames all conflicts in terms of universalized ethical values. Drawing on historical context, political theory, and concrete examples, we show how this elite coalition manufactures consent through cultural hegemony and institutional control, often at the expense of working-class concerns. Key findings include: a history rooted in early 20th-century Social Gospel liberalism that secularized into modern “woke” managerialism[\[1\]](https://danielkwilliams.substack.com/p/the-religious-reason-why-academia#:~:text=in%20the%20kingdom%20of%20God,realization%20of%20Jesus%E2%80%99s%20ethical%20teachings)[\[2\]](https://www.tabletmag.com/sections/news/articles/revenge-of-the-yankees#:~:text=The%20Social%20Gospel%20progressivism%20these,crushed%20once%20and%20for%20all); theoretical frameworks of **managerialism** and **cultural hegemony** (Gramsci) explaining how expertise and ideology entwine[\[3\]](https://antitechnocrat.net/2004/02/the-dilemma-of-managerial-liberalism/#:~:text=disappearance%20of%20self,eliminate%20prejudice%20establishes%20a%20comprehensive)[\[4\]](https://plato.stanford.edu/entries/gramsci/#:~:text=on%20the%20exercise%20of%20force,see%20Femia%201981); an “economy of prestige” in liberal institutions that prizes conformity to progressive norms[\[5\]](https://compactmag.substack.com/p/the-death-of-the-conservative-prestige#:~:text=ecosystem%20in%20the%20awokening%20of,claim%20to%20be%20arbiters%20of); and the rise of a **moralizing liberalism** that treats politics as a contest of moral values[\[6\]](https://transversal.at/transversal/0401/mouffe/en#:~:text=This%20%22post,discourse%3A%20economic%2C%20moral%20or%20juridical)[\[7\]](https://www.theatlantic.com/ideas/2025/11/democrats-rhetoric-moral-clarity/684910/#:~:text=In%20perhaps%20the%20most%20striking,nothing%20radical%20about%20moral%20clarity%E2%80%9D%E2%80%94a). Empirical evidence – from speeches by Democratic leaders to corporate diversity practices – illustrates patterns of sanctimonious rhetoric, institutional gatekeeping of dissenting views, and tokenistic “compassion” (e.g. diversions like symbolic statue-toppling)[\[8\]](https://www.theatlantic.com/ideas/2025/11/democrats-rhetoric-moral-clarity/684910/#:~:text=When%20people%20describe%20the%20world,a%20kind%20of%20moralism%20that)[\[9\]](https://news.stanford.edu/stories/2025/08/dei-washing-controversies-diversity-hiring-study#:~:text=The%20study%20finds%20that%20following,year%20period%20following%20the%20incident). Yet this ruling bloc’s power rests on consent: it secures legitimacy through cultural narratives, educational indoctrination, and bureaucratic authority. Counterarguments note that not all liberals fit this mold and that calls for moral clarity arose from genuine concerns. Ultimately, the report concludes that understanding the Yankee-left requires analyzing its mechanisms of cultural and institutional power, and suggests that reform would need to re-center democratic dialogue and accountability.
 
