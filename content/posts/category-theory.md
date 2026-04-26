@@ -1,10 +1,8 @@
 ---
 title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
 linkTitle: 'Category Theory: Origins, Invention, and Early Reception…'
-description: >-
-  1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
-summary: >-
-  1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper "General Theory of Natural Equivalences"(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
+description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
+summary: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper "General Theory of Natural Equivalences"(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
 slug: category-theory
 url: ''
 aliases: []
@@ -12,47 +10,47 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- History of Mathematics
-- Foundations
+  - Mathematics
+  - History of Mathematics
+  - Foundations
 tags: &id003
-- math
-- category-theory
-- history
-- foundations
-- algebraic-topology
-- structuralism
+  - math
+  - category-theory
+  - history
+  - foundations
+  - algebraic-topology
+  - structuralism
 keywords: &id002
-- category theory
-- functor
-- natural transformation
-- algebraic topology
-- structuralism
-- foundations of mathematics
-- Eilenberg
-- Mac Lane
-- Grothendieck
-- Lawvere
-- history of mathematics
-- 1935-1965
+  - category theory
+  - functor
+  - natural transformation
+  - algebraic topology
+  - structuralism
+  - foundations of mathematics
+  - Eilenberg
+  - Mac Lane
+  - Grothendieck
+  - Lawvere
+  - history of mathematics
+  - 1935-1965
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper "General Theory of Natural Equivalences"(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-category-theory-origins-1935-1965
   date: '2026-02-12'
   description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
@@ -77,10 +75,10 @@ meta:
     kind: historical survey
     scope_years: 1935-1965
     focus:
-    - intellectual precursors (structuralism, foundations debates)
-    - founding definitions (categories, functors, natural transformations)
-    - early reception and spread
-    - mid-century consolidation (Grothendieck, Lawvere)
+      - intellectual precursors (structuralism, foundations debates)
+      - founding definitions (categories, functors, natural transformations)
+      - early reception and spread
+      - mid-century consolidation (Grothendieck, Lawvere)
     discipline: mathematics
     subdiscipline: category theory
   report-no: GVA-CT-2026-001
@@ -96,14 +94,14 @@ meta:
   slug: category-theory
   status: complete
   subject:
-  - Category theory
-  - Foundations of mathematics
-  - History of mathematics
+    - Category theory
+    - Foundations of mathematics
+    - History of mathematics
   subjects:
-  - Category theory -- History -- 20th century
-  - Mathematics -- Philosophy
-  - Algebraic topology -- History
-  - Structuralism (Philosophy of mathematics)
+    - Category theory -- History -- 20th century
+    - Mathematics -- Philosophy
+    - Algebraic topology -- History
+    - Structuralism (Philosophy of mathematics)
   subtitle: Origins, invention, and early reception (1935-1965)
   tags: *id003
   title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'

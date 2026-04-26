@@ -1,10 +1,8 @@
 ---
 title: A Social History of "Operators" in Mathematics
 linkTitle: A Social History of "Operators" in Mathematics
-description: >-
-  A Social History of "Operators" in Mathematics
-summary: >-
-  A Social History of "Operators" in Mathematics
+description: A Social History of "Operators" in Mathematics
+summary: A Social History of "Operators" in Mathematics
 slug: operators-social-history
 url: ''
 aliases: []
@@ -12,71 +10,71 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- mathematics
-- history of mathematics
-- functional analysis
-- mathematical physics
-- notation and pedagogy
-- intellectual history
+  - mathematics
+  - history of mathematics
+  - functional analysis
+  - mathematical physics
+  - notation and pedagogy
+  - intellectual history
 tags: &id003
-- operators
-- D operator
-- operational calculus
-- finite differences
-- Laplace transform
-- matrices
-- linear algebra
-- Cayley
-- Hamilton
-- Gibbs
-- Heaviside
-- Fredholm
-- Hilbert
-- Riesz
-- spectrum
-- notation
-- pedagogy
-- disciplinary conflict
-- mathematical physics
+  - operators
+  - D operator
+  - operational calculus
+  - finite differences
+  - Laplace transform
+  - matrices
+  - linear algebra
+  - Cayley
+  - Hamilton
+  - Gibbs
+  - Heaviside
+  - Fredholm
+  - Hilbert
+  - Riesz
+  - spectrum
+  - notation
+  - pedagogy
+  - disciplinary conflict
+  - mathematical physics
 keywords: &id002
-- operators
-- operational calculus
-- calculus of operations
-- differential operator
-- integral operator
-- finite difference
-- matrix theory
-- linear transformation
-- eigenvalues
-- spectrum
-- functional analysis
-- Hilbert space
-- Fredholm theory
-- Heaviside operational calculus
-- vector analysis
-- quaternions
-- notation
-- mathematics education
-- history of science
-- mathematical physics
+  - operators
+  - operational calculus
+  - calculus of operations
+  - differential operator
+  - integral operator
+  - finite difference
+  - matrix theory
+  - linear transformation
+  - eigenvalues
+  - spectrum
+  - functional analysis
+  - Hilbert space
+  - Fredholm theory
+  - Heaviside operational calculus
+  - vector analysis
+  - quaternions
+  - notation
+  - mathematics education
+  - history of science
+  - mathematical physics
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: A Social History of "Operators" in Mathematics
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
   description: A Social History of "Operators" in Mathematics
@@ -111,19 +109,19 @@ meta:
   slug: operators-social-history
   status: published
   subject:
-  - Operator theory
-  - Functional analysis
-  - History of mathematics
-  - Mathematical physics
-  - Scientific notation
-  - Engineering mathematics
+    - Operator theory
+    - Functional analysis
+    - History of mathematics
+    - Mathematical physics
+    - Scientific notation
+    - Engineering mathematics
   subjects:
-  - Operator theory
-  - Functional analysis
-  - History of mathematics
-  - Mathematical physics
-  - Scientific notation
-  - Engineering mathematics
+    - Operator theory
+    - Functional analysis
+    - History of mathematics
+    - Mathematical physics
+    - Scientific notation
+    - Engineering mathematics
   subtitle: How actions became objects
   tags: *id003
   title: A Social History of "Operators" in Mathematics

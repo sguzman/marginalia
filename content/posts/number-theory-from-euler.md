@@ -1,10 +1,8 @@
 ---
 title: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
 linkTitle: Number Theory from Euler to Today (Europe & the United St…
-description: >-
-  Number Theory from Euler to Today (Europe & the United States): A Research Report
-summary: >-
-  Number Theory from Euler to Today (Europe & the United States): A Research Report
+description: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
+summary: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
 slug: number-theory-from-euler
 url: ''
 aliases: []
@@ -12,59 +10,59 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- Number theory
-- History of mathematics
+  - Mathematics
+  - Number theory
+  - History of mathematics
 tags: &id003
-- euler
-- gauss
-- dirichlet
-- riemann
-- primes
-- zeta-function
-- l-functions
-- reciprocity
-- class-field-theory
-- elliptic-curves
-- langlands
-- probability
-- algorithms
-- cryptography
+  - euler
+  - gauss
+  - dirichlet
+  - riemann
+  - primes
+  - zeta-function
+  - l-functions
+  - reciprocity
+  - class-field-theory
+  - elliptic-curves
+  - langlands
+  - probability
+  - algorithms
+  - cryptography
 keywords: &id002
-- number theory
-- history of number theory
-- Euler
-- Gauss
-- Dirichlet
-- Riemann zeta function
-- prime number theorem
-- L-functions
-- quadratic reciprocity
-- algebraic number theory
-- class field theory
-- elliptic curves
-- Langlands program
-- probabilistic number theory
-- computational number theory
-- cryptography
+  - number theory
+  - history of number theory
+  - Euler
+  - Gauss
+  - Dirichlet
+  - Riemann zeta function
+  - prime number theorem
+  - L-functions
+  - quadratic reciprocity
+  - algebraic number theory
+  - class field theory
+  - elliptic curves
+  - Langlands program
+  - probabilistic number theory
+  - computational number theory
+  - cryptography
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: rr-number-theory-euler-to-today
   date: '2026-02-12'
   description: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
@@ -93,8 +91,8 @@ meta:
     scope: Europe & the United States
     time_span: late 18th century to present
     emphasis:
-    - analytic, algebraic, geometric, probabilistic, and computational themes
-    - major milestones and landmark results
+      - analytic, algebraic, geometric, probabilistic, and computational themes
+      - major milestones and landmark results
   report-no: NT-2026-001
   report-number: '001'
   report-year: '2026'
@@ -108,13 +106,13 @@ meta:
   slug: number-theory-from-euler
   status: published
   subject:
-  - Mathematics
-  - Number theory
-  - History of mathematics
+    - Mathematics
+    - Number theory
+    - History of mathematics
   subjects:
-  - Mathematics
-  - Number theory
-  - History of mathematics
+    - Mathematics
+    - Number theory
+    - History of mathematics
   subtitle: 'Europe & the United States: A Research Report'
   tags: *id003
   title: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'

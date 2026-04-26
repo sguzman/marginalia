@@ -1,10 +1,8 @@
 ---
 title: Piketty Liberal Pmc Critique
 linkTitle: Piketty Liberal Pmc Critique
-description: >-
-  Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
-summary: >-
-  Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty documents that in the U.S. roughly 60–70% of incomes in the top 0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes(https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that). He attributes this to corporate governance failures: today’s top executives effectively set their own pay. “These top managers by and large have the power to set their own remuneration, in some cases without limit,” Piketty observes, of…
+description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
+summary: 'Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty documents that in the U.S. roughly 60–70% of incomes in the top 0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes(https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that). He attributes this to corporate governance failures: today’s top executives effectively set their own pay. “These top managers by and large have the power to set their own remuneration, in some cases without limit,” Piketty observes, of…'
 slug: piketty-liberal-pmc-critique
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-22'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty documents that in the U.S. roughly 60–70% of incomes in the top 0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes(https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that). He attributes this to corporate governance failures: today’s top executives effectively set their own pay. “These top managers by and large have the power to set their own remuneration, in some cases without limit,” Piketty observes, of…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-22'
   description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: piketty-liberal-pmc-critique
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: piketty-liberal-pmc-critique
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

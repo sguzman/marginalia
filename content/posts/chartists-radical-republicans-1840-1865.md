@@ -4,36 +4,56 @@ subtitle: Franchise, Socialism, and the Limits of Alliance
 date: 2026-02-12
 creator: Salvador Guzman
 categories:
-- history
-- political-theory
-- socialism
+  - history
+  - political-theory
+  - socialism
 tags:
-- chartism
-- radical-republicans
-- franchise
-- reconstruction
-- abolitionism
-- land-reform
-- labor
-- cooperatives
-- british-history
-- us-history
+  - chartism
+  - radical-republicans
+  - franchise
+  - reconstruction
+  - abolitionism
+  - land-reform
+  - labor
+  - cooperatives
+  - british-history
+  - us-history
 library_of_congress_classification:
   class: DA
   area: Great Britain — 19th century politics and reform movements; United States — Civil War era and Reconstruction
 meta:
-  abstract: 'A comparative study of British Chartism (1838–1850s) and Radical Republicanism in Britain and the United States (1840s–1860s), focusing on how demands for expanded franchise intersected (and often failed to align) with “socialist” economic aims.
-
-    '
+  abstract: A comparative study of British Chartism (1838–1850s) and Radical Republicanism in Britain and the United States (1840s–1860s), focusing on how demands for expanded franchise intersected (and often failed to align) with “socialist” economic aims.
   report_no: GVA-INV-04
   report_year: 2026
   dataset_id: inventing-socialism.chartism-1840-1865
+  creator: Salvador Guzman
+  publisher: Marginalia
+  license: CC0-1.0
+  rights: CC0-1.0
+  language: en
+  status: published
+  type: article
+  subjects:
+    - history
+    - political-theory
+    - socialism
+    - chartism
+    - radical-republicans
+    - franchise
+    - reconstruction
+    - abolitionism
+    - land-reform
+    - labor
+    - cooperatives
+    - british-history
+    - us-history
+  identifier: chartists-radical-republicans-1840-1865
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 ai_generated: true
+slug: chartists-radical-republicans-1840-1865
 ---
-
 
 # Executive Summary
 

@@ -8,49 +8,49 @@ date: '2026-02-11T13:17:40-06:00'
 lastmod: '2026-04-20T15:45:00Z'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 categories:
-- about
-- meta
-- philosophy
+  - about
+  - meta
+  - philosophy
 tags:
-- manifesto
-- ai-integration
-- research
-- marginalia
-- initial-commit
+  - manifesto
+  - ai-integration
+  - research
+  - marginalia
+  - initial-commit
 keywords:
-- marginalia
-- intellectual manifesto
-- ai-assisted research
-- human-ai collaboration
-- mathematical philosophy
-- political theory
-- open source research
-- semantic web
-- rich metadata
-- hugo blog
-- goldmark
-- digital garden
-- knowledge management
-- interdisciplinary study
-- epistemology
-- computational philosophy
-- structuralism
-- post-industrial knowledge
-- decentralized research
-- pedagogical objects
+  - marginalia
+  - intellectual manifesto
+  - ai-assisted research
+  - human-ai collaboration
+  - mathematical philosophy
+  - political theory
+  - open source research
+  - semantic web
+  - rich metadata
+  - hugo blog
+  - goldmark
+  - digital garden
+  - knowledge management
+  - interdisciplinary study
+  - epistemology
+  - computational philosophy
+  - structuralism
+  - post-industrial knowledge
+  - decentralized research
+  - pedagogical objects
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Marginalia is an intellectual experiment in synthesizing human insight with artificial intelligence. This inaugural post outlines the project''s vision: a ''buzzing bazaar'' of research reports, polemics, and mathematical explorations that leverage rich metadata and semantic structure to navigate the complexities of modern knowledge. By grounding abstract theory in rigorous metadata, Marginalia seeks to provide a platform for high-resolution inquiry into the mechanics of behavior, governance, and formal logic.'
   creator:
-  - Salvador Guzman
-  - ChatGPT
+    - Salvador Guzman
+    - ChatGPT
   dataset_id: marginalia-initialization-2026
   identifier: meta-2026-000
   language: en-US
@@ -71,15 +71,14 @@ meta:
   status: final
   subject: meta
   subjects:
-  - marginalia
-  - ai-collaboration
-  - intellectual-history
+    - marginalia
+    - ai-collaboration
+    - intellectual-history
   subtitle: Inaugurating the Digital Scriptorium
   toc: true
   type: article
 ai_generated: true
 ---
-
 
 # Marginalia: An Intellectual Manifest
 

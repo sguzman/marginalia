@@ -1,10 +1,8 @@
 ---
 title: Republican Administrations as the Enforcers of U.S. Imperial Policy
 linkTitle: Republican Administrations as the Enforcers of U.S. Imper…
-description: >-
-  Republican Administrations as the Enforcers of U.S. Imperial Policy
-summary: >-
-  Republican Administrations as the Enforcers of U.S. Imperial Policy
+description: Republican Administrations as the Enforcers of U.S. Imperial Policy
+summary: Republican Administrations as the Enforcers of U.S. Imperial Policy
 slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-22'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Republican Administrations as the Enforcers of U.S. Imperial Policy
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-22'
   description: Republican Administrations as the Enforcers of U.S. Imperial Policy
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

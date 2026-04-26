@@ -1,10 +1,8 @@
 ---
 title: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'
 linkTitle: Complex Analysis as a Universal Canvas (Euler to Today):…
-description: >-
-  Complex Analysis as a Universal Canvas (Euler to Today): A Research Report
-summary: >-
-  Complex Analysis as a Universal Canvas (Euler to Today): A Research Report
+description: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'
+summary: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'
 slug: complex-plane-canvas
 url: ''
 aliases: []
@@ -12,57 +10,57 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- Complex Analysis
-- History of Mathematics
-- Mathematical Methods
+  - Mathematics
+  - Complex Analysis
+  - History of Mathematics
+  - Mathematical Methods
 tags: &id003
-- complex-analysis
-- complex-plane
-- conformal-maps
-- holomorphic
-- cauchy
-- riemann
-- weierstrass
-- zeta-function
-- prime-number-theorem
-- bieberbach
-- sle
-- pde
+  - complex-analysis
+  - complex-plane
+  - conformal-maps
+  - holomorphic
+  - cauchy
+  - riemann
+  - weierstrass
+  - zeta-function
+  - prime-number-theorem
+  - bieberbach
+  - sle
+  - pde
 keywords: &id002
-- complex analysis
-- holomorphic functions
-- Cauchy integral theorem
-- residue theorem
-- conformal mapping
-- Riemann surfaces
-- uniformization theorem
-- analytic number theory
-- Riemann zeta function
-- prime number theorem
-- Hardy spaces
-- Bieberbach conjecture
-- Schramm-Loewner evolution
-- Schwarz-Christoffel mapping
-- Joukowski transform
+  - complex analysis
+  - holomorphic functions
+  - Cauchy integral theorem
+  - residue theorem
+  - conformal mapping
+  - Riemann surfaces
+  - uniformization theorem
+  - analytic number theory
+  - Riemann zeta function
+  - prime number theorem
+  - Hardy spaces
+  - Bieberbach conjecture
+  - Schramm-Loewner evolution
+  - Schwarz-Christoffel mapping
+  - Joukowski transform
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: complex-plane-canvas
   date: '2026-02-12'
   description: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'
@@ -105,17 +103,17 @@ meta:
   slug: complex-plane-canvas
   status: published
   subject:
-  - Complex analysis
-  - Holomorphic functions
-  - Conformal mapping
-  - Riemann surfaces
-  - Analytic number theory
+    - Complex analysis
+    - Holomorphic functions
+    - Conformal mapping
+    - Riemann surfaces
+    - Analytic number theory
   subjects:
-  - Mathematics
-  - Complex analysis
-  - History of mathematics
-  - Mathematical physics
-  - Engineering methods
+    - Mathematics
+    - Complex analysis
+    - History of mathematics
+    - Mathematical physics
+    - Engineering methods
   subtitle: 'Euler to Today: A Research Report'
   tags: *id003
   title: 'Complex Analysis as a Universal Canvas (Euler to Today): A Research Report'

@@ -1,10 +1,8 @@
 ---
 title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
 linkTitle: 'Meme Culture and “Borderer-Right” Style: A Research Report'
-description: >-
-  Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…
-summary: >-
-  Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, performative aggression, status inversion). This report reviews academic and journalistic research on political memes, analyzes meme features across platforms, and maps them to borderer-right traits. We find that memes often employ: concise, shocking humor; ridicule of elites and “establishment”; in-group bonding through shared symbols; and “digital carnivalesque” (festive mockery of the serious)(https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)(https:/…
+description: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
+summary: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, performative aggression, status inversion). This report reviews academic and journalistic research on political memes, analyzes meme features across platforms, and maps them to borderer-right traits. We find that memes often employ: concise, shocking humor; ridicule of elites and “establishment”; in-group bonding through shared symbols; and “digital carnivalesque” (festive mockery of the serious)(https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)(https:/…'
 slug: meme-culture-and-borderer-right-style-a-research-report
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, performative aggression, status inversion). This report reviews academic and journalistic research on political memes, analyzes meme features across platforms, and maps them to borderer-right traits. We find that memes often employ: concise, shocking humor; ridicule of elites and “establishment”; in-group bonding through shared symbols; and “digital carnivalesque” (festive mockery of the serious)(https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)(https:/…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: meme-culture-and-borderer-right-style-a-research-report
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: meme-culture-and-borderer-right-style-a-research-report
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

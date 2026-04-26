@@ -1,10 +1,8 @@
 ---
 title: heaviside
 linkTitle: heaviside
-description: >-
-  Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
-summary: >-
-  Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and field problems. He started as a telegraph operator and, after deafness forced him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk Maxwell’s cumbersome 20-equation system into the four-vector equations used today(https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables), introduced the “operational calculus” (treating $d/dt$ as an algebraic symbol) to analyze circuits(https://mathshistory.st-andrews.ac.uk/Biogra…
+description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
+summary: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and field problems. He started as a telegraph operator and, after deafness forced him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk Maxwell’s cumbersome 20-equation system into the four-vector equations used today(https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables), introduced the “operational calculus” (treating $d/dt$ as an algebraic symbol) to analyze circuits(https://mathshistory.st-andrews.ac.uk/Biogra…
 slug: heaviside
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and field problems. He started as a telegraph operator and, after deafness forced him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk Maxwell’s cumbersome 20-equation system into the four-vector equations used today(https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables), introduced the “operational calculus” (treating $d/dt$ as an algebraic symbol) to analyze circuits(https://mathshistory.st-andrews.ac.uk/Biogra…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: heaviside
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: heaviside
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

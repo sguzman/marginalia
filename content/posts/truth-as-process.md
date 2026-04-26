@@ -12,7 +12,7 @@ lastmod: '2026-04-20T15:45:00Z'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
+  - Salvador Guzman
 meta:
   abstract: This essay challenges the traditional framing of the Halting Problem as an absolute logical paradox. The author argues that the perceived intractability of the problem arises from a mismatch in topology—demanding a static "point" answer for a dynamic "line-shaped" process. Drawing on critiques of Platonism and tool-worship in mathematics, the paper proposes a shift towards "truth as process," where veracity is conferred iteratively. This perspective is aligned with concepts from distributed systems (CAP theorem) and suggests that logical axioms should be treated as negotiable tools rather than divine constraints.
   creator: Salvador Guzman
@@ -36,58 +36,58 @@ meta:
   status: final
   subject: philosophy of computation
   subjects:
-  - computation
-  - logic
-  - halting problem
-  - epistemology
-  - topology
-  - mathematical structuralism
+    - computation
+    - logic
+    - halting problem
+    - epistemology
+    - topology
+    - mathematical structuralism
   subtitle: Reimagining the Halting Problem through Topological Parity
   toc: true
   type: article
 layout: single
 weight: 0
 categories:
-- philosophy of computation
-- logic
-- philosophy of mathematics
-- epistemology
+  - philosophy of computation
+  - logic
+  - philosophy of mathematics
+  - epistemology
 tags:
-- halting problem
-- computability
-- paradox
-- axioms
-- platonism
-- tool-worship
-- truth as process
-- topology
-- distributed systems
-- CAP theorem
+  - halting problem
+  - computability
+  - paradox
+  - axioms
+  - platonism
+  - tool-worship
+  - truth as process
+  - topology
+  - distributed systems
+  - CAP theorem
 keywords:
-- halting problem
-- computability
-- paradox
-- platonism
-- axioms
-- truth
-- topology
-- CAP theorem
-- eventual consistency
-- distributed logic
-- topological parity
-- Alan Turing
-- Kurt Gödel
-- pragmatism
-- mathematical tools
-- axiomatic negotiation
-- epistemic humility
-- computational topology
-- logical deconstruction
-- philosophy of technology
+  - halting problem
+  - computability
+  - paradox
+  - platonism
+  - axioms
+  - truth
+  - topology
+  - CAP theorem
+  - eventual consistency
+  - distributed logic
+  - topological parity
+  - Alan Turing
+  - Kurt Gödel
+  - pragmatism
+  - mathematical tools
+  - axiomatic negotiation
+  - epistemic humility
+  - computational topology
+  - logical deconstruction
+  - philosophy of technology
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 headless: false
 isCJKLanguage: false
 translationKey: ''
@@ -103,7 +103,6 @@ sitemap:
   filename: sitemap.xml
 ai_generated: false
 ---
-
 
 # Introduction
 

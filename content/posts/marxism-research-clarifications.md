@@ -1,10 +1,8 @@
 ---
 title: Marxism Research Clarifications
 linkTitle: Marxism Research Clarifications
-description: >-
-  Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…
-summary: >-
-  Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/How…
+description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…'
+summary: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/How…'
 slug: marxism-research-clarifications
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-01-25'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/How…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: marxism-research-clarifications
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: marxism-research-clarifications
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

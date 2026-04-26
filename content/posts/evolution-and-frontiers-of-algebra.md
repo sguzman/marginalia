@@ -11,61 +11,61 @@ lastmod: '2026-02-12'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories:
-- Mathematics
-- Algebra
-- History of Mathematics
-- Mathematical Structures
+  - Mathematics
+  - Algebra
+  - History of Mathematics
+  - Mathematical Structures
 tags:
-- algebra
-- history
-- abstract-algebra
-- group-theory
-- ring-theory
-- field-theory
-- galois-theory
-- linear-algebra
-- representation-theory
-- lie-algebras
-- hopf-algebras
-- homological-algebra
-- algebraic-geometry
-- category-theory
-- computational-algebra
-- groebner-bases
-- cryptography
-- coding-theory
-- langlands
+  - algebra
+  - history
+  - abstract-algebra
+  - group-theory
+  - ring-theory
+  - field-theory
+  - galois-theory
+  - linear-algebra
+  - representation-theory
+  - lie-algebras
+  - hopf-algebras
+  - homological-algebra
+  - algebraic-geometry
+  - category-theory
+  - computational-algebra
+  - groebner-bases
+  - cryptography
+  - coding-theory
+  - langlands
 keywords:
-- algebra
-- history of algebra
-- abstract algebra
-- symbolic notation
-- group theory
-- ring theory
-- field theory
-- Galois theory
-- linear algebra
-- representation theory
-- Lie algebra
-- Hopf algebra
-- homological algebra
-- algebraic geometry
-- category theory
-- computational algebra
-- Groebner bases
-- cryptography
-- coding theory
-- symmetry
-- Langlands program
+  - algebra
+  - history of algebra
+  - abstract algebra
+  - symbolic notation
+  - group theory
+  - ring theory
+  - field theory
+  - Galois theory
+  - linear algebra
+  - representation theory
+  - Lie algebra
+  - Hopf algebra
+  - homological algebra
+  - algebraic geometry
+  - category theory
+  - computational algebra
+  - Groebner bases
+  - cryptography
+  - coding theory
+  - symmetry
+  - Langlands program
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: A graduate-level survey of algebra’s evolution from ancient, rhetorical problem-solving traditions to modern abstract and structural formulations. It traces key historical milestones (e.g., the rise of symbolic notation, the solution of higher-degree equations, and the 19th-century emergence of group and Galois theory), maps major contemporary subfields (groups, rings, fields, modules, representation theory, Lie/Hopf algebras, homological algebra, category-adjacent viewpoints), and highlights interdisciplinary applications in science and technology. The report also examines philosophical and pedagogical debates around abstraction and “structuralism,” and sketches forward-looking frontiers such as higher algebra, quantum/categorical methods, and computer/AI-assisted discovery.
   creator: Salvador Guzman
@@ -89,18 +89,17 @@ meta:
   status: final
   subject: algebra
   subjects:
-  - algebra
-  - history of mathematics
-  - abstract structures
-  - group theory
-  - Galois theory
+    - algebra
+    - history of mathematics
+    - abstract structures
+    - group theory
+    - Galois theory
   subtitle: A Comprehensive Historical and Conceptual Analysis
   toc: true
   type: report
 series: []
 ai_generated: true
 ---
-
 
 ## 1. Executive Summary
 

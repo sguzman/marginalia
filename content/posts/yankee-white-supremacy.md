@@ -1,10 +1,8 @@
 ---
 title: Yankee White Supremacy
 linkTitle: Yankee White Supremacy
-description: >-
-  We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
-summary: >-
-  We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control, denying agency to subordinated groups, and exempting themselves from critiques of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation of others’ racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century supports many elements of this pattern. For example, Reconstruction-era bureaucrats (wi…
+description: We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
+summary: 'We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control, denying agency to subordinated groups, and exempting themselves from critiques of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation of others’ racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century supports many elements of this pattern. For example, Reconstruction-era bureaucrats (wi…'
 slug: yankee-white-supremacy
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-02-27'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control, denying agency to subordinated groups, and exempting themselves from critiques of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation of others’ racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century supports many elements of this pattern. For example, Reconstruction-era bureaucrats (wi…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-27'
   description: We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: yankee-white-supremacy
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: yankee-white-supremacy
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

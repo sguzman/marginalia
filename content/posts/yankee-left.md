@@ -1,10 +1,8 @@
 ---
 title: Yankee Left
 linkTitle: Yankee Left
-description: >-
-  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
-summary: >-
-  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse that frames all conflicts in terms of universalized ethical values. Drawing on historical context, political theory, and concrete examples, we show how this elite coalition manufactures consent through cultural hegemony and institutional control, often at the expense of working-class concerns. Key findings include: a history rooted in early 20th-century Social Gospel liberalism that secularized into modern “woke” managerialis…
+description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+summary: 'This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse that frames all conflicts in terms of universalized ethical values. Drawing on historical context, political theory, and concrete examples, we show how this elite coalition manufactures consent through cultural hegemony and institutional control, often at the expense of working-class concerns. Key findings include: a history rooted in early 20th-century Social Gospel liberalism that secularized into modern “woke” managerialis…'
 slug: yankee-left
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse that frames all conflicts in terms of universalized ethical values. Drawing on historical context, political theory, and concrete examples, we show how this elite coalition manufactures consent through cultural hegemony and institutional control, often at the expense of working-class concerns. Key findings include: a history rooted in early 20th-century Social Gospel liberalism that secularized into modern “woke” managerialis…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: yankee-left
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: yankee-left
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

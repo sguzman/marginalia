@@ -1,10 +1,8 @@
 ---
 title: Nations Right Wing Critique
 linkTitle: Nations Right Wing Critique
-description: >-
-  - Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…
-summary: >-
-  - Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country(https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)(https://williameasterly.files.wordpress.com/2010/08/59_easterly_alesina_matuszeski_artificialstates_prp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for…
+description: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…'
+summary: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country(https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)(https://williameasterly.files.wordpress.com/2010/08/59easterlyalesinamatuszeskiartificialstatesprp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for loca…'
 slug: nations-right-wing-critique
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-04-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
-  abstract: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country(https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)(https://williameasterly.files.wordpress.com/2010/08/59_easterly_alesina_matuszeski_artificialstates_prp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for…'
+  abstract: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country(https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)(https://williameasterly.files.wordpress.com/2010/08/59easterlyalesinamatuszeskiartificialstatesprp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for loca…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: nations-right-wing-critique
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: nations-right-wing-critique
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

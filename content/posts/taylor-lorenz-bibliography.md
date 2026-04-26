@@ -5,36 +5,52 @@ date: '2026-02-12'
 draft: false
 slug: taylor-lorenz-bibliography
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- Media
-- Journalism
-- Internet Culture
-- Online Harassment
+  - Media
+  - Journalism
+  - Internet Culture
+  - Online Harassment
 tags:
-- taylor-lorenz
-- journalism
-- ethics
-- doxxing
-- harassment
-- media
-- internet-culture
+  - taylor-lorenz
+  - journalism
+  - ethics
+  - doxxing
+  - harassment
+  - media
+  - internet-culture
 library_of_congress_classification:
   primary: ''
   area: ''
   note: ''
 meta:
-  abstract: 'An annotated bibliography on Taylor Lorenz and the surrounding controversies in internet-era journalism: harassment, doxxing debates, newsroom standards, and trust in media.
-
-    '
+  abstract: 'An annotated bibliography on Taylor Lorenz and the surrounding controversies in internet-era journalism: harassment, doxxing debates, newsroom standards, and trust in media.'
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-taylor-lorenz-bibliography
   report: {}
+  publisher: Marginalia
+  license: CC0-1.0
+  rights: CC0-1.0
+  language: en
+  identifier: taylor-lorenz-bibliography
+  status: published
+  type: article
+  subjects:
+    - Media
+    - Journalism
+    - Internet Culture
+    - Online Harassment
+    - taylor-lorenz
+    - journalism
+    - ethics
+    - doxxing
+    - harassment
+    - media
+    - internet-culture
 ai_generated: true
 ---
-
 
 # Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)
 

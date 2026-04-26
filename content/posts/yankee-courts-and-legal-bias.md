@@ -1,10 +1,8 @@
 ---
 title: Yankee Courts And Legal Bias
 linkTitle: Yankee Courts And Legal Bias
-description: >-
-  A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
-summary: >-
-  A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate business, property, and government powers at the expense of labor, individuals, or progressive aims. For example, early cases like Dartmouth College v. Woodward (1819) and Lochner v. New York (1905) protected corporate charters and struck down labor regulations(https://supreme.justia.com/cases/federal/us/17/518/#:~:text=The%20charter%20granted%20by%20the,not%20dissolved%20by%20the%20Revolution)(https://constitutioncenter.org/the-constitution/supreme-court-case-library/lochner-v-new-york#:~:text=vis,legitimate%20health%20or%20safety%20objective), while m…
+description: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+summary: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate business, property, and government powers at the expense of labor, individuals, or progressive aims. For example, early cases like Dartmouth College v. Woodward (1819) and Lochner v. New York (1905) protected corporate charters and struck down labor regulations(https://supreme.justia.com/cases/federal/us/17/518/#:~:text=The%20charter%20granted%20by%20the,not%20dissolved%20by%20the%20Revolution)(https://constitutioncenter.org/the-constitution/supreme-court-case-library/lochner-v-new-york#:~:text=vis,legitimate%20health%20or%20safety%20objective), while m…
 slug: yankee-courts-and-legal-bias
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-21'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate business, property, and government powers at the expense of labor, individuals, or progressive aims. For example, early cases like Dartmouth College v. Woodward (1819) and Lochner v. New York (1905) protected corporate charters and struck down labor regulations(https://supreme.justia.com/cases/federal/us/17/518/#:~:text=The%20charter%20granted%20by%20the,not%20dissolved%20by%20the%20Revolution)(https://constitutioncenter.org/the-constitution/supreme-court-case-library/lochner-v-new-york#:~:text=vis,legitimate%20health%20or%20safety%20objective), while m…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: yankee-courts-and-legal-bias
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: yankee-courts-and-legal-bias
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

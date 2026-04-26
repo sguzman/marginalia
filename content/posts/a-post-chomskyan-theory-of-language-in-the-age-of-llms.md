@@ -1,10 +1,8 @@
 ---
 title: A Post-Chomskyan Theory of Language in the Age of LLMs
 linkTitle: A Post-Chomskyan Theory of Language in the Age of LLMs
-description: >-
-  A Post-Chomskyan Theory of Language in the Age of LLMs
-summary: >-
-  A Post-Chomskyan Theory of Language in the Age of LLMs
+description: A Post-Chomskyan Theory of Language in the Age of LLMs
+summary: A Post-Chomskyan Theory of Language in the Age of LLMs
 slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-03'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: A Post-Chomskyan Theory of Language in the Age of LLMs
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-03'
   description: A Post-Chomskyan Theory of Language in the Age of LLMs
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: a-post-chomskyan-theory-of-language-in-the-age-of-llms
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

@@ -1,10 +1,8 @@
 ---
 title: Taylor
 linkTitle: Taylor
-description: >-
-  Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
-summary: >-
-  Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz's career from 2010 to the present, emphasizing contentious episodes that raise questions about journalistic norms such as doxxing (revealing personal identities), participatory reporting (when journalists become part of the story), and perceived ethical breaches. Key findings include:
+description: Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
+summary: 'Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz''s career from 2010 to the present, emphasizing contentious episodes that raise questions about journalistic norms such as doxxing (revealing personal identities), participatory reporting (when journalists become part of the story), and perceived ethical breaches. Key findings include:'
 slug: taylor
 url: ''
 aliases: []
@@ -12,45 +10,45 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Media
-- Journalism
-- Internet Culture
-- Online Harassment
+  - Media
+  - Journalism
+  - Internet Culture
+  - Online Harassment
 tags: &id003
-- taylor-lorenz
-- journalism
-- ethics
-- doxxing
-- harassment
-- media
-- internet-culture
+  - taylor-lorenz
+  - journalism
+  - ethics
+  - doxxing
+  - harassment
+  - media
+  - internet-culture
 keywords: &id002
-- Taylor Lorenz
-- internet culture
-- journalism ethics
-- doxxing
-- online harassment
-- media trust
-- newsroom standards
-- platform politics
+  - Taylor Lorenz
+  - internet culture
+  - journalism ethics
+  - doxxing
+  - online harassment
+  - media trust
+  - newsroom standards
+  - platform politics
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz''s career from 2010 to the present, emphasizing contentious episodes that raise questions about journalistic norms such as doxxing (revealing personal identities), participatory reporting (when journalists become part of the story), and perceived ethical breaches. Key findings include:'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-taylor-lorenz-bibliography
   date: '2026-02-12'
   description: Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
@@ -85,13 +83,13 @@ meta:
   slug: taylor
   status: complete
   subject:
-  - Journalism
-  - Media ethics
-  - Internet culture
+    - Journalism
+    - Media ethics
+    - Internet culture
   subjects:
-  - Journalism
-  - Media ethics
-  - Internet culture
+    - Journalism
+    - Media ethics
+    - Internet culture
   subtitle: Sources on controversy, ethics, and internet-era reporting
   tags: *id003
   title: Taylor

@@ -5,24 +5,24 @@ date: '2026-02-12'
 draft: false
 slug: kern-county-cannabis-legal-environment
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- Law
-- Public Policy
-- Cannabis
-- California
+  - Law
+  - Public Policy
+  - Cannabis
+  - California
 tags:
-- kern-county
-- california
-- cannabis-law
-- local-control
-- zoning
-- ceqa
-- metrc
-- 280e
-- banking
-- compliance
+  - kern-county
+  - california
+  - cannabis-law
+  - local-control
+  - zoning
+  - ceqa
+  - metrc
+  - 280e
+  - banking
+  - compliance
 library_of_congress_classification:
   primary: ''
   area: ''
@@ -30,15 +30,36 @@ library_of_congress_classification:
 meta:
   abstract: A practical legal and compliance overview of cannabis cultivation as it relates to (1) continuing federal prohibition under the Controlled Substances Act, (2) California’s statewide licensing regime administered by the Department of Cannabis Control (DCC), and (3) local control in Kern County and its cities. The article summarizes key constraints that shape feasibility - including Schedule I status, 280E tax treatment, banking friction, licensing categories, local authorization prerequisites, track-and-trace (METRC) obligations, security and recordkeeping rules, CEQA and environmental compliance, and enforcement exposure - with special emphasis on Kern County’s local prohibition of commercial activity and the limited, city-specific exceptions elsewhere in the county.
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: kern-county-cannabis-legal-environment
   report:
     false: KERN-001
     number: '001'
     year: '2026'
+  publisher: Marginalia
+  license: CC0-1.0
+  rights: CC0-1.0
+  language: en
+  identifier: kern-county-cannabis-legal-environment
+  status: published
+  type: article
+  subjects:
+    - Law
+    - Public Policy
+    - Cannabis
+    - California
+    - kern-county
+    - california
+    - cannabis-law
+    - local-control
+    - zoning
+    - ceqa
+    - metrc
+    - 280e
+    - banking
+    - compliance
 ai_generated: true
 ---
-
 
 # Kern County and the Cannabis Legal Environment
 

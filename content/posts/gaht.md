@@ -1,10 +1,8 @@
 ---
 title: Gender and GAHT
 linkTitle: Gender and GAHT
-description: >-
-  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-summary: >-
-  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
+description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+summary: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
 slug: gaht
 url: ''
 aliases: []
@@ -12,65 +10,65 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Health
-- Endocrinology
-- Gender
-- Public Policy
+  - Health
+  - Endocrinology
+  - Gender
+  - Public Policy
 tags: &id003
-- gaht
-- gender
-- endocrinology
-- health
-- puberty-blockers
-- estradiol
-- antiandrogens
-- bone-health
-- vte-risk
-- fertility
-- mental-health
-- policy
+  - gaht
+  - gender
+  - endocrinology
+  - health
+  - puberty-blockers
+  - estradiol
+  - antiandrogens
+  - bone-health
+  - vte-risk
+  - fertility
+  - mental-health
+  - policy
 keywords: &id002
-- GAHT
-- gender-affirming hormone therapy
-- gender dysphoria
-- AMAB
-- estradiol
-- anti-androgens
-- spironolactone
-- GnRHa
-- puberty blockers
-- Tanner staging
-- body composition
-- breast development
-- bone mineral density
-- DEXA
-- lipids
-- VTE
-- thromboembolism
-- transdermal estrogen
-- fertility preservation
-- sperm banking
-- psychosocial outcomes
-- WPATH
-- Endocrine Society
+  - GAHT
+  - gender-affirming hormone therapy
+  - gender dysphoria
+  - AMAB
+  - estradiol
+  - anti-androgens
+  - spironolactone
+  - GnRHa
+  - puberty blockers
+  - Tanner staging
+  - body composition
+  - breast development
+  - bone mineral density
+  - DEXA
+  - lipids
+  - VTE
+  - thromboembolism
+  - transdermal estrogen
+  - fertility preservation
+  - sperm banking
+  - psychosocial outcomes
+  - WPATH
+  - Endocrine Society
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
   description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
@@ -95,11 +93,11 @@ meta:
     kind: health overview
     population_focus: AMAB feminizing GAHT
     scope:
-    - physiologic effects
-    - age of initiation (early vs late)
-    - risks and benefits
-    - monitoring themes
-    - evidence gaps
+      - physiologic effects
+      - age of initiation (early vs late)
+      - risks and benefits
+      - monitoring themes
+      - evidence gaps
     stance: non-prescriptive summary
   report-no: GVA-HEALTH-2026-001
   report-number: '001'
@@ -114,20 +112,20 @@ meta:
   slug: gaht
   status: complete
   subject:
-  - Gender-affirming care
-  - Hormone therapy
-  - Endocrinology
-  - Adolescent health
-  - Risk assessment
+    - Gender-affirming care
+    - Hormone therapy
+    - Endocrinology
+    - Adolescent health
+    - Risk assessment
   subjects:
-  - Gender-affirming hormone therapy
-  - Estrogen therapy
-  - Androgen suppression
-  - Puberty suppression (GnRHa)
-  - Bone health and BMD
-  - Cardiovascular and thromboembolic risk
-  - Fertility preservation
-  - Mental health and quality of life
+    - Gender-affirming hormone therapy
+    - Estrogen therapy
+    - Androgen suppression
+    - Puberty suppression (GnRHa)
+    - Bone health and BMD
+    - Cardiovascular and thromboembolic risk
+    - Fertility preservation
+    - Mental health and quality of life
   subtitle: Physiological Effects, Risks, and Timing
   tags: *id003
   title: Gender and GAHT

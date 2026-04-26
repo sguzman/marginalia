@@ -5,30 +5,30 @@ date: '2026-02-12'
 draft: false
 slug: jewish-political-activism-us-1880-2025
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- history
-- politics
-- united-states
-- judaism
-- activism
+  - history
+  - politics
+  - united-states
+  - judaism
+  - activism
 tags:
-- labor
-- unions
-- civil-rights
-- coalition-politics
-- diaspora
-- antisemitism
-- lobbying
-- aipac
-- adL
-- ajc
-- neoconservatism
-- campus-activism
-- bds
-- social-media
-- u.s.-israel
+  - labor
+  - unions
+  - civil-rights
+  - coalition-politics
+  - diaspora
+  - antisemitism
+  - lobbying
+  - aipac
+  - adL
+  - ajc
+  - neoconservatism
+  - campus-activism
+  - bds
+  - social-media
+  - u.s.-israel
 library_of_congress_classification:
   primary: E
   area: ''
@@ -36,7 +36,7 @@ library_of_congress_classification:
 meta:
   abstract: A long-run survey of Jewish political activism in the United States from 1880 to 2025, tracking shifts from immigrant labor organizing to civil-rights coalition politics, pro- and anti-communist foreign-policy networks, and contemporary campus/digital-era polarization. Emphasizes mechanisms of influence (votes, unions, litigation, philanthropy, lobbying, media) while separating documented influence from conspiratorial tropes.
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: jewish-political-activism-us-1880-2025
   report:
     kind: historical survey
@@ -45,9 +45,36 @@ meta:
     topic: Jewish political activism
     series: Gold, Velvet and Ashes Reports
     id: GVA-2026-001
+  publisher: Marginalia
+  license: CC0-1.0
+  rights: CC0-1.0
+  language: en
+  identifier: jewish-political-activism-us-1880-2025
+  status: published
+  type: article
+  subjects:
+    - history
+    - politics
+    - united-states
+    - judaism
+    - activism
+    - labor
+    - unions
+    - civil-rights
+    - coalition-politics
+    - diaspora
+    - antisemitism
+    - lobbying
+    - aipac
+    - adL
+    - ajc
+    - neoconservatism
+    - campus-activism
+    - bds
+    - social-media
+    - u.s.-israel
 ai_generated: true
 ---
-
 
 # Jewish Political Activism in the United States
 

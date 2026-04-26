@@ -1,10 +1,8 @@
 ---
 title: Symbolic Post Masculinity
 linkTitle: Symbolic Post Masculinity
-description: >-
-  As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, phys…
-summary: >-
-  As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, physical strength, and patriarchal authority. The result is a contradiction: masculinity is both felt as an essential part of self-worth and increasingly deselected by modern institutions. In practice this leads men to express masculinity more as theater than function. Traditional provider or protector roles no longer guarantee prestige, so men resort to symbolic performance – projecting manhood through style, spectacle, and affect. In other words, masculinity becomes “cargo-cult”: imitating the look of old masculine power (e.g. muscularity, aggression, stoi…
+description: As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, phys…
+summary: 'As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, physical strength, and patriarchal authority. The result is a contradiction: masculinity is both felt as an essential part of self-worth and increasingly deselected by modern institutions. In practice this leads men to express masculinity more as theater than function. Traditional provider or protector roles no longer guarantee prestige, so men resort to symbolic performance – projecting manhood through style, spectacle, and affect. In other words, masculinity becomes “cargo-cult”: imitating the look of old masculine power (e.g. muscularity, aggression, stoi…'
 slug: symbolic-post-masculinity
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, physical strength, and patriarchal authority. The result is a contradiction: masculinity is both felt as an essential part of self-worth and increasingly deselected by modern institutions. In practice this leads men to express masculinity more as theater than function. Traditional provider or protector roles no longer guarantee prestige, so men resort to symbolic performance – projecting manhood through style, spectacle, and affect. In other words, masculinity becomes “cargo-cult”: imitating the look of old masculine power (e.g. muscularity, aggression, stoi…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, phys…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: symbolic-post-masculinity
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: symbolic-post-masculinity
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

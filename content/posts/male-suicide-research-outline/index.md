@@ -1,10 +1,8 @@
 ---
 title: Male Suicide Research Outline
 linkTitle: Male Suicide Research Outline
-description: >-
-  <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.…
-summary: >-
-  <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.
+description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.…'
+summary: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.'
 slug: male-suicide-research-outline
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-01-25'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: male-suicide-research-outline
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: male-suicide-research-outline
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

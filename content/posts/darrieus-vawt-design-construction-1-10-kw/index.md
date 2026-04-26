@@ -1,10 +1,8 @@
 ---
 title: Darrieus VAWT Design & Construction (1–10 kW)
 linkTitle: Darrieus VAWT Design & Construction (1–10 kW)
-description: >-
-  Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…
-summary: >-
-  Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, power coefficient, dynamic stall, cyclic loads), common rotor geometries (curved “egg-beater,” straight H-/Giromill, helical), airfoil choices and blade sizing, structural design (materials, fatigue, struts, bearings, tower), starting methods (Savonius hybrid, motor assist, passive twist), drivetrain and generators (direct-drive PM vs. geared induction, power electronics), mechanical subsystems (shaft, torque smoothing, no yaw needed), manufacturing methods, instrumentation/testing, safety/maintenance, modeling/simulation (CFD, blade-element), a build plan…
+description: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…'
+summary: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, power coefficient, dynamic stall, cyclic loads), common rotor geometries (curved “egg-beater,” straight H-/Giromill, helical), airfoil choices and blade sizing, structural design (materials, fatigue, struts, bearings, tower), starting methods (Savonius hybrid, motor assist, passive twist), drivetrain and generators (direct-drive PM vs. geared induction, power electronics), mechanical subsystems (shaft, torque smoothing, no yaw needed), manufacturing methods, instrumentation/testing, safety/maintenance, modeling/simulation (CFD, blade-element), a build plan…'
 slug: darrieus-vawt-design-construction-1-10-kw
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-04-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, power coefficient, dynamic stall, cyclic loads), common rotor geometries (curved “egg-beater,” straight H-/Giromill, helical), airfoil choices and blade sizing, structural design (materials, fatigue, struts, bearings, tower), starting methods (Savonius hybrid, motor assist, passive twist), drivetrain and generators (direct-drive PM vs. geared induction, power electronics), mechanical subsystems (shaft, torque smoothing, no yaw needed), manufacturing methods, instrumentation/testing, safety/maintenance, modeling/simulation (CFD, blade-element), a build plan…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: darrieus-vawt-design-construction-1-10-kw
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: darrieus-vawt-design-construction-1-10-kw
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

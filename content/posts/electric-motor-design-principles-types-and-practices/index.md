@@ -1,10 +1,8 @@
 ---
 title: 'Electric Motor Design: Principles, Types, and Practices'
 linkTitle: 'Electric Motor Design: Principles, Types, and Practices'
-description: >-
-  Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://national…
-summary: >-
-  Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/faraday-motor-1821/#:~:text=Self,current%20produces%20a%20magnetic%20field) through Tesla’s 1888 AC induction motor patents(https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor#:~:text=It%20fell%20to%20Edison%E2%80%99s%20former,the%20requisite%20AC%20transformers%20and) to today’s high-efficiency drives. Designing a custom motor requires understanding electromagnetic fundamentals, machine types, performance trade-offs, materials, control electronics, and manufactur…
+description: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://national…'
+summary: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/faraday-motor-1821/#:~:text=Self,current%20produces%20a%20magnetic%20field) through Tesla’s 1888 AC induction motor patents(https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor#:~:text=It%20fell%20to%20Edison%E2%80%99s%20former,the%20requisite%20AC%20transformers%20and) to today’s high-efficiency drives. Designing a custom motor requires understanding electromagnetic fundamentals, machine types, performance trade-offs, materials, control electronics, and manufactur…'
 slug: electric-motor-design-principles-types-and-practices
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-04-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/faraday-motor-1821/#:~:text=Self,current%20produces%20a%20magnetic%20field) through Tesla’s 1888 AC induction motor patents(https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor#:~:text=It%20fell%20to%20Edison%E2%80%99s%20former,the%20requisite%20AC%20transformers%20and) to today’s high-efficiency drives. Designing a custom motor requires understanding electromagnetic fundamentals, machine types, performance trade-offs, materials, control electronics, and manufactur…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://national…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: electric-motor-design-principles-types-and-practices
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: electric-motor-design-principles-types-and-practices
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

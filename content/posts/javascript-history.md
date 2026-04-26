@@ -1,10 +1,8 @@
 ---
 title: The Formal and Informal History of JavaScript (1995--2025)
 linkTitle: The Formal and Informal History of JavaScript (1995--2025)
-description: >-
-  The Formal and Informal History of JavaScript (1995--2025)
-summary: >-
-  The Formal and Informal History of JavaScript (1995--2025)
+description: The Formal and Informal History of JavaScript (1995--2025)
+summary: The Formal and Informal History of JavaScript (1995--2025)
 slug: javascript-history
 url: ''
 aliases: []
@@ -12,65 +10,65 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Computing
-- Programming Languages
-- Web History
-- Software Ecosystems
+  - Computing
+  - Programming Languages
+  - Web History
+  - Software Ecosystems
 tags: &id003
-- javascript
-- ecmascript
-- tc39
-- web
-- browser-wars
-- dom
-- ajax
-- json
-- v8
-- spidermonkey
-- nodejs
-- npm
-- frameworks
-- tooling
-- governance
+  - javascript
+  - ecmascript
+  - tc39
+  - web
+  - browser-wars
+  - dom
+  - ajax
+  - json
+  - v8
+  - spidermonkey
+  - nodejs
+  - npm
+  - frameworks
+  - tooling
+  - governance
 keywords: &id002
-- JavaScript
-- ECMAScript
-- ECMA-262
-- TC39
-- browser wars
-- DOM
-- AJAX
-- JSON
-- V8
-- SpiderMonkey
-- JavaScriptCore
-- Chakra
-- Node.js
-- Deno
-- Bun
-- npm
-- jQuery
-- frameworks
-- tooling
-- standards governance
+  - JavaScript
+  - ECMAScript
+  - ECMA-262
+  - TC39
+  - browser wars
+  - DOM
+  - AJAX
+  - JSON
+  - V8
+  - SpiderMonkey
+  - JavaScriptCore
+  - Chakra
+  - Node.js
+  - Deno
+  - Bun
+  - npm
+  - jQuery
+  - frameworks
+  - tooling
+  - standards governance
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: The Formal and Informal History of JavaScript (1995--2025)
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: js-history-1995-2025
   date: '2026-02-12'
   description: The Formal and Informal History of JavaScript (1995--2025)
@@ -113,17 +111,17 @@ meta:
   slug: javascript-history
   status: draft
   subject:
-  - JavaScript (Computer program language) -- History
-  - Web browsers -- History
-  - Web applications -- Development
+    - JavaScript (Computer program language) -- History
+    - Web browsers -- History
+    - Web applications -- Development
   subjects:
-  - JavaScript (Computer program language) -- History
-  - ECMAScript -- Standards
-  - Standards organizations -- TC39
-  - World Wide Web -- Standards
-  - Web browsers -- History
-  - Software tools -- History
-  - Open source software -- Communities
+    - JavaScript (Computer program language) -- History
+    - ECMAScript -- Standards
+    - Standards organizations -- TC39
+    - World Wide Web -- Standards
+    - Web browsers -- History
+    - Software tools -- History
+    - Open source software -- Communities
   subtitle: Standards, engines, frameworks, tooling, and culture across three decades
   tags: *id003
   title: The Formal and Informal History of JavaScript (1995--2025)

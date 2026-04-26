@@ -1,10 +1,8 @@
 ---
 title: Category Theory Research Scope
 linkTitle: Category Theory Research Scope
-description: >-
-  1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
-summary: >-
-  1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper “General Theory of Natural Equivalences”(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
+description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
+summary: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper “General Theory of Natural Equivalences”(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
 slug: category-theory-research-scope
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-01-25'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper “General Theory of Natural Equivalences”(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: category-theory-research-scope
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: category-theory-research-scope
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

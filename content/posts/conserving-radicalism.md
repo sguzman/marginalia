@@ -1,10 +1,8 @@
 ---
 title: Conservation of Radicalism and Asymmetric Co-optability
 linkTitle: Conservation of Radicalism and Asymmetric Co-optability
-description: >-
-  Conservation of Radicalism and Asymmetric Co-optability
-summary: >-
-  Conservation of Radicalism and Asymmetric Co-optability
+description: Conservation of Radicalism and Asymmetric Co-optability
+summary: Conservation of Radicalism and Asymmetric Co-optability
 slug: conserving-radicalism
 url: ''
 aliases: []
@@ -12,53 +10,53 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- politics
-- political-theory
-- sociology
-- social-movements
+  - politics
+  - political-theory
+  - sociology
+  - social-movements
 tags: &id003
-- co-optation
-- institutionalization
-- nonprofit-industrial-complex
-- culture-war
-- class
-- identity
-- radicalism
-- populism
-- complex-plane
+  - co-optation
+  - institutionalization
+  - nonprofit-industrial-complex
+  - culture-war
+  - class
+  - identity
+  - radicalism
+  - populism
+  - complex-plane
 keywords: &id002
-- conservation of radicalism
-- radical energy
-- co-optation
-- institutionalization
-- nonprofit industrial complex
-- foundations
-- professionalization
-- political parties
-- culture war
-- class politics
-- identity politics
-- right-wing populism
-- asymmetric co-optability
-- complex plane model
+  - conservation of radicalism
+  - radical energy
+  - co-optation
+  - institutionalization
+  - nonprofit industrial complex
+  - foundations
+  - professionalization
+  - political parties
+  - culture war
+  - class politics
+  - identity politics
+  - right-wing populism
+  - asymmetric co-optability
+  - complex plane model
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Conservation of Radicalism and Asymmetric Co-optability
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva:complex-conserving-radicalism
   date: '2026-02-12'
   description: Conservation of Radicalism and Asymmetric Co-optability
@@ -76,8 +74,8 @@ meta:
   library_of_congress_classification:
     primary: JC
     secondary:
-    - HN
-    - HX
+      - HN
+      - HX
   license: CC0-1.0
   number-sections: true
   plate_id: gva-plate:complex-conserving-radicalism
@@ -101,21 +99,21 @@ meta:
   slug: conserving-radicalism
   status: draft
   subject:
-  - political radicalism
-  - social movements
-  - institutional co-optation
-  - culture war
-  - class politics
-  - right-wing populism
-  - liberal democracy
+    - political radicalism
+    - social movements
+    - institutional co-optation
+    - culture war
+    - class politics
+    - right-wing populism
+    - liberal democracy
   subjects:
-  - political radicalism
-  - social movements
-  - institutional co-optation
-  - culture war
-  - class politics
-  - right-wing populism
-  - liberal democracy
+    - political radicalism
+    - social movements
+    - institutional co-optation
+    - culture war
+    - class politics
+    - right-wing populism
+    - liberal democracy
   subtitle: A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric co-optability
   tags: *id003
   title: Conservation of Radicalism and Asymmetric Co-optability
@@ -762,7 +760,6 @@ Finally, we compile the deliverables requested:
 
 **Data & Case-Specific:** - **ADL (2024). *"Murder & Extremism" Reports. -- Annual reports quantifying extremist killings[\[12\]](https://www.adl.org/resources/report/murder-and-extremism-united-states-2024#:~:text=,involved%20adherents%20of%20the%20anti). Show empirical shift to 100% right-wing violence in recent years in US (e.g. 2024 report states all extremist murders were by right-wing extremists for third year running[\[12\]](https://www.adl.org/resources/report/murder-and-extremism-united-states-2024#:~:text=,involved%20adherents%20of%20the%20anti)). This data robustly supports our evidence of radicalism moving right in violent expression. - Gallup & Pew Polling Data (Trust and Media) -- (Summaries we used: Gallup 2025 trust in media[\[6\]](https://news.gallup.com/poll/695762/trust-media-new-low.aspx#:~:text=Although%20Democrats%20and%20Republicans%20continue,points%20among%20all%20party%20groups), Pew 2019 trust in gov). These show record-low trust among conservatives in media/gov, indicating right's rejection of establishment. Used to bolster asymmetry (they won't work within institutions they despise). - Guardian (Krause et al. 2022). "Copying far right doesn't help mainstream".***[\[7\]](https://www.theguardian.com/world/commentisfree/2022/apr/13/copying-far-right-doesnt-help-mainstream-parties#:~:text=Based%20on%20this%20broad%20and,up%20contributing%20to%20its%20success) -- Summary of academic analysis. Found accommodating far-right by mainstream parties tends to boost far-right. This is direct evidence for asymmetry claim (co-optation of right issues backfires). The piece is easy to cite in argument.
 
-**Next-Step Research Plan**
 
 To further test and refine our understanding, we propose:
 
@@ -780,7 +777,6 @@ To further test and refine our understanding, we propose:
 
 Reading priorities: - More on **post-2016 political realignments** (e.g. books like "White Working Class" by Williams, "Dying of Whiteness" by Metzl) for nuance on grievance content. - Works on **"woke capitalism"** (e.g. Haskell's "Political Capitalism") to see if corporate co-optation had measurable effects on activism and public trust. - **Digital radicalization** studies (e.g. upcoming reports from think tanks on QAnon deradicalization or case studies of deplatforming outcomes) to refine how tech intersects with co-optation/resistance.
 
-By pursuing these next steps, we can better isolate causes, verify the model in varied contexts, and derive lessons on mitigating radicalism responsibly (without just endless co-optation and backlash). The ultimate goal: a fuller theory that accounts for economic structure, cultural hegemony, and institutional mediation in shaping the ebb and flow of radical politics.
 
 ------------------------------------------------------------------------
 

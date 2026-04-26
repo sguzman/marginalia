@@ -12,8 +12,8 @@ lastmod: '2026-04-20T15:45:00Z'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 meta:
   abstract: This paper explores the intersection of mathematical formalism, computation, and symbolic syntax. Framing the "death" of the Hilbert program as a necessary tragedy that birthed modern computation, the author proposes a novel "Iterated Function Algebra." By encoding algebraic operations (addition, multiplication, exponentiation) as rank-ordered syntactic primitives, the work attempts to reduce the closed-form computation of iterated polynomials to pure function composition. The essay bridges historical philosophical debates—between formalism and intuitionism—with practical syntactic methods for model reduction to arithmetic.
   creator: Salvador Guzman
@@ -38,55 +38,55 @@ meta:
   status: final
   subject: mathematics
   subjects:
-  - mathematics
-  - algebra
-  - formalism
-  - computation
-  - iterated functions
-  - symbolic logic
-  - polynomial dynamics
+    - mathematics
+    - algebra
+    - formalism
+    - computation
+    - iterated functions
+    - symbolic logic
+    - polynomial dynamics
   subtitle: Syntax as the Poetry of Computation
   toc: true
   type: article
 layout: single
 weight: 0
 categories:
-- Mathematics
-- Philosophy of Mathematics
-- Computation
+  - Mathematics
+  - Philosophy of Mathematics
+  - Computation
 tags:
-- formalism
-- syntax
-- computation
-- polynomials
-- iteration
-- type signatures
-- operators
+  - formalism
+  - syntax
+  - computation
+  - polynomials
+  - iteration
+  - type signatures
+  - operators
 keywords:
-- formalism
-- Hilbert program
-- intuitionism
-- syntax
-- provability
-- lambda calculus
-- combinatory logic
-- type theory
-- polynomials
-- iteration
-- closed form
-- operator theory
-- Godel numbering
-- iterated function algebra
-- syntactic primitives
-- function composition
-- model reduction
-- arithmetic reduction
-- computational poetry
-- symbolic syntax
+  - formalism
+  - Hilbert program
+  - intuitionism
+  - syntax
+  - provability
+  - lambda calculus
+  - combinatory logic
+  - type theory
+  - polynomials
+  - iteration
+  - closed form
+  - operator theory
+  - Godel numbering
+  - iterated function algebra
+  - syntactic primitives
+  - function composition
+  - model reduction
+  - arithmetic reduction
+  - computational poetry
+  - symbolic syntax
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 headless: false
 isCJKLanguage: false
 translationKey: ''
@@ -102,7 +102,6 @@ sitemap:
   filename: sitemap.xml
 ai_generated: true
 ---
-
 
 # The Tragedy of Formalism
 

@@ -1,10 +1,8 @@
 ---
 title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
 linkTitle: Land-Rooted Regional Ethnocultures, Elite Cultural Standa…
-description: >-
-  Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
-summary: >-
-  Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
+description: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
+summary: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
 slug: land-rooted-ethno
 url: ''
 aliases: []
@@ -12,62 +10,62 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- politics
-- sociology
-- political psychology
-- culture
-- regionalism
+  - politics
+  - sociology
+  - political psychology
+  - culture
+  - regionalism
 tags: &id003
-- appalachia
-- rural
-- identity
-- status-threat
-- resentment
-- institutions
-- pmc
-- culture-war
-- populism
-- dissidence
-- operationalization
-- falsifiable-claims
+  - appalachia
+  - rural
+  - identity
+  - status-threat
+  - resentment
+  - institutions
+  - pmc
+  - culture-war
+  - populism
+  - dissidence
+  - operationalization
+  - falsifiable-claims
 keywords: &id002
-- ethnoculture
-- regional identity
-- Appalachia
-- Upland South
-- rural sociology
-- culture of honor
-- kinship networks
-- evangelicalism
-- elite institutions
-- professional-managerial class
-- cultural standardization
-- status threat
-- rural consciousness
-- institutional distrust
-- populism
-- right-wing dissidence
-- radicalization
-- culture war
-- social movement theory
+  - ethnoculture
+  - regional identity
+  - Appalachia
+  - Upland South
+  - rural sociology
+  - culture of honor
+  - kinship networks
+  - evangelicalism
+  - elite institutions
+  - professional-managerial class
+  - cultural standardization
+  - status threat
+  - rural consciousness
+  - institutional distrust
+  - populism
+  - right-wing dissidence
+  - radicalization
+  - culture war
+  - social movement theory
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: land-rooted-ethnos
   date: '2026-02-12'
   description: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
@@ -85,8 +83,8 @@ meta:
   library_of_congress_classification:
     primary: HN
     secondary:
-    - JK
-    - E
+      - JK
+      - E
     notes: Provisional classification for an interdisciplinary essay on U.S. rural political culture, status politics, and institutional conflict.
   license: CC0-1.0
   number-sections: true
@@ -111,18 +109,18 @@ meta:
   slug: land-rooted-ethno
   status: published
   subject:
-  - U.S. political culture
-  - rural identity
-  - elite-mass conflict
-  - status politics
-  - institutional trust
+    - U.S. political culture
+    - rural identity
+    - elite-mass conflict
+    - status politics
+    - institutional trust
   subjects:
-  - rural sociology
-  - Appalachian studies
-  - social identity theory
-  - social movement theory
-  - political resentment
-  - culture war dynamics
+    - rural sociology
+    - Appalachian studies
+    - social identity theory
+    - social movement theory
+    - political resentment
+    - culture war dynamics
   subtitle: Place-based identity, prestige norms, and the mechanisms of recurring right backlash
   tags: *id003
   title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
@@ -556,149 +554,3 @@ In sum, the argument map shows a chain: *Distinct culture + elite norm enforceme
 Each of these sources contributed pieces: qualitative insight (Cramer, Hochschild), quantitative proof (Mutz, Pape), and historical context (Isenberg, Hartman). Combined, they bolster our confidence that our synthesis -- cultural status threat amplified by structural changes -- is well-founded.
 
 *(We preserved citations in main text for reference. The bibliography is grouped thematically for clarity.)*
-
-### 6. Next-Step Research Plan
-
-To further validate and refine this deep research, the following steps are recommended:
-
--   **Longitudinal Surveys of Perceived Cultural Threat:** Implement surveys in rural vs urban communities with questions like "Do you feel people like you are respected by national media/leaders?" tracked over time. This would directly measure the core sentiment. If possible, oversample younger rural cohorts to see if feelings differ by generation. This addresses whether the sense of domination is growing, and if it might wane with generational change or continued exposure to elite culture.
-
--   **Case Studies of Non-Radicalized Rural Communities:** Identify a few rural regions that have not embraced extreme dissidence (e.g., parts of New England, or communities with strong local industries or cross-cutting identities like unionized mining towns that remained Democratic). Conduct fieldwork or interviews there to see why -- what's different? Do they feel less disrespected, or do local institutions buffer them? This comparative approach could isolate factors that prevent cultural grievance from turning into radical politics (perhaps a strong local newspaper, or a respected bipartisan community leader). It would test our thesis by looking at exceptions.
-
--   **Integration Experiments:** Encourage or study pilot programs that attempt to integrate working-class rural voices into elite forums -- for example, a fellowship that brings rural community leaders to spend time in DC with policymakers, or conservative students in a program with journalists. Qualitatively and quantitatively evaluate if such exposure reduces mutual distrust or simply confirms it. If these "cultural exchange" efforts fail (participants leave even more angry or elites dismiss them), that bolsters the notion of structural resistance. If they succeed, we learn possible avenues to bridge the divide.
-
--   **Media Consumption Analysis:** Using social media data (Twitter, Facebook API if available) and YouTube recommendation tracking in rural counties, analyze what content people engage with and how it correlates with real-world actions (protests attendance, etc.). E.g., do spikes in certain narratives online precede local mobilizations? This can clarify the causal role of social media in moving from grievance to action. Collaborate with computational social scientists to map networks of influence (who are key node influencers in spreading anti-elite sentiment? Are they local figures or national pundits?). This informs how the movement sustains itself and could perhaps be countered or constructively engaged.
-
--   **Policy Impact Study:** Examine if any policy interventions have ameliorated the grievance in some locales -- for instance, did the opioid crisis response (federal aid, lawsuits against pharma) change attitudes any? Or if broadband internet was expanded in a county (reducing isolation and economic disadvantage), did that county's politics change (perhaps becoming less resentful as opportunities improve, or ironically more connected to far-right networks)? Basically, test if improvements in material conditions and infrastructure temper cultural resentment or not. Use a mixed-methods approach: statistical analysis of spending vs voting trends, plus interviews ("Do you feel DC helped here or do you still resent them?"). This addresses the falsifiability where if economic fixes don't ease resentment, it's clearly cultural, but if they do, maybe grievance was more malleable than thought.
-
--   **Generational and Racial Cross-Comparisons:** Expand research to other groups with regional cultures facing change (e.g., Black rural Southerners, or Hispanic rural communities in Southwest). Are their reactions similar or different? Black rural Americans faced cultural domination in reverse (white imposition historically), yet many remained pro-institution (seeing federal government as protector in civil rights). Studying why black rural citizens often still vote Democrat and trust certain institutions, despite also having grievances, can highlight what factors (perhaps different relationship with "elites" or different framing via black churches) alter the outcome. Likewise, how are Hispanic-majority small towns reacting to national culture (some trending GOP, some not)? This could refine whether the phenomenon is specifically tied to *losing* dominance, as opposed to just being culturally different. It would help disentangle racial privilege aspect of grievance.
-
--   **Monitor Co-optation Attempts within GOP:** Track careers of the new wave of Republican officials who come from the MAGA base -- do they remain confrontational or become institutionalized over, say, 5-10 years? This might involve interviews with congressional staff, analysis of their voting records vs rhetoric over time, etc. If many eventually moderate (which currently hasn't much happened, but time will tell), that would signal some system absorption. If they stay "firebrands" or are replaced by even more radical figures, that underscores structural resistance. In short, watch the evolution of the movement's interface with power.
-
-By pursuing these research directions, we can gain deeper insight into the durability and causes of this phenomenon, test the thesis against new data, and perhaps identify leverage points for bridging the cultural divide. The combination of quantitative trend analysis and qualitative community studies in these next steps will provide a richer, updated picture moving forward.
-
-------------------------------------------------------------------------
-
-[\[1\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=Tennessee%2C%20in%20the%201950s%2C%20and,centered%2C%20and) [\[2\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=relations,family%20relationships%20compared%20with%20typical) [\[3\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=close%20cooperation%20and%20intimacy%2C%20and,compared%20with%20typical%20urban%20families) [\[4\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=Tennessee%2C%20in%20the%201950s%2C%20and,Rural%20Appalachian%20families%20were) [\[5\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=The%20most%20influential%20regionwide%20survey,reified%20a%20cultural%20legacy%20of) [\[20\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=For%20sociologists%20of%20the%201960s%2C,viewed%20as%20a%20potential%20hindrance) [\[21\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=relations,compared%20with%20typical%20urban%20families) [\[22\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=Until%20the%20late%201960s%2C%20Appalachia%E2%80%99s,were%20being%20embraced%20throughout%20the) [\[23\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=The%20most%20influential%20regionwide%20survey,%E2%80%9Cpassing%20of%20provincialism%E2%80%9D%20in%20the) [\[24\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=A%20third%20challenge%20to%20the,While%20some%20sociologists%20interpreted%20Appalachian) [\[25\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=Walls%201976,1978) [\[26\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=by%20militant%20labor%20%28Corbin%201981%29,1978) [\[27\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=standards%2C%20these%20communities%20were%20highly,stratified%2C%20challenging%20monolithic%20images) [\[28\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=The%20interpretation%20of%20Appalachia%20as,portray%20Appalachians%20as%20innocent%20but) [\[29\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=Popularized%20in%20Jack%20Weller%E2%80%99s%20,rurality%20of%20the%20mountain%20section) [\[30\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=But%20the%20model%20lost%20favor,past%20before%20coal%20mining%2C%20picturing) [\[31\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=assumption%E2%80%94that%20is%2C%20%E2%80%9Cdue%20to%20the,designed%20to%20overcome%20such%20isolation) [\[32\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=ever%20culturally%20isolated%20or%20homogeneous,designed%20to%20overcome%20such%20isolation) [\[53\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=The%20interpretation%20of%20Appalachia%20as,Furthermore%2C%20analysts%20who) [\[54\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=the%20training%20of%20southern%20labor,reform%20efforts%20in%20several%20Appalachian) [\[71\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=modernization%2C%20the%20lingering%20effects%20of,of%20familism%20have%20led%20to) [\[81\]](https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/#:~:text=The%20interpretation%20of%20Appalachia%20as,portray%20Appalachians%20as%20innocent%20but) Appalachian Studies Research Paper - iResearchNet
-
-<https://www.iresearchnet.com/research-paper-examples/sociology-research-paper/appalachian-studies/>
-
-[\[6\]](https://baptistnews.com/article/republicans-increasingly-stand-alone-prri-finds/#:~:text=Republicans%20and%20white%20evangelicals%20are,as%20discrimination%20against%20other%20groups) [\[10\]](https://baptistnews.com/article/republicans-increasingly-stand-alone-prri-finds/#:~:text=) Republicans increasingly stand alone, PRRI finds -- Baptist News Global
-
-<https://baptistnews.com/article/republicans-increasingly-stand-alone-prri-finds/>
-
-[\[7\]](https://press.uchicago.edu/ucp/books/book/chicago/P/bo22879533.html#:~:text=With%20The%20Politics%20of%20Resentment%2C,of%20rural%20consciousness%2C%20showing%20how) [\[8\]](https://press.uchicago.edu/ucp/books/book/chicago/P/bo22879533.html#:~:text=%E2%80%9Cliberal%20elite,and%20their%20supporters%20really%20do) The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker, Cramer
-
-<https://press.uchicago.edu/ucp/books/book/chicago/P/bo22879533.html>
-
-[\[9\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=Populism%20also%20reflects%20class%20anger,democracy%E2%80%99s%20days%20may%20be%20numbered) [\[15\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=threatens%20U,MIT%20shows%20they%E2%80%99re%20likely%20right) [\[16\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=community%20is%20left%20behind%3A%20Regions,suburbs%20by%20two%20to%20one) [\[66\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=David%20Autor%E2%80%99s%20team%20at%20MIT,shows%20they%E2%80%99re%20likely%20right) [\[67\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=life%20expectancy%2C%20and%20workforce%20participation,suburbs%20by%20two%20to%20one) [\[72\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=Why%3F%20The%20harsh%20effects%20of,the%20%E2%80%9C%2017%20great%20risk) [\[73\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=finances%20and%20their%20self,formerly%20shouldered%20by%20their%20employers) [\[76\]](https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism#:~:text=Other%20studies%20focus%20narrowly%20on,documents%20how%20this%20drives%20the) Democratic Elites Don't Understand the Class Culture Gap \| The New Republic
-
-<https://newrepublic.com/article/165933/class-culture-gap-democratic-elites-economic-populism>
-
-[\[11\]](https://ls.berkeley.edu/news/sociologist-examines-appalachian-voters%E2%80%99-rightward-shift-trump-their-%E2%80%98shame-shield%E2%80%99#:~:text=For%20Tea%20Party%20conservatives%20who,more%20resentful%20by%20the%20day) [\[12\]](https://ls.berkeley.edu/news/sociologist-examines-appalachian-voters%E2%80%99-rightward-shift-trump-their-%E2%80%98shame-shield%E2%80%99#:~:text=over%20the%20hill%2C%20they%20told,more%20resentful%20by%20the%20day) Sociologist examines Appalachian voters' rightward shift, with Trump as their 'shame shield' \| Letters & Science
-
-<https://ls.berkeley.edu/news/sociologist-examines-appalachian-voters%E2%80%99-rightward-shift-trump-their-%E2%80%98shame-shield%E2%80%99>
-
-[\[13\]](https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx#:~:text=Americans%27%20Trust%20in%20Media%20Remains,of%20trust%20in%20the%20media) Americans\' Trust in Media Remains at Trend Low - Gallup News
-
-<https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx>
-
-[\[14\]](https://terrain.gov.harvard.edu/file_url/176#:~:text=,class) \[PDF\] The Koch Network and Republican Party Extremism - Shifting Terrain
-
-<https://terrain.gov.harvard.edu/file_url/176>
-
-[\[17\]](https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/#:~:text=Skocpol%3A%20It%E2%80%99s%20a%20metaphor%20for,version%20of%20the%20same%20thing) [\[18\]](https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/#:~:text=They%20feel%20disconnected%20from%20and,But%20he%E2%80%99s%20no%20longer%20necessary) [\[44\]](https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/#:~:text=Skocpol%3A%20I%20don%E2%80%99t%20think%20Stop,voting%20fraud%20before%20the%20election) [\[45\]](https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/#:~:text=minorities%2C%20to%20be%20sure%2C%20but,voting%20fraud%20before%20the%20election) [\[57\]](https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/#:~:text=Godfrey%3A%20The%20turning%20point%20toward,what) [\[58\]](https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/#:~:text=Skocpol%3A%20Toward%20a%20locking,Christian%2C%20Trumpist%20version%20of%20America) [\[74\]](https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/#:~:text=Skocpol%3A%20The%20suspicion%20of%20cities,They%E2%80%99re%20resentful%20of%20it) The Line Between the Tea Party and Stop the Steal - The Atlantic
-
-<https://www.theatlantic.com/politics/archive/2022/08/stop-the-steal-trumpism-tea-party-connection/671115/>
-
-[\[19\]](https://www.propublica.org/article/georgia-dei-crt-schools-parents#:~:text=Cecelia%20Lewis%20was%20asked%20to,groups%20%E2%80%94%20had%20other%20plans) [\[65\]](https://www.propublica.org/article/georgia-dei-crt-schools-parents#:~:text=were%20so%20impressed%20by%20her,among%20several%20people%2C%20and%20she%E2%80%99d) White Parents Rallied to Chase a Black Educator Out of Town. Then, They Followed Her to the Next One. --- ProPublica
-
-<https://www.propublica.org/article/georgia-dei-crt-schools-parents>
-
-[\[33\]](https://www.washingtonpost.com/opinions/2023/10/01/understanding-electorate-diploma-divide/#:~:text=Opinion%20,) [\[34\]](https://www.washingtonpost.com/opinions/2023/10/01/understanding-electorate-diploma-divide/#:~:text=The%20most%20important%20U,) [\[35\]](https://www.washingtonpost.com/opinions/2023/10/01/understanding-electorate-diploma-divide/#:~:text=Opinion%20,) Opinion \| How the diploma divide came to dominate American politics
-
-<https://www.washingtonpost.com/opinions/2023/10/01/understanding-electorate-diploma-divide/>
-
-[\[36\]](https://www.theatlantic.com/ideas/archive/2018/10/large-majorities-dislike-political-correctness/572581/#:~:text=Americans%20Strongly%20Dislike%20PC%20Culture,traditional%20liberals%2C%2061%20percent%20do) Americans Strongly Dislike PC Culture - The Atlantic
-
-<https://www.theatlantic.com/ideas/archive/2018/10/large-majorities-dislike-political-correctness/572581/>
-
-[\[37\]](https://www.theguardian.com/us-news/2021/jan/11/parler-goes-offline-after-amazon-drops-it-due-to-violent-content#:~:text=The%20%E2%80%9Cfree%20speech%E2%80%9D%20social%20network,Amazon%20pulled%20its%20hosting%20services) [\[38\]](https://www.theguardian.com/us-news/2021/jan/11/parler-goes-offline-after-amazon-drops-it-due-to-violent-content#:~:text=But%20it%20was%20Amazon%E2%80%99s%20decision,be%20cutting%20ties%20with%20Parler) Parler goes offline after Amazon drops it due to \'violent content\' \| US Capitol attack \| The Guardian
-
-<https://www.theguardian.com/us-news/2021/jan/11/parler-goes-offline-after-amazon-drops-it-due-to-violent-content>
-
-[\[39\]](https://www.pewresearch.org/internet/2024/04/29/americans-views-of-technology-companies-2/#:~:text=Majorities%20in%20both%20parties%20believe,this%20is%20very%20likely%20happening) [\[40\]](https://www.pewresearch.org/internet/2024/04/29/americans-views-of-technology-companies-2/#:~:text=Republicans%20widely%20believe%20that%20major,6) [\[75\]](https://www.pewresearch.org/internet/2024/04/29/americans-views-of-technology-companies-2/#:~:text=Image%3A%20Bar%20charts%20showing%20that,of%20Democrats%20also%20think%20this) How Americans view Big Tech in 2024 \| Pew Research Center
-
-<https://www.pewresearch.org/internet/2024/04/29/americans-views-of-technology-companies-2/>
-
-[\[41\]](https://publicknowledge.org/what-does-research-tell-us-about-technology-platform-censorship/#:~:text=What%20Does%20Research%20Tell%20Us,services%20or%20that%20conservative) What Does Research Tell Us About Technology Platform \...
-
-<https://publicknowledge.org/what-does-research-tell-us-about-technology-platform-censorship/>
-
-[\[42\]](https://bhr.stern.nyu.edu/quick-take/more-evidence-that-conservatives-are-not-unfairly-censored-on-social-media/#:~:text=Evidence%20that%20Conservatives%20Are%20Not,Media%20and%20Encrypted%20Technology) Evidence that Conservatives Are Not Unfairly Censored on Social \...
-
-<https://bhr.stern.nyu.edu/quick-take/more-evidence-that-conservatives-are-not-unfairly-censored-on-social-media/>
-
-[\[43\]](https://www.pippanorris.com/cultural-backlash-1#:~:text=Populist%20values,Economic%20grievances) Cultural Backlash: Trump, Brexit and Authoritarian Populism
-
-<https://www.pippanorris.com/cultural-backlash-1>
-
-[\[46\]](https://www.forbes.com/sites/emmawoollacott/2025/11/06/conservatives-more-likely-to-share-poor-quality-news/#:~:text=Conservatives%20More%20Likely%20To%20Share,quality%20news) Conservatives More Likely To Share Poor Quality News, Study Says
-
-<https://www.forbes.com/sites/emmawoollacott/2025/11/06/conservatives-more-likely-to-share-poor-quality-news/>
-
-[\[47\]](https://mitsloan.mit.edu/press/social-media-users-actions-rather-biased-policies-could-drive-differences-platform-enforcement#:~:text=Social%20media%20users%27%20actions%2C%20rather,volume%20than%20politically%20liberal%20users) Social media users\' actions, rather than biased policies, could drive \...
-
-<https://mitsloan.mit.edu/press/social-media-users-actions-rather-biased-policies-could-drive-differences-platform-enforcement>
-
-[\[48\]](https://www.nature.com/articles/s41562-025-02251-0#:~:text=Nature%20www,Article%20CAS) Charting multidimensional ideological polarization across \... - Nature
-
-<https://www.nature.com/articles/s41562-025-02251-0>
-
-[\[49\]](https://bhr.stern.nyu.edu/publication/fueling-the-fire-how-social-media-intensifies-u-s-political-polarization-and-what-can-be-done-about-it/#:~:text=How%20Social%20Media%20Intensifies%20U,of%20these%20platforms%20intensifies%20divisiveness) How Social Media Intensifies U.S. Political Polarization -- And What \...
-
-<https://bhr.stern.nyu.edu/publication/fueling-the-fire-how-social-media-intensifies-u-s-political-polarization-and-what-can-be-done-about-it/>
-
-[\[50\]](https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en#:~:text=,are%20probably%20playing%20a) Polarization, Democracy, and Political Violence in the United States
-
-<https://carnegieendowment.org/research/2023/09/polarization-democracy-and-political-violence-in-the-united-states-what-the-research-says?lang=en>
-
-[\[51\]](https://www.thetrace.org/2020/01/second-amendment-sanctuary-movement/#:~:text=In%20the%20span%20of%20two,in%20more%20than%20two%20decades) [\[52\]](https://www.thetrace.org/2020/01/second-amendment-sanctuary-movement/#:~:text=Meanwhile%2C%20rural%20residents%20in%20both,%E2%80%9D) [\[59\]](https://www.thetrace.org/2020/01/second-amendment-sanctuary-movement/#:~:text=But%20Virginia%20is%20hardly%20alone%3A,laws%20and%20firearm%20confiscation%20statutes) Second Amendment Sanctuaries, Explained
-
-<https://www.thetrace.org/2020/01/second-amendment-sanctuary-movement/>
-
-[\[55\]](https://bosilawhat.wordpress.com/2018/12/15/american-nations-a-history-of-the-eleven-rival-regional-cultures-of-north-america-by-colin-woodard/#:~:text=,of%20Ohio%2C%20Indiana%2C%20and%20Illinois%E2%80%A6) [\[56\]](https://bosilawhat.wordpress.com/2018/12/15/american-nations-a-history-of-the-eleven-rival-regional-cultures-of-north-america-by-colin-woodard/#:~:text=The%20people%20of%20Greater%20Appalachia,run%20healthcare) American Nations: A History of the Eleven Rival Regional Cultures of North America by Colin Woodard \| Disco Demolition Night
-
-<https://bosilawhat.wordpress.com/2018/12/15/american-nations-a-history-of-the-eleven-rival-regional-cultures-of-north-america-by-colin-woodard/>
-
-[\[60\]](https://www.poynter.org/commentary/2025/trust-media-all-time-low-gallup/#:~:text=poll%20www,Hmm%2C%20what%20happened) Trust in media at an all-time low according to latest Gallup poll
-
-<https://www.poynter.org/commentary/2025/trust-media-all-time-low-gallup/>
-
-[\[61\]](https://williammarble.co/docs/EducPolarization.pdf#:~:text=Americans%3F%20williammarble,This) [\[63\]](https://williammarble.co/docs/EducPolarization.pdf#:~:text=,This) \[PDF\] What Explains Educational Realignment Among White Americans?
-
-<https://williammarble.co/docs/EducPolarization.pdf>
-
-[\[62\]](https://www.sciencedirect.com/science/article/abs/pii/S0743016722000481#:~:text=In%202016%2C%20Donald%20Trump%20won,of%20victory%20in%20rural) Donald Trump and changing rural/urban voting patterns
-
-<https://www.sciencedirect.com/science/article/abs/pii/S0743016722000481>
-
-[\[64\]](https://www.brookings.edu/articles/working-class-white-americans-are-now-dying-in-middle-age-at-faster-rates-than-minority-groups/#:~:text=,less%E2%80%94a%20pattern%20that%20diverges) Working class white Americans are now dying in middle age at \...
-
-<https://www.brookings.edu/articles/working-class-white-americans-are-now-dying-in-middle-age-at-faster-rates-than-minority-groups/>
-
-[\[68\]](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/political-geography-of-the-january-6-insurrectionists/3C59F4E94F90B63F0E80A86DFB487D01#:~:text=for%20populist%20leaders%20like%20Donald,not%20necessarily%20remedy%20the%20other) [\[69\]](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/political-geography-of-the-january-6-insurrectionists/3C59F4E94F90B63F0E80A86DFB487D01#:~:text=We%20find%20that%20white%20population,likely%20to%20fight%20for%20Trump) The Political Geography of the January 6 Insurrectionists \| PS: Political Science & Politics \| Cambridge Core
-
-<https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/political-geography-of-the-january-6-insurrectionists/3C59F4E94F90B63F0E80A86DFB487D01>
-
-[\[70\]](https://cpost.uchicago.edu/publications/the_political_geography_of_the_january_6_insurrectionists/#:~:text=The%20Political%20Geography%20of%20the,likely%20to%20fight%20for%20Trump) The Political Geography of the January 6 Insurrectionists PS
-
-<https://cpost.uchicago.edu/publications/the_political_geography_of_the_january_6_insurrectionists/>
-
-[\[77\]](https://www.pewresearch.org/short-reads/2017/07/20/republicans-skeptical-of-colleges-impact-on-u-s-but-most-see-benefits-for-workforce-preparation/#:~:text=The%20change%20in%20Republicans%E2%80%99%20views,said%20their%20effect%20was%20negative) [\[78\]](https://www.pewresearch.org/short-reads/2017/07/20/republicans-skeptical-of-colleges-impact-on-u-s-but-most-see-benefits-for-workforce-preparation/#:~:text=the%20country%20is%20striking,said%20their%20effect%20was%20negative) [\[79\]](https://www.pewresearch.org/short-reads/2017/07/20/republicans-skeptical-of-colleges-impact-on-u-s-but-most-see-benefits-for-workforce-preparation/#:~:text=The%20decline%20in%20positive%20assessments,positive%20effect%20on%20the%20nation) Republicans skeptical of colleges' impact on U.S., but most see benefits for workforce preparation
-
-<https://www.pewresearch.org/short-reads/2017/07/20/republicans-skeptical-of-colleges-impact-on-u-s-but-most-see-benefits-for-workforce-preparation/>
-
-[\[80\]](https://www.researchgate.net/publication/354819705_Cultural_Backlash_How_Not_to_Explain_the_Rise_of_Authoritarian_Populism#:~:text=,as%20a%20manifestation%20of) (PDF) Cultural Backlash? How (Not) to Explain the Rise of \...
-
-<https://www.researchgate.net/publication/354819705_Cultural_Backlash_How_Not_to_Explain_the_Rise_of_Authoritarian_Populism>

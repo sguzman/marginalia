@@ -15,60 +15,58 @@ lastmod: '2026-02-12'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories:
-- web
-- css
-- web-standards
-- software-history
-- front-end
+  - web
+  - css
+  - web-standards
+  - software-history
+  - front-end
 tags:
-- css
-- web
-- w3c
-- standards
-- front-end
-- history
-- browsers
-- responsive-design
-- flexbox
-- grid
-- css-architecture
+  - css
+  - web
+  - w3c
+  - standards
+  - front-end
+  - history
+  - browsers
+  - responsive-design
+  - flexbox
+  - grid
+  - css-architecture
 keywords:
-- CSS
-- Cascading Style Sheets
-- W3C
-- CSS Working Group
-- web standards
-- browser interoperability
-- CSS1
-- CSS2
-- CSS2.1
-- CSS3 modules
-- Flexbox
-- Grid
-- media queries
-- responsive design
-- CSS architecture
-- BEM
-- OOCSS
-- SMACSS
-- CSS Zen Garden
+  - CSS
+  - Cascading Style Sheets
+  - W3C
+  - CSS Working Group
+  - web standards
+  - browser interoperability
+  - CSS1
+  - CSS2
+  - CSS2.1
+  - CSS3 modules
+  - Flexbox
+  - Grid
+  - media queries
+  - responsive design
+  - CSS architecture
+  - BEM
+  - OOCSS
+  - SMACSS
+  - CSS Zen Garden
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
-  abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation into a mature, modular platform for layout, typography, interaction, and responsive design. This essay traces CSS along two coupled histories: the formal arc of standards (W3C Recommendations, snapshots, and module levels) and the informal arc of real-world practice (browser wars, interoperability pain, community patterns like OOCSS/BEM/SMACSS, and major demonstrations such as CSS Zen Garden and responsive design). It emphasizes how implementation constraints shaped the spec process (notably the long CSS2.1 stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling, and design systems). The result is a coherent timeline of institutions, specs, and practice that explains not only what modern CSS can do, but why the ecosystem evolved the way it did.
-
-    '
+  abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation into a mature, modular platform for layout, typography, interaction, and responsive design. This essay traces CSS along two coupled histories: the formal arc of standards (W3C Recommendations, snapshots, and module levels) and the informal arc of real-world practice (browser wars, interoperability pain, community patterns like OOCSS/BEM/SMACSS, and major demonstrations such as CSS Zen Garden and responsive design). It emphasizes how implementation constraints shaped the spec process (notably the long CSS2.1 stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling, and design systems). The result is a coherent timeline of institutions, specs, and practice that explains not only what modern CSS can do, but why the ecosystem evolved the way it did.'
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -93,17 +91,17 @@ meta:
   rights: CC0-1.0
   status: complete
   subject:
-  - Cascading Style Sheets (CSS)
-  - Web standards
-  - Software and internet history
-  - Browser interoperability
-  - Front-end engineering
+    - Cascading Style Sheets (CSS)
+    - Web standards
+    - Software and internet history
+    - Browser interoperability
+    - Front-end engineering
   subjects:
-  - Cascading Style Sheets (CSS)
-  - W3C specifications
-  - CSS Working Group
-  - Web development practices
-  - Design systems and CSS architecture
+    - Cascading Style Sheets (CSS)
+    - W3C specifications
+    - CSS Working Group
+    - Web development practices
+    - Design systems and CSS architecture
   subtitle: Institutions, Specs, and Practice
   toc: true
   toc-depth: 2
@@ -115,7 +113,6 @@ meta:
 series: []
 ai_generated: true
 ---
-
 
 ## Executive Summary
 

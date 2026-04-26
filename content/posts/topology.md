@@ -1,10 +1,8 @@
 ---
 title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
 linkTitle: 'Topology: From 18th-Century Precursors to Present-Day Fro…'
-description: >-
-  Topology: From 18th-Century Precursors to Present-Day Frontiers
-summary: >-
-  Topology: From 18th-Century Precursors to Present-Day Frontiers
+description: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
+summary: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
 slug: topology
 url: ''
 aliases: []
@@ -12,57 +10,57 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- History of Mathematics
-- Topology
+  - Mathematics
+  - History of Mathematics
+  - Topology
 tags: &id003
-- topology
-- math-history
-- algebraic-topology
-- point-set-topology
-- manifolds
-- knot-theory
-- tda
-- persistent-homology
+  - topology
+  - math-history
+  - algebraic-topology
+  - point-set-topology
+  - manifolds
+  - knot-theory
+  - tda
+  - persistent-homology
 keywords: &id002
-- topology
-- history of topology
-- point-set topology
-- topological space
-- open sets
-- continuity
-- homeomorphism
-- algebraic topology
-- fundamental group
-- homology
-- cohomology
-- homotopy
-- manifolds
-- knot theory
-- low-dimensional topology
-- geometric topology
-- differential topology
-- Jones polynomial
-- persistent homology
-- topological data analysis
+  - topology
+  - history of topology
+  - point-set topology
+  - topological space
+  - open sets
+  - continuity
+  - homeomorphism
+  - algebraic topology
+  - fundamental group
+  - homology
+  - cohomology
+  - homotopy
+  - manifolds
+  - knot theory
+  - low-dimensional topology
+  - geometric topology
+  - differential topology
+  - Jones polynomial
+  - persistent homology
+  - topological data analysis
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-essay-topology-2026-02-12
   date: '2026-02-12'
   description: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
@@ -104,13 +102,13 @@ meta:
   slug: topology
   status: complete
   subject:
-  - Mathematics
-  - Topology
-  - History of Mathematics
+    - Mathematics
+    - Topology
+    - History of Mathematics
   subjects:
-  - Mathematics
-  - Topology
-  - History of Mathematics
+    - Mathematics
+    - Topology
+    - History of Mathematics
   subtitle: From 18th-Century Precursors to Present-Day Frontiers
   tags: *id003
   title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'

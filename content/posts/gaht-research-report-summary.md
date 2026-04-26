@@ -1,10 +1,8 @@
 ---
 title: GAHT Research Report Summary
 linkTitle: GAHT Research Report Summary
-description: >-
-  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-summary: >-
-  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
+description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+summary: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
 slug: gaht-research-report-summary
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-01-31'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-01-31'
   description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: gaht-research-report-summary
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: gaht-research-report-summary
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

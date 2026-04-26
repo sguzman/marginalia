@@ -1,10 +1,8 @@
 ---
 title: 'Mutualism: Markets Without Capitalism'
 linkTitle: 'Mutualism: Markets Without Capitalism'
-description: >-
-  Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20…
-summary: >-
-  Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to "abolish" property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing th…
+description: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20b…'
+summary: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to "abolish" property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that o…'
 slug: 3mutualism
 url: ''
 aliases: []
@@ -12,51 +10,51 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Political economy
-- History of socialism
-- Anarchism
+  - Political economy
+  - History of socialism
+  - Anarchism
 tags: &id003
-- mutualism
-- proudhon
-- anarchism
-- socialism
-- market socialism
-- mutual banking
-- cooperatives
-- 19th century
-- france
+  - mutualism
+  - proudhon
+  - anarchism
+  - socialism
+  - market socialism
+  - mutual banking
+  - cooperatives
+  - 19th century
+  - france
 keywords: &id002
-- mutualism
-- Pierre-Joseph Proudhon
-- mutual banking
-- People's Bank
-- property is theft
-- possession
-- reciprocity
-- market socialism
-- libertarian socialism
-- cooperative movement
+  - mutualism
+  - Pierre-Joseph Proudhon
+  - mutual banking
+  - People's Bank
+  - property is theft
+  - possession
+  - reciprocity
+  - market socialism
+  - libertarian socialism
+  - cooperative movement
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
-  abstract: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to "abolish" property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing th…'
+  abstract: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to "abolish" property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that o…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ideology-studies
   date: '2026-02-12'
-  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20…'
+  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20b…'
   draft: false
   edition: '1'
   epub-chapter-level: 2
@@ -92,17 +90,17 @@ meta:
   slug: 3mutualism
   status: published
   subject:
-  - Mutualism (Proudhon)
-  - Pierre-Joseph Proudhon
-  - Anarchism
-  - Socialism
-  - Mutual credit
+    - Mutualism (Proudhon)
+    - Pierre-Joseph Proudhon
+    - Anarchism
+    - Socialism
+    - Mutual credit
   subjects:
-  - Mutualism (Proudhon)
-  - Pierre-Joseph Proudhon
-  - Anarchism
-  - Socialism
-  - Mutual credit
+    - Mutualism (Proudhon)
+    - Pierre-Joseph Proudhon
+    - Anarchism
+    - Socialism
+    - Mutual credit
   subtitle: Proudhon's anti-state market socialism and mutual credit
   tags: *id003
   title: 'Mutualism: Markets Without Capitalism'

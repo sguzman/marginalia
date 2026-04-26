@@ -1,10 +1,8 @@
 ---
 title: A Comprehensive History of Type Theory (1900s--Present)
 linkTitle: A Comprehensive History of Type Theory (1900s--Present)
-description: >-
-  Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
-summary: >-
-  Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent self-referential paradoxes in naïve set theory(https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping). Russell's ramified types (1908; Principia Mathematica 1910--13) stratified mathematical objects into levels so that no set could contain itself. Building on Russell, Alonzo Church's Simple Theory of Types (1940) recast types using the λ-calculus. Church's system treated types as primitive and allowed function types between any types, making a simpler, more general formulation than Russ…
+description: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
+summary: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent self-referential paradoxes in naïve set theory(https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping). Russell's ramified types (1908; Principia Mathematica 1910--13) stratified mathematical objects into levels so that no set could contain itself. Building on Russell, Alonzo Church's Simple Theory of Types (1940) recast types using the λ-calculus. Church's system treated types as primitive and allowed function types between any types, making a simpler, more general formulation than Russ…
 slug: type-theory-history
 url: ''
 aliases: []
@@ -12,49 +10,49 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- mathematics
-- computer science
-- logic
-- history of ideas
+  - mathematics
+  - computer science
+  - logic
+  - history of ideas
 tags: &id003
-- type-theory
-- logic
-- foundations
-- programming-languages
-- formal-verification
-- proof-assistants
-- history
+  - type-theory
+  - logic
+  - foundations
+  - programming-languages
+  - formal-verification
+  - proof-assistants
+  - history
 keywords: &id002
-- type theory
-- typed lambda calculus
-- Curry-Howard correspondence
-- dependent types
-- polymorphism
-- type inference
-- Martin-Lof type theory
-- System F
-- proof assistants
-- formal verification
-- Homotopy Type Theory
-- programming languages
+  - type theory
+  - typed lambda calculus
+  - Curry-Howard correspondence
+  - dependent types
+  - polymorphism
+  - type inference
+  - Martin-Lof type theory
+  - System F
+  - proof assistants
+  - formal verification
+  - Homotopy Type Theory
+  - programming languages
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent self-referential paradoxes in naïve set theory(https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping). Russell's ramified types (1908; Principia Mathematica 1910--13) stratified mathematical objects into levels so that no set could contain itself. Building on Russell, Alonzo Church's Simple Theory of Types (1940) recast types using the λ-calculus. Church's system treated types as primitive and allowed function types between any types, making a simpler, more general formulation than Russ…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
   description: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
@@ -89,21 +87,21 @@ meta:
   slug: type-theory-history
   status: draft
   subject:
-  - Type theory
-  - Mathematical logic
-  - Programming languages
-  - Formal methods
+    - Type theory
+    - Mathematical logic
+    - Programming languages
+    - Formal methods
   subjects:
-  - Type theory
-  - History of type theory
-  - Typed lambda calculus
-  - Curry-Howard correspondence
-  - Dependent type theory
-  - Polymorphic type systems
-  - Type inference and unification
-  - Proof assistants and theorem provers
-  - Software and systems verification
-  - Homotopy Type Theory
+    - Type theory
+    - History of type theory
+    - Typed lambda calculus
+    - Curry-Howard correspondence
+    - Dependent type theory
+    - Polymorphic type systems
+    - Type inference and unification
+    - Proof assistants and theorem provers
+    - Software and systems verification
+    - Homotopy Type Theory
   subtitle: ''
   tags: *id003
   title: A Comprehensive History of Type Theory (1900s--Present)

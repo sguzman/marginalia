@@ -35,7 +35,12 @@ def _represent_folded_str(dumper: yaml.Dumper, data: FoldedStr) -> yaml.ScalarNo
     return dumper.represent_scalar("tag:yaml.org,2002:str", str(data), style=">")
 
 
-yaml.SafeDumper.add_representer(FoldedStr, _represent_folded_str)
+class IndentDumper(yaml.SafeDumper):
+    def increase_indent(self, flow: bool = False, indentless: bool = False) -> None:  # type: ignore[override]
+        return super().increase_indent(flow, indentless=False)
+
+
+IndentDumper.add_representer(FoldedStr, _represent_folded_str)
 
 
 def die(message: str, *, code: int = 1) -> None:
@@ -51,11 +56,13 @@ def load_yaml_first_doc(path: Path) -> dict[str, Any]:
 
 
 def dump_yaml(data: Any) -> str:
-    return yaml.safe_dump(
+    return yaml.dump(
         data,
+        Dumper=IndentDumper,
         sort_keys=False,
         allow_unicode=True,
         width=1000,
+        indent=2,
         default_flow_style=False,
     )
 
@@ -104,6 +111,7 @@ def strip_markdown(s: str) -> str:
     s = re.sub(r"\[\\\[\d+\\\]\]", "", s)
     # Remove emphasis/code markers.
     s = s.replace("**", "").replace("*", "").replace("`", "")
+    s = s.replace("_", "")
     # Remove stray backslashes (often used as hard-break markers).
     s = s.replace("\\", "")
     return s
@@ -262,8 +270,10 @@ class Article:
         if src_title and not is_generic_title(src_title):
             # Only use this if both meta+h1 are generic or empty.
             if is_generic_title(meta_title) and is_generic_title(h1):
-                return src_title
-        return prefer_h1_title(meta_title, h1, fallback)
+                return strip_markdown(src_title).strip() or src_title
+        t = prefer_h1_title(meta_title, h1, fallback)
+        t = strip_markdown(t).strip()
+        return t or fallback
 
     @property
     def date(self) -> str:
@@ -282,6 +292,127 @@ class Article:
     def abstract(self) -> str:
         para = first_paragraph(self.md_text) or self.title
         return shorten(para, max_len=800)
+
+
+AI_OUTRO_PAT = re.compile(
+    r"(?im)^(#+\s*(next steps|follow[- ]?ups?)\s*$|"
+    r".*\b(do you want me to|would you like me to|want me to|"
+    r"i can (also )?(generate|write|draft|help)|"
+    r"generate more (articles|posts)|"
+    r"let me know if you(?:'d| would) like)\b.*)$"
+)
+
+
+NEXT_STEPS_HEADING_PAT = re.compile(
+    r"(?im)^(#+)\s*(\d+[\.\)]\s*)?(next[- ]step|next steps)\b.*$|\*\*next[- ]step.*\*\*\s*$"
+)
+
+
+def remove_next_steps_section(body: str) -> str:
+    """
+    Remove a 'Next steps' / 'Next-step research plan' section that is meant as
+    assistant-to-user guidance, while preserving trailing references/bibliography.
+    """
+    lines = body.splitlines()
+    if not lines:
+        return body
+
+    heading_pat = re.compile(r"(?im)^(#+)\s+")
+    refs_pat = re.compile(r"(?im)^#+\s*(references|bibliography)\b")
+
+    i = 0
+    out_lines: list[str] = []
+    while i < len(lines):
+        line = lines[i]
+        m = NEXT_STEPS_HEADING_PAT.match(line.strip())
+
+        # Heading-based section removal.
+        if m and line.lstrip().startswith("#"):
+            level = len(m.group(1))
+            i += 1
+            while i < len(lines):
+                if refs_pat.match(lines[i].strip()):
+                    break
+                hm = heading_pat.match(lines[i].strip())
+                if hm:
+                    next_level = len(hm.group(1))
+                    if next_level <= level:
+                        break
+                i += 1
+            continue
+
+        # Bold-only "Next-Step..." removal: drop until blank line.
+        if m and line.strip().startswith("**"):
+            i += 1
+            while i < len(lines) and lines[i].strip():
+                i += 1
+            continue
+
+        out_lines.append(line)
+        i += 1
+
+    return "\n".join(out_lines).rstrip() + "\n"
+
+
+INLINE_NEXT_STEPS_PAT = re.compile(r"(?i)\bnext[- ]step research plan\b|\bnext steps\b")
+
+
+def remove_inline_next_steps_blocks(body: str) -> str:
+    """
+    Remove inline 'Next steps' prompts embedded inside paragraphs, typically followed by a dash list.
+    Conservative: only triggers when the line itself mentions next steps and the following lines are list items.
+    """
+    lines = body.splitlines()
+    out: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if re.search(r"(?i)\bnext[- ]step research plan\s*:", line):
+            # Drop everything from the marker to end of line.
+            cut = re.search(r"(?i)\bnext[- ]step research plan\s*:", line)
+            assert cut
+            line = line[: cut.start()].rstrip()
+            if line:
+                out.append(line)
+            i += 1
+            continue
+        if re.match(r"(?i)^\s*by pursuing these next steps\b", line.strip()):
+            i += 1
+            continue
+        if (
+            INLINE_NEXT_STEPS_PAT.search(line)
+            and i + 1 < len(lines)
+            and lines[i + 1].lstrip().startswith("-")
+        ):
+            i += 1
+            while i < len(lines) and (
+                lines[i].lstrip().startswith("-") or not lines[i].strip()
+            ):
+                i += 1
+            continue
+        out.append(line)
+        i += 1
+    return "\n".join(out).rstrip() + "\n"
+
+
+def trim_ai_outro(body: str) -> str:
+    lines = body.splitlines()
+    if not lines:
+        return body
+    # Only trim if the trigger appears near the end (prevents accidental mid-article deletes).
+    window_start = max(0, len(lines) - 80)
+    tail = "\n".join(lines[window_start:])
+    m = None
+    for match in AI_OUTRO_PAT.finditer(tail):
+        m = match
+    if not m:
+        return body
+    # Find the absolute line index of the first matched line.
+    match_line = tail[: m.start()].count("\n")
+    cut_at = window_start + match_line
+    # Trim and drop trailing blank lines.
+    out = "\n".join(lines[:cut_at]).rstrip() + "\n"
+    return out
 
 
 def collect_articles() -> list[Article]:
@@ -374,9 +505,10 @@ def hugo_frontmatter_from_article(a: Article) -> dict[str, Any]:
     tags = meta.get("tags") if isinstance(meta.get("tags"), list) else []
     keywords = meta.get("keywords") if isinstance(meta.get("keywords"), list) else []
 
+    clean_title = strip_markdown(a.title).strip() or a.title
     return {
-        "title": a.title,
-        "linkTitle": a.title if len(a.title) <= 60 else a.title[:57].rstrip() + "…",
+        "title": clean_title,
+        "linkTitle": clean_title if len(clean_title) <= 60 else clean_title[:57].rstrip() + "…",
         "description": FoldedStr(a.description),
         "summary": FoldedStr(str(meta.get("abstract") or a.abstract)),
         "slug": a.slug,
@@ -401,6 +533,9 @@ def hugo_frontmatter_from_article(a: Article) -> dict[str, Any]:
 def write_post(a: Article, *, dry_run: bool) -> tuple[Path, bool]:
     fm = hugo_frontmatter_from_article(a)
     body = strip_leading_h1(a.md_text)
+    body = remove_next_steps_section(body)
+    body = remove_inline_next_steps_blocks(body)
+    body = trim_ai_outro(body)
 
     assets_count = assets_file_count(a.folder)
     if assets_count > 0:
@@ -515,16 +650,48 @@ def iter_post_paths() -> list[Path]:
 
 def load_post_frontmatter(path: Path) -> dict[str, Any] | None:
     text = path.read_text(encoding="utf-8", errors="replace")
-    if not text.startswith("---"):
-        return None
-    parts = text.split("---", 2)
-    if len(parts) < 3:
+    parts = split_hugo_frontmatter(text)
+    if not parts:
         return None
     try:
-        data = yaml.safe_load(parts[1])
+        data = yaml.safe_load(parts[0])
         return data if isinstance(data, dict) else None
     except Exception:
         return None
+
+
+def post_frontmatter_valid_yaml(path: Path) -> bool:
+    text = path.read_text(encoding="utf-8", errors="replace")
+    parts = split_hugo_frontmatter(text)
+    if not parts:
+        return False
+    try:
+        data = yaml.safe_load(parts[0])
+        if not isinstance(data, dict):
+            return False
+        # Treat clearly broken frontmatter as invalid (e.g. meta parsed as null).
+        if "meta" in data and data.get("meta") is None:
+            return False
+        return True
+    except Exception:
+        return False
+
+
+def split_hugo_frontmatter(text: str) -> tuple[str, str] | None:
+    """
+    Robustly split Hugo frontmatter from content.
+    Requires frontmatter delimited by standalone lines: ---.
+    Returns (frontmatter_yaml_text, body_text_including_leading_newline_if_any).
+    """
+    if not text.startswith("---\n"):
+        return None
+    marker = "\n---\n"
+    end = text.find(marker, 4)
+    if end == -1:
+        return None
+    fm = text[4:end]
+    body = text[end + len(marker) :]
+    return fm, body
 
 
 def post_slug_from_path(path: Path, fm: dict[str, Any]) -> str:
@@ -628,6 +795,28 @@ def dedupe_posts(*, preferred_slugs: set[str], dry_run: bool) -> tuple[int, int]
     return removed_slug, removed_td
 
 
+def repair_invalid_posts(*, article_by_slug: dict[str, Article], dry_run: bool) -> int:
+    """
+    If a post has invalid YAML frontmatter, overwrite it from tmp source when available.
+    """
+    repaired = 0
+    for path in iter_post_paths():
+        if post_frontmatter_valid_yaml(path):
+            continue
+        # Best-effort slug from path.
+        slug = path.parent.name if path.name == "index.md" else path.stem
+        a = article_by_slug.get(slug)
+        if not a:
+            continue
+        repaired += 1
+        if not dry_run:
+            # Ensure we replace the broken file entirely.
+            if path.exists():
+                remove_post(path) if path.name == "index.md" else path.unlink()
+            write_post(a, dry_run=False)
+    return repaired
+
+
 def fix_posts_authorship(*, dry_run: bool) -> int:
     """
     Enforce authorship policy across *all* posts under content/posts:
@@ -638,12 +827,10 @@ def fix_posts_authorship(*, dry_run: bool) -> int:
     changed = 0
     for path in iter_post_paths():
         text = path.read_text(encoding="utf-8", errors="replace")
-        if not text.startswith("---"):
+        parts = split_hugo_frontmatter(text)
+        if not parts:
             continue
-        parts = text.split("---", 2)
-        if len(parts) < 3:
-            continue
-        fm_txt, body = parts[1], parts[2]
+        fm_txt, body = parts
         try:
             fm = yaml.safe_load(fm_txt) or {}
         except Exception:
@@ -677,6 +864,111 @@ def fix_posts_authorship(*, dry_run: bool) -> int:
     return changed
 
 
+def ensure_rich_meta_for_post(frontmatter: dict[str, Any], body: str) -> dict[str, Any]:
+    fm = dict(frontmatter)
+    meta_in = fm.get("meta")
+    if isinstance(meta_in, dict):
+        meta = dict(meta_in)
+    else:
+        meta = {}
+
+    slug = fm.get("slug")
+    if not isinstance(slug, str) or not slug.strip():
+        slug = ""
+    slug = slug.strip()
+
+    title = fm.get("title")
+    if not isinstance(title, str):
+        title = ""
+    title = strip_markdown(title).strip()
+
+    description = fm.get("description")
+    if isinstance(description, str) and description.strip():
+        desc = strip_markdown(description).strip()
+    else:
+        desc = ""
+
+    abstract = meta.get("abstract")
+    if not isinstance(abstract, str) or not abstract.strip():
+        candidate = desc or (fm.get("summary") if isinstance(fm.get("summary"), str) else "") or first_paragraph(body) or title
+        abstract = shorten(str(candidate), max_len=800)
+    else:
+        abstract = strip_markdown(abstract).strip()
+
+    def fill(key: str, value: Any) -> None:
+        cur = meta.get(key)
+        if cur is None or cur == "" or cur == []:
+            meta[key] = value
+
+    fill("creator", "Salvador Guzman")
+    fill("publisher", "Marginalia")
+    fill("license", "CC0-1.0")
+    fill("rights", "CC0-1.0")
+    fill("language", "en")
+    if slug:
+        fill("identifier", slug)
+    fill("status", "published")
+    fill("type", "article")
+    meta["abstract"] = abstract
+
+    # Enrich from taxonomies when available.
+    categories = list(fm.get("categories")) if isinstance(fm.get("categories"), list) else []
+    tags = list(fm.get("tags")) if isinstance(fm.get("tags"), list) else []
+    subjects = list(meta.get("subjects")) if isinstance(meta.get("subjects"), list) else []
+    if not subjects:
+        subjects = [str(x) for x in (categories + tags) if str(x).strip()][:24]
+    if subjects:
+        meta["subjects"] = subjects
+
+    fm["meta"] = meta
+    # Keep cleaned title in frontmatter.
+    if title:
+        fm["title"] = title
+        if isinstance(fm.get("linkTitle"), str) and fm.get("linkTitle"):
+            fm["linkTitle"] = strip_markdown(str(fm["linkTitle"])).strip()
+    return fm
+
+
+def fix_posts_content_and_metadata(*, dry_run: bool) -> int:
+    changed = 0
+    for path in iter_post_paths():
+        text = path.read_text(encoding="utf-8", errors="replace")
+        parts = split_hugo_frontmatter(text)
+        if not parts:
+            continue
+        fm_txt, body = parts
+        try:
+            fm = yaml.safe_load(fm_txt) or {}
+        except Exception:
+            continue
+        if not isinstance(fm, dict):
+            continue
+
+        # Trim AI outro from body and normalize title markdown.
+        new_body = body
+        # body starts with newline; keep it
+        trimmed = body.lstrip("\n")
+        trimmed = remove_next_steps_section(trimmed)
+        trimmed = remove_inline_next_steps_blocks(trimmed)
+        trimmed = trim_ai_outro(trimmed)
+        new_body = "\n\n" + trimmed if trimmed else "\n"
+
+        # Ensure slug exists for consistent metadata.
+        slug = post_slug_from_path(path, fm)
+        if not isinstance(fm.get("slug"), str) or not str(fm.get("slug")).strip():
+            fm = dict(fm)
+            fm["slug"] = slug
+
+        new_fm = ensure_rich_meta_for_post(fm, trimmed)
+
+        if new_fm != fm or new_body != body:
+            changed += 1
+            if not dry_run:
+                out = "---\n" + dump_yaml(new_fm) + "---" + new_body
+                path.write_text(out, encoding="utf-8")
+    return changed
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(
         prog="ai_reports_publish.py",
@@ -701,6 +993,7 @@ def main() -> None:
 
     wrote_posts = 0
     if not args.no_publish:
+        article_by_slug = {a.slug: a for a in articles}
         for a in articles:
             _, changed = write_post(a, dry_run=args.dry_run)
             wrote_posts += 1 if changed else 0
@@ -711,9 +1004,15 @@ def main() -> None:
             preferred_slugs=preferred, dry_run=args.dry_run
         )
         fixed_authorship_posts = fix_posts_authorship(dry_run=args.dry_run)
+        fixed_posts_cleanup = fix_posts_content_and_metadata(dry_run=args.dry_run)
+        repaired_invalid_posts = repair_invalid_posts(
+            article_by_slug=article_by_slug, dry_run=args.dry_run
+        )
     else:
         removed_by_slug, removed_by_title_date = (0, 0)
         fixed_authorship_posts = 0
+        fixed_posts_cleanup = 0
+        repaired_invalid_posts = 0
 
     print(
         "\n".join(
@@ -726,6 +1025,8 @@ def main() -> None:
                 f"removed_dupe_posts_by_slug={removed_by_slug}",
                 f"removed_dupe_posts_by_title_date={removed_by_title_date}",
                 f"fixed_posts_authorship={fixed_authorship_posts}",
+                f"fixed_posts_cleanup={fixed_posts_cleanup}",
+                f"repaired_invalid_posts={repaired_invalid_posts}",
             ]
         )
     )

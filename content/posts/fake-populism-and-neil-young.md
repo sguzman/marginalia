@@ -1,10 +1,8 @@
 ---
 title: Fake Populism And Neil Young
 linkTitle: Fake Populism And Neil Young
-description: >-
-  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
-summary: >-
-  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997(https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys(https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric a…
+description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+summary: 'Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997(https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys(https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric a…'
 slug: fake-populism-and-neil-young
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997(https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys(https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric a…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: fake-populism-and-neil-young
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: fake-populism-and-neil-young
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

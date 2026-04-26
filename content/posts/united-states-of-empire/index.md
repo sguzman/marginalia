@@ -1,10 +1,8 @@
 ---
 title: United States Of Empire
 linkTitle: United States Of Empire
-description: >-
-  The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
-summary: >-
-  The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether the U.S. central government and its elites systematically manage regional folkways (local cultures and customs) in an imperial fashion, and how this contrasts with genuine pluralistic federalism. We ask: Does U.S. governance lean toward central domination or pluralistic accommodation of local diversity? Historical analysis (from colonial folkways to 20th‑century civil rights) and political theory (definitions of federation vs. empire and pluralism) are used to frame the issue. We then identify mechanisms of control (culture/media, education, policy, law, p…
+description: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+summary: 'The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether the U.S. central government and its elites systematically manage regional folkways (local cultures and customs) in an imperial fashion, and how this contrasts with genuine pluralistic federalism. We ask: Does U.S. governance lean toward central domination or pluralistic accommodation of local diversity? Historical analysis (from colonial folkways to 20th‑century civil rights) and political theory (definitions of federation vs. empire and pluralism) are used to frame the issue. We then identify mechanisms of control (culture/media, education, policy, law, p…'
 slug: united-states-of-empire
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether the U.S. central government and its elites systematically manage regional folkways (local cultures and customs) in an imperial fashion, and how this contrasts with genuine pluralistic federalism. We ask: Does U.S. governance lean toward central domination or pluralistic accommodation of local diversity? Historical analysis (from colonial folkways to 20th‑century civil rights) and political theory (definitions of federation vs. empire and pluralism) are used to frame the issue. We then identify mechanisms of control (culture/media, education, policy, law, p…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: united-states-of-empire
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: united-states-of-empire
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

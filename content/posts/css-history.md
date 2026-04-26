@@ -1,16 +1,8 @@
 ---
-title: A Comprehensive History of CSS
-authors:
-- Salvador Guzman
-- ChatGPT
-ai_generated: true
----
- Institutions, Specs, and Practice
+title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
 linkTitle: A Comprehensive History of CSS --- Institutions, Specs, a…
-description: >-
-  A Comprehensive History of CSS --- Institutions, Specs, and Practice
-summary: >-
-  A Comprehensive History of CSS --- Institutions, Specs, and Practice
+description: A Comprehensive History of CSS --- Institutions, Specs, and Practice
+summary: A Comprehensive History of CSS --- Institutions, Specs, and Practice
 slug: css-history
 url: ''
 aliases: []
@@ -18,61 +10,61 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- web
-- css
-- web-standards
-- software-history
-- front-end
+  - web
+  - css
+  - web-standards
+  - software-history
+  - front-end
 tags: &id003
-- css
-- web
-- w3c
-- standards
-- front-end
-- history
-- browsers
-- responsive-design
-- flexbox
-- grid
-- css-architecture
+  - css
+  - web
+  - w3c
+  - standards
+  - front-end
+  - history
+  - browsers
+  - responsive-design
+  - flexbox
+  - grid
+  - css-architecture
 keywords: &id002
-- CSS
-- Cascading Style Sheets
-- W3C
-- CSS Working Group
-- web standards
-- browser interoperability
-- CSS1
-- CSS2
-- CSS2.1
-- CSS3 modules
-- Flexbox
-- Grid
-- media queries
-- responsive design
-- CSS architecture
-- BEM
-- OOCSS
-- SMACSS
-- CSS Zen Garden
+  - CSS
+  - Cascading Style Sheets
+  - W3C
+  - CSS Working Group
+  - web standards
+  - browser interoperability
+  - CSS1
+  - CSS2
+  - CSS2.1
+  - CSS3 modules
+  - Flexbox
+  - Grid
+  - media queries
+  - responsive design
+  - CSS architecture
+  - BEM
+  - OOCSS
+  - SMACSS
+  - CSS Zen Garden
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: A Comprehensive History of CSS --- Institutions, Specs, and Practice
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
   description: A Comprehensive History of CSS --- Institutions, Specs, and Practice
@@ -109,17 +101,17 @@ meta:
   slug: css-history
   status: complete
   subject:
-  - Cascading Style Sheets (CSS)
-  - Web standards
-  - Software and internet history
-  - Browser interoperability
-  - Front-end engineering
+    - Cascading Style Sheets (CSS)
+    - Web standards
+    - Software and internet history
+    - Browser interoperability
+    - Front-end engineering
   subjects:
-  - Cascading Style Sheets (CSS)
-  - W3C specifications
-  - CSS Working Group
-  - Web development practices
-  - Design systems and CSS architecture
+    - Cascading Style Sheets (CSS)
+    - W3C specifications
+    - CSS Working Group
+    - Web development practices
+    - Design systems and CSS architecture
   subtitle: Institutions, Specs, and Practice
   tags: *id003
   title: A Comprehensive History of CSS --- Institutions, Specs, and Practice

@@ -1,10 +1,8 @@
 ---
 title: Christian Socialism Report Request
 linkTitle: Christian Socialism Report Request
-description: >-
-  Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctr…
-summary: >-
-  Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctrines—especially the Fatherhood of God and the resulting Brotherhood of Man—demanded social reform in industrial society(https://archive.org/download/lordsprayernine00maur/lordsprayernine00maur.pdf#:~:text=they%20hope%20for%20a%20brotherhood,is%20right%2C%20this%20is%20be)(https://spartacus-educational.com/REsocialism.htm#:~:text=other%20trades%2C%20averaging%2024s%20per,operation%2C%20joint%20ownership%20and%20with). Maurice, a theologian at King’s College London, maintained that true social brotherhood was impossible without first acknowledging God as F…
+description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctr…'
+summary: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctrines—especially the Fatherhood of God and the resulting Brotherhood of Man—demanded social reform in industrial society(https://archive.org/download/lordsprayernine00maur/lordsprayernine00maur.pdf#:~:text=they%20hope%20for%20a%20brotherhood,is%20right%2C%20this%20is%20be)(https://spartacus-educational.com/REsocialism.htm#:~:text=other%20trades%2C%20averaging%2024s%20per,operation%2C%20joint%20ownership%20and%20with). Maurice, a theologian at King’s College London, maintained that true social brotherhood was impossible without first acknowledging God as F…'
 slug: christian-socialism-report-request
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-01-25'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctrines—especially the Fatherhood of God and the resulting Brotherhood of Man—demanded social reform in industrial society(https://archive.org/download/lordsprayernine00maur/lordsprayernine00maur.pdf#:~:text=they%20hope%20for%20a%20brotherhood,is%20right%2C%20this%20is%20be)(https://spartacus-educational.com/REsocialism.htm#:~:text=other%20trades%2C%20averaging%2024s%20per,operation%2C%20joint%20ownership%20and%20with). Maurice, a theologian at King’s College London, maintained that true social brotherhood was impossible without first acknowledging God as F…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctr…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: christian-socialism-report-request
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: christian-socialism-report-request
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

@@ -1,10 +1,8 @@
 ---
 title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
 linkTitle: The Worldwide Computer Chip Industry -- A Non-Technical F…
-description: >-
-  The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
-summary: >-
-  The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
+description: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
+summary: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
 slug: chip-industry
 url: ''
 aliases: []
@@ -12,64 +10,64 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Technology
-- Semiconductors
-- Industry
-- Supply Chains
-- Geopolitics
+  - Technology
+  - Semiconductors
+  - Industry
+  - Supply Chains
+  - Geopolitics
 tags: &id003
-- chips
-- semiconductors
-- tsmc
-- intel
-- nvidia
-- amd
-- asml
-- eda
-- fabs
-- packaging
-- hbm
-- supply-chain
-- export-controls
-- chips-act
+  - chips
+  - semiconductors
+  - tsmc
+  - intel
+  - nvidia
+  - amd
+  - asml
+  - eda
+  - fabs
+  - packaging
+  - hbm
+  - supply-chain
+  - export-controls
+  - chips-act
 keywords: &id002
-- semiconductors
-- computer chips
-- chip industry
-- semiconductor supply chain
-- fabless
-- foundry
-- IDM
-- EDA
-- photolithography
-- process nodes
-- advanced packaging
-- HBM
-- CoWoS
-- OSAT
-- GPUs
-- AI accelerators
-- export controls
-- CHIPS Act
-- geopolitics
+  - semiconductors
+  - computer chips
+  - chip industry
+  - semiconductor supply chain
+  - fabless
+  - foundry
+  - IDM
+  - EDA
+  - photolithography
+  - process nodes
+  - advanced packaging
+  - HBM
+  - CoWoS
+  - OSAT
+  - GPUs
+  - AI accelerators
+  - export controls
+  - CHIPS Act
+  - geopolitics
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-chip-industry-field-guide
   date: '2026-02-12'
   description: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
@@ -111,15 +109,15 @@ meta:
   slug: chip-industry
   status: published
   subject:
-  - Semiconductor industry
-  - Technology supply chains
-  - Industrial organization
-  - Geopolitics
+    - Semiconductor industry
+    - Technology supply chains
+    - Industrial organization
+    - Geopolitics
   subjects:
-  - Semiconductor industry
-  - Technology supply chains
-  - Industrial organization
-  - Geopolitics
+    - Semiconductor industry
+    - Technology supply chains
+    - Industrial organization
+    - Geopolitics
   subtitle: A Non-Technical Field Guide
   tags: *id003
   title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide

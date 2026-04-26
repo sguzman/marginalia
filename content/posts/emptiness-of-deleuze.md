@@ -1,10 +1,8 @@
 ---
 title: Emptiness Of Deleuze
 linkTitle: Emptiness Of Deleuze
-description: >-
-  The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…
-summary: >-
-  The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; calling something a “social construction” is not inherently a refutation of its reality or power; and theorists who denounce order often rely on its benefits (e.g. to write books) while proposing no tangible alternatives. We examine each critique by first outlining Deleuzian concepts (difference/repetition, multiplicity, rhizome, assemblage, deterritorialization/ret, Body without Organs, desiring-machines) with primary-source citations. We then map the user’s criticisms onto Deleuze’s texts and interpretations, contrasting them with sympathetic readings.…
+description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
+summary: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; calling something a “social construction” is not inherently a refutation of its reality or power; and theorists who denounce order often rely on its benefits (e.g. to write books) while proposing no tangible alternatives. We examine each critique by first outlining Deleuzian concepts (difference/repetition, multiplicity, rhizome, assemblage, deterritorialization/ret, Body without Organs, desiring-machines) with primary-source citations. We then map the user’s criticisms onto Deleuze’s texts and interpretations, contrasting them with sympathetic readings.…'
 slug: emptiness-of-deleuze
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; calling something a “social construction” is not inherently a refutation of its reality or power; and theorists who denounce order often rely on its benefits (e.g. to write books) while proposing no tangible alternatives. We examine each critique by first outlining Deleuzian concepts (difference/repetition, multiplicity, rhizome, assemblage, deterritorialization/ret, Body without Organs, desiring-machines) with primary-source citations. We then map the user’s criticisms onto Deleuze’s texts and interpretations, contrasting them with sympathetic readings.…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: emptiness-of-deleuze
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: emptiness-of-deleuze
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

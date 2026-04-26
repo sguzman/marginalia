@@ -1,10 +1,8 @@
 ---
 title: Civilizing Injustice? Colonial Conquest and Moral Pretexts
 linkTitle: Civilizing Injustice? Colonial Conquest and Moral Pretexts
-description: >-
-  Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French…
-summary: >-
-  Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French Algeria’s “civilizing mission,” and U.S. rule in the Philippines via “benevolent assimilation”), we compare the stated moral pretexts to the actual motives, processes, and outcomes of conquest. We show that colonial powers often used humanitarian rhetoric as a pretext for expansion, not as an honest driver of policy. These examples, together with the international legal framework (UN Charter, self-determination, customary international law) and modern norms (humanitarian intervention, Responsibility to Protect), demonstrate that conquest under the guise…
+description: 'Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French…'
+summary: 'Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French Algeria’s “civilizing mission,” and U.S. rule in the Philippines via “benevolent assimilation”), we compare the stated moral pretexts to the actual motives, processes, and outcomes of conquest. We show that colonial powers often used humanitarian rhetoric as a pretext for expansion, not as an honest driver of policy. These examples, together with the international legal framework (UN Charter, self-determination, customary international law) and modern norms (humanitarian intervention, Responsibility to Protect), demonstrate that conquest under the guise…'
 slug: civilizing-injustice-colonial-conquest-and-moral-pretexts
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French Algeria’s “civilizing mission,” and U.S. rule in the Philippines via “benevolent assimilation”), we compare the stated moral pretexts to the actual motives, processes, and outcomes of conquest. We show that colonial powers often used humanitarian rhetoric as a pretext for expansion, not as an honest driver of policy. These examples, together with the international legal framework (UN Charter, self-determination, customary international law) and modern norms (humanitarian intervention, Responsibility to Protect), demonstrate that conquest under the guise…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: 'Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: civilizing-injustice-colonial-conquest-and-moral-pretexts
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: civilizing-injustice-colonial-conquest-and-moral-pretexts
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

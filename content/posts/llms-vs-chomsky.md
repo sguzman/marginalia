@@ -1,11 +1,11 @@
 ---
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- Research
-- Linguistics
-- AI
+  - Research
+  - Linguistics
+  - AI
 date: 2026-01-15
 description: An analytical report on how large language models challenge the fundamental assumptions of Chomskyan linguistics, focusing on Universal Grammar and the Poverty of the Stimulus.
 draft: false
@@ -34,26 +34,26 @@ meta:
   status: final
   subject: linguistics
   subjects:
-  - linguistics
-  - artificial intelligence
-  - Noam Chomsky
-  - large language models
-  - universal grammar
-  - cognitive science
+    - linguistics
+    - artificial intelligence
+    - Noam Chomsky
+    - large language models
+    - universal grammar
+    - cognitive science
   subtitle: Auditing Universal Grammar in the Age of Transformers
   toc: true
   type: article
 series: []
 tags:
-- linguistics
-- ai
-- chomsky
-- llm
-- universal-grammar
+  - linguistics
+  - ai
+  - chomsky
+  - llm
+  - universal-grammar
 title: How LLMs Challenge Chomskyan Assumptions
 ai_generated: true
+slug: llms-vs-chomsky
 ---
-
 
 # How LLMs Challenge Chomskyan Assumptions: Analytical Report
 

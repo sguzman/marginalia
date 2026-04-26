@@ -12,7 +12,7 @@ lastmod: '2026-04-20T15:45:00Z'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
+  - Salvador Guzman
 meta:
   abstract: This essay explores the ontological identity of "the book," arguing that books are fungible at the level of their verbal content. The author proposes a formal model of book identity using typed tuples—author, title, and edition—while suggesting that the "verbal book" transcends its physical or linguistic manifestation. Drawing on Foucault and formal semantics, the piece deconstructs the relationship between authorial intention and the written word, ultimately aiming for a "commutative algebra of truth" where the semantic weight of a text is agnostic to the provincial constraints of syntax and order.
   creator: Salvador Guzman
@@ -36,63 +36,63 @@ meta:
   status: final
   subject: philosophy of language
   subjects:
-  - books
-  - semantics
-  - formalism
-  - epistemology
-  - identity
-  - ontological classification
+    - books
+    - semantics
+    - formalism
+    - epistemology
+    - identity
+    - ontological classification
   subtitle: Ontology, Tuples, and the Algebra of Truth
   toc: true
   type: article
 layout: single
 weight: 0
 categories:
-- philosophy of language
-- epistemology
-- philosophy of books
-- semantics
+  - philosophy of language
+  - epistemology
+  - philosophy of books
+  - semantics
 tags:
-- books
-- written word
-- fungibility
-- authorial intention
-- verbal book
-- identity
-- tuple
-- formalism
-- semantics
-- ambiguity
-- epistemology
-- commutative algebra
-- truth
-- lexicon
-- syntax
+  - books
+  - written word
+  - fungibility
+  - authorial intention
+  - verbal book
+  - identity
+  - tuple
+  - formalism
+  - semantics
+  - ambiguity
+  - epistemology
+  - commutative algebra
+  - truth
+  - lexicon
+  - syntax
 keywords:
-- book identity
-- typed tuple
-- author intention
-- semantics
-- ambiguity theory
-- truth as algebra
-- commutativity
-- lexemes
-- ontological fungibility
-- verbal book
-- Foucault
-- formal semantics
-- semantic space
-- algebra of truth
-- Cartesian product
-- vector space
-- authorial deconstruction
-- objective truth
-- lexical items
-- syntactic groups
+  - book identity
+  - typed tuple
+  - author intention
+  - semantics
+  - ambiguity theory
+  - truth as algebra
+  - commutativity
+  - lexemes
+  - ontological fungibility
+  - verbal book
+  - Foucault
+  - formal semantics
+  - semantic space
+  - algebra of truth
+  - Cartesian product
+  - vector space
+  - authorial deconstruction
+  - objective truth
+  - lexical items
+  - syntactic groups
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 headless: false
 isCJKLanguage: false
 translationKey: ''
@@ -108,7 +108,6 @@ sitemap:
   filename: sitemap.xml
 ai_generated: false
 ---
-
 
 # Introduction
 

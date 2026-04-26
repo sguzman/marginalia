@@ -1,10 +1,8 @@
 ---
 title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
 linkTitle: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-description: >-
-  Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-summary: >-
-  Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+description: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+summary: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
 slug: hitler-philosophy
 url: ''
 aliases: []
@@ -12,47 +10,47 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- history
-- political-ideology
-- fascism
-- nazism
-- germany
+  - history
+  - political-ideology
+  - fascism
+  - nazism
+  - germany
 tags: &id003
-- hitler
-- nazism
-- fascism
-- ideology
-- germany
-- wwii
+  - hitler
+  - nazism
+  - fascism
+  - ideology
+  - germany
+  - wwii
 keywords: &id002
-- Adolf Hitler
-- Nazism
-- National Socialism
-- ideology
-- antisemitism
-- racial nationalism
-- Führerprinzip
-- Lebensraum
-- Weimar Republic
-- World War II
+  - Adolf Hitler
+  - Nazism
+  - National Socialism
+  - ideology
+  - antisemitism
+  - racial nationalism
+  - Führerprinzip
+  - Lebensraum
+  - Weimar Republic
+  - World War II
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-hitlers-ideology-1907-1945
   date: '2026-02-12'
   description: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
@@ -98,11 +96,11 @@ meta:
   status: published
   subject: Hitler's ideology (1907--1945)
   subjects:
-  - Hitler, Adolf, 1889-1945 -- political and social views
-  - National socialism -- ideology
-  - Germany -- history -- 1933-1945
-  - Antisemitism -- Europe -- history -- 20th century
-  - Fascism -- Germany
+    - Hitler, Adolf, 1889-1945 -- political and social views
+    - National socialism -- ideology
+    - Germany -- history -- 1933-1945
+    - Antisemitism -- Europe -- history -- 20th century
+    - Fascism -- Germany
   subtitle: Continuity and tactical adaptation from Vienna to 1945
   tags: *id003
   title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)

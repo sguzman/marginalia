@@ -1,10 +1,8 @@
 ---
 title: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
 linkTitle: 'Chartists & Radical Republicans, 1840‑1865: Franchise, So…'
-description: >-
-  Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance
-summary: >-
-  Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance
+description: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
+summary: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
 slug: 4chartist
 url: ''
 aliases: []
@@ -12,52 +10,52 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- history
-- political-theory
-- socialism
+  - history
+  - political-theory
+  - socialism
 tags: &id003
-- chartism
-- radical-republicans
-- franchise
-- reconstruction
-- abolitionism
-- land-reform
-- labor
-- cooperatives
-- british-history
-- us-history
+  - chartism
+  - radical-republicans
+  - franchise
+  - reconstruction
+  - abolitionism
+  - land-reform
+  - labor
+  - cooperatives
+  - british-history
+  - us-history
 keywords: &id002
-- Chartism
-- People's Charter
-- Radical Republicanism
-- Reconstruction
-- franchise reform
-- universal male suffrage
-- land reform
-- labor movement
-- cooperatives
-- Red Republicanism
-- political economy
-- abolitionism
-- Corn Laws
+  - Chartism
+  - People's Charter
+  - Radical Republicanism
+  - Reconstruction
+  - franchise reform
+  - universal male suffrage
+  - land reform
+  - labor movement
+  - cooperatives
+  - Red Republicanism
+  - political economy
+  - abolitionism
+  - Corn Laws
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: inventing-socialism.chartism-1840-1865
   date: '2026-02-12'
   description: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
@@ -98,19 +96,19 @@ meta:
   slug: 4chartist
   status: draft
   subject:
-  - Chartism -- Great Britain -- History -- 19th century
-  - Radicalism -- Great Britain -- History -- 19th century
-  - Radical Republicans -- United States -- History -- 19th century
-  - Suffrage -- Great Britain -- History -- 19th century
-  - Reconstruction (U.S. history, 1865-1877)
-  - Socialism -- History -- 19th century
+    - Chartism -- Great Britain -- History -- 19th century
+    - Radicalism -- Great Britain -- History -- 19th century
+    - Radical Republicans -- United States -- History -- 19th century
+    - Suffrage -- Great Britain -- History -- 19th century
+    - Reconstruction (U.S. history, 1865-1877)
+    - Socialism -- History -- 19th century
   subjects:
-  - Chartism -- Great Britain -- History -- 19th century
-  - Radicalism -- Great Britain -- History -- 19th century
-  - Radical Republicans -- United States -- History -- 19th century
-  - Suffrage -- Great Britain -- History -- 19th century
-  - Reconstruction (U.S. history, 1865-1877)
-  - Socialism -- History -- 19th century
+    - Chartism -- Great Britain -- History -- 19th century
+    - Radicalism -- Great Britain -- History -- 19th century
+    - Radical Republicans -- United States -- History -- 19th century
+    - Suffrage -- Great Britain -- History -- 19th century
+    - Reconstruction (U.S. history, 1865-1877)
+    - Socialism -- History -- 19th century
   subtitle: Franchise, Socialism, and the Limits of Alliance
   tags: *id003
   title: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'

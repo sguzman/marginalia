@@ -1,10 +1,8 @@
 ---
 title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
 linkTitle: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Ma…'
-description: >-
-  Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions
-summary: >-
-  Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions
+description: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
+summary: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
 slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-02-15'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
   description: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

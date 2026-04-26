@@ -1,10 +1,8 @@
 ---
 title: History of HTML (1990--2025)
 linkTitle: History of HTML (1990--2025)
-description: >-
-  HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
-summary: >-
-  HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by formal standards bodies (IETF, W3C, WHATWG) and by the practical needs and innovations of web developers. This report chronicles HTML's history in thematic eras, highlighting milestones in governance, parsing and conformance, semantic enrichment, accessibility, developer practices, and the broader cultural and economic forces at play. Each era illustrates how HTML grew in response to new challenges -- from early academic information-sharing to the mobile and app-centric web -- and how the web community continually returned to HTML's core strengths. The re…
+description: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
+summary: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by formal standards bodies (IETF, W3C, WHATWG) and by the practical needs and innovations of web developers. This report chronicles HTML's history in thematic eras, highlighting milestones in governance, parsing and conformance, semantic enrichment, accessibility, developer practices, and the broader cultural and economic forces at play. Each era illustrates how HTML grew in response to new challenges -- from early academic information-sharing to the mobile and app-centric web -- and how the web community continually returned to HTML's core strengths. The re…
 slug: html-history
 url: ''
 aliases: []
@@ -12,55 +10,55 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Computing
-- Web
-- Internet History
-- Standards
+  - Computing
+  - Web
+  - Internet History
+  - Standards
 tags: &id003
-- html
-- web
-- internet
-- standards
-- w3c
-- whatwg
-- ietf
-- html5
-- xhtml
-- browsers
+  - html
+  - web
+  - internet
+  - standards
+  - w3c
+  - whatwg
+  - ietf
+  - html5
+  - xhtml
+  - browsers
 keywords: &id002
-- HTML
-- World Wide Web
-- W3C
-- WHATWG
-- IETF
-- HTML5
-- XHTML
-- Browser wars
-- Web standards
-- DOM
-- JavaScript
-- CSS
-- Parsing
-- Accessibility
-- Metadata
+  - HTML
+  - World Wide Web
+  - W3C
+  - WHATWG
+  - IETF
+  - HTML5
+  - XHTML
+  - Browser wars
+  - Web standards
+  - DOM
+  - JavaScript
+  - CSS
+  - Parsing
+  - Accessibility
+  - Metadata
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by formal standards bodies (IETF, W3C, WHATWG) and by the practical needs and innovations of web developers. This report chronicles HTML's history in thematic eras, highlighting milestones in governance, parsing and conformance, semantic enrichment, accessibility, developer practices, and the broader cultural and economic forces at play. Each era illustrates how HTML grew in response to new challenges -- from early academic information-sharing to the mobile and app-centric web -- and how the web community continually returned to HTML's core strengths. The re…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: html-history
   date: '2026-02-12'
   description: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
@@ -98,15 +96,15 @@ meta:
   slug: html-history
   status: published
   subject:
-  - HTML
-  - Web standards
-  - Internet history
+    - HTML
+    - Web standards
+    - Internet history
   subjects:
-  - HyperText Markup Language
-  - World Wide Web
-  - Web browsers
-  - Standards organizations
-  - Document formats
+    - HyperText Markup Language
+    - World Wide Web
+    - Web browsers
+    - Standards organizations
+    - Document formats
   subtitle: From SGML Roots to the Living Standard
   tags: *id003
   toc: true

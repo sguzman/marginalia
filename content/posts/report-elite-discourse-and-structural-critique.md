@@ -1,10 +1,8 @@
 ---
 title: 'Report: Elite Discourse and Structural Critique'
 linkTitle: 'Report: Elite Discourse and Structural Critique'
-description: >-
-  Report: Elite Discourse and Structural Critique
-summary: >-
-  Report: Elite Discourse and Structural Critique
+description: 'Report: Elite Discourse and Structural Critique'
+summary: 'Report: Elite Discourse and Structural Critique'
 slug: report-elite-discourse-and-structural-critique
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-02-27'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Report: Elite Discourse and Structural Critique'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-27'
   description: 'Report: Elite Discourse and Structural Critique'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: report-elite-discourse-and-structural-critique
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: report-elite-discourse-and-structural-critique
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

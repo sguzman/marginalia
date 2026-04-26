@@ -1,10 +1,8 @@
 ---
 title: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
 linkTitle: 'The Evolution and Frontiers of Algebra: A Comprehensive H…'
-description: >-
-  The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis
-summary: >-
-  The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis
+description: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
+summary: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
 slug: algebra-evolution
 url: ''
 aliases: []
@@ -12,70 +10,70 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- Algebra
-- History of Mathematics
-- Mathematical Structures
+  - Mathematics
+  - Algebra
+  - History of Mathematics
+  - Mathematical Structures
 tags: &id003
-- algebra
-- history
-- abstract-algebra
-- group-theory
-- ring-theory
-- field-theory
-- galois-theory
-- linear-algebra
-- representation-theory
-- lie-algebras
-- hopf-algebras
-- homological-algebra
-- algebraic-geometry
-- category-theory
-- computational-algebra
-- groebner-bases
-- cryptography
-- coding-theory
-- langlands
+  - algebra
+  - history
+  - abstract-algebra
+  - group-theory
+  - ring-theory
+  - field-theory
+  - galois-theory
+  - linear-algebra
+  - representation-theory
+  - lie-algebras
+  - hopf-algebras
+  - homological-algebra
+  - algebraic-geometry
+  - category-theory
+  - computational-algebra
+  - groebner-bases
+  - cryptography
+  - coding-theory
+  - langlands
 keywords: &id002
-- algebra
-- history of algebra
-- abstract algebra
-- symbolic notation
-- group theory
-- ring theory
-- field theory
-- Galois theory
-- linear algebra
-- representation theory
-- Lie algebra
-- Hopf algebra
-- homological algebra
-- algebraic geometry
-- category theory
-- computational algebra
-- Groebner bases
-- cryptography
-- coding theory
-- symmetry
-- Langlands program
+  - algebra
+  - history of algebra
+  - abstract algebra
+  - symbolic notation
+  - group theory
+  - ring theory
+  - field theory
+  - Galois theory
+  - linear algebra
+  - representation theory
+  - Lie algebra
+  - Hopf algebra
+  - homological algebra
+  - algebraic geometry
+  - category theory
+  - computational algebra
+  - Groebner bases
+  - cryptography
+  - coding theory
+  - symmetry
+  - Langlands program
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-algebra-evolution
   date: '2026-02-12'
   description: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
@@ -114,11 +112,11 @@ meta:
   slug: algebra-evolution
   status: draft
   subject:
-  - Algebra
+    - Algebra
   subjects:
-  - Algebra
-  - History of Mathematics
-  - Abstract Structures
+    - Algebra
+    - History of Mathematics
+    - Abstract Structures
   subtitle: A Comprehensive Historical and Conceptual Analysis
   tags: *id003
   title: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'

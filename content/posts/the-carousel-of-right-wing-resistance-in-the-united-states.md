@@ -1,10 +1,8 @@
 ---
 title: The Carousel of Right-Wing Resistance in the United States
 linkTitle: The Carousel of Right-Wing Resistance in the United States
-description: >-
-  The Carousel of Right-Wing Resistance in the United States
-summary: >-
-  The Carousel of Right-Wing Resistance in the United States
+description: The Carousel of Right-Wing Resistance in the United States
+summary: The Carousel of Right-Wing Resistance in the United States
 slug: the-carousel-of-right-wing-resistance-in-the-united-states
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-02-15'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: The Carousel of Right-Wing Resistance in the United States
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
   description: The Carousel of Right-Wing Resistance in the United States
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: the-carousel-of-right-wing-resistance-in-the-united-states
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: the-carousel-of-right-wing-resistance-in-the-united-states
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

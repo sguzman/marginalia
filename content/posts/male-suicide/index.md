@@ -1,10 +1,8 @@
 ---
 title: Male Suicide in the United States (2000--Present)
 linkTitle: Male Suicide in the United States (2000--Present)
-description: >-
-  <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2…
-summary: >-
-  <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.
+description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2…'
+summary: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.'
 slug: male-suicide
 url: ''
 aliases: []
@@ -12,71 +10,71 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- public health
-- mental health
-- epidemiology
-- policy
-- united states
+  - public health
+  - mental health
+  - epidemiology
+  - policy
+  - united states
 tags: &id003
-- male-suicide
-- suicide
-- public-health
-- epidemiology
-- mental-health
-- us
-- firearms
-- means-safety
-- veterans
-- rural
-- risk-factors
-- prevention
-- '988'
-- projections
+  - male-suicide
+  - suicide
+  - public-health
+  - epidemiology
+  - mental-health
+  - us
+  - firearms
+  - means-safety
+  - veterans
+  - rural
+  - risk-factors
+  - prevention
+  - '988'
+  - projections
 keywords: &id002
-- male suicide
-- suicide mortality
-- United States
-- CDC WONDER
-- WISQARS
-- NVSS
-- NSDUH
-- YRBS
-- NVDRS
-- veterans
-- rural health
-- firearms
-- lethal means safety
-- means restriction
-- depression
-- PTSD
-- substance use disorder
-- opioid epidemic
-- economic stress
-- divorce
-- social isolation
-- help-seeking
-- masculinity norms
-- 988 lifeline
-- time-series projection
-- suicide prevention
+  - male suicide
+  - suicide mortality
+  - United States
+  - CDC WONDER
+  - WISQARS
+  - NVSS
+  - NSDUH
+  - YRBS
+  - NVDRS
+  - veterans
+  - rural health
+  - firearms
+  - lethal means safety
+  - means restriction
+  - depression
+  - PTSD
+  - substance use disorder
+  - opioid epidemic
+  - economic stress
+  - divorce
+  - social isolation
+  - help-seeking
+  - masculinity norms
+  - 988 lifeline
+  - time-series projection
+  - suicide prevention
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: male-suicide-us-2000-present
   date: '2026-02-12'
   description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2…'
@@ -94,8 +92,8 @@ meta:
   library_of_congress_classification:
     primary: RA790.6
     secondary:
-    - RC569.5.S9
-    - HV6548.U6
+      - RC569.5.S9
+      - HV6548.U6
     notes: Provisional LoC classification for a U.S.-focused public-health report on suicide epidemiology, prevention policy, and mental health determinants.
   license: CC0-1.0
   number-sections: true
@@ -119,19 +117,19 @@ meta:
   slug: male-suicide
   status: published
   subject:
-  - Male suicide epidemiology
-  - Suicide prevention
-  - Mental health policy
-  - Lethal means safety
-  - Demographic and geographic disparities
+    - Male suicide epidemiology
+    - Suicide prevention
+    - Mental health policy
+    - Lethal means safety
+    - Demographic and geographic disparities
   subjects:
-  - Public health surveillance
-  - Injury epidemiology
-  - Behavioral health services
-  - Veteran mental health
-  - Rural health
-  - Firearm policy and safety
-  - Social determinants of health
+    - Public health surveillance
+    - Injury epidemiology
+    - Behavioral health services
+    - Veteran mental health
+    - Rural health
+    - Firearm policy and safety
+    - Social determinants of health
   subtitle: Trends, disparities, drivers, interventions, and projections
   tags: *id003
   title: Male Suicide in the United States (2000--Present)

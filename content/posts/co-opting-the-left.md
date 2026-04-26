@@ -1,10 +1,8 @@
 ---
-title: '**Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)**'
-linkTitle: '**Co-opting the Left: U.S. Liberal Institutions and Derad…'
-description: >-
-  Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)
-summary: >-
-  Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)
+title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
+linkTitle: 'Co-opting the Left: U.S. Liberal Institutions and Deradic…'
+description: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
+summary: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
 slug: co-opting-the-left
 url: ''
 aliases: []
@@ -12,53 +10,53 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- politics
-- political theory
-- u.s. history
-- social movements
-- institutional analysis
+  - politics
+  - political theory
+  - u.s. history
+  - social movements
+  - institutional analysis
 tags: &id003
-- co-optation
-- deradicalization
-- institutions
-- u.s. politics
-- social movements
-- occupy
-- blm
+  - co-optation
+  - deradicalization
+  - institutions
+  - u.s. politics
+  - social movements
+  - occupy
+  - blm
 keywords: &id002
-- co-optation
-- deradicalization
-- u.s. liberalism
-- democratic party
-- nonprofit industrial complex
-- philanthropy
-- movement professionalization
-- media framing
-- selective repression
-- selective inclusion
-- political incorporation
-- occupy wall street
-- black lives matter
-- labor movement
-- civil rights movement
+  - co-optation
+  - deradicalization
+  - u.s. liberalism
+  - democratic party
+  - nonprofit industrial complex
+  - philanthropy
+  - movement professionalization
+  - media framing
+  - selective repression
+  - selective inclusion
+  - political incorporation
+  - occupy wall street
+  - black lives matter
+  - labor movement
+  - civil rights movement
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-co-opting-the-left-1945-present
   date: '2026-02-12'
   description: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
@@ -76,8 +74,8 @@ meta:
   library_of_congress_classification:
     primary: HN90
     secondary:
-    - JK
-    - HD
+      - JK
+      - HD
     note: U.S. social conditions/social reform (HN); U.S. political institutions (JK); labor/economic history context (HD).
   license: CC0-1.0
   number-sections: true
@@ -102,18 +100,18 @@ meta:
   slug: co-opting-the-left
   status: final-draft
   subject:
-  - United States
-  - Social movements
-  - Political co-optation
+    - United States
+    - Social movements
+    - Political co-optation
   subjects:
-  - U.S. politics
-  - Left-wing movements
-  - Institutional power
-  - NGOs and philanthropy
-  - Media and narrative framing
+    - U.S. politics
+    - Left-wing movements
+    - Institutional power
+    - NGOs and philanthropy
+    - Media and narrative framing
   subtitle: U.S. Liberal Institutions and Deradicalization (1945--Present)
   tags: *id003
-  title: '**Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)**'
+  title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
   toc: true
   toc-depth: 2
   toc-title: Contents
@@ -576,7 +574,7 @@ We can format it as a bullet tree, as needed. 6. **Confidence Table (High/Med/Lo
 
 That sort of table to indicate which conclusions we are most sure about and which are more tentative. 7. **Annotated Bibliography:** Group sources by categories, e.g.: - *Books & Academic Studies:* e.g. Piven & Cloward (1977) on Poor People's Movements -- summary of how movements get institutionalized, etc. Skocpol (2003) on civic transformation -- citing her perspective on professional advocacy[\[78\]](https://jacobin.com/2024/12/civil-society-working-class-democrats#:~:text=The%20roots%20of%20this%20problem,groups%20in%20the%20late%201960s). - *Primary Sources & Reports:* e.g. Church Committee report -- what it reveals about FBI targeting[\[5\]](https://en.wikipedia.org/wiki/COINTELPRO#:~:text=A%20March%201968%20memo%20stated,figure); FBI COINTELPRO docs -- e.g. ones in PBS or by historians showing split tactics[\[5\]](https://en.wikipedia.org/wiki/COINTELPRO#:~:text=A%20March%201968%20memo%20stated,figure). Ford Foundation memos (like Allen 1969 reproduction) -- what it shows about foundation aims[\[4\]](https://www.blackagendareport.com/chapter-ford-foundation-and-black-power-robert-l-allen-1968#:~:text=Working%20directly%20or%20indirectly%20through,to%20forestall%20future%20urban%20rebellions). - *Movement memoirs or archives:* e.g. SNCC papers, or Autobiography of Malcolm X (speaks to how moderate pleas didn\'t address deeper issues). - *Journalism & Investigative:* e.g. Washington Post 2021 analysis on corporate pledges[\[50\]](https://www.washingtonpost.com/business/interactive/2021/george-floyd-corporate-america-racial-justice/#:~:text=To%20date%2C%20America%E2%80%99s%2050%20biggest,appears%20unequaled%20in%20sheer%20scale)[\[51\]](https://www.washingtonpost.com/business/interactive/2021/george-floyd-corporate-america-racial-justice/#:~:text=Looking%20deeper%2C%20more%20than%2090,nearly%20all%20of%20those%20commitments) -- how it illustrates symbolic co-optation in BLM. - *Data sources:* e.g. BLS union data report[\[10\]](https://www.congress.gov/crs-product/R47596#:~:text=In%202022%2C%20the%20share%20of,NLRA%29%2C%20the%20primary%20federal) -- note what it indicates. Poll data reference (Pew on union decline opinions[\[79\]](https://www.pewresearch.org/short-reads/2025/08/27/majorities-of-adults-see-decline-of-union-membership-as-bad-for-the-us-and-working-people/#:~:text=Union%20membership%20decline%20seen%20as,American%20workers%20were%20union%20members); Gallup on support for socialism vs capitalism over time).
 
-We will annotate each with how they support or contextualize our thesis (or perhaps some that give contrary views, to show breadth). 8. **Next-Step Research Plan:** We propose further reading and data to test unresolved aspects: - e.g. *Archival research to do:* examine internal Dem Party records from 1968 or 2016 to see explicit co-optation talk. FOIA FBI files for Occupy and BLM to see tactical perspective (some of which journalists have started). - *Data to gather:* systematic protest event data to correlate with reform timeline for multiple movements (to quantitatively measure co-optation impact). Also perhaps interviews with still-living activists and officials about how they perceived these processes (oral history projects). - *Comparative perspective:* reading about other countries where co-optation either succeeded differently or failed (e.g. how Europe's social democracies co-opted revolutionary left or how in some places left was not co-opted but instead took power, for contrast). - *Focus on emerging challenges:* plan to watch how, for instance, climate activism might be co-opted by net-zero pledges and what could be done differently -- a sort of actionable future research to avoid co-optation (if audience is activists, this is crucial).
+We will annotate each with how they support or contextualize our thesis (or perhaps some that give contrary views, to show breadth). 8. **
 
 This plan shows that we consider our findings a starting point and there are ways to refine or challenge them with further work.
 

@@ -1,10 +1,8 @@
 ---
 title: Inventing Socialism
 linkTitle: Inventing Socialism
-description: >-
-  Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen's co-op…
-summary: >-
-  Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen's co-operative reformers(https://archive.org/details/co-operative-magazine-and-monthly-herald-1827-11-the-first-documented-use-of-soc#:~:text=The%20first%20documented%20use%20of,operative%20Magazine%2C%20London%2C%20November%201827). Owen himself spoke of a new "social system" to replace competitive individualism(https://www.libertarian-labyrinth.org/utopian-and-scientific/paul-brown-twelve-months-in-new-harmony-1827/#:~:text=had%20to%20pass%20through%2C%E2%80%94for%20my,communities%2C%20or%20to%20form%20others), laying groundwork for what would soon be called…
+description: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s co-op…'
+summary: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s co-operative reformers(https://archive.org/details/co-operative-magazine-and-monthly-herald-1827-11-the-first-documented-use-of-soc#:~:text=The%20first%20documented%20use%20of,operative%20Magazine%2C%20London%2C%20November%201827). Owen himself spoke of a new "social system" to replace competitive individualism(https://www.libertarian-labyrinth.org/utopian-and-scientific/paul-brown-twelve-months-in-new-harmony-1827/#:~:text=had%20to%20pass%20through%2C%E2%80%94for%20my,communities%2C%20or%20to%20form%20others), laying groundwork for what would soon be called…'
 slug: 1inventing-socialism
 url: ''
 aliases: []
@@ -12,49 +10,49 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- History of Ideas
-- Political Thought
-- 19th Century
+  - History of Ideas
+  - Political Thought
+  - 19th Century
 tags: &id003
-- socialism
-- history
-- political-theory
-- utopianism
-- 19th-century
+  - socialism
+  - history
+  - political-theory
+  - utopianism
+  - 19th-century
 keywords: &id002
-- socialism
-- socialist
-- utopian socialism
-- Robert Owen
-- Saint-Simonianism
-- Claude Henri de Saint-Simon
-- Charles Fourier
-- Fourierism
-- Etienne Cabet
-- Icaria
-- co-operative movement
-- industrial capitalism
-- France
-- Britain
-- nineteenth century
+  - socialism
+  - socialist
+  - utopian socialism
+  - Robert Owen
+  - Saint-Simonianism
+  - Claude Henri de Saint-Simon
+  - Charles Fourier
+  - Fourierism
+  - Etienne Cabet
+  - Icaria
+  - co-operative movement
+  - industrial capitalism
+  - France
+  - Britain
+  - nineteenth century
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s co-operative reformers(https://archive.org/details/co-operative-magazine-and-monthly-herald-1827-11-the-first-documented-use-of-soc#:~:text=The%20first%20documented%20use%20of,operative%20Magazine%2C%20London%2C%20November%201827). Owen himself spoke of a new "social system" to replace competitive individualism(https://www.libertarian-labyrinth.org/utopian-and-scientific/paul-brown-twelve-months-in-new-harmony-1827/#:~:text=had%20to%20pass%20through%2C%E2%80%94for%20my,communities%2C%20or%20to%20form%20others), laying groundwork for what would soon be called…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-inventing-socialism
   date: '2026-02-12'
   description: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s co-op…'
@@ -94,13 +92,13 @@ meta:
   slug: 1inventing-socialism
   status: published
   subject:
-  - History of socialism
-  - Political terminology
-  - Utopian movements
+    - History of socialism
+    - Political terminology
+    - Utopian movements
   subjects:
-  - History of socialism
-  - Political terminology
-  - Utopian movements
+    - History of socialism
+    - Political terminology
+    - Utopian movements
   subtitle: How a Name Emerged in Britain and France (1820-1840)
   tags: *id003
   title: Inventing Socialism

@@ -5,40 +5,60 @@ date: '2026-02-12'
 draft: false
 slug: dirt-track-to-durable-highway
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- civil-engineering
-- transportation
-- infrastructure
-- materials-science
-- history-of-technology
+  - civil-engineering
+  - transportation
+  - infrastructure
+  - materials-science
+  - history-of-technology
 tags:
-- pavement-engineering
-- subgrade
-- drainage
-- soil-stabilization
-- asphalt
-- concrete
-- quality-control
-- maintenance
-- materials
-- infrastructure-history
+  - pavement-engineering
+  - subgrade
+  - drainage
+  - soil-stabilization
+  - asphalt
+  - concrete
+  - quality-control
+  - maintenance
+  - materials
+  - infrastructure-history
 library_of_congress_classification:
   primary: ''
   area: ''
   note: Highway engineering / road construction and pavements
 meta:
-  abstract: 'A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded into a durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization, granular base and drainage design, asphalt vs. concrete surface selection and mix design, construction quality control, and long-term maintenance planning. The piece also connects modern best practices to historical milestones (e.g., Macadam roads, early Autobahn design, and the Interstate era) to show how proven lessons shaped today’s pavement engineering.
-
-    '
+  abstract: 'A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded into a durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization, granular base and drainage design, asphalt vs. concrete surface selection and mix design, construction quality control, and long-term maintenance planning. The piece also connects modern best practices to historical milestones (e.g., Macadam roads, early Autobahn design, and the Interstate era) to show how proven lessons shaped today’s pavement engineering.'
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva.highways.dirttrack.v1
   report: {}
+  publisher: Marginalia
+  license: CC0-1.0
+  rights: CC0-1.0
+  language: en
+  identifier: dirt-track-to-durable-highway
+  status: published
+  type: article
+  subjects:
+    - civil-engineering
+    - transportation
+    - infrastructure
+    - materials-science
+    - history-of-technology
+    - pavement-engineering
+    - subgrade
+    - drainage
+    - soil-stabilization
+    - asphalt
+    - concrete
+    - quality-control
+    - maintenance
+    - materials
+    - infrastructure-history
 ai_generated: true
 ---
-
 
 # From Dirt Track to Durable Highway
 

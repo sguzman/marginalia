@@ -5,42 +5,60 @@ date: '2026-02-12'
 draft: false
 slug: marx-bibliography
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- marxism
-- bibliography
-- political-theory
-- intellectual-history
-- research-guide
+  - marxism
+  - bibliography
+  - political-theory
+  - intellectual-history
+  - research-guide
 tags:
-- marx
-- engels
-- marxism
-- bibliography
-- reading-list
-- critical-theory
-- socialism
-- communism
+  - marx
+  - engels
+  - marxism
+  - bibliography
+  - reading-list
+  - critical-theory
+  - socialism
+  - communism
 library_of_congress_classification:
   primary: HX
   area: ''
   note: ''
 meta:
-  abstract: 'A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across regions, ideological currents, media, and major scholarly languages, and includes methodology notes designed for transparent, reproducible updating.
-
-    '
+  abstract: A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across regions, ideological currents, media, and major scholarly languages, and includes methodology notes designed for transparent, reproducible updating.
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-marx-bibliography-2026-02-12
   report:
     kind: annotated bibliography
     scope_years: 1840-2025
     organization: chronological + thematic
     intent: research guide
+  publisher: Marginalia
+  license: CC0-1.0
+  rights: CC0-1.0
+  language: en
+  identifier: marx-bibliography
+  status: published
+  type: article
+  subjects:
+    - marxism
+    - bibliography
+    - political-theory
+    - intellectual-history
+    - research-guide
+    - marx
+    - engels
+    - marxism
+    - bibliography
+    - reading-list
+    - critical-theory
+    - socialism
+    - communism
 ai_generated: true
 ---
-
 
 # Comprehensive Marxist Literature (1840--2025)
 

@@ -1,10 +1,8 @@
 ---
 title: Federal Legal Landscape
 linkTitle: Federal Legal Landscape
-description: >-
-  Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
-summary: >-
-  Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-2020_0.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)(https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is still prohibited by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforce…
+description: Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
+summary: 'Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-20200.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)(https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is still prohibited by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforcem…'
 slug: kern-weed
 url: ''
 aliases: []
@@ -12,65 +10,65 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Law
-- Public Policy
-- Cannabis
-- California
+  - Law
+  - Public Policy
+  - Cannabis
+  - California
 tags: &id003
-- kern-county
-- california
-- cannabis-law
-- local-control
-- zoning
-- ceqa
-- metrc
-- 280e
-- banking
-- compliance
+  - kern-county
+  - california
+  - cannabis-law
+  - local-control
+  - zoning
+  - ceqa
+  - metrc
+  - 280e
+  - banking
+  - compliance
 keywords: &id002
-- Kern County
-- California
-- cannabis
-- marijuana
-- cultivation
-- Controlled Substances Act
-- Schedule I
-- DEA
-- DOJ
-- IRS 280E
-- FinCEN
-- banking
-- California Department of Cannabis Control
-- DCC
-- local authorization
-- Conditional Use Permit
-- CUP
-- zoning
-- METRC
-- track-and-trace
-- CEQA
-- State Water Board
-- pesticides
-- security
-- recordkeeping
+  - Kern County
+  - California
+  - cannabis
+  - marijuana
+  - cultivation
+  - Controlled Substances Act
+  - Schedule I
+  - DEA
+  - DOJ
+  - IRS 280E
+  - FinCEN
+  - banking
+  - California Department of Cannabis Control
+  - DCC
+  - local authorization
+  - Conditional Use Permit
+  - CUP
+  - zoning
+  - METRC
+  - track-and-trace
+  - CEQA
+  - State Water Board
+  - pesticides
+  - security
+  - recordkeeping
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
-  abstract: 'Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-2020_0.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)(https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is still prohibited by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforce…'
+  abstract: 'Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-20200.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)(https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is still prohibited by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforcem…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: kern-county-cannabis-legal-environment
   date: '2026-02-12'
   description: Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
@@ -108,17 +106,17 @@ meta:
   slug: kern-weed
   status: published
   subject:
-  - Cannabis regulation
-  - California local government
-  - Land use and zoning
-  - Environmental compliance
-  - Tax and banking constraints
+    - Cannabis regulation
+    - California local government
+    - Land use and zoning
+    - Environmental compliance
+    - Tax and banking constraints
   subjects:
-  - Cannabis regulation
-  - California local government
-  - Land use and zoning
-  - Environmental compliance
-  - Tax and banking constraints
+    - Cannabis regulation
+    - California local government
+    - Land use and zoning
+    - Environmental compliance
+    - Tax and banking constraints
   subtitle: Federal, California, and Kern County constraints on licensing, permitting, and operations
   tags: *id003
   title: Federal Legal Landscape

@@ -1,10 +1,8 @@
 ---
 title: In House Vertical Farms
 linkTitle: In House Vertical Farms
-description: >-
-  The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
-summary: >-
-  The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)(https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). It is funded by ~$59.5 M in project financing (USDA, state, C-PACE, ARPA, etc.) as part of an $88 M total construction budget(https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)(https://www.famemaine.com/fame_news/fa…
+description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
+summary: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)(https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). It is funded by ~$59.5 M in project financing (USDA, state, C-PACE, ARPA, etc.) as part of an $88 M total construction budget(https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)(https://www.famemaine.com/famenews/fam…
 slug: in-house-vertical-farms
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-04-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
-  abstract: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)(https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). It is funded by ~$59.5 M in project financing (USDA, state, C-PACE, ARPA, etc.) as part of an $88 M total construction budget(https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)(https://www.famemaine.com/fame_news/fa…
+  abstract: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)(https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). It is funded by ~$59.5 M in project financing (USDA, state, C-PACE, ARPA, etc.) as part of an $88 M total construction budget(https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)(https://www.famemaine.com/famenews/fam…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: in-house-vertical-farms
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: in-house-vertical-farms
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

@@ -1,10 +1,8 @@
 ---
 title: 'Liberal Gothic: An Analytical Report'
 linkTitle: 'Liberal Gothic: An Analytical Report'
-description: >-
-  Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
-summary: >-
-  Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis on supernatural terror and architecture(https://en.wikipedia.org/wiki/Gothic_fiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1)) or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy(https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)), liberal gothic narratives use ordinary liminal spaces (e.g. forests, empty homes) and realistic dialogue to stage emotional confessionals. Plo…
+description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
+summary: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis on supernatural terror and architecture(https://en.wikipedia.org/wiki/Gothicfiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1)) or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy(https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)), liberal gothic narratives use ordinary liminal spaces (e.g. forests, empty homes) and realistic dialogue to stage emotional confessionals. Plot…
 slug: liberal-gothic-an-analytical-report
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-04-13'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
-  abstract: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis on supernatural terror and architecture(https://en.wikipedia.org/wiki/Gothic_fiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1)) or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy(https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)), liberal gothic narratives use ordinary liminal spaces (e.g. forests, empty homes) and realistic dialogue to stage emotional confessionals. Plo…
+  abstract: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis on supernatural terror and architecture(https://en.wikipedia.org/wiki/Gothicfiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1)) or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy(https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)), liberal gothic narratives use ordinary liminal spaces (e.g. forests, empty homes) and realistic dialogue to stage emotional confessionals. Plot…
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-04-13'
   description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: liberal-gothic-an-analytical-report
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: liberal-gothic-an-analytical-report
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

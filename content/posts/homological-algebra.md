@@ -1,10 +1,8 @@
 ---
 title: The History and Impact of Homological Algebra
 linkTitle: The History and Impact of Homological Algebra
-description: >-
-  The History and Impact of Homological Algebra
-summary: >-
-  The History and Impact of Homological Algebra
+description: The History and Impact of Homological Algebra
+summary: The History and Impact of Homological Algebra
 slug: homological-algebra
 url: ''
 aliases: []
@@ -12,60 +10,60 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- mathematics
-- history-of-mathematics
-- algebra
-- topology
-- algebraic-geometry
+  - mathematics
+  - history-of-mathematics
+  - algebra
+  - topology
+  - algebraic-geometry
 tags: &id003
-- math
-- history
-- homology
-- cohomology
-- derived
-- categories
-- spectral-sequences
-- grothendieck
+  - math
+  - history
+  - homology
+  - cohomology
+  - derived
+  - categories
+  - spectral-sequences
+  - grothendieck
 keywords: &id002
-- homological algebra
-- chain complexes
-- homology
-- cohomology
-- exact sequences
-- derived functors
-- Ext
-- Tor
-- spectral sequences
-- abelian categories
-- derived categories
-- triangulated categories
-- dg-categories
-- infinity-categories
-- derived algebraic geometry
-- Grothendieck
-- Eilenberg
-- Mac Lane
-- Cartan
-- Noether
-- Poincaré
+  - homological algebra
+  - chain complexes
+  - homology
+  - cohomology
+  - exact sequences
+  - derived functors
+  - Ext
+  - Tor
+  - spectral sequences
+  - abelian categories
+  - derived categories
+  - triangulated categories
+  - dg-categories
+  - infinity-categories
+  - derived algebraic geometry
+  - Grothendieck
+  - Eilenberg
+  - Mac Lane
+  - Cartan
+  - Noether
+  - Poincaré
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: The History and Impact of Homological Algebra
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva.article.homological-algebra
   date: '2026-02-12'
   description: The History and Impact of Homological Algebra
@@ -95,12 +93,12 @@ meta:
     domain: mathematics
     topic: homological algebra
     structure:
-    - Executive Summary
-    - Narrative History
-    - Milestone Timeline
-    - Outcomes / Impact
-    - Methodological Shifts
-    - Conclusion
+      - Executive Summary
+      - Narrative History
+      - Milestone Timeline
+      - Outcomes / Impact
+      - Methodological Shifts
+      - Conclusion
   report-no: '1'
   report-number: GVA-HA-0001
   report-year: '2026'
@@ -114,21 +112,21 @@ meta:
   slug: homological-algebra
   status: published
   subject:
-  - Homological algebra
-  - History of mathematics
-  - Algebraic topology
-  - Category theory
-  - Algebraic geometry
-  - Number theory
+    - Homological algebra
+    - History of mathematics
+    - Algebraic topology
+    - Category theory
+    - Algebraic geometry
+    - Number theory
   subjects:
-  - homological-algebra
-  - history-of-mathematics
-  - algebraic-topology
-  - category-theory
-  - algebraic-geometry
-  - number-theory
-  - spectral-sequences
-  - derived-categories
+    - homological-algebra
+    - history-of-mathematics
+    - algebraic-topology
+    - category-theory
+    - algebraic-geometry
+    - number-theory
+    - spectral-sequences
+    - derived-categories
   subtitle: From Betti Numbers to Infinity-Categories
   tags: *id003
   title: The History and Impact of Homological Algebra

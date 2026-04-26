@@ -1,10 +1,8 @@
 ---
 title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
 linkTitle: 'Objectivity vs. Subjectivity: Philosophical Debate and Im…'
-description: >-
-  Objectivity vs. Subjectivity: Philosophical Debate and Implications
-summary: >-
-  Objectivity vs. Subjectivity: Philosophical Debate and Implications
+description: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+summary: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
 slug: obj-vs-sub
 url: ''
 aliases: []
@@ -12,60 +10,60 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- philosophy
-- epistemology
-- philosophy of science
-- media studies
-- technology ethics
+  - philosophy
+  - epistemology
+  - philosophy of science
+  - media studies
+  - technology ethics
 tags: &id003
-- epistemology
-- philosophy
-- science
-- journalism
-- law
-- ai
-- bias
-- relativism
-- intersubjectivity
-- post-truth
+  - epistemology
+  - philosophy
+  - science
+  - journalism
+  - law
+  - ai
+  - bias
+  - relativism
+  - intersubjectivity
+  - post-truth
 keywords: &id002
-- objectivity
-- subjectivity
-- intersubjectivity
-- relativism
-- scientific objectivity
-- replication crisis
-- peer review
-- standpoint epistemology
-- Lorraine Daston
-- Peter Galison
-- Thomas Kuhn
-- Karl Popper
-- Donna Haraway
-- journalistic objectivity
-- view from nowhere
-- algorithmic bias
-- AI ethics
-- post-truth
-- expert authority
+  - objectivity
+  - subjectivity
+  - intersubjectivity
+  - relativism
+  - scientific objectivity
+  - replication crisis
+  - peer review
+  - standpoint epistemology
+  - Lorraine Daston
+  - Peter Galison
+  - Thomas Kuhn
+  - Karl Popper
+  - Donna Haraway
+  - journalistic objectivity
+  - view from nowhere
+  - algorithmic bias
+  - AI ethics
+  - post-truth
+  - expert authority
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva.objectivity-vs-subjectivity.2026-02-12
   date: '2026-02-12'
   description: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
@@ -100,21 +98,21 @@ meta:
   slug: obj-vs-sub
   status: complete
   subject:
-  - Objectivity
-  - Subjectivity
-  - Epistemology
-  - Philosophy of Science
-  - Relativism
-  - Intersubjectivity
-  - Media Trust
-  - AI Bias
+    - Objectivity
+    - Subjectivity
+    - Epistemology
+    - Philosophy of Science
+    - Relativism
+    - Intersubjectivity
+    - Media Trust
+    - AI Bias
   subjects:
-  - Philosophy
-  - Epistemology
-  - Science and technology studies
-  - Journalism ethics
-  - Legal philosophy
-  - Technology ethics
+    - Philosophy
+    - Epistemology
+    - Science and technology studies
+    - Journalism ethics
+    - Legal philosophy
+    - Technology ethics
   subtitle: From Plato to AI, and why intersubjective methods matter
   tags: *id003
   title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'

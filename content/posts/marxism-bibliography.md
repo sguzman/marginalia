@@ -1,10 +1,8 @@
 ---
-title: '**Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide**'
-linkTitle: '**Comprehensive Marxist Literature (1840--2025): An Annot…'
-description: >-
-  Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide
-summary: >-
-  Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide
+title: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
+linkTitle: 'Comprehensive Marxist Literature (1840--2025): An Annotat…'
+description: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
+summary: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
 slug: marxism-bibliography
 url: ''
 aliases: []
@@ -12,54 +10,54 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- marxism
-- bibliography
-- political-theory
-- intellectual-history
-- research-guide
+  - marxism
+  - bibliography
+  - political-theory
+  - intellectual-history
+  - research-guide
 tags: &id003
-- marx
-- engels
-- marxism
-- bibliography
-- reading-list
-- critical-theory
-- socialism
-- communism
+  - marx
+  - engels
+  - marxism
+  - bibliography
+  - reading-list
+  - critical-theory
+  - socialism
+  - communism
 keywords: &id002
-- Karl Marx
-- Friedrich Engels
-- Marxism
-- Marxist literature
-- annotated bibliography
-- reading list
-- intellectual history
-- political economy
-- socialism
-- communism
-- Western Marxism
-- Leninism
-- Maoism
-- Frankfurt School
-- critical theory
+  - Karl Marx
+  - Friedrich Engels
+  - Marxism
+  - Marxist literature
+  - annotated bibliography
+  - reading list
+  - intellectual history
+  - political economy
+  - socialism
+  - communism
+  - Western Marxism
+  - Leninism
+  - Maoism
+  - Frankfurt School
+  - critical theory
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-marx-bibliography-2026-02-12
   date: '2026-02-12'
   description: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
@@ -78,7 +76,7 @@ meta:
     class: HX
     description: Socialism, Communism, Anarchism
     notes:
-    - Marxism and Marxist schools; bibliography / research guide
+      - Marxism and Marxist schools; bibliography / research guide
   license: CC0-1.0
   number-sections: true
   plate_id: plate-marx-bibliography
@@ -102,18 +100,18 @@ meta:
   slug: marxism-bibliography
   status: complete
   subject:
-  - Marxism
-  - Bibliography
-  - Political economy
-  - Intellectual history
+    - Marxism
+    - Bibliography
+    - Political economy
+    - Intellectual history
   subjects:
-  - Marxism
-  - Marxist literature
-  - Annotated bibliography
-  - Research methodology
+    - Marxism
+    - Marxist literature
+    - Annotated bibliography
+    - Research methodology
   subtitle: An Annotated Bibliography and Research Guide
   tags: *id003
-  title: '**Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide**'
+  title: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
   toc: true
   toc-depth: 3
   toc-title: Contents

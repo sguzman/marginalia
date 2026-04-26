@@ -5,39 +5,37 @@ date: '2026-02-12'
 draft: false
 slug: worldwide-computer-chip-industry
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- Technology
-- Semiconductors
-- Industry
-- Supply Chains
-- Geopolitics
+  - Technology
+  - Semiconductors
+  - Industry
+  - Supply Chains
+  - Geopolitics
 tags:
-- chips
-- semiconductors
-- tsmc
-- intel
-- nvidia
-- amd
-- asml
-- eda
-- fabs
-- packaging
-- hbm
-- supply-chain
-- export-controls
-- chips-act
+  - chips
+  - semiconductors
+  - tsmc
+  - intel
+  - nvidia
+  - amd
+  - asml
+  - eda
+  - fabs
+  - packaging
+  - hbm
+  - supply-chain
+  - export-controls
+  - chips-act
 library_of_congress_classification:
   primary: ''
   area: ''
   note: Unclassified; set if you want LoC/LC call numbers.
 meta:
-  abstract: 'A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA tools, reusable IP), and the manufacturing flow (fabs, lithography, nodes, yield economics). Explains packaging and test, industry structure (fabless vs foundry vs IDM), market segmentation, pricing and cyclicality, current supply-chain bottlenecks for AI-era chips, and the geopolitics and policy environment shaping the industry.
-
-    '
+  abstract: A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA tools, reusable IP), and the manufacturing flow (fabs, lithography, nodes, yield economics). Explains packaging and test, industry structure (fabless vs foundry vs IDM), market segmentation, pricing and cyclicality, current supply-chain bottlenecks for AI-era chips, and the geopolitics and policy environment shaping the industry.
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva-chip-industry-field-guide
   report:
     kind: field guide
@@ -45,9 +43,35 @@ meta:
     domain: semiconductor industry
     scope: global
     version: '1.0'
+  publisher: Marginalia
+  license: CC0-1.0
+  rights: CC0-1.0
+  language: en
+  identifier: worldwide-computer-chip-industry
+  status: published
+  type: article
+  subjects:
+    - Technology
+    - Semiconductors
+    - Industry
+    - Supply Chains
+    - Geopolitics
+    - chips
+    - semiconductors
+    - tsmc
+    - intel
+    - nvidia
+    - amd
+    - asml
+    - eda
+    - fabs
+    - packaging
+    - hbm
+    - supply-chain
+    - export-controls
+    - chips-act
 ai_generated: true
 ---
-
 
 # The Worldwide Computer Chip Industry
 

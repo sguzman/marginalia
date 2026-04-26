@@ -1,10 +1,8 @@
 ---
 title: Proudhon Mutualism Report
 linkTitle: Proudhon Mutualism Report
-description: >-
-  Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20b…
-summary: >-
-  Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to “abolish” property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing tha…
+description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…'
+summary: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to “abolish” property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that on…'
 slug: proudhon-mutualism-report
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-01-25'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,20 +19,20 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
-  abstract: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to “abolish” property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing tha…'
+  abstract: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to “abolish” property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that on…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
-  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon#:~:text=Proudhon%2C%20who%20was%20b…'
+  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…'
   draft: false
   edition: ''
   epub-chapter-level: 0
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: proudhon-mutualism-report
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: proudhon-mutualism-report
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

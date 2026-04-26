@@ -11,56 +11,56 @@ lastmod: '2026-02-12'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories:
-- Mathematics
-- Number theory
-- History of mathematics
+  - Mathematics
+  - Number theory
+  - History of mathematics
 tags:
-- euler
-- gauss
-- dirichlet
-- riemann
-- primes
-- zeta-function
-- l-functions
-- reciprocity
-- class-field-theory
-- elliptic-curves
-- langlands
-- probability
-- algorithms
-- cryptography
+  - euler
+  - gauss
+  - dirichlet
+  - riemann
+  - primes
+  - zeta-function
+  - l-functions
+  - reciprocity
+  - class-field-theory
+  - elliptic-curves
+  - langlands
+  - probability
+  - algorithms
+  - cryptography
 keywords:
-- number theory
-- history of number theory
-- Euler
-- Gauss
-- Dirichlet
-- Riemann zeta function
-- prime number theorem
-- L-functions
-- quadratic reciprocity
-- algebraic number theory
-- class field theory
-- elliptic curves
-- Langlands program
-- probabilistic number theory
-- computational number theory
-- cryptography
+  - number theory
+  - history of number theory
+  - Euler
+  - Gauss
+  - Dirichlet
+  - Riemann zeta function
+  - prime number theorem
+  - L-functions
+  - quadratic reciprocity
+  - algebraic number theory
+  - class field theory
+  - elliptic curves
+  - Langlands program
+  - probabilistic number theory
+  - computational number theory
+  - cryptography
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric, probabilistic, and computational methods, with a focus on Europe and the United States and on major landmark results and milestones.
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: rr-number-theory-euler-to-today
   edition: '1.0'
   epub-chapter-level: 2
@@ -83,8 +83,8 @@ meta:
     scope: Europe & the United States
     time_span: late 18th century to present
     emphasis:
-    - analytic, algebraic, geometric, probabilistic, and computational themes
-    - major milestones and landmark results
+      - analytic, algebraic, geometric, probabilistic, and computational themes
+      - major milestones and landmark results
   report-no: NT-2026-001
   report-number: '001'
   report-year: '2026'
@@ -94,13 +94,13 @@ meta:
   rights: CC0 1.0 Universal (CC0-1.0)
   status: published
   subject:
-  - Mathematics
-  - Number theory
-  - History of mathematics
+    - Mathematics
+    - Number theory
+    - History of mathematics
   subjects:
-  - Mathematics
-  - Number theory
-  - History of mathematics
+    - Mathematics
+    - Number theory
+    - History of mathematics
   subtitle: 'Europe & the United States: A Research Report'
   toc: true
   toc-depth: 3
@@ -112,7 +112,6 @@ meta:
 series: []
 ai_generated: true
 ---
-
 
 ## Executive Overview
 

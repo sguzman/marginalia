@@ -1,10 +1,8 @@
 ---
 title: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'
 linkTitle: 'Imagining the Imaginary: A Cultural-Intellectual History…'
-description: >-
-  Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)
-summary: >-
-  Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)
+description: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'
+summary: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'
 slug: complex-plane-culture
 url: ''
 aliases: []
@@ -12,55 +10,55 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- History of Mathematics
-- Complex Analysis
-- Mathematical Culture
-- Philosophy of Mathematics
+  - Mathematics
+  - History of Mathematics
+  - Complex Analysis
+  - Mathematical Culture
+  - Philosophy of Mathematics
 tags: &id003
-- complex-plane
-- complex-numbers
-- history
-- culture
-- visualization
-- complex-analysis
-- euler
-- gauss
-- fractals
-- quantum
+  - complex-plane
+  - complex-numbers
+  - history
+  - culture
+  - visualization
+  - complex-analysis
+  - euler
+  - gauss
+  - fractals
+  - quantum
 keywords: &id002
-- complex plane
-- complex numbers
-- imaginary numbers
-- Argand diagram
-- Euler
-- Gauss
-- history of mathematics
-- complex analysis
-- Fourier analysis
-- quantum mechanics
-- electrical engineering
-- fractals
-- mathematical aesthetics
-- mathematical visualization
+  - complex plane
+  - complex numbers
+  - imaginary numbers
+  - Argand diagram
+  - Euler
+  - Gauss
+  - history of mathematics
+  - complex analysis
+  - Fourier analysis
+  - quantum mechanics
+  - electrical engineering
+  - fractals
+  - mathematical aesthetics
+  - mathematical visualization
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: gva.article.complex-plane-culture.v1
   date: '2026-02-12'
   description: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'
@@ -100,20 +98,20 @@ meta:
   slug: complex-plane-culture
   status: published
   subject:
-  - Complex numbers
-  - Complex plane
-  - History of mathematics
-  - Mathematical visualization
-  - Mathematics in culture
+    - Complex numbers
+    - Complex plane
+    - History of mathematics
+    - Mathematical visualization
+    - Mathematics in culture
   subjects:
-  - Complex analysis
-  - Argand plane
-  - Euler's formula
-  - Mathematics and physics
-  - Mathematics and technology
-  - Mathematics and art
-  - Fractals
-  - Quantum phase
+    - Complex analysis
+    - Argand plane
+    - Euler's formula
+    - Mathematics and physics
+    - Mathematics and technology
+    - Mathematics and art
+    - Fractals
+    - Quantum phase
   subtitle: A Cultural-Intellectual History of the Complex Plane (1748--2025)
   tags: *id003
   title: 'Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)'

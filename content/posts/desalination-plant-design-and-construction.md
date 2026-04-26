@@ -1,10 +1,8 @@
 ---
 title: Desalination Plant Design and Construction
 linkTitle: Desalination Plant Design and Construction
-description: >-
-  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…
-summary: >-
-  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity(https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging tre…
+description: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
+summary: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity(https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging tre…'
 slug: desalination-plant-design-and-construction
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-04-04'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity(https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging tre…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: desalination-plant-design-and-construction
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: desalination-plant-design-and-construction
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

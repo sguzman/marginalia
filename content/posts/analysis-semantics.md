@@ -1,10 +1,8 @@
 ---
 title: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
 linkTitle: The Semantics of "Analysis" in Mathematics (Newton → Pres…
-description: >-
-  The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
-summary: >-
-  The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
+description: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
+summary: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
 slug: analysis-semantics
 url: ''
 aliases: []
@@ -12,67 +10,67 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- History of Mathematics
-- Mathematical Analysis
+  - Mathematics
+  - History of Mathematics
+  - Mathematical Analysis
 tags: &id003
-- analysis
-- semantics
-- history
-- calculus
-- rigor
-- continuum
-- limits
-- Newton
-- Leibniz
-- Euler
-- Cauchy
-- Weierstrass
+  - analysis
+  - semantics
+  - history
+  - calculus
+  - rigor
+  - continuum
+  - limits
+  - Newton
+  - Leibniz
+  - Euler
+  - Cauchy
+  - Weierstrass
 keywords: &id002
-- analysis
-- mathematical analysis
-- analysis vs synthesis
-- calculus
-- infinitesimals
-- limits
-- continuity
-- convergence
-- rigor
-- epsilon-delta
-- function
-- differential equations
-- power series
-- real analysis
-- complex analysis
-- Fourier analysis
-- measure theory
-- functional analysis
-- topology
-- Newton
-- Leibniz
-- Euler
-- Cauchy
-- Weierstrass
-- Hilbert
-- Bourbaki
+  - analysis
+  - mathematical analysis
+  - analysis vs synthesis
+  - calculus
+  - infinitesimals
+  - limits
+  - continuity
+  - convergence
+  - rigor
+  - epsilon-delta
+  - function
+  - differential equations
+  - power series
+  - real analysis
+  - complex analysis
+  - Fourier analysis
+  - measure theory
+  - functional analysis
+  - topology
+  - Newton
+  - Leibniz
+  - Euler
+  - Cauchy
+  - Weierstrass
+  - Hilbert
+  - Bourbaki
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
   description: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
@@ -108,15 +106,15 @@ meta:
   slug: analysis-semantics
   status: published
   subject:
-  - Mathematics
-  - Philosophy of Mathematics
-  - History of Mathematics
-  - Mathematical Analysis
+    - Mathematics
+    - Philosophy of Mathematics
+    - History of Mathematics
+    - Mathematical Analysis
   subjects:
-  - Mathematics
-  - History of Mathematics
-  - Mathematical Analysis
-  - Foundations and Rigor
+    - Mathematics
+    - History of Mathematics
+    - Mathematical Analysis
+    - Foundations and Rigor
   subtitle: Newton → Present (Europe & the United States)
   tags: *id003
   title: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)

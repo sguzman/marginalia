@@ -1,10 +1,8 @@
 ---
 title: Jewish Political Activism in the United States (1880--2025)
 linkTitle: Jewish Political Activism in the United States (1880--2025)
-description: >-
-  Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…
-summary: >-
-  Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions, advocacy groups, litigation, and media. Waves of Eastern European immigrants (1880--1924) built strong garment and labor unions and helped found organizations like the American Jewish Committee and Anti-Defamation League to combat discrimination. In the New Deal era, Jewish union leaders and political activists (often Democrats) joined Roosevelt's coalition, while wartime and postwar activism centered on rescue efforts, civil rights, and support for Israel. During the Cold War and beyond, Jews were prominent in civil-rights coalitions (helping to found…
+description: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…'
+summary: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions, advocacy groups, litigation, and media. Waves of Eastern European immigrants (1880--1924) built strong garment and labor unions and helped found organizations like the American Jewish Committee and Anti-Defamation League to combat discrimination. In the New Deal era, Jewish union leaders and political activists (often Democrats) joined Roosevelt''s coalition, while wartime and postwar activism centered on rescue efforts, civil rights, and support for Israel. During the Cold War and beyond, Jews were prominent in civil-rights coalitions (helping to found…'
 slug: jewish-political-activism
 url: ''
 aliases: []
@@ -12,64 +10,64 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- history
-- politics
-- united-states
-- judaism
-- activism
+  - history
+  - politics
+  - united-states
+  - judaism
+  - activism
 tags: &id003
-- labor
-- unions
-- civil-rights
-- coalition-politics
-- diaspora
-- antisemitism
-- lobbying
-- aipac
-- adL
-- ajc
-- neoconservatism
-- campus-activism
-- bds
-- social-media
-- u.s.-israel
+  - labor
+  - unions
+  - civil-rights
+  - coalition-politics
+  - diaspora
+  - antisemitism
+  - lobbying
+  - aipac
+  - adL
+  - ajc
+  - neoconservatism
+  - campus-activism
+  - bds
+  - social-media
+  - u.s.-israel
 keywords: &id002
-- Jewish Americans
-- political activism
-- labor unions
-- ILGWU
-- Amalgamated Clothing Workers
-- New Deal coalition
-- civil rights
-- NAACP
-- antisemitism
-- ADL
-- American Jewish Committee
-- AIPAC
-- neoconservatism
-- Soviet Jewry
-- BDS
-- campus politics
-- diaspora politics
-- U.S.–Israel relations
+  - Jewish Americans
+  - political activism
+  - labor unions
+  - ILGWU
+  - Amalgamated Clothing Workers
+  - New Deal coalition
+  - civil rights
+  - NAACP
+  - antisemitism
+  - ADL
+  - American Jewish Committee
+  - AIPAC
+  - neoconservatism
+  - Soviet Jewry
+  - BDS
+  - campus politics
+  - diaspora politics
+  - U.S.–Israel relations
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions, advocacy groups, litigation, and media. Waves of Eastern European immigrants (1880--1924) built strong garment and labor unions and helped found organizations like the American Jewish Committee and Anti-Defamation League to combat discrimination. In the New Deal era, Jewish union leaders and political activists (often Democrats) joined Roosevelt''s coalition, while wartime and postwar activism centered on rescue efforts, civil rights, and support for Israel. During the Cold War and beyond, Jews were prominent in civil-rights coalitions (helping to found…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: jewish-political-activism-us-1880-2025
   date: '2026-02-12'
   description: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…'
@@ -114,21 +112,21 @@ meta:
   slug: jewish-political-activism
   status: published
   subject:
-  - History of the United States
-  - Jewish studies
-  - Political movements
-  - Civil rights
-  - Labor history
-  - Foreign policy
+    - History of the United States
+    - Jewish studies
+    - Political movements
+    - Civil rights
+    - Labor history
+    - Foreign policy
   subjects:
-  - United States -- Politics and government
-  - Jews -- United States -- Political activity
-  - Jews -- United States -- Social conditions
-  - Antisemitism -- United States
-  - Pressure groups -- United States
-  - Civil rights movements -- United States
-  - Labor unions -- United States
-  - Israel -- Foreign relations -- United States
+    - United States -- Politics and government
+    - Jews -- United States -- Political activity
+    - Jews -- United States -- Social conditions
+    - Antisemitism -- United States
+    - Pressure groups -- United States
+    - Civil rights movements -- United States
+    - Labor unions -- United States
+    - Israel -- Foreign relations -- United States
   subtitle: 1880–2025
   tags: *id003
   title: Jewish Political Activism in the United States (1880--2025)

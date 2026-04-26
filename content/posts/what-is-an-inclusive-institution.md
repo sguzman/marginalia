@@ -12,7 +12,7 @@ lastmod: '2026-04-20T15:45:00Z'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
+  - Salvador Guzman
 meta:
   abstract: 'This essay interrogates the concept of "inclusivity" as it is deployed in modern educational institutions. The author argues that for a school to claim inclusivity, it must move beyond progressive branding and dead rhetoric toward an "invitation to inquiry." Drawing a distinction between the lofty ideals of progressivism and the necessary constraints of Realpolitik, the piece posits that an inclusive institution must align its governance, mission, and resource allocation with its rhetorical claims. It concludes with a call for administrative realism: tempering ambition to match actual capacity, lest institutional truth be compromised by political marketing.'
   creator: Salvador Guzman
@@ -36,58 +36,58 @@ meta:
   status: final
   subject: education
   subjects:
-  - education
-  - inclusivity
-  - progressivism
-  - institutional governance
-  - Realpolitik
-  - administrative ethics
+    - education
+    - inclusivity
+    - progressivism
+    - institutional governance
+    - Realpolitik
+    - administrative ethics
   subtitle: Rhetoric, Resources, and the Progressive Hegemon
   toc: true
   type: article
 layout: single
 weight: 0
 categories:
-- education
-- political philosophy
-- institutional analysis
-- rhetoric
+  - education
+  - political philosophy
+  - institutional analysis
+  - rhetoric
 tags:
-- inclusive institution
-- schools
-- progressivism
-- realism
-- Realpolitik
-- institutional governance
-- mission statements
-- organizational will
-- public accountability
-- political rhetoric
+  - inclusive institution
+  - schools
+  - progressivism
+  - realism
+  - Realpolitik
+  - institutional governance
+  - mission statements
+  - organizational will
+  - public accountability
+  - political rhetoric
 keywords:
-- inclusive institution
-- progressive tradition
-- Realpolitik
-- idealism vs realism
-- institutional mission
-- administrative capacity
-- rhetoric and resources
-- public analysis
-- organizational clarity
-- educational governance
-- progressive hegemon
-- dead rhetoric
-- invitation to inquiry
-- managerial function
-- institutional truth
-- resource allocation
-- public accountability
-- political marketing
-- administrative realism
-- pedagogical integrity
+  - inclusive institution
+  - progressive tradition
+  - Realpolitik
+  - idealism vs realism
+  - institutional mission
+  - administrative capacity
+  - rhetoric and resources
+  - public analysis
+  - organizational clarity
+  - educational governance
+  - progressive hegemon
+  - dead rhetoric
+  - invitation to inquiry
+  - managerial function
+  - institutional truth
+  - resource allocation
+  - public accountability
+  - political marketing
+  - administrative realism
+  - pedagogical integrity
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 headless: false
 isCJKLanguage: false
 translationKey: ''
@@ -103,7 +103,6 @@ sitemap:
   filename: sitemap.xml
 ai_generated: false
 ---
-
 
 # What is an Inclusive Institution?
 

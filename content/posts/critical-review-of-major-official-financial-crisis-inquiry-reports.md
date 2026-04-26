@@ -1,10 +1,8 @@
 ---
 title: Critical Review of Major Official Financial-Crisis Inquiry Reports
 linkTitle: Critical Review of Major Official Financial-Crisis Inquir…
-description: >-
-  Critical Review of Major Official Financial-Crisis Inquiry Reports
-summary: >-
-  Critical Review of Major Official Financial-Crisis Inquiry Reports
+description: Critical Review of Major Official Financial-Crisis Inquiry Reports
+summary: Critical Review of Major Official Financial-Crisis Inquiry Reports
 slug: critical-review-of-major-official-financial-crisis-inquiry-reports
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-21'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Critical Review of Major Official Financial-Crisis Inquiry Reports
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: Critical Review of Major Official Financial-Crisis Inquiry Reports
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: critical-review-of-major-official-financial-crisis-inquiry-reports
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: critical-review-of-major-official-financial-crisis-inquiry-reports
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

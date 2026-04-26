@@ -1,10 +1,8 @@
 ---
-title: '**Ad Hoc "Maulerian School of Film Criticism"**'
-linkTitle: '**Ad Hoc "Maulerian School of Film Criticism"**'
-description: >-
-  Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is th…
-summary: >-
-  Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is that internal narrative consistency and logical integrity are the primary determinants of a film's objective quality, distinct from subjective enjoyment. Long-form YouTube analyses are shown to contribute a rigorous, evidence-driven approach: MauLer's critiques emphasize cause-and-effect coherence, character and canonical consistency, and scrupulous payoff/setup fulfillment as foundational axioms. The Maulerian analytic toolkit combines detailed plot deconstruction with formal logic (if/then syllogisms and reductio ad absurdum arguments) to evaluate films…
+title: Ad Hoc "Maulerian School of Film Criticism"
+linkTitle: Ad Hoc "Maulerian School of Film Criticism"
+description: Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is th…
+summary: 'Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer''s extensive reviews (2016--present). The core thesis of the Maulerian school is that internal narrative consistency and logical integrity are the primary determinants of a film''s objective quality, distinct from subjective enjoyment. Long-form YouTube analyses are shown to contribute a rigorous, evidence-driven approach: MauLer''s critiques emphasize cause-and-effect coherence, character and canonical consistency, and scrupulous payoff/setup fulfillment as foundational axioms. The Maulerian analytic toolkit combines detailed plot deconstruction with formal logic (if/then syllogisms and reductio ad absurdum arguments) to evaluate films…'
 slug: mauler
 url: ''
 aliases: []
@@ -12,49 +10,49 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Media criticism
-- Film theory
-- Internet culture
-- YouTube essays
+  - Media criticism
+  - Film theory
+  - Internet culture
+  - YouTube essays
 tags: &id003
-- mauler
-- efap
-- video-essays
-- film-theory
-- objectivity
-- narrative-logic
+  - mauler
+  - efap
+  - video-essays
+  - film-theory
+  - objectivity
+  - narrative-logic
 keywords: &id002
-- MauLer
-- EFAP
-- Every Frame A Pause
-- film criticism
-- video essays
-- objectivity
-- subjectivity
-- plot holes
-- narrative coherence
-- internal consistency
-- canon
-- formalism
-- argumentation
+  - MauLer
+  - EFAP
+  - Every Frame A Pause
+  - film criticism
+  - video essays
+  - objectivity
+  - subjectivity
+  - plot holes
+  - narrative coherence
+  - internal consistency
+  - canon
+  - formalism
+  - argumentation
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer''s extensive reviews (2016--present). The core thesis of the Maulerian school is that internal narrative consistency and logical integrity are the primary determinants of a film''s objective quality, distinct from subjective enjoyment. Long-form YouTube analyses are shown to contribute a rigorous, evidence-driven approach: MauLer''s critiques emphasize cause-and-effect coherence, character and canonical consistency, and scrupulous payoff/setup fulfillment as foundational axioms. The Maulerian analytic toolkit combines detailed plot deconstruction with formal logic (if/then syllogisms and reductio ad absurdum arguments) to evaluate films…'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
   description: Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is th…
@@ -91,18 +89,18 @@ meta:
   slug: mauler
   status: published
   subject:
-  - Film criticism
-  - Media studies
-  - Online culture
-  - YouTube
+    - Film criticism
+    - Media studies
+    - Online culture
+    - YouTube
   subjects:
-  - Film criticism
-  - Media studies
-  - Online culture
-  - YouTube
+    - Film criticism
+    - Media studies
+    - Online culture
+    - YouTube
   subtitle: Toward an ad hoc formalist revival in long-form YouTube critique
   tags: *id003
-  title: '**Ad Hoc "Maulerian School of Film Criticism"**'
+  title: Ad Hoc "Maulerian School of Film Criticism"
   toc: true
   toc-depth: 3
   toc-title: Contents

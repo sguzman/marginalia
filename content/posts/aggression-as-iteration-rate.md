@@ -12,7 +12,7 @@ lastmod: '2023-06-29'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
+  - Salvador Guzman
 meta:
   abstract: This essay proposes a mathematical framework for understanding behavior as a competitive process among biological impulses. By modeling these impulses as fractional strengths within a normalized unit, the author defines aggression not as a purely violent phenomenon, but as the 'stickiness' and persistence of strategy execution under conditions of scarcity and competition. The work explores the relationship between genetics, the extended phenotype, and aggression tolerance, ultimately framing behavior as a rational calculus derived from biological primitives.
   creator: Salvador Guzman
@@ -37,58 +37,58 @@ meta:
   status: final
   subject: behavior
   subjects:
-  - behavioral modeling
-  - mathematical psychology
-  - evolutionary biology
-  - aggression
-  - game theory
-  - strategic iteration
+    - behavioral modeling
+    - mathematical psychology
+    - evolutionary biology
+    - aggression
+    - game theory
+    - strategic iteration
   subtitle: Behavior as a Mathematical Process
   toc: true
   type: article
 layout: single
 weight: 0
 categories:
-- behavior
-- philosophy
-- mathematics
-- psychology
+  - behavior
+  - philosophy
+  - mathematics
+  - psychology
 tags:
-- aggression
-- strategy
-- behavioral modeling
-- impulses
-- probability
-- scarcity
-- competition
-- genetics
-- phenotype
-- extended phenotype
+  - aggression
+  - strategy
+  - behavioral modeling
+  - impulses
+  - probability
+  - scarcity
+  - competition
+  - genetics
+  - phenotype
+  - extended phenotype
 keywords:
-- behavior as impulses
-- normalized impulse strength
-- aggression as strategic iteration
-- scarcity and aggression
-- aggression tolerance inheritance
-- behavioral iteration
-- mathematical psychology
-- evolutionary stable strategies
-- biological primitives
-- homeostasis and behavior
-- circadian rhythms
-- genetic determinism
-- phenotypic plasticity
-- extended phenotype
-- Richard Dawkins
-- strategic persistence
-- competition for actuation
-- impulse thresholds
-- behavioral grammar
-- rational calculus of behavior
+  - behavior as impulses
+  - normalized impulse strength
+  - aggression as strategic iteration
+  - scarcity and aggression
+  - aggression tolerance inheritance
+  - behavioral iteration
+  - mathematical psychology
+  - evolutionary stable strategies
+  - biological primitives
+  - homeostasis and behavior
+  - circadian rhythms
+  - genetic determinism
+  - phenotypic plasticity
+  - extended phenotype
+  - Richard Dawkins
+  - strategic persistence
+  - competition for actuation
+  - impulse thresholds
+  - behavioral grammar
+  - rational calculus of behavior
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 headless: false
 isCJKLanguage: false
 translationKey: ''
@@ -104,7 +104,6 @@ sitemap:
   filename: sitemap.xml
 ai_generated: false
 ---
-
 
 The lands we inherit from our fathers, were cultivated ere they were
 born, and yielded produce before they were cultivated. The products of

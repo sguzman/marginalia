@@ -1,10 +1,8 @@
 ---
 title: Corporate Capital and Progressive Cultural Politics
 linkTitle: Corporate Capital and Progressive Cultural Politics
-description: >-
-  Corporate Capital and Progressive Cultural Politics
-summary: >-
-  Corporate Capital and Progressive Cultural Politics
+description: Corporate Capital and Progressive Cultural Politics
+summary: Corporate Capital and Progressive Cultural Politics
 slug: corporate-capital-and-progressive-cultural-politics
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-02-15'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Corporate Capital and Progressive Cultural Politics
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
   description: Corporate Capital and Progressive Cultural Politics
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: corporate-capital-and-progressive-cultural-politics
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: corporate-capital-and-progressive-cultural-politics
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

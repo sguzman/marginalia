@@ -1,10 +1,8 @@
 ---
 title: Selective Freudian Explanations in Political and Media Discourse
 linkTitle: Selective Freudian Explanations in Political and Media Di…
-description: >-
-  Selective Freudian Explanations in Political and Media Discourse
-summary: >-
-  Selective Freudian Explanations in Political and Media Discourse
+description: Selective Freudian Explanations in Political and Media Discourse
+summary: Selective Freudian Explanations in Political and Media Discourse
 slug: selective-freudian-explanations-in-political-and-media-discourse
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-03-21'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: Selective Freudian Explanations in Political and Media Discourse
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: Selective Freudian Explanations in Political and Media Discourse
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: selective-freudian-explanations-in-political-and-media-discourse
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: selective-freudian-explanations-in-political-and-media-discourse
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

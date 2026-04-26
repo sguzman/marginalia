@@ -1,10 +1,8 @@
 ---
 title: 'The Matrix as Cultural Technology: A Mythical & Social History'
 linkTitle: 'The Matrix as Cultural Technology: A Mythical & Social Hi…'
-description: >-
-  The Matrix as Cultural Technology: A Mythical & Social History
-summary: >-
-  The Matrix as Cultural Technology: A Mythical & Social History
+description: 'The Matrix as Cultural Technology: A Mythical & Social History'
+summary: 'The Matrix as Cultural Technology: A Mythical & Social History'
 slug: matrix-culture
 url: ''
 aliases: []
@@ -12,53 +10,53 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Mathematics
-- Technology
-- History
-- Culture
+  - Mathematics
+  - Technology
+  - History
+  - Culture
 tags: &id003
-- matrix-culture
-- linear-algebra
-- history-of-math
-- technology
-- culture
-- computing
-- ai
+  - matrix-culture
+  - linear-algebra
+  - history-of-math
+  - technology
+  - culture
+  - computing
+  - ai
 keywords: &id002
-- matrix
-- matrices
-- linear algebra
-- Gaussian elimination
-- determinants
-- cultural technology
-- history of mathematics
-- scientific institutions
-- computing
-- data centers
-- machine learning
-- matrix multiplication
-- myth
-- metaphor
-- simulation
-- networks
+  - matrix
+  - matrices
+  - linear algebra
+  - Gaussian elimination
+  - determinants
+  - cultural technology
+  - history of mathematics
+  - scientific institutions
+  - computing
+  - data centers
+  - machine learning
+  - matrix multiplication
+  - myth
+  - metaphor
+  - simulation
+  - networks
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: 'The Matrix as Cultural Technology: A Mythical & Social History'
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: matrix-culture.v1
   date: '2026-02-12'
   description: 'The Matrix as Cultural Technology: A Mythical & Social History'
@@ -93,15 +91,15 @@ meta:
   slug: matrix-culture
   status: stable
   subject:
-  - Matrices (Mathematics)
-  - Linear algebra
-  - History of mathematics
-  - Science and technology studies
+    - Matrices (Mathematics)
+    - Linear algebra
+    - History of mathematics
+    - Science and technology studies
   subjects:
-  - Matrices as cultural technology
-  - Institutional spread of linear algebra
-  - 'Matrix mythology: mother, grid, network, simulation'
-  - Computing, data centers, and AI as matrix engines
+    - Matrices as cultural technology
+    - Institutional spread of linear algebra
+    - 'Matrix mythology: mother, grid, network, simulation'
+    - Computing, data centers, and AI as matrix engines
   subtitle: A Mythical & Social History
   tags: *id003
   title: 'The Matrix as Cultural Technology: A Mythical & Social History'

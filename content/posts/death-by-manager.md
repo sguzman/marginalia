@@ -12,7 +12,7 @@ lastmod: '2023-02-24'
 expiryDate: ''
 draft: false
 authors:
-- Salvador Guzman
+  - Salvador Guzman
 meta:
   abstract: This polemical essay examines the rise and pervasive influence of the managerial class across capitalism, communism, and fascism. The author argues that the separation of ownership and control has birthed a parasitic elite whose power is derived from the ambiguity of their roles and the monopoly of industrial knowledge. By dismantling the profit motive and subverting both labor and capital, the managerial class has become an apex predator of modern organizational life. The paper proposes a technological and pedagogical alternative—inspired by open-source governance and "transparent society" ideals—to decentralize management and restore individual agency.
   creator: Salvador Guzman
@@ -37,57 +37,57 @@ meta:
   status: final
   subject: politics
   subjects:
-  - managerial class
-  - political theory
-  - organizational design
-  - labor relations
-  - industrial sociology
-  - power dynamics
+    - managerial class
+    - political theory
+    - organizational design
+    - labor relations
+    - industrial sociology
+    - power dynamics
   subtitle: The Manager as the Apex Corporate Predator
   toc: true
   type: article
 layout: single
 weight: 0
 categories:
-- politics
-- political theory
-- management
-- labor
+  - politics
+  - political theory
+  - management
+  - labor
 tags:
-- managerial class
-- managerialism
-- power
-- organizational design
-- open source
-- capitalism
-- communism
-- fascism
+  - managerial class
+  - managerialism
+  - power
+  - organizational design
+  - open source
+  - capitalism
+  - communism
+  - fascism
 keywords:
-- managerial class
-- managerial discretion
-- power capture
-- open source governance
-- anti-violence
-- separation of ownership and control
-- James Burnham
-- managerial revolution
-- technocracy
-- bureaucracy
-- organizational theory
-- labor exploitation
-- capitalist hollowing
-- profit motive
-- job security
-- pedagogical objects
-- transparent society
-- Karl Popper
-- bazaar vs cathedral
-- decentralized governance
-- industrial knowledge monopoly
+  - managerial class
+  - managerial discretion
+  - power capture
+  - open source governance
+  - anti-violence
+  - separation of ownership and control
+  - James Burnham
+  - managerial revolution
+  - technocracy
+  - bureaucracy
+  - organizational theory
+  - labor exploitation
+  - capitalist hollowing
+  - profit motive
+  - job security
+  - pedagogical objects
+  - transparent society
+  - Karl Popper
+  - bazaar vs cathedral
+  - decentralized governance
+  - industrial knowledge monopoly
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 headless: false
 isCJKLanguage: false
 translationKey: ''
@@ -103,7 +103,6 @@ sitemap:
   filename: sitemap.xml
 ai_generated: false
 ---
-
 
 # The Manager as the Apex Corporate Predator
 

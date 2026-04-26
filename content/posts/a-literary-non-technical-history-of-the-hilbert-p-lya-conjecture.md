@@ -1,10 +1,8 @@
 ---
 title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
 linkTitle: A Literary, Non-Technical History of the Hilbert–Pólya Co…
-description: >-
-  A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-summary: >-
-  A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+description: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+summary: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
 slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
 url: ''
 aliases: []
@@ -12,8 +10,8 @@ date: '2026-01-25'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001 []
@@ -21,17 +19,17 @@ tags: &id003 []
 keywords: &id002 []
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: ''
   cover_image: ''
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
@@ -42,10 +40,10 @@ meta:
   epub-title-page: false
   epub_cover_image: ''
   format: markdown
-  identifier: ''
+  identifier: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
   keywords: *id002
   lang: ''
-  language: ''
+  language: en
   library_of_congress_classification: {}
   license: CC0-1.0
   number-sections: false
@@ -68,7 +66,7 @@ meta:
   series-number: 0
   series-title: ''
   slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
-  status: ''
+  status: published
   subject: []
   subjects: []
   subtitle: ''
@@ -77,7 +75,7 @@ meta:
   toc: false
   toc-depth: 0
   toc-title: ''
-  type: ''
+  type: article
 ai_generated: true
 ---
 

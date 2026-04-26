@@ -1,10 +1,8 @@
 ---
 title: History of Neural Networks in Computing (1940s--2026)
 linkTitle: History of Neural Networks in Computing (1940s--2026)
-description: >-
-  History of Neural Networks in Computing (1940s--2026)
-summary: >-
-  History of Neural Networks in Computing (1940s--2026)
+description: History of Neural Networks in Computing (1940s--2026)
+summary: History of Neural Networks in Computing (1940s--2026)
 slug: neural-networks
 url: ''
 aliases: []
@@ -12,50 +10,50 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 layout: single
 weight: 0
 categories: &id001
-- Artificial Intelligence
-- Computer Science
-- History of Computing
+  - Artificial Intelligence
+  - Computer Science
+  - History of Computing
 tags: &id003
-- neural-networks
-- deep-learning
-- machine-learning
-- ai-history
-- computing-history
-- backpropagation
-- cnn
-- transformers
-- gpu
+  - neural-networks
+  - deep-learning
+  - machine-learning
+  - ai-history
+  - computing-history
+  - backpropagation
+  - cnn
+  - transformers
+  - gpu
 keywords: &id002
-- neural networks
-- deep learning
-- machine learning
-- artificial intelligence
-- backpropagation
-- perceptron
-- convolutional neural networks
-- transformers
-- cybernetics
-- AI winter
-- GPU computing
-- history of computing
+  - neural networks
+  - deep learning
+  - machine learning
+  - artificial intelligence
+  - backpropagation
+  - perceptron
+  - convolutional neural networks
+  - transformers
+  - cybernetics
+  - AI winter
+  - GPU computing
+  - history of computing
 markup: goldmark
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 meta:
   abstract: History of Neural Networks in Computing (1940s--2026)
   author:
-  - Salvador Guzman
+    - Salvador Guzman
   categories: *id001
   cover-image: cover.png
   cover_image: cover.png
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: nn-history-1940s-2026
   date: '2026-02-12'
   description: History of Neural Networks in Computing (1940s--2026)
@@ -94,19 +92,19 @@ meta:
   slug: neural-networks
   status: published
   subject:
-  - Artificial intelligence
-  - Neural networks (Computer science)
-  - Machine learning
-  - Deep learning
-  - History of computing
-  - Cybernetics
+    - Artificial intelligence
+    - Neural networks (Computer science)
+    - Machine learning
+    - Deep learning
+    - History of computing
+    - Cybernetics
   subjects:
-  - Artificial intelligence
-  - Neural networks (Computer science)
-  - Machine learning
-  - Deep learning
-  - History of computing
-  - Cybernetics
+    - Artificial intelligence
+    - Neural networks (Computer science)
+    - Machine learning
+    - Deep learning
+    - History of computing
+    - Cybernetics
   subtitle: From cybernetics and connectionism to deep learning and the transformer era
   tags: *id003
   title: History of Neural Networks in Computing (1940s--2026)
