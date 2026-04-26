@@ -111,7 +111,7 @@ console.log(&lsquo;Done&rsquo;);
   };
 })(jQuery);
 
-// Usage: $(&quot;p.notice&quot;).highlight(); 
+// Usage: $(&quot;p.notice&quot;).highlight();
 </code></pre><p><em>Commentary:</em> This IIFE (Immediately Invoked Function Expression) takes jQuery as <code>$</code> and adds a function to <code>$.fn</code> (which is jQuery&rsquo;s prototype for selected sets). By returning <code>this</code> (or using <code>each</code> which returns original set), it kept chainability. This pattern was ubiquitous in the late 2000s &ndash; the jQuery plugin ecosystem produced hundreds of plugins for sliders, modals, etc., in this style. It shows how developers shared reusable DOM logic before module systems were standard (each plugin typically attached itself globally to jQuery). The self-invoking wrapper ensured <code>$</code> was the jQuery object even if <code>$</code> was aliased (no conflict mode).</p><p><strong>A2. Grunt Configuration File (circa 2013):</strong> Grunt was a popular task runner. Here&rsquo;s an excerpt from a typical <code>Gruntfile.js</code>:</p><pre><code>module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),

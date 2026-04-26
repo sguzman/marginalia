@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intel on Marginalia</title><link>https://sguzman.github.io/marginalia/tags/intel/</link><description>Recent content in Intel on Marginalia</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sguzman.github.io/marginalia/tags/intel/index.xml" rel="self" type="application/rss+xml"/><item><title>The Worldwide Computer Chip Industry</title><link>https://sguzman.github.io/marginalia/posts/worldwide-computer-chip-industry/</link><pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate><guid>https://sguzman.github.io/marginalia/posts/worldwide-computer-chip-industry/</guid><description>&lt;h1 id="the-worldwide-computer-chip-industry"&gt;
+ The Worldwide Computer Chip Industry
+ &lt;a class="heading-link" href="#the-worldwide-computer-chip-industry"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="executive-summary"&gt;
+ Executive Summary
+ &lt;a class="heading-link" href="#executive-summary"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This field guide explains the global semiconductor (computer chip) industry end-to-end in plain language. It starts with the basics of what a chip is and why tiny transistors on silicon matter, then surveys the major chip types (PC/phone CPUs, GPUs, AI accelerators, SoCs, etc.) and how they differ in design and use. We describe the &lt;em&gt;design process&lt;/em&gt; (specs, architecture, verification, electronic design automation tools, reusable IP blocks) and the &lt;em&gt;manufacturing process&lt;/em&gt; (fabrication plants called &amp;ldquo;fabs&amp;rdquo;, photolithography, process nodes like &amp;ldquo;7nm/5nm&amp;rdquo;, yields and costs). We explain modern packaging (including multi-chip modules and 3D stacking) and test steps that transform silicon into finished chips, noting how advanced AI chips strain this step (e.g. high-bandwidth memory stacks and CoWoS packaging become bottlenecks&lt;a href="https://www.fusionww.com/insights/blog/inside-the-ai-bottleneck-cowos-hbm-and-2-3nm-capacity-constraints-through-2027#:~:text=If%20one%20technology%20defines%20the,TSMC%20executives%20were%20unusually%20direct" class="external-link" target="_blank" rel="noopener"&gt;[1]&lt;/a&gt;&lt;a href="https://www.fusionww.com/insights/blog/inside-the-ai-bottleneck-cowos-hbm-and-2-3nm-capacity-constraints-through-2027#:~:text=,Wei%2C%20TSMC" class="external-link" target="_blank" rel="noopener"&gt;[2]&lt;/a&gt;).&lt;/p&gt;</description></item></channel></rss>
