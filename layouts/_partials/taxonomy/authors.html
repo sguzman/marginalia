@@ -1,0 +1,15 @@
+<div class="authors">
+  {{- range $index, $el := . -}}
+    {{- if gt $index 0 }}
+      <span class="separator">•</span>
+    {{- end }}
+    {{- $name := .LinkTitle | lower -}}
+    {{- if eq $name "chatgpt" -}}
+      <i class="fa-solid fa-robot" aria-hidden="true"></i>
+    {{- else -}}
+      <i class="fa-solid fa-user" aria-hidden="true"></i>
+    {{- end -}}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  {{- end -}}
+</div>
+

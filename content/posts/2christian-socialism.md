@@ -1,10 +1,14 @@
 ---
 title: Christian Socialism in Mid-Victorian Britain
 linkTitle: Christian Socialism in Mid-Victorian Britain
-description: >-
-  Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity's core doctr…
-summary: >-
-  Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity's core doctrines---especially the Fatherhood of God and the resulting Brotherhood of Man---demanded social reform in industrial society(https://archive.org/download/lordsprayernine00maur/lordsprayernine00maur.pdf#:~:text=they%20hope%20for%20a%20brotherhood,is%20right%2C%20this%20is%20be)(https://spartacus-educational.com/REsocialism.htm#:~:text=other%20trades%2C%20averaging%2024s%20per,operation%2C%20joint%20ownership%20and%20with). Maurice, a theologian at King's College London, maintained that true social brotherhood was impossible without first acknowledging God…
+description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity''s core doctr…'
+summary: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity''s core doctrines'
+authors:
+- Salvador Guzman
+- ChatGPT
+ai_generated: true
+---
+especially the Fatherhood of God and the resulting Brotherhood of Man---demanded social reform in industrial society(https://archive.org/download/lordsprayernine00maur/lordsprayernine00maur.pdf#:~:text=they%20hope%20for%20a%20brotherhood,is%20right%2C%20this%20is%20be)(https://spartacus-educational.com/REsocialism.htm#:~:text=other%20trades%2C%20averaging%2024s%20per,operation%2C%20joint%20ownership%20and%20with). Maurice, a theologian at King's College London, maintained that true social brotherhood was impossible without first acknowledging God…
 slug: 2christian-socialism
 url: ''
 aliases: []
@@ -12,7 +16,8 @@ date: '2026-02-12'
 lastmod: '2026-04-26'
 draft: false
 authors:
-- Salvador Guzmán
+- Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -109,6 +114,7 @@ meta:
   toc-depth: 2
   toc-title: Contents
   type: article
+ai_generated: true
 ---
 
 **Executive Summary**\

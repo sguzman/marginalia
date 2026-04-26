@@ -6,6 +6,7 @@ draft: false
 slug: marx-bibliography
 authors:
 - Salvador Guzman
+- ChatGPT
 categories:
 - marxism
 - bibliography
@@ -26,11 +27,7 @@ library_of_congress_classification:
   area: ''
   note: ''
 meta:
-  abstract: 'A comprehensive, annotated, and hierarchically structured bibliography
-    of Marxist literature from the 1840s through 2025. Organized chronologically and
-    thematically, it aims to be exhaustive across regions, ideological currents, media,
-    and major scholarly languages, and includes methodology notes designed for transparent,
-    reproducible updating.
+  abstract: 'A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across regions, ideological currents, media, and major scholarly languages, and includes methodology notes designed for transparent, reproducible updating.
 
     '
   creator:
@@ -41,7 +38,9 @@ meta:
     scope_years: 1840-2025
     organization: chronological + thematic
     intent: research guide
+ai_generated: true
 ---
+
 
 # Comprehensive Marxist Literature (1840--2025)
 

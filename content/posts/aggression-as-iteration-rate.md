@@ -1,114 +1,110 @@
 ---
-title: "Aggression as Iteration Rate"
-linkTitle: "Aggression as Iteration Rate"
-description: "An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition."
-summary: "An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition."
-slug: "aggression-as-iteration-rate"
-url: ""
+title: Aggression as Iteration Rate
+linkTitle: Aggression as Iteration Rate
+description: An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition.
+summary: An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition.
+slug: aggression-as-iteration-rate
+url: ''
 aliases: []
-date: "2023-06-29"
-publishDate: "2026-02-11"
-lastmod: "2023-06-29"
-expiryDate: ""
+date: '2023-06-29'
+publishDate: '2026-02-11'
+lastmod: '2023-06-29'
+expiryDate: ''
 draft: false
 authors:
-  - "Salvador Guzman"
-  - "ChatGPT"
+- Salvador Guzman
 meta:
-  abstract: >-
-    This essay proposes a mathematical framework for understanding behavior as a competitive process among biological impulses.
-    By modeling these impulses as fractional strengths within a normalized unit, the author defines aggression not as a purely
-    violent phenomenon, but as the 'stickiness' and persistence of strategy execution under conditions of scarcity and competition.
-    The work explores the relationship between genetics, the extended phenotype, and aggression tolerance, ultimately framing
-    behavior as a rational calculus derived from biological primitives.
-  creator: "Salvador Guzman"
-  dataset_id: "behavioral-modeling-2023"
-  identifier: "behavior-2023-001"
-  language: "en-US"
+  abstract: This essay proposes a mathematical framework for understanding behavior as a competitive process among biological impulses. By modeling these impulses as fractional strengths within a normalized unit, the author defines aggression not as a purely violent phenomenon, but as the 'stickiness' and persistence of strategy execution under conditions of scarcity and competition. The work explores the relationship between genetics, the extended phenotype, and aggression tolerance, ultimately framing behavior as a rational calculus derived from biological primitives.
+  creator: Salvador Guzman
+  dataset_id: behavioral-modeling-2023
+  identifier: behavior-2023-001
+  language: en-US
   library_of_congress_classification:
-    primary: "BF575.A3"
-    area: "Psychology; Aggression"
-    note: "Theoretical modeling of behavioral impulses and strategic iteration."
-  license: "CC0-1.0"
-  publisher: "Marginalia"
-  reference-section-title: "References"
+    primary: BF575.A3
+    area: Psychology; Aggression
+    note: Theoretical modeling of behavioral impulses and strategic iteration.
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: References
   report:
-    kind: "theoretical-essay"
-    domain: "behavioral-science"
-    topic: "aggression-modeling"
-    scope: "conceptual-framework"
-    audience: "intellectual"
-  revision: "1.1.0"
-  rights: "© 2023 Salvador Guzman"
-  status: "final"
-  subject: "behavior"
+    kind: theoretical-essay
+    domain: behavioral-science
+    topic: aggression-modeling
+    scope: conceptual-framework
+    audience: intellectual
+  revision: 1.1.0
+  rights: © 2023 Salvador Guzman
+  status: final
+  subject: behavior
   subjects:
-    - "behavioral modeling"
-    - "mathematical psychology"
-    - "evolutionary biology"
-    - "aggression"
-    - "game theory"
-    - "strategic iteration"
-  subtitle: "Behavior as a Mathematical Process"
+  - behavioral modeling
+  - mathematical psychology
+  - evolutionary biology
+  - aggression
+  - game theory
+  - strategic iteration
+  subtitle: Behavior as a Mathematical Process
   toc: true
-  type: "article"
-layout: "single"
+  type: article
+layout: single
 weight: 0
 categories:
-  - "behavior"
-  - "philosophy"
-  - "mathematics"
-  - "psychology"
+- behavior
+- philosophy
+- mathematics
+- psychology
 tags:
-  - "aggression"
-  - "strategy"
-  - "behavioral modeling"
-  - "impulses"
-  - "probability"
-  - "scarcity"
-  - "competition"
-  - "genetics"
-  - "phenotype"
-  - "extended phenotype"
+- aggression
+- strategy
+- behavioral modeling
+- impulses
+- probability
+- scarcity
+- competition
+- genetics
+- phenotype
+- extended phenotype
 keywords:
-  - "behavior as impulses"
-  - "normalized impulse strength"
-  - "aggression as strategic iteration"
-  - "scarcity and aggression"
-  - "aggression tolerance inheritance"
-  - "behavioral iteration"
-  - "mathematical psychology"
-  - "evolutionary stable strategies"
-  - "biological primitives"
-  - "homeostasis and behavior"
-  - "circadian rhythms"
-  - "genetic determinism"
-  - "phenotypic plasticity"
-  - "extended phenotype"
-  - "Richard Dawkins"
-  - "strategic persistence"
-  - "competition for actuation"
-  - "impulse thresholds"
-  - "behavioral grammar"
-  - "rational calculus of behavior"
-markup: "goldmark"
+- behavior as impulses
+- normalized impulse strength
+- aggression as strategic iteration
+- scarcity and aggression
+- aggression tolerance inheritance
+- behavioral iteration
+- mathematical psychology
+- evolutionary stable strategies
+- biological primitives
+- homeostasis and behavior
+- circadian rhythms
+- genetic determinism
+- phenotypic plasticity
+- extended phenotype
+- Richard Dawkins
+- strategic persistence
+- competition for actuation
+- impulse thresholds
+- behavioral grammar
+- rational calculus of behavior
+markup: goldmark
 outputs:
-  - "HTML"
-  - "RSS"
+- HTML
+- RSS
 headless: false
 isCJKLanguage: false
-translationKey: ""
+translationKey: ''
 resources: []
 build:
-  list: "always"
-  render: "always"
+  list: always
+  render: always
   publishResources: true
 cascade: {}
 sitemap:
-  changefreq: ""
+  changefreq: ''
   priority: -1
-  filename: "sitemap.xml"
+  filename: sitemap.xml
+ai_generated: false
 ---
+
 
 The lands we inherit from our fathers, were cultivated ere they were
 born, and yielded produce before they were cultivated. The products of

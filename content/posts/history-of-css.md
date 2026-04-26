@@ -1,20 +1,10 @@
 ---
 title: A Comprehensive History of CSS
 linkTitle: A Comprehensive History of CSS
-description: 'A detailed, timeline-driven history of CSS that connects W3C specifications and browser
-  implementation realities with community practice (from early standards and the browser wars to responsive
-  design, Flexbox, Grid, and modern CSS architecture).
+description: 'A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS architecture).
 
   '
-summary: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation
-  into a mature, modular platform for layout, typography, interaction, and responsive design. This essay
-  traces CSS along two coupled histories: the formal arc of standards (W3C Recommendations, snapshots,
-  and module levels) and the informal arc of real-world practice (browser wars, interoperability pain,
-  community patterns like OOCSS/BEM/SMACSS, and major demonstrations such as CSS Zen Garden and responsive
-  design). It emphasizes how implementation constraints shaped the spec process (notably the long CSS2.1
-  stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling,
-  and design systems). The result is a coherent timeline of institutions, specs, and practice that explains
-  not only what modern CSS can do, but why the ecosystem evolved the way it did.
+summary: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation into a mature, modular platform for layout, typography, interaction, and responsive design. This essay traces CSS along two coupled histories: the formal arc of standards (W3C Recommendations, snapshots, and module levels) and the informal arc of real-world practice (browser wars, interoperability pain, community patterns like OOCSS/BEM/SMACSS, and major demonstrations such as CSS Zen Garden and responsive design). It emphasizes how implementation constraints shaped the spec process (notably the long CSS2.1 stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling, and design systems). The result is a coherent timeline of institutions, specs, and practice that explains not only what modern CSS can do, but why the ecosystem evolved the way it did.
 
   '
 slug: history-of-css
@@ -72,15 +62,7 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation
-    into a mature, modular platform for layout, typography, interaction, and responsive design. This essay
-    traces CSS along two coupled histories: the formal arc of standards (W3C Recommendations, snapshots,
-    and module levels) and the informal arc of real-world practice (browser wars, interoperability pain,
-    community patterns like OOCSS/BEM/SMACSS, and major demonstrations such as CSS Zen Garden and responsive
-    design). It emphasizes how implementation constraints shaped the spec process (notably the long CSS2.1
-    stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling,
-    and design systems). The result is a coherent timeline of institutions, specs, and practice that explains
-    not only what modern CSS can do, but why the ecosystem evolved the way it did.
+  abstract: 'CSS (Cascading Style Sheets) grew from a mid-1990s attempt to separate content from presentation into a mature, modular platform for layout, typography, interaction, and responsive design. This essay traces CSS along two coupled histories: the formal arc of standards (W3C Recommendations, snapshots, and module levels) and the informal arc of real-world practice (browser wars, interoperability pain, community patterns like OOCSS/BEM/SMACSS, and major demonstrations such as CSS Zen Garden and responsive design). It emphasizes how implementation constraints shaped the spec process (notably the long CSS2.1 stabilization) and how developer needs pushed new capabilities (Flexbox, Grid, media queries, tooling, and design systems). The result is a coherent timeline of institutions, specs, and practice that explains not only what modern CSS can do, but why the ecosystem evolved the way it did.
 
     '
   cover-image: cover.png
@@ -131,7 +113,9 @@ meta:
   report_series_title: Marginalia
   report_series_number: 0
 series: []
+ai_generated: true
 ---
+
 
 ## Executive Summary
 

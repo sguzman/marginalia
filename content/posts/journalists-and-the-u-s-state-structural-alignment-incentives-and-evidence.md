@@ -78,6 +78,7 @@ meta:
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 ## Executive summary

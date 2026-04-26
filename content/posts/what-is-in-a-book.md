@@ -1,128 +1,114 @@
 ---
-title: "What Is in a Book?"
-linkTitle: "What Is in a Book?"
-description: >-
-  An essay arguing that books are fungible at the level of their verbal
-  content, exploring how a book's identity can be modeled via typed tuples and
-  semantic constraint.
-summary: >-
-  An essay arguing that books are fungible at the level of their verbal
-  content, exploring how a book's identity can be modeled via typed tuples and
-  semantic constraint.
-slug: "what-is-in-a-book"
-url: ""
+title: What Is in a Book?
+linkTitle: What Is in a Book?
+description: An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
+summary: An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
+slug: what-is-in-a-book
+url: ''
 aliases: []
-date: "2023-02-18"
-publishDate: "2026-02-11"
-lastmod: "2026-04-20T15:45:00Z"
-expiryDate: ""
+date: '2023-02-18'
+publishDate: '2026-02-11'
+lastmod: '2026-04-20T15:45:00Z'
+expiryDate: ''
 draft: false
 authors:
-  - "Salvador Guzman"
-  - "ChatGPT"
+- Salvador Guzman
 meta:
-  abstract: >-
-    This essay explores the ontological identity of "the book," arguing that
-    books are fungible at the level of their verbal content. The author
-    proposes a formal model of book identity using typed tuples—author, title,
-    and edition—while suggesting that the "verbal book" transcends its
-    physical or linguistic manifestation. Drawing on Foucault and formal
-    semantics, the piece deconstructs the relationship between authorial
-    intention and the written word, ultimately aiming for a "commutative
-    algebra of truth" where the semantic weight of a text is agnostic to the
-    provincial constraints of syntax and order.
-  creator: "Salvador Guzman"
-  dataset_id: "book-ontology-2023"
-  identifier: "phil-2023-004"
-  language: "en-US"
+  abstract: This essay explores the ontological identity of "the book," arguing that books are fungible at the level of their verbal content. The author proposes a formal model of book identity using typed tuples—author, title, and edition—while suggesting that the "verbal book" transcends its physical or linguistic manifestation. Drawing on Foucault and formal semantics, the piece deconstructs the relationship between authorial intention and the written word, ultimately aiming for a "commutative algebra of truth" where the semantic weight of a text is agnostic to the provincial constraints of syntax and order.
+  creator: Salvador Guzman
+  dataset_id: book-ontology-2023
+  identifier: phil-2023-004
+  language: en-US
   library_of_congress_classification:
-    primary: "PN45"
-    area: "Philosophy of Language; Literature"
-    note: "Ontological study of books, intention, and semantic identity."
-  license: "CC0-1.0"
-  publisher: "Marginalia"
+    primary: PN45
+    area: Philosophy of Language; Literature
+    note: Ontological study of books, intention, and semantic identity.
+  license: CC0-1.0
+  publisher: Marginalia
   report:
-    kind: "philosophical-formalism-essay"
-    domain: "philosophy-of-language"
-    topic: "book-identity-and-semantics"
-    scope: "theoretical-and-mathematical"
-    audience: "scholars-and-logicians"
-  revision: "1.1.0"
-  rights: "© 2023 Salvador Guzman"
-  status: "final"
-  subject: "philosophy of language"
+    kind: philosophical-formalism-essay
+    domain: philosophy-of-language
+    topic: book-identity-and-semantics
+    scope: theoretical-and-mathematical
+    audience: scholars-and-logicians
+  revision: 1.1.0
+  rights: © 2023 Salvador Guzman
+  status: final
+  subject: philosophy of language
   subjects:
-    - "books"
-    - "semantics"
-    - "formalism"
-    - "epistemology"
-    - "identity"
-    - "ontological classification"
-  subtitle: "Ontology, Tuples, and the Algebra of Truth"
+  - books
+  - semantics
+  - formalism
+  - epistemology
+  - identity
+  - ontological classification
+  subtitle: Ontology, Tuples, and the Algebra of Truth
   toc: true
-  type: "article"
-layout: "single"
+  type: article
+layout: single
 weight: 0
 categories:
-  - "philosophy of language"
-  - "epistemology"
-  - "philosophy of books"
-  - "semantics"
+- philosophy of language
+- epistemology
+- philosophy of books
+- semantics
 tags:
-  - "books"
-  - "written word"
-  - "fungibility"
-  - "authorial intention"
-  - "verbal book"
-  - "identity"
-  - "tuple"
-  - "formalism"
-  - "semantics"
-  - "ambiguity"
-  - "epistemology"
-  - "commutative algebra"
-  - "truth"
-  - "lexicon"
-  - "syntax"
+- books
+- written word
+- fungibility
+- authorial intention
+- verbal book
+- identity
+- tuple
+- formalism
+- semantics
+- ambiguity
+- epistemology
+- commutative algebra
+- truth
+- lexicon
+- syntax
 keywords:
-  - "book identity"
-  - "typed tuple"
-  - "author intention"
-  - "semantics"
-  - "ambiguity theory"
-  - "truth as algebra"
-  - "commutativity"
-  - "lexemes"
-  - "ontological fungibility"
-  - "verbal book"
-  - "Foucault"
-  - "formal semantics"
-  - "semantic space"
-  - "algebra of truth"
-  - "Cartesian product"
-  - "vector space"
-  - "authorial deconstruction"
-  - "objective truth"
-  - "lexical items"
-  - "syntactic groups"
-markup: "goldmark"
+- book identity
+- typed tuple
+- author intention
+- semantics
+- ambiguity theory
+- truth as algebra
+- commutativity
+- lexemes
+- ontological fungibility
+- verbal book
+- Foucault
+- formal semantics
+- semantic space
+- algebra of truth
+- Cartesian product
+- vector space
+- authorial deconstruction
+- objective truth
+- lexical items
+- syntactic groups
+markup: goldmark
 outputs:
-  - "HTML"
-  - "RSS"
+- HTML
+- RSS
 headless: false
 isCJKLanguage: false
-translationKey: ""
+translationKey: ''
 resources: []
 build:
-  list: "always"
-  render: "always"
+  list: always
+  render: always
   publishResources: true
 cascade: {}
 sitemap:
-  changefreq: ""
+  changefreq: ''
   priority: -1
-  filename: "sitemap.xml"
+  filename: sitemap.xml
+ai_generated: false
 ---
+
 
 # Introduction
 

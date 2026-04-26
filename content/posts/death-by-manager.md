@@ -1,115 +1,109 @@
 ---
-title: "Death by Manager"
-linkTitle: "Death by Manager"
-description: "A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives."
-summary: "A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives."
-slug: "death-by-manager"
-url: ""
+title: Death by Manager
+linkTitle: Death by Manager
+description: A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
+summary: A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
+slug: death-by-manager
+url: ''
 aliases: []
-date: "2023-02-24"
-publishDate: "2026-02-11"
-lastmod: "2023-02-24"
-expiryDate: ""
+date: '2023-02-24'
+publishDate: '2026-02-11'
+lastmod: '2023-02-24'
+expiryDate: ''
 draft: false
 authors:
-  - "Salvador Guzman"
-  - "ChatGPT"
+- Salvador Guzman
 meta:
-  abstract: >-
-    This polemical essay examines the rise and pervasive influence of the managerial class across capitalism,
-    communism, and fascism. The author argues that the separation of ownership and control has birthed a
-    parasitic elite whose power is derived from the ambiguity of their roles and the monopoly of industrial
-    knowledge. By dismantling the profit motive and subverting both labor and capital, the managerial class
-    has become an apex predator of modern organizational life. The paper proposes a technological and
-    pedagogical alternative—inspired by open-source governance and "transparent society" ideals—to
-    decentralize management and restore individual agency.
-  creator: "Salvador Guzman"
-  dataset_id: "managerial-studies-2023"
-  identifier: "politics-2023-001"
-  language: "en-US"
+  abstract: This polemical essay examines the rise and pervasive influence of the managerial class across capitalism, communism, and fascism. The author argues that the separation of ownership and control has birthed a parasitic elite whose power is derived from the ambiguity of their roles and the monopoly of industrial knowledge. By dismantling the profit motive and subverting both labor and capital, the managerial class has become an apex predator of modern organizational life. The paper proposes a technological and pedagogical alternative—inspired by open-source governance and "transparent society" ideals—to decentralize management and restore individual agency.
+  creator: Salvador Guzman
+  dataset_id: managerial-studies-2023
+  identifier: politics-2023-001
+  language: en-US
   library_of_congress_classification:
-    primary: "HD31"
-    area: "Management; Political Science"
-    note: "Critique of the managerial class and organizational power structures."
-  license: "CC0-1.0"
-  publisher: "Marginalia"
-  reference-section-title: "References"
+    primary: HD31
+    area: Management; Political Science
+    note: Critique of the managerial class and organizational power structures.
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: References
   report:
-    kind: "polemic-essay"
-    domain: "political-theory"
-    topic: "managerialism"
-    scope: "critique-and-proposal"
-    audience: "intellectual"
-  revision: "1.1.0"
-  rights: "© 2023 Salvador Guzman"
-  status: "final"
-  subject: "politics"
+    kind: polemic-essay
+    domain: political-theory
+    topic: managerialism
+    scope: critique-and-proposal
+    audience: intellectual
+  revision: 1.1.0
+  rights: © 2023 Salvador Guzman
+  status: final
+  subject: politics
   subjects:
-    - "managerial class"
-    - "political theory"
-    - "organizational design"
-    - "labor relations"
-    - "industrial sociology"
-    - "power dynamics"
-  subtitle: "The Manager as the Apex Corporate Predator"
+  - managerial class
+  - political theory
+  - organizational design
+  - labor relations
+  - industrial sociology
+  - power dynamics
+  subtitle: The Manager as the Apex Corporate Predator
   toc: true
-  type: "article"
-layout: "single"
+  type: article
+layout: single
 weight: 0
 categories:
-  - "politics"
-  - "political theory"
-  - "management"
-  - "labor"
+- politics
+- political theory
+- management
+- labor
 tags:
-  - "managerial class"
-  - "managerialism"
-  - "power"
-  - "organizational design"
-  - "open source"
-  - "capitalism"
-  - "communism"
-  - "fascism"
+- managerial class
+- managerialism
+- power
+- organizational design
+- open source
+- capitalism
+- communism
+- fascism
 keywords:
-  - "managerial class"
-  - "managerial discretion"
-  - "power capture"
-  - "open source governance"
-  - "anti-violence"
-  - "separation of ownership and control"
-  - "James Burnham"
-  - "managerial revolution"
-  - "technocracy"
-  - "bureaucracy"
-  - "organizational theory"
-  - "labor exploitation"
-  - "capitalist hollowing"
-  - "profit motive"
-  - "job security"
-  - "pedagogical objects"
-  - "transparent society"
-  - "Karl Popper"
-  - "bazaar vs cathedral"
-  - "decentralized governance"
-  - "industrial knowledge monopoly"
-markup: "goldmark"
+- managerial class
+- managerial discretion
+- power capture
+- open source governance
+- anti-violence
+- separation of ownership and control
+- James Burnham
+- managerial revolution
+- technocracy
+- bureaucracy
+- organizational theory
+- labor exploitation
+- capitalist hollowing
+- profit motive
+- job security
+- pedagogical objects
+- transparent society
+- Karl Popper
+- bazaar vs cathedral
+- decentralized governance
+- industrial knowledge monopoly
+markup: goldmark
 outputs:
-  - "HTML"
-  - "RSS"
+- HTML
+- RSS
 headless: false
 isCJKLanguage: false
-translationKey: ""
+translationKey: ''
 resources: []
 build:
-  list: "always"
-  render: "always"
+  list: always
+  render: always
   publishResources: true
 cascade: {}
 sitemap:
-  changefreq: ""
+  changefreq: ''
   priority: -1
-  filename: "sitemap.xml"
+  filename: sitemap.xml
+ai_generated: false
 ---
+
 
 # The Manager as the Apex Corporate Predator
 

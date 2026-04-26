@@ -1,6 +1,6 @@
 ---
-title: liberal-gothic-quick-facts
-linkTitle: liberal-gothic-quick-facts
+title: Liberal Gothic Quick Facts
+linkTitle: Liberal Gothic Quick Facts
 description: >-
   - Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure where…
 summary: >-
@@ -73,11 +73,12 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: liberal-gothic-quick-facts
+  title: Liberal Gothic Quick Facts
   toc: false
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 - Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a *commodification of trauma*: an industry incentives structure where personal wounds attract attention, engagement, and profits[\[1\]](https://newsocialist.org.uk/transmissions/the-commodification-of-trauma/#:~:text=Brands%2C%20social%20media%2C%20%26%20the,clout%2C%20and%20income%20from%20advertising)[\[2\]](https://medium.com/@Ritapsych/medias-favorite-emotional-tool-trauma-48f8e2fc7c09#:~:text=What%20if%20I%20told%20you,cash%20in%20on%20our%20misery).

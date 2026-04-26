@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -110,6 +111,7 @@ meta:
   toc-depth: 3
   toc-title: Contents
   type: article
+ai_generated: true
 ---
 
 Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of *types* to prevent self-referential paradoxes in naïve set theory[\[1\]](https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping). Russell's *ramified* types (1908; *Principia Mathematica* 1910--13) stratified mathematical objects into levels so that no set could contain itself. Building on Russell, Alonzo Church's **Simple Theory of Types** (1940) recast types using the λ-calculus. Church's system treated types as primitive and allowed function types between any types, making a simpler, more general formulation than Russell's (reusing λ-notation as the only binding)[\[2\]](https://plato.stanford.edu/entries/type-theory-church/#:~:text=Church%E2%80%99s%20type%20theory%20is%20a,in%20a%20way%20so%20that). This "Church-style" theory eliminated paradoxes by construction: a term of one type can never be interpreted as belonging to an unrelated type. In effect, type theory blocks the classic paradoxes by forbidding illicit self-reference[\[1\]](https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping).

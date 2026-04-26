@@ -6,6 +6,7 @@ draft: false
 slug: jewish-political-activism-us-1880-2025
 authors:
 - Salvador Guzman
+- ChatGPT
 categories:
 - history
 - politics
@@ -33,12 +34,7 @@ library_of_congress_classification:
   area: ''
   note: ''
 meta:
-  abstract: A long-run survey of Jewish political activism in the United States from
-    1880 to 2025, tracking shifts from immigrant labor organizing to civil-rights
-    coalition politics, pro- and anti-communist foreign-policy networks, and contemporary
-    campus/digital-era polarization. Emphasizes mechanisms of influence (votes, unions,
-    litigation, philanthropy, lobbying, media) while separating documented influence
-    from conspiratorial tropes.
+  abstract: A long-run survey of Jewish political activism in the United States from 1880 to 2025, tracking shifts from immigrant labor organizing to civil-rights coalition politics, pro- and anti-communist foreign-policy networks, and contemporary campus/digital-era polarization. Emphasizes mechanisms of influence (votes, unions, litigation, philanthropy, lobbying, media) while separating documented influence from conspiratorial tropes.
   creator:
   - Salvador Guzman
   dataset_id: jewish-political-activism-us-1880-2025
@@ -49,7 +45,9 @@ meta:
     topic: Jewish political activism
     series: Gold, Velvet and Ashes Reports
     id: GVA-2026-001
+ai_generated: true
 ---
+
 
 # Jewish Political Activism in the United States
 

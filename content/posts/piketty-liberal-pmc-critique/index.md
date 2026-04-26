@@ -1,6 +1,6 @@
 ---
-title: piketty-liberal-pmc-critique
-linkTitle: piketty-liberal-pmc-critique
+title: Piketty Liberal Pmc Critique
+linkTitle: Piketty Liberal Pmc Critique
 description: >-
   Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
 summary: >-
@@ -73,11 +73,12 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: piketty-liberal-pmc-critique
+  title: Piketty Liberal Pmc Critique
   toc: false
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 Thomas Piketty’s *Capital in the Twenty-First Century* emphasizes that the explosion of inequality in recent decades has been driven **not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings**. Piketty documents that in the U.S. roughly 60–70% of incomes in the top 0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes[\[1\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that). He attributes this to corporate governance failures: today’s top executives effectively **set their own pay**. “These top managers by and large have the power to set their own remuneration, in some cases without limit,” Piketty observes, often with little relation to productivity[\[2\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=I%20will%20show%20that%20this,managers%20of%20large%20firms%20from)[\[3\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=managers%20by%20and%20large%20have,The%20tendency%20is%20less). In other words, much of the “gap” driving high-end inequality is **rent extracted by managerial elites**.

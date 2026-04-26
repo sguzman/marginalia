@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -120,6 +121,7 @@ meta:
   toc-depth: 3
   toc-title: Contents
   type: essay
+ai_generated: true
 ---
 
 **Executive Summary**\

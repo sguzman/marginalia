@@ -1,6 +1,6 @@
 ---
-title: yankee-courts-and-legal-bias
-linkTitle: yankee-courts-and-legal-bias
+title: Yankee Courts And Legal Bias
+linkTitle: Yankee Courts And Legal Bias
 description: >-
   A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
 summary: >-
@@ -73,11 +73,12 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: yankee-courts-and-legal-bias
+  title: Yankee Courts And Legal Bias
   toc: false
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate business, property, and government powers at the expense of labor, individuals, or progressive aims. For example, early cases like *Dartmouth College v. Woodward* (1819) and *Lochner v. New York* (1905) protected corporate charters and struck down labor regulations[\[1\]](https://supreme.justia.com/cases/federal/us/17/518/#:~:text=The%20charter%20granted%20by%20the,not%20dissolved%20by%20the%20Revolution)[\[2\]](https://constitutioncenter.org/the-constitution/supreme-court-case-library/lochner-v-new-york#:~:text=vis,legitimate%20health%20or%20safety%20objective), while more recent decisions like *Citizens United v. FEC* (2010) and *Burwell v. Hobby Lobby* (2014) expanded corporate speech and religious rights, respectively[\[3\]](https://supreme.justia.com/cases/federal/us/558/310/#:~:text=Primary%20Holding)[\[4\]](https://harvardlawreview.org/print/vol-135/the-supreme-court-and-the-pro-business-paradox/#:~:text=expenditures,35%20In%20both%20cases%2C%20the). Studies show the Roberts Court is notably “pro-business”: one analysis finds the U.S. Chamber of Commerce won ~70% of its cases in the Roberts era versus 43–56% under prior Courts[\[5\]](https://www.levernews.com/the-supreme-court-is-a-corporate/#:~:text=This%20is%20part%20of%20a,%E2%80%9D)[\[6\]](https://www.ussc.edu.au/the-supreme-courts-bad-business-bias#:~:text=friendly%E2%80%9D%20is%20measured%20in%20terms,70%20percent%20of%20the%20time). Empirical research coding 1,700+ cases from 1953–2022 likewise finds Republican-appointed justices cast “pro-rich” votes ~70% of the time (Democratic appointees ~35%)[\[7\]](https://cepr.org/voxeu/columns/ruling-rich-evidence-pro-wealthy-bias-us-supreme-court#:~:text=both%20sided%20with%20the%20wealthy,resources%20and%20for%20economic%20inequality). Courts’ formal doctrines (like the *business judgment* rule) and behavioral tendencies (status-quo bias) further tilt outcomes toward established entities. Scholarly and media commentary decry a “star chamber” or century-high pro-corporate tilt[\[8\]](https://www.levernews.com/the-supreme-court-is-a-corporate/#:~:text=Once%20again%2C%20the%20high%20court,defending%20corporations%20and%20the%20wealthy)[\[9\]](https://news.bloomberglaw.com/us-law-week/pro-business-supreme-court-to-be-tested-in-regulatory-showdown#:~:text=A%20pair%20of%20cases%20that,business%20court%20in%20a%20century). Comparative examples (e.g. UK and Canadian courts sometimes backing employers over gig workers) suggest this pattern is not unique to the U.S. Counterexamples exist (e.g. *Brown v. Board*, pro-consumer rulings), but are relatively rare.

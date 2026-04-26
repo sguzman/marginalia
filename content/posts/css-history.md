@@ -1,5 +1,11 @@
 ---
-title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
+title: A Comprehensive History of CSS
+authors:
+- Salvador Guzman
+- ChatGPT
+ai_generated: true
+---
+ Institutions, Specs, and Practice
 linkTitle: A Comprehensive History of CSS --- Institutions, Specs, a…
 description: >-
   A Comprehensive History of CSS --- Institutions, Specs, and Practice
@@ -13,6 +19,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -120,6 +127,7 @@ meta:
   toc-depth: 2
   toc-title: Contents
   type: article
+ai_generated: true
 ---
 
 ## Executive Summary

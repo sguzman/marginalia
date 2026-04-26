@@ -1,6 +1,6 @@
 ---
-title: 1inventing Socialism
-linkTitle: 1inventing Socialism
+title: Inventing Socialism
+linkTitle: Inventing Socialism
 description: >-
   Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen's co-op…
 summary: >-
@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -102,11 +103,12 @@ meta:
   - Utopian movements
   subtitle: How a Name Emerged in Britain and France (1820-1840)
   tags: *id003
-  title: 1inventing Socialism
+  title: Inventing Socialism
   toc: true
   toc-depth: 3
   toc-title: Table of Contents
   type: essay
+ai_generated: true
 ---
 
 Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. **Robert Owen** and his followers in Britain were first: in 1827 the *Co-operative Magazine* used "Socialists" to describe Owen's co-operative reformers[\[1\]](https://archive.org/details/co-operative-magazine-and-monthly-herald-1827-11-the-first-documented-use-of-soc#:~:text=The%20first%20documented%20use%20of,operative%20Magazine%2C%20London%2C%20November%201827). Owen himself spoke of a new *"social system"* to replace competitive individualism[\[2\]](https://www.libertarian-labyrinth.org/utopian-and-scientific/paul-brown-twelve-months-in-new-harmony-1827/#:~:text=had%20to%20pass%20through%2C%E2%80%94for%20my,communities%2C%20or%20to%20form%20others), laying groundwork for what would soon be called *socialism*. Meanwhile in France, disciples of **Claude Henri de Saint-Simon** began using *"socialisme"* in the early 1830s to contrast with *individualisme*. A Protestant journal in 1831 urged *"ne pas sacrifier la personnalité au socialisme, ni ce dernier à la personnalité"* ("not to sacrifice individuality to socialism, nor socialism to individuality")[\[3\]](https://legalform.blog/wp-content/uploads/2017/12/grucc88nberg-socialisme.pdf#:~:text=vivre%20de%20la%20vie%20g%C3%A9n%C3%A9rale%2C,personnalit%C3%A9%20%C2%BB%20a%20le%20m)[\[4\]](https://legalform.blog/wp-content/uploads/2017/12/grucc88nberg-socialisme.pdf#:~:text=ses%20esp%C3%A9rances%20et%20quelquefois%20ses,emploie%20%C2%AB%20socialisme%20%C2%BB%20da). By 1832--33, the Saint-Simonian and **Fourierist** movements were both being labeled *"socialist."* In April 1833, the Fourierist paper *La Réforme industrielle* even announced a meeting of *"socialistes"*[\[5\]](https://fr.wikisource.org/wiki/Encyclop%C3%A9die_anarchiste/Socialisme_-_Soci%C3%A9t%C3%A9_des_nations#:~:text=import%C3%A9%20en%20France%20par%20les,et%20dans)[\[6\]](https://fr.wikisource.org/wiki/Encyclop%C3%A9die_anarchiste/Socialisme_-_Soci%C3%A9t%C3%A9_des_nations#:~:text=dans%20la%20R%C3%A9forme%20industrielle%20de,7%20octobre%201831). This period also saw **Étienne Cabet** introduce a communist-utopian vision he termed *Icaria*. In his 1840 novel *Voyage en Icarie*, Cabet described an egalitarian society with common property -- effectively a form of socialism, though he preferred the word "communist." His Icarian model rested on *"l'égalité absolue et le partage des biens"*, an ideal of absolute equality and shared wealth[\[7\]](https://gallica.bnf.fr/accueil/fr/html/allons-en-icarie#:~:text=%C2%AB%20Allons%20en%20Icarie%20%21,et%20des%20produits%20de%20consommation).

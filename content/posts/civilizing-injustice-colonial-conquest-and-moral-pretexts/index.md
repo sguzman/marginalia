@@ -78,6 +78,7 @@ meta:
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 **Executive Summary:** This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of *sati*, French Algeria’s “civilizing mission,” and U.S. rule in the Philippines via “benevolent assimilation”), we compare the stated moral pretexts to the actual motives, processes, and outcomes of conquest. We show that colonial powers often used humanitarian rhetoric as a pretext for expansion, not as an honest driver of policy. These examples, together with the international legal framework (UN Charter, self-determination, customary international law) and modern norms (humanitarian intervention, Responsibility to Protect), demonstrate that conquest under the guise of stopping injustice is not legally or ethically justified. We analyze the consequences of this doctrine: collective punishment of entire societies, loss of agency and self-determination for colonized peoples, the hypocrisy of imperial powers, and perverse incentives to seek moral pretexts for aggression. We conclude that the only legitimate route to end atrocities is internal reform or authorized collective action, and we make policy recommendations to strengthen international norms against conquest and to address abuses through lawful and cooperative means.

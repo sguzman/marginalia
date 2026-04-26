@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -135,6 +136,7 @@ meta:
   toc-depth: 2
   toc-title: Contents
   type: report
+ai_generated: true
 ---
 
 **Executive Summary:** Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions, advocacy groups, litigation, and media. Waves of Eastern European immigrants (1880--1924) built strong garment and labor unions and helped found organizations like the American Jewish Committee and Anti-Defamation League to combat discrimination. In the New Deal era, Jewish union leaders and political activists (often Democrats) joined Roosevelt's coalition, while wartime and postwar activism centered on rescue efforts, civil rights, and support for Israel. During the Cold War and beyond, Jews were prominent in civil-rights coalitions (helping to found the NAACP and sit on its leadership[\[1\]](https://www.gilderlehrman.org/history-resources/essays/role-jewish-americans-civil-rights-movement#:~:text=Outside%20the%20left%2C%20individuals%20from,%E2%80%9D)) and in anti-communist foreign-policy circles (later evolving into the neoconservative movement). Since 1990, new issues -- from Soviet Jewry to campus BDS protests -- have spurred activist responses, and digital media have amplified both Jewish advocacy and antisemitic backlash. Quantitative data show Jewish Americans largely leaning Democratic (roughly three-quarters in recent elections) and supporting causes like social justice at higher rates than their population share would predict[\[2\]](https://www.gilderlehrman.org/history-resources/essays/role-jewish-americans-civil-rights-movement#:~:text=played%20an%20outsized%20role%20in,was%20an%20African%20American%20Jew). However, persistent tropes of a "Jewish lobby" exaggerate influence: for example, the largest Jewish group (AIPAC) spent only about \$3.3 million on lobbying in 2024, a small fraction of U.S. interest-group spending, while grassroots membership and philanthropy remain primary levers of influence. Key findings include the importance of labor/social justice roots (especially 1880--1930), the enduring alliance (and occasional strain) with Black civil-rights movements, and the rise of polarized Jewish activism on campus and social media in the 21st century. Policy implications stress supporting pluralistic, evidence-based understanding of "Jewish influence" and vigilance against antisemitic conspiracies.

@@ -1,36 +1,39 @@
 ---
-title: "Chartists & Radical Republicans, 1840-1865"
-subtitle: "Franchise, Socialism, and the Limits of Alliance"
+title: Chartists & Radical Republicans, 1840-1865
+subtitle: Franchise, Socialism, and the Limits of Alliance
 date: 2026-02-12
-creator: "Salvador Guzman"
+creator: Salvador Guzman
 categories:
-  - "history"
-  - "political-theory"
-  - "socialism"
+- history
+- political-theory
+- socialism
 tags:
-  - "chartism"
-  - "radical-republicans"
-  - "franchise"
-  - "reconstruction"
-  - "abolitionism"
-  - "land-reform"
-  - "labor"
-  - "cooperatives"
-  - "british-history"
-  - "us-history"
+- chartism
+- radical-republicans
+- franchise
+- reconstruction
+- abolitionism
+- land-reform
+- labor
+- cooperatives
+- british-history
+- us-history
 library_of_congress_classification:
-  class: "DA"
-  area: "Great Britain — 19th century politics and reform movements; United States — Civil War era and Reconstruction"
+  class: DA
+  area: Great Britain — 19th century politics and reform movements; United States — Civil War era and Reconstruction
 meta:
-  abstract: >
-    A comparative study of British Chartism (1838–1850s) and Radical Republicanism
-    in Britain and the United States (1840s–1860s), focusing on how demands for
-    expanded franchise intersected (and often failed to align) with “socialist”
-    economic aims.
-  report_no: "GVA-INV-04"
+  abstract: 'A comparative study of British Chartism (1838–1850s) and Radical Republicanism in Britain and the United States (1840s–1860s), focusing on how demands for expanded franchise intersected (and often failed to align) with “socialist” economic aims.
+
+    '
+  report_no: GVA-INV-04
   report_year: 2026
-  dataset_id: "inventing-socialism.chartism-1840-1865"
+  dataset_id: inventing-socialism.chartism-1840-1865
+authors:
+- Salvador Guzman
+- ChatGPT
+ai_generated: true
 ---
+
 
 # Executive Summary
 

@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -138,6 +139,7 @@ meta:
   toc-depth: 3
   toc-title: Contents
   type: report
+ai_generated: true
 ---
 
 <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" />  

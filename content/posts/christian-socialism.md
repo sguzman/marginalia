@@ -1,37 +1,38 @@
 ---
-title: "Christian Socialism in Mid-Victorian Britain"
+title: Christian Socialism in Mid-Victorian Britain
 date: 2026-02-12
-creator: "Salvador Guzmán"
+creator: Salvador Guzmán
 categories:
-  - "History"
-  - "Political Thought"
-  - "Religion"
-  - "Victorian Britain"
+- History
+- Political Thought
+- Religion
+- Victorian Britain
 tags:
-  - "Christian Socialism"
-  - "Anglicanism"
-  - "Victorian Britain"
-  - "Maurice"
-  - "Kingsley"
-  - "Chartism"
-  - "Cooperatives"
-  - "Working Men's College"
+- Christian Socialism
+- Anglicanism
+- Victorian Britain
+- Maurice
+- Kingsley
+- Chartism
+- Cooperatives
+- Working Men's College
 library_of_congress_classification:
-  class: "BR115.S6"
-  area: "Christianity and social problems / social justice"
-  note: "Frederick Denison Maurice and Charles Kingsley's movement."
+  class: BR115.S6
+  area: Christianity and social problems / social justice
+  note: Frederick Denison Maurice and Charles Kingsley's movement.
 meta:
-  abstract: >
-    In mid-Victorian Britain, Anglican priests Frederick Denison Maurice and Charles
-    Kingsley advanced “Christian Socialism” as a theological response to industrial
-    poverty and the revolutionary anxieties of 1848. Grounding social reform in the
-    doctrines of God’s Fatherhood and the resulting brotherhood of humanity, they
-    argued that Christianity’s core claims demand concrete social duties in wages,
-    education, housing, and public health.
-  report_no: "GVA-RN-2026-CS-01"
+  abstract: 'In mid-Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley advanced “Christian Socialism” as a theological response to industrial poverty and the revolutionary anxieties of 1848. Grounding social reform in the doctrines of God’s Fatherhood and the resulting brotherhood of humanity, they argued that Christianity’s core claims demand concrete social duties in wages, education, housing, and public health.
+
+    '
+  report_no: GVA-RN-2026-CS-01
   report_year: 2026
-  dataset_id: "gva.christian-socialism"
+  dataset_id: gva.christian-socialism
+authors:
+- Salvador Guzman
+- ChatGPT
+ai_generated: true
 ---
+
 
 # Executive Summary
 

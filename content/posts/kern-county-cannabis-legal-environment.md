@@ -1,12 +1,12 @@
 ---
 title: Kern County and the Cannabis Legal Environment
-subtitle: Federal, California, and Kern County constraints on licensing, permitting,
-  and operations
+subtitle: Federal, California, and Kern County constraints on licensing, permitting, and operations
 date: '2026-02-12'
 draft: false
 slug: kern-county-cannabis-legal-environment
 authors:
 - Salvador Guzman
+- ChatGPT
 categories:
 - Law
 - Public Policy
@@ -28,16 +28,7 @@ library_of_congress_classification:
   area: ''
   note: ''
 meta:
-  abstract: A practical legal and compliance overview of cannabis cultivation as it
-    relates to (1) continuing federal prohibition under the Controlled Substances
-    Act, (2) California’s statewide licensing regime administered by the Department
-    of Cannabis Control (DCC), and (3) local control in Kern County and its cities.
-    The article summarizes key constraints that shape feasibility - including Schedule
-    I status, 280E tax treatment, banking friction, licensing categories, local authorization
-    prerequisites, track-and-trace (METRC) obligations, security and recordkeeping
-    rules, CEQA and environmental compliance, and enforcement exposure - with special
-    emphasis on Kern County’s local prohibition of commercial activity and the limited,
-    city-specific exceptions elsewhere in the county.
+  abstract: A practical legal and compliance overview of cannabis cultivation as it relates to (1) continuing federal prohibition under the Controlled Substances Act, (2) California’s statewide licensing regime administered by the Department of Cannabis Control (DCC), and (3) local control in Kern County and its cities. The article summarizes key constraints that shape feasibility - including Schedule I status, 280E tax treatment, banking friction, licensing categories, local authorization prerequisites, track-and-trace (METRC) obligations, security and recordkeeping rules, CEQA and environmental compliance, and enforcement exposure - with special emphasis on Kern County’s local prohibition of commercial activity and the limited, city-specific exceptions elsewhere in the county.
   creator:
   - Salvador Guzman
   dataset_id: kern-county-cannabis-legal-environment
@@ -45,7 +36,9 @@ meta:
     false: KERN-001
     number: '001'
     year: '2026'
+ai_generated: true
 ---
+
 
 # Kern County and the Cannabis Legal Environment
 

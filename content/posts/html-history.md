@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -113,6 +114,7 @@ meta:
   toc-title: Contents
   type: report
   title: History of HTML (1990--2025)
+ai_generated: true
 ---
 
 HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by formal standards bodies (IETF, W3C, WHATWG) and by the practical needs and innovations of web developers. This report chronicles HTML's history in thematic eras, highlighting milestones in governance, parsing and conformance, semantic enrichment, accessibility, developer practices, and the broader cultural and economic forces at play. Each era illustrates how HTML grew in response to new challenges -- from early academic information-sharing to the mobile and app-centric web -- and how the web community continually returned to HTML's core strengths. The report concludes with appendices detailing the evolution of HTML tags, doctype behaviors and parsing modes, accessibility best practices, metadata standards, and the idiosyncratic world of HTML email.

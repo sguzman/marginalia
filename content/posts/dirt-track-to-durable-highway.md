@@ -6,6 +6,7 @@ draft: false
 slug: dirt-track-to-durable-highway
 authors:
 - Salvador Guzman
+- ChatGPT
 categories:
 - civil-engineering
 - transportation
@@ -28,20 +29,16 @@ library_of_congress_classification:
   area: ''
   note: Highway engineering / road construction and pavements
 meta:
-  abstract: 'A practical, engineering-focused walkthrough of how an unpaved dirt or
-    gravel road is upgraded into a durable, high-speed highway. It explains the full
-    pipeline: subgrade investigation and stabilization, granular base and drainage
-    design, asphalt vs. concrete surface selection and mix design, construction quality
-    control, and long-term maintenance planning. The piece also connects modern best
-    practices to historical milestones (e.g., Macadam roads, early Autobahn design,
-    and the Interstate era) to show how proven lessons shaped today’s pavement engineering.
+  abstract: 'A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded into a durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization, granular base and drainage design, asphalt vs. concrete surface selection and mix design, construction quality control, and long-term maintenance planning. The piece also connects modern best practices to historical milestones (e.g., Macadam roads, early Autobahn design, and the Interstate era) to show how proven lessons shaped today’s pavement engineering.
 
     '
   creator:
   - Salvador Guzman
   dataset_id: gva.highways.dirttrack.v1
   report: {}
+ai_generated: true
 ---
+
 
 # From Dirt Track to Durable Highway
 

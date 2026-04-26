@@ -6,6 +6,7 @@ draft: false
 slug: maulerian-school-of-film-criticism
 authors:
 - Salvador Guzman
+- ChatGPT
 categories:
 - Media criticism
 - Film theory
@@ -23,17 +24,14 @@ library_of_congress_classification:
   area: ''
   note: ''
 meta:
-  abstract: This paper formulates an ad hoc "Maulerian School" of film criticism by
-    distilling the implicit framework behind YouTube critic MauLer's long-form reviews
-    (2016–present). It argues that internal narrative consistency and logical integrity
-    are treated as primary, evidence-checkable determinants of a work’s quality, and
-    it systematizes the school’s axioms, toolkit, and major objections using case
-    studies and comparative theory touchpoints.
+  abstract: This paper formulates an ad hoc "Maulerian School" of film criticism by distilling the implicit framework behind YouTube critic MauLer's long-form reviews (2016–present). It argues that internal narrative consistency and logical integrity are treated as primary, evidence-checkable determinants of a work’s quality, and it systematizes the school’s axioms, toolkit, and major objections using case studies and comparative theory touchpoints.
   creator:
   - Salvador Guzman
   dataset_id: ''
   report: {}
+ai_generated: true
 ---
+
 
 # Ad Hoc "Maulerian School of Film Criticism"
 

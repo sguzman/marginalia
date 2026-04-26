@@ -1,124 +1,109 @@
 ---
-title: "What Is an Inclusive Institution?"
-linkTitle: "What Is an Inclusive Institution?"
-description: >-
-  An essay arguing that institutional claims of inclusivity are not mere
-  branding: they entail an obligation to invite inquiry, align rhetoric with
-  mission and resources, and acknowledge the Realpolitik that makes idealistic
-  aims possible.
-summary: >-
-  An essay arguing that institutional claims of inclusivity are obligations,
-  not branding, and must match mission, capacity, and governance reality.
-slug: "what-is-an-inclusive-institution"
-url: ""
+title: What Is an Inclusive Institution?
+linkTitle: What Is an Inclusive Institution?
+description: 'An essay arguing that institutional claims of inclusivity are not mere branding: they entail an obligation to invite inquiry, align rhetoric with mission and resources, and acknowledge the Realpolitik that makes idealistic aims possible.'
+summary: An essay arguing that institutional claims of inclusivity are obligations, not branding, and must match mission, capacity, and governance reality.
+slug: what-is-an-inclusive-institution
+url: ''
 aliases: []
-date: "2023-02-04"
-publishDate: "2026-02-11"
-lastmod: "2026-04-20T15:45:00Z"
-expiryDate: ""
+date: '2023-02-04'
+publishDate: '2026-02-11'
+lastmod: '2026-04-20T15:45:00Z'
+expiryDate: ''
 draft: false
 authors:
-  - "Salvador Guzman"
-  - "ChatGPT"
+- Salvador Guzman
 meta:
-  abstract: >-
-    This essay interrogates the concept of "inclusivity" as it is deployed in
-    modern educational institutions. The author argues that for a school to
-    claim inclusivity, it must move beyond progressive branding and dead
-    rhetoric toward an "invitation to inquiry." Drawing a distinction between
-    the lofty ideals of progressivism and the necessary constraints of
-    Realpolitik, the piece posits that an inclusive institution must align its
-    governance, mission, and resource allocation with its rhetorical claims. It
-    concludes with a call for administrative realism: tempering ambition to
-    match actual capacity, lest institutional truth be compromised by political
-    marketing.
-  creator: "Salvador Guzman"
-  dataset_id: "inclusive-institutions-2023"
-  identifier: "edu-2023-003"
-  language: "en-US"
+  abstract: 'This essay interrogates the concept of "inclusivity" as it is deployed in modern educational institutions. The author argues that for a school to claim inclusivity, it must move beyond progressive branding and dead rhetoric toward an "invitation to inquiry." Drawing a distinction between the lofty ideals of progressivism and the necessary constraints of Realpolitik, the piece posits that an inclusive institution must align its governance, mission, and resource allocation with its rhetorical claims. It concludes with a call for administrative realism: tempering ambition to match actual capacity, lest institutional truth be compromised by political marketing.'
+  creator: Salvador Guzman
+  dataset_id: inclusive-institutions-2023
+  identifier: edu-2023-003
+  language: en-US
   library_of_congress_classification:
-    primary: "LC1200"
-    area: "Education; Political Science"
-    note: "Critique of inclusive education and institutional governance."
-  license: "CC0-1.0"
-  publisher: "Marginalia"
+    primary: LC1200
+    area: Education; Political Science
+    note: Critique of inclusive education and institutional governance.
+  license: CC0-1.0
+  publisher: Marginalia
   report:
-    kind: "institutional-analysis-essay"
-    domain: "educational-philosophy"
-    topic: "inclusivity-and-governance"
-    scope: "theoretical-and-applied"
-    audience: "educators-and-administrators"
-  revision: "1.1.0"
-  rights: "© 2023 Salvador Guzman"
-  status: "final"
-  subject: "education"
+    kind: institutional-analysis-essay
+    domain: educational-philosophy
+    topic: inclusivity-and-governance
+    scope: theoretical-and-applied
+    audience: educators-and-administrators
+  revision: 1.1.0
+  rights: © 2023 Salvador Guzman
+  status: final
+  subject: education
   subjects:
-    - "education"
-    - "inclusivity"
-    - "progressivism"
-    - "institutional governance"
-    - "Realpolitik"
-    - "administrative ethics"
-  subtitle: "Rhetoric, Resources, and the Progressive Hegemon"
+  - education
+  - inclusivity
+  - progressivism
+  - institutional governance
+  - Realpolitik
+  - administrative ethics
+  subtitle: Rhetoric, Resources, and the Progressive Hegemon
   toc: true
-  type: "article"
-layout: "single"
+  type: article
+layout: single
 weight: 0
 categories:
-  - "education"
-  - "political philosophy"
-  - "institutional analysis"
-  - "rhetoric"
+- education
+- political philosophy
+- institutional analysis
+- rhetoric
 tags:
-  - "inclusive institution"
-  - "schools"
-  - "progressivism"
-  - "realism"
-  - "Realpolitik"
-  - "institutional governance"
-  - "mission statements"
-  - "organizational will"
-  - "public accountability"
-  - "political rhetoric"
+- inclusive institution
+- schools
+- progressivism
+- realism
+- Realpolitik
+- institutional governance
+- mission statements
+- organizational will
+- public accountability
+- political rhetoric
 keywords:
-  - "inclusive institution"
-  - "progressive tradition"
-  - "Realpolitik"
-  - "idealism vs realism"
-  - "institutional mission"
-  - "administrative capacity"
-  - "rhetoric and resources"
-  - "public analysis"
-  - "organizational clarity"
-  - "educational governance"
-  - "progressive hegemon"
-  - "dead rhetoric"
-  - "invitation to inquiry"
-  - "managerial function"
-  - "institutional truth"
-  - "resource allocation"
-  - "public accountability"
-  - "political marketing"
-  - "administrative realism"
-  - "pedagogical integrity"
-markup: "goldmark"
+- inclusive institution
+- progressive tradition
+- Realpolitik
+- idealism vs realism
+- institutional mission
+- administrative capacity
+- rhetoric and resources
+- public analysis
+- organizational clarity
+- educational governance
+- progressive hegemon
+- dead rhetoric
+- invitation to inquiry
+- managerial function
+- institutional truth
+- resource allocation
+- public accountability
+- political marketing
+- administrative realism
+- pedagogical integrity
+markup: goldmark
 outputs:
-  - "HTML"
-  - "RSS"
+- HTML
+- RSS
 headless: false
 isCJKLanguage: false
-translationKey: ""
+translationKey: ''
 resources: []
 build:
-  list: "always"
-  render: "always"
+  list: always
+  render: always
   publishResources: true
 cascade: {}
 sitemap:
-  changefreq: ""
+  changefreq: ''
   priority: -1
-  filename: "sitemap.xml"
+  filename: sitemap.xml
+ai_generated: false
 ---
+
 
 # What is an Inclusive Institution?
 

@@ -1,6 +1,6 @@
 ---
-title: nations-right-wing-critique
-linkTitle: nations-right-wing-critique
+title: Nations Right Wing Critique
+linkTitle: Nations Right Wing Critique
 description: >-
   - Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…
 summary: >-
@@ -73,11 +73,12 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: nations-right-wing-critique
+  title: Nations Right Wing Critique
   toc: false
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 - **Nations as Imposed Constructs:** Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country[\[1\]](https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)[\[2\]](https://williameasterly.files.wordpress.com/2010/08/59_easterly_alesina_matuszeski_artificialstates_prp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for local identities[\[2\]](https://williameasterly.files.wordpress.com/2010/08/59_easterly_alesina_matuszeski_artificialstates_prp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and)[\[1\]](https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities). In the Middle East, Sykes–Picot carved the Ottoman provinces into French and British zones, laying the groundwork for enduring sectarian conflict[\[3\]](https://quillette.com/2016/05/14/the-sykes-picot-agreement-and-the-making-of-the-modern-middle-east/#:~:text=Empire%E2%80%99s%20Arab%20provinces%20,the%20Arabian%20Peninsula)[\[4\]](https://quillette.com/2016/05/14/the-sykes-picot-agreement-and-the-making-of-the-modern-middle-east/#:~:text=The%20cause%20of%20many%20of,Picot%20Agreement). When Britain partitioned India in 1947, it uprooted 14+ million people and caused an unprecedented refugee crisis[\[5\]](https://www.neh.gov/article/story-1947-partition-told-people-who-were-there#:~:text=Few%20Americans%20know%20the%20story,bankrupted%20by%20World%20War%20II).

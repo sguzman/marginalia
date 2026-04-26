@@ -1,6 +1,6 @@
 ---
-title: yankee-white-supremacy
-linkTitle: yankee-white-supremacy
+title: Yankee White Supremacy
+linkTitle: Yankee White Supremacy
 description: >-
   We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
 summary: >-
@@ -73,11 +73,12 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: yankee-white-supremacy
+  title: Yankee White Supremacy
   toc: false
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 We define **Managerial Yankee White Supremacy** as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hierarchy as benevolent stewardship: using humanitarian rhetoric to justify control, denying agency to subordinated groups, and exempting themselves from critiques of racism. We test four hypotheses: (H1) use of altruistic rhetoric over racial language, (H2) condemnation of *others’* racism while self-exempt, (H3) portrayal of nonwhites as incapable without guidance, and (H4) centering the white actor’s virtue. Historical evidence from Reconstruction through the 21st century supports many elements of this pattern. For example, Reconstruction-era bureaucrats (with northern philanthropists) established schools for freedmen under the premise of *uplift*[\[1\]](https://nmaahc.si.edu/explore/stories/freedmens-bureau-new-beginnings-recently-freed#:~:text=The%20bureau%20lacked%20military%20and,once%20were%20denied%20that%20right). In 1898 President McKinley proclaimed a *“mission…of benevolent assimilation”* in the Philippines, promising Filipinos the “blessings of good and stable government” under U.S. rule[\[2\]](https://peacehistory-usfp.org/1898-1899/#:~:text=that%20%E2%80%9Cthe%20mission%20of%20the,5). After WWII, Truman’s 1949 **Point Four** program vowed to share American “technical knowledge” with “underdeveloped areas” to relieve suffering[\[3\]](https://www.trumanlibrary.gov/library/public-papers/19/inaugural-address#:~:text=Fourth%2C%20we%20must%20embark%20on,and%20growth%20of%20underdeveloped%20areas)[\[4\]](https://www.trumanlibrary.gov/library/public-papers/19/inaugural-address#:~:text=For%20the%20first%20time%20in,relieve%20suffering%20of%20these%20people). In each case the language stresses aid and progress, not racial domination, while effectively casting others as needing U.S. management. Contemporary critics (e.g. Teju Cole) note that such “white savior” interventions often *validate privilege* rather than deliver justice[\[5\]](https://www.theatlantic.com/international/archive/2012/03/the-white-savior-industrial-complex/254843/#:~:text=%3E%205,tejucole%29%20March%208%2C%202012).

@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -98,6 +99,7 @@ meta:
   toc-depth: 0
   toc-title: ''
   type: bibliography
+ai_generated: true
 ---
 
 **Taylor Lorenz** is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz's career from 2010 to the present, emphasizing contentious episodes that raise questions about journalistic norms such as **doxxing** (revealing personal identities), **participatory reporting** (when journalists become part of the story), and perceived ethical breaches. Key findings include:

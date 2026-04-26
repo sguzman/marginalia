@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -106,6 +107,7 @@ meta:
   toc-depth: 3
   toc-title: Contents
   type: article
+ai_generated: true
 ---
 
 *Abstract* -- This paper formulates an *ad hoc* "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is that **internal narrative consistency and logical integrity are the primary determinants of a film's objective quality**, distinct from subjective enjoyment. Long-form YouTube analyses are shown to contribute a rigorous, evidence-driven approach: MauLer's critiques emphasize *cause-and-effect coherence*, *character and canonical consistency*, and *scrupulous payoff/setup fulfillment* as foundational axioms. The Maulerian analytic toolkit combines detailed plot deconstruction with formal logic (if/then syllogisms and reductio ad absurdum arguments) to evaluate films against their own narrative promises. We situate this framework relative to classical film formalism and cognitive theory (e.g. Bordwell's focus on causality), New Critical tenets (e.g. bracketing authorial intent), and contemporary video essayist paradigms (contrasting, for instance, Patrick Willems' theme-first stance). Case studies of *Star Wars: The Last Jedi*, *Doctor Strange in the Multiverse of Madness*, and *Arcane* illustrate the Maulerian axioms in action, while a final evaluation addresses critiques (e.g. alleged overemphasis on plot logic or excessive review length) and outlines potential evolutions of the model. The Maulerian school, while emerging from online fan discourse, offers a novel formalist revival in popular criticism and sparks renewed debate on objectivity in art analysis.

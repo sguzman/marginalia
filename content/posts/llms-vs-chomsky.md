@@ -1,65 +1,59 @@
 ---
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Research
-  - Linguistics
-  - AI
+- Research
+- Linguistics
+- AI
 date: 2026-01-15
-description: "An analytical report on how large language models challenge the fundamental assumptions of Chomskyan linguistics, focusing on Universal Grammar and the Poverty of the Stimulus."
+description: An analytical report on how large language models challenge the fundamental assumptions of Chomskyan linguistics, focusing on Universal Grammar and the Poverty of the Stimulus.
 draft: false
-image: ""
+image: ''
 lastmod: 2026-01-15
 meta:
-  abstract: >-
-    Large Language Models (LLMs) have challenged fundamental pillars of Chomskyan
-    linguistics, such as Universal Grammar and the Poverty of the Stimulus, by
-    demonstrating that complex syntax can be induced from distributional
-    statistics alone. This report audits the empirical successes of models like
-    GPT-4 against classic generative assumptions, analyzes the methodological
-    divide between engineering-driven prediction and theory-driven explanation,
-    and reviews the combative scholarly reactions within the linguistics and AI
-    communities.
-  creator: "Salvador Guzman & ChatGPT"
-  dataset_id: "gva-article-llms-vs-chomsky-2026-01-15"
-  identifier: "gva:article:llms-vs-chomsky:2026-01-15"
-  language: "en-US"
+  abstract: Large Language Models (LLMs) have challenged fundamental pillars of Chomskyan linguistics, such as Universal Grammar and the Poverty of the Stimulus, by demonstrating that complex syntax can be induced from distributional statistics alone. This report audits the empirical successes of models like GPT-4 against classic generative assumptions, analyzes the methodological divide between engineering-driven prediction and theory-driven explanation, and reviews the combative scholarly reactions within the linguistics and AI communities.
+  creator: Salvador Guzman & ChatGPT
+  dataset_id: gva-article-llms-vs-chomsky-2026-01-15
+  identifier: gva:article:llms-vs-chomsky:2026-01-15
+  language: en-US
   library_of_congress_classification:
-    primary: "P37.5.D37"
-    area: "Linguistics"
-    note: "Psycholinguistics; language acquisition; role of data and statistics vs. innateness."
-  license: "CC0-1.0"
-  publisher: "Marginalia"
+    primary: P37.5.D37
+    area: Linguistics
+    note: Psycholinguistics; language acquisition; role of data and statistics vs. innateness.
+  license: CC0-1.0
+  publisher: Marginalia
   report:
-    kind: "analytical research report"
-    domain: "linguistics / AI"
-    topic: "LLMs vs. Chomskyan theory"
-    scope: "2018--2026 developments"
-    audience: "linguists & cognitive scientists"
-  revision: "1.0.0"
-  rights: "CC0-1.0 (Public Domain Dedication)"
-  status: "final"
-  subject: "linguistics"
+    kind: analytical research report
+    domain: linguistics / AI
+    topic: LLMs vs. Chomskyan theory
+    scope: 2018--2026 developments
+    audience: linguists & cognitive scientists
+  revision: 1.0.0
+  rights: CC0-1.0 (Public Domain Dedication)
+  status: final
+  subject: linguistics
   subjects:
-    - "linguistics"
-    - "artificial intelligence"
-    - "Noam Chomsky"
-    - "large language models"
-    - "universal grammar"
-    - "cognitive science"
-  subtitle: "Auditing Universal Grammar in the Age of Transformers"
+  - linguistics
+  - artificial intelligence
+  - Noam Chomsky
+  - large language models
+  - universal grammar
+  - cognitive science
+  subtitle: Auditing Universal Grammar in the Age of Transformers
   toc: true
-  type: "article"
+  type: article
 series: []
 tags:
-  - linguistics
-  - ai
-  - chomsky
-  - llm
-  - universal-grammar
-title: "How LLMs Challenge Chomskyan Assumptions"
+- linguistics
+- ai
+- chomsky
+- llm
+- universal-grammar
+title: How LLMs Challenge Chomskyan Assumptions
+ai_generated: true
 ---
+
 
 # How LLMs Challenge Chomskyan Assumptions: Analytical Report
 

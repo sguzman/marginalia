@@ -78,6 +78,7 @@ meta:
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.

@@ -17,6 +17,15 @@ POSTS_DIR = REPO_ROOT / "content" / "posts"
 DATA_DIR = REPO_ROOT / "data" / "ai"
 ARTICLES_YAML = DATA_DIR / "articles.yaml"
 
+PERSONAL_SLUGS: set[str] = {
+    "aggression-as-iteration-rate",
+    "the-tragedy-of-formalism",
+    "death-by-manager",
+    "what-is-in-a-book",
+    "what-is-an-inclusive-institution",
+    "truth-as-process",
+}
+
 
 class FoldedStr(str):
     pass
@@ -56,6 +65,11 @@ def read_h1_from_text(text: str) -> str | None:
         if line.startswith("# "):
             return line[2:].strip()
     return None
+
+
+def norm_key(s: str) -> str:
+    s = re.sub(r"\s+", " ", s).strip().lower()
+    return s
 
 
 def first_paragraph(md_text: str) -> str | None:
@@ -119,6 +133,29 @@ def strip_leading_h1(md_text: str) -> str:
     return out if out.endswith("\n") else out + "\n"
 
 
+def ensure_h1(md_text: str, title: str) -> str:
+    lines = md_text.lstrip("\ufeff").splitlines()
+    if not lines:
+        return f"# {title}\n"
+
+    if lines[0].startswith("# "):
+        return md_text if md_text.endswith("\n") else md_text + "\n"
+
+    out = f"# {title}\n\n" + md_text.lstrip("\n")
+    return out if out.endswith("\n") else out + "\n"
+
+
+def replace_first_h1(md_text: str, title: str) -> str:
+    lines = md_text.lstrip("\ufeff").splitlines()
+    if not lines:
+        return f"# {title}\n"
+    if not lines[0].startswith("# "):
+        return ensure_h1(md_text, title)
+    lines[0] = "# " + title
+    out = "\n".join(lines)
+    return out if out.endswith("\n") else out + "\n"
+
+
 def normalize_title(title: str) -> str:
     title = title.strip()
     title = title.replace("_", ": ")
@@ -134,6 +171,11 @@ def is_generic_title(title: str | None) -> bool:
     if not title:
         return True
     t = re.sub(r"\s+", " ", title).strip().lower()
+    # Titles that are basically a slug are not acceptable as final titles.
+    if "-" in t and " " not in t:
+        return True
+    if re.match(r"^\d+[a-z].*", t):
+        return True
     return t in {
         "executive summary",
         "executative summary",
@@ -148,6 +190,10 @@ def humanize_slug(slug: str) -> str:
     parts = [p for p in re.split(r"[-_]+", slug.strip()) if p]
     out: list[str] = []
     for p in parts:
+        # Drop leading numeric prefixes like "1inventing" -> "inventing"
+        p = re.sub(r"^\d+(?=[a-zA-Z])", "", p)
+        if not p:
+            continue
         if re.fullmatch(r"v\d+", p, flags=re.IGNORECASE):
             out.append(p.lower())
         elif p.lower() in {"us", "u", "s"}:
@@ -168,7 +214,9 @@ def title_from_source_docx(meta: dict[str, Any]) -> str | None:
     if not isinstance(src, str) or not src.strip() or src.strip() == "(standalone-md)":
         return None
     stem = Path(src.strip()).stem
-    return normalize_title(stem)
+    # Docx names often contain punctuation; slugify-ish then humanize for a clean title.
+    slug = re.sub(r"[^a-zA-Z0-9]+", "-", stem).strip("-").lower()
+    return humanize_slug(slug)
 
 
 def prefer_h1_title(meta_title: str | None, h1_title: str | None, fallback: str) -> str:
@@ -291,6 +339,21 @@ def fix_article_yaml(a: Article) -> bool:
     return changed
 
 
+def fix_article_main_md(a: Article) -> bool:
+    md_text = a.md_path.read_text(encoding="utf-8")
+    h1 = read_h1_from_text(md_text)
+    desired = a.title
+    if h1 and not is_generic_title(h1):
+        return False
+    if not desired or is_generic_title(desired):
+        return False
+    new_text = replace_first_h1(md_text, desired)
+    if new_text == md_text:
+        return False
+    a.md_path.write_text(new_text, encoding="utf-8")
+    return True
+
+
 def hugo_frontmatter_from_article(a: Article) -> dict[str, Any]:
     meta = dict(a.meta)
     meta.setdefault("abstract", a.abstract)
@@ -301,21 +364,11 @@ def hugo_frontmatter_from_article(a: Article) -> dict[str, Any]:
     meta.setdefault("language", meta.get("lang") or "en")
     meta.setdefault("identifier", a.slug)
 
-    authors = meta.get("author")
-    if isinstance(authors, str):
-        authors_list = [authors]
-    elif isinstance(authors, list):
-        authors_list = [str(x) for x in authors if str(x).strip()]
-    else:
-        authors_list = ["Salvador Guzman"]
-
-    # Heuristic: if pandoc conversion exists, include ChatGPT as co-author in the blog view.
-    conversion = (
-        meta.get("report", {}) if isinstance(meta.get("report"), dict) else {}
-    ).get("conversion")
-    if isinstance(conversion, dict) and conversion.get("source_docx") not in {None, "", "(standalone-md)"}:
-        if "ChatGPT" not in authors_list:
-            authors_list.append("ChatGPT")
+    # Authorship policy:
+    # - Personal posts: Salvador only.
+    # - Everything else: Salvador + ChatGPT.
+    is_personal = a.slug in PERSONAL_SLUGS
+    authors_list = ["Salvador Guzman"] + ([] if is_personal else ["ChatGPT"])
 
     categories = meta.get("categories") if isinstance(meta.get("categories"), list) else []
     tags = meta.get("tags") if isinstance(meta.get("tags"), list) else []
@@ -341,6 +394,7 @@ def hugo_frontmatter_from_article(a: Article) -> dict[str, Any]:
         "markup": "goldmark",
         "outputs": ["HTML", "RSS"],
         "meta": meta,
+        "ai_generated": (not is_personal),
     }
 
 
@@ -362,6 +416,10 @@ def write_post(a: Article, *, dry_run: bool) -> tuple[Path, bool]:
         return target_md, False
 
     POSTS_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Never overwrite personal posts with generated content.
+    if a.slug in PERSONAL_SLUGS:
+        return target_md, False
 
     if target_dir:
         target_dir.mkdir(parents=True, exist_ok=True)
@@ -443,6 +501,182 @@ def write_articles_yaml(articles: list[Article], *, dry_run: bool) -> bool:
     return False
 
 
+def iter_post_paths() -> list[Path]:
+    out: list[Path] = []
+    if not POSTS_DIR.exists():
+        return out
+    out.extend(sorted(POSTS_DIR.glob("*.md")))
+    for d in sorted([p for p in POSTS_DIR.iterdir() if p.is_dir()]):
+        idx = d / "index.md"
+        if idx.exists():
+            out.append(idx)
+    return out
+
+
+def load_post_frontmatter(path: Path) -> dict[str, Any] | None:
+    text = path.read_text(encoding="utf-8", errors="replace")
+    if not text.startswith("---"):
+        return None
+    parts = text.split("---", 2)
+    if len(parts) < 3:
+        return None
+    try:
+        data = yaml.safe_load(parts[1])
+        return data if isinstance(data, dict) else None
+    except Exception:
+        return None
+
+
+def post_slug_from_path(path: Path, fm: dict[str, Any]) -> str:
+    slug = fm.get("slug")
+    if isinstance(slug, str) and slug.strip():
+        return slug.strip()
+    if path.name == "index.md":
+        return path.parent.name
+    return path.stem
+
+
+def remove_post(path: Path) -> None:
+    # If it's a bundle index, remove the whole bundle folder; otherwise remove the leaf.
+    if path.name == "index.md":
+        folder = path.parent
+        for p in sorted(folder.rglob("*"), reverse=True):
+            if p.is_file():
+                p.unlink()
+            elif p.is_dir():
+                p.rmdir()
+        folder.rmdir()
+    else:
+        path.unlink()
+
+
+def dedupe_posts(*, preferred_slugs: set[str], dry_run: bool) -> tuple[int, int]:
+    """
+    Remove duplicates by slug and by (title,date). Prefer keeping anything whose slug is in preferred_slugs.
+    Returns (removed_by_slug, removed_by_title_date).
+    """
+    paths = iter_post_paths()
+    records: list[tuple[Path, dict[str, Any]]] = []
+    for p in paths:
+        fm = load_post_frontmatter(p)
+        if fm:
+            records.append((p, fm))
+
+    # 1) Dedupe by slug.
+    by_slug: dict[str, list[tuple[Path, dict[str, Any]]]] = {}
+    for p, fm in records:
+        slug = post_slug_from_path(p, fm)
+        by_slug.setdefault(slug, []).append((p, fm))
+
+    removed_slug = 0
+    for slug, group in by_slug.items():
+        if len(group) <= 1:
+            continue
+        # Keep preferred slug path if possible, else keep shortest path string (stable).
+        keep = None
+        if slug in preferred_slugs:
+            # If multiple, prefer bundle index (assets) over leaf.
+            bundle = [g for g in group if g[0].name == "index.md"]
+            keep = (bundle[0] if bundle else group[0])
+        else:
+            keep = sorted(group, key=lambda x: str(x[0]))[0]
+        for p, _ in group:
+            if p == keep[0]:
+                continue
+            if not dry_run:
+                remove_post(p)
+            removed_slug += 1
+
+    # Refresh after deletions.
+    paths = iter_post_paths()
+    records = []
+    for p in paths:
+        fm = load_post_frontmatter(p)
+        if fm:
+            records.append((p, fm))
+
+    # 2) Dedupe by (title, date).
+    by_key: dict[tuple[str, str], list[tuple[Path, dict[str, Any]]]] = {}
+    for p, fm in records:
+        title = fm.get("title")
+        date = fm.get("date")
+        if not isinstance(title, str) or not title.strip():
+            continue
+        key = (norm_key(title), str(date or "").strip())
+        by_key.setdefault(key, []).append((p, fm))
+
+    removed_td = 0
+    for key, group in by_key.items():
+        if len(group) <= 1:
+            continue
+        # Prefer keeping a post whose slug is a preferred slug.
+        def score(item: tuple[Path, dict[str, Any]]) -> tuple[int, int, str]:
+            p, fm = item
+            slug = post_slug_from_path(p, fm)
+            prefer = 1 if slug in preferred_slugs else 0
+            is_bundle = 1 if p.name == "index.md" else 0
+            return (prefer, is_bundle, str(p))
+
+        keep = sorted(group, key=score, reverse=True)[0]
+        for p, _ in group:
+            if p == keep[0]:
+                continue
+            if not dry_run:
+                remove_post(p)
+            removed_td += 1
+
+    return removed_slug, removed_td
+
+
+def fix_posts_authorship(*, dry_run: bool) -> int:
+    """
+    Enforce authorship policy across *all* posts under content/posts:
+    - personal slugs: authors=[Salvador Guzman], ai_generated=false
+    - everything else: authors=[Salvador Guzman, ChatGPT], ai_generated=true
+    Returns number of changed posts.
+    """
+    changed = 0
+    for path in iter_post_paths():
+        text = path.read_text(encoding="utf-8", errors="replace")
+        if not text.startswith("---"):
+            continue
+        parts = text.split("---", 2)
+        if len(parts) < 3:
+            continue
+        fm_txt, body = parts[1], parts[2]
+        try:
+            fm = yaml.safe_load(fm_txt) or {}
+        except Exception:
+            continue
+        if not isinstance(fm, dict):
+            continue
+
+        slug = post_slug_from_path(path, fm)
+        is_personal = slug in PERSONAL_SLUGS
+        desired_authors = ["Salvador Guzman"] + ([] if is_personal else ["ChatGPT"])
+
+        authors = fm.get("authors")
+        if isinstance(authors, str):
+            current = [authors]
+        elif isinstance(authors, list):
+            current = [str(a) for a in authors]
+        else:
+            current = []
+
+        new_fm = dict(fm)
+        if current != desired_authors:
+            new_fm["authors"] = desired_authors
+        new_fm["ai_generated"] = (not is_personal)
+
+        if new_fm != fm:
+            changed += 1
+            if not dry_run:
+                out = "---\n" + dump_yaml(new_fm) + "---\n" + body
+                path.write_text(out, encoding="utf-8")
+
+    return changed
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(
         prog="ai_reports_publish.py",
@@ -457,8 +691,10 @@ def main() -> None:
         die(f"no articles found under {MD_ROOT}")
 
     fixed_meta = 0
+    fixed_md = 0
     for a in articles:
         fixed_meta += 1 if fix_article_yaml(a) else 0
+        fixed_md += 1 if fix_article_main_md(a) else 0
 
     articles = collect_articles()  # reload after fixes
     wrote_articles = write_articles_yaml(articles, dry_run=args.dry_run)
@@ -469,13 +705,27 @@ def main() -> None:
             _, changed = write_post(a, dry_run=args.dry_run)
             wrote_posts += 1 if changed else 0
 
+        # Remove accidental duplicates created by older/manual slugs.
+        preferred = {a.slug for a in articles}
+        removed_by_slug, removed_by_title_date = dedupe_posts(
+            preferred_slugs=preferred, dry_run=args.dry_run
+        )
+        fixed_authorship_posts = fix_posts_authorship(dry_run=args.dry_run)
+    else:
+        removed_by_slug, removed_by_title_date = (0, 0)
+        fixed_authorship_posts = 0
+
     print(
         "\n".join(
             [
                 f"articles={len(articles)}",
                 f"fixed_article_yaml={fixed_meta}",
+                f"fixed_main_md_titles={fixed_md}",
                 f"wrote_articles_yaml={int(wrote_articles)}",
                 f"wrote_posts={wrote_posts}",
+                f"removed_dupe_posts_by_slug={removed_by_slug}",
+                f"removed_dupe_posts_by_title_date={removed_by_title_date}",
+                f"fixed_posts_authorship={fixed_authorship_posts}",
             ]
         )
     )

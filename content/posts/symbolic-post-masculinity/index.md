@@ -1,6 +1,6 @@
 ---
-title: symbolic-post-masculinity
-linkTitle: symbolic-post-masculinity
+title: Symbolic Post Masculinity
+linkTitle: Symbolic Post Masculinity
 description: >-
   As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, phys…
 summary: >-
@@ -73,11 +73,12 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: symbolic-post-masculinity
+  title: Symbolic Post Masculinity
   toc: false
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, **masculinity’s material basis has eroded**. Yet many men still crave the status and identity once conferred by breadwinning, physical strength, and patriarchal authority. The result is a **contradiction**: masculinity is both felt as an essential part of self-worth and increasingly **deselected** by modern institutions. In practice this leads men to express masculinity more as **theater than function**. Traditional provider or protector roles no longer guarantee prestige, so men resort to **symbolic performance** – projecting manhood through style, spectacle, and affect. In other words, masculinity becomes “cargo-cult”: imitating the *look* of old masculine power (e.g. muscularity, aggression, stoicism, hyperrhetoric) even when the material grounds for it have weakened.

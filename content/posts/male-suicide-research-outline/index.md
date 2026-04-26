@@ -78,6 +78,7 @@ meta:
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" />  

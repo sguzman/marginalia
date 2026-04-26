@@ -13,6 +13,7 @@ lastmod: '2026-04-26'
 draft: false
 authors:
 - Salvador Guzman
+- ChatGPT
 layout: single
 weight: 0
 categories: &id001
@@ -125,6 +126,7 @@ meta:
   toc-depth: 3
   toc-title: Contents
   type: article
+ai_generated: true
 ---
 
 Under federal law, cannabis (marijuana) remains a **Schedule I** controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate[\[1\]](https://www.dea.gov/sites/default/files/2020-06/Marijuana-Cannabis-2020_0.pdf#:~:text=What%20is%20its%20legal%20status,Food%20and%20Drug). Although DOJ proposed re-scheduling marijuana from I to III (as of May 2024)[\[2\]](https://www.federalregister.gov/documents/2024/05/21/2024-11137/schedules-of-controlled-substances-rescheduling-of-marijuana#:~:text=SUMMARY%3A), no change is in effect, so cultivation is **still prohibited** by the Controlled Substances Act. Consequently, licensed growers face federal enforcement risk: in theory DEA or DOJ could raid or prosecute operations that violate federal law (most enforcement today targets large unlicensed grows and traffickers[\[3\]](https://www.dea.gov/press-releases/2025/05/15/dea-releases-2025-national-drug-threat-assessment#:~:text=,30)).

@@ -6,6 +6,7 @@ draft: false
 slug: worldwide-computer-chip-industry
 authors:
 - Salvador Guzman
+- ChatGPT
 categories:
 - Technology
 - Semiconductors
@@ -32,13 +33,7 @@ library_of_congress_classification:
   area: ''
   note: Unclassified; set if you want LoC/LC call numbers.
 meta:
-  abstract: 'A plain-language, end-to-end field guide to the global semiconductor
-    (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs,
-    AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA
-    tools, reusable IP), and the manufacturing flow (fabs, lithography, nodes, yield
-    economics). Explains packaging and test, industry structure (fabless vs foundry
-    vs IDM), market segmentation, pricing and cyclicality, current supply-chain bottlenecks
-    for AI-era chips, and the geopolitics and policy environment shaping the industry.
+  abstract: 'A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA tools, reusable IP), and the manufacturing flow (fabs, lithography, nodes, yield economics). Explains packaging and test, industry structure (fabless vs foundry vs IDM), market segmentation, pricing and cyclicality, current supply-chain bottlenecks for AI-era chips, and the geopolitics and policy environment shaping the industry.
 
     '
   creator:
@@ -50,7 +45,9 @@ meta:
     domain: semiconductor industry
     scope: global
     version: '1.0'
+ai_generated: true
 ---
+
 
 # The Worldwide Computer Chip Industry
 

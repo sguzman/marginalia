@@ -1,6 +1,6 @@
 ---
-title: in-house-vertical-farms
-linkTitle: in-house-vertical-farms
+title: In House Vertical Farms
+linkTitle: In House Vertical Farms
 description: >-
   The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
 summary: >-
@@ -73,11 +73,12 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: in-house-vertical-farms
+  title: In House Vertical Farms
   toc: false
   toc-depth: 0
   toc-title: ''
   type: ''
+ai_generated: true
 ---
 
 The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round[\[1\]](https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)[\[2\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). It is funded by ~\$59.5 M in project financing (USDA, state, C-PACE, ARPA, etc.) as part of an \$88 M total construction budget[\[3\]](https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)[\[4\]](https://www.famemaine.com/fame_news/fame-approves-financing-for-vertical-harvest-l3c/#:~:text=FAME%20approved%20a%20%24500%2C000%20FAME,the%20broader%20New%20England%20market). At full capacity the farm aims for ~2.0–2.5 million lbs of produce per year (lettuce, microgreens, petite greens, herbs)[\[3\]](https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)[\[5\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=Vertical%20Harvest%20Farms%20says%20the,petite%20greens%2C%20microgreens%20and%20herbs). For context, AeroFarms’ 69,000 ft² Newark, NJ farm produces ~2 M lbs/yr[\[6\]](https://www.aerofarms.com/worlds-largest-vertical-farm/#:~:text=Stacks%20of%20these%20lettuce,Marc%20Oshima%20tells%20Tech%20Insider), and GoodLeaf’s planned 200,000 ft² expansion targets ~2 M lbs[\[7\]](https://www.indoorverticalfarm.com/p/plenty-opens-its-latest-facility#:~:text=The%20company%20plans%20to%20open,Canada%2C%20making%20it%20the%20only); larger “3D” designs (e.g. Plenty’s Compton, CA farm) may yield ~4–5 M lbs/yr[\[8\]](https://www.indoorverticalfarm.com/p/plenty-opens-its-latest-facility#:~:text=In%20a%20significant%20advancement%20for,a%20traditional%20farm%20per%20acre). This report analyzes the Westbrook project in depth: scope and comparables; financial pro-forma (CAPEX ~\$88 M, OPEX drivers, multi-year P&L/CF/BS and break-even); market economics (pricing, channels, unit costs); agronomy (yields, schedules, inputs, handling); engineering (structural, MEP, controls); automation (process flows, tech maturity); operations/staffing; sustainability (energy, water, waste); risks/regulations; and detailed appendices (SOPs, BOM, vendors, timeline).

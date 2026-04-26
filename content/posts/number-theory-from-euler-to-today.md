@@ -1,14 +1,8 @@
 ---
 title: Number Theory from Euler to Today
 linkTitle: Number Theory from Euler to Today
-description: A research-report style history of number theory from Euler to the present, tracing the interplay
-  of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic
-  reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness”
-  perspectives.
-summary: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs
-  through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric,
-  probabilistic, and computational methods, with a focus on Europe and the United States and on major
-  landmark results and milestones.
+description: A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness” perspectives.
+summary: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric, probabilistic, and computational methods, with a focus on Europe and the United States and on major landmark results and milestones.
 slug: number-theory-from-euler-to-today
 url: ''
 aliases: []
@@ -62,10 +56,7 @@ outputs:
 - HTML
 - RSS
 meta:
-  abstract: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs
-    through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric,
-    probabilistic, and computational methods, with a focus on Europe and the United States and on major
-    landmark results and milestones.
+  abstract: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric, probabilistic, and computational methods, with a focus on Europe and the United States and on major landmark results and milestones.
   cover-image: cover.png
   cover_image: cover.png
   creator:
@@ -119,7 +110,9 @@ meta:
   report_series_title: Research Reports
   report_series_number: 0
 series: []
+ai_generated: true
 ---
+
 
 ## Executive Overview
 
