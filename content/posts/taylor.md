@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: Taylor
+linkTitle: Taylor
 description: >-
   Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
 summary: >-
@@ -93,7 +93,7 @@ meta:
   - Internet culture
   subtitle: Sources on controversy, ethics, and internet-era reporting
   tags: *id003
-  title: Executive Summary
+  title: Taylor
   toc: false
   toc-depth: 0
   toc-title: ''

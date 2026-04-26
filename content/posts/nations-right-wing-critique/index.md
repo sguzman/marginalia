@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: nations-right-wing-critique
+linkTitle: nations-right-wing-critique
 description: >-
   - Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…
 summary: >-
@@ -73,7 +73,7 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: Executive Summary
+  title: nations-right-wing-critique
   toc: false
   toc-depth: 0
   toc-title: ''

@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: tyler-and-jews
+linkTitle: tyler-and-jews
 description: >-
   Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
 summary: >-
@@ -73,7 +73,7 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: Executive Summary
+  title: tyler-and-jews
   toc: false
   toc-depth: 0
   toc-title: ''

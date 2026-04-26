@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: liberal-gothic-quick-facts
+linkTitle: liberal-gothic-quick-facts
 description: >-
   - Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure where…
 summary: >-
@@ -73,7 +73,7 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: Executive Summary
+  title: liberal-gothic-quick-facts
   toc: false
   toc-depth: 0
   toc-title: ''

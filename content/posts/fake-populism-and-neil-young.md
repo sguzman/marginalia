@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: fake-populism-and-neil-young
+linkTitle: fake-populism-and-neil-young
 description: >-
   Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
 summary: >-
@@ -73,7 +73,7 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: Executive Summary
+  title: fake-populism-and-neil-young
   toc: false
   toc-depth: 0
   toc-title: ''

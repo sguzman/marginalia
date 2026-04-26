@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: united-states-of-empire
+linkTitle: united-states-of-empire
 description: >-
   The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
 summary: >-
@@ -73,7 +73,7 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: Executive Summary
+  title: united-states-of-empire
   toc: false
   toc-depth: 0
   toc-title: ''

@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: 1inventing Socialism
+linkTitle: 1inventing Socialism
 description: >-
   Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen's co-op…
 summary: >-
@@ -102,7 +102,7 @@ meta:
   - Utopian movements
   subtitle: How a Name Emerged in Britain and France (1820-1840)
   tags: *id003
-  title: Executive Summary
+  title: 1inventing Socialism
   toc: true
   toc-depth: 3
   toc-title: Table of Contents

@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: heaviside
+linkTitle: heaviside
 description: >-
   Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
 summary: >-
@@ -73,7 +73,7 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: Executive Summary
+  title: heaviside
   toc: false
   toc-depth: 0
   toc-title: ''

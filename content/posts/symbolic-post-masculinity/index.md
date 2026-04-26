@@ -1,6 +1,6 @@
 ---
-title: Executive Summary
-linkTitle: Executive Summary
+title: symbolic-post-masculinity
+linkTitle: symbolic-post-masculinity
 description: >-
   As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, phys…
 summary: >-
@@ -73,7 +73,7 @@ meta:
   subjects: []
   subtitle: ''
   tags: *id003
-  title: Executive Summary
+  title: symbolic-post-masculinity
   toc: false
   toc-depth: 0
   toc-title: ''

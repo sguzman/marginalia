@@ -130,10 +130,58 @@ def normalize_title(title: str) -> str:
     return title
 
 
+def is_generic_title(title: str | None) -> bool:
+    if not title:
+        return True
+    t = re.sub(r"\s+", " ", title).strip().lower()
+    return t in {
+        "executive summary",
+        "executative summary",
+        "summary",
+        "abstract",
+        "introduction",
+    }
+
+
+def humanize_slug(slug: str) -> str:
+    # Keep small tokens like v2/v3 as-is; title-case normal words.
+    parts = [p for p in re.split(r"[-_]+", slug.strip()) if p]
+    out: list[str] = []
+    for p in parts:
+        if re.fullmatch(r"v\d+", p, flags=re.IGNORECASE):
+            out.append(p.lower())
+        elif p.lower() in {"us", "u", "s"}:
+            out.append(p.upper())
+        else:
+            out.append(p[:1].upper() + p[1:])
+    return " ".join(out) if out else "Untitled"
+
+
+def title_from_source_docx(meta: dict[str, Any]) -> str | None:
+    report = meta.get("report")
+    if not isinstance(report, dict):
+        return None
+    conv = report.get("conversion")
+    if not isinstance(conv, dict):
+        return None
+    src = conv.get("source_docx")
+    if not isinstance(src, str) or not src.strip() or src.strip() == "(standalone-md)":
+        return None
+    stem = Path(src.strip()).stem
+    return normalize_title(stem)
+
+
 def prefer_h1_title(meta_title: str | None, h1_title: str | None, fallback: str) -> str:
-    title = (h1_title or meta_title or fallback).strip()
-    title = normalize_title(title)
-    return title or fallback
+    candidates = [h1_title, meta_title, fallback]
+    for c in candidates:
+        if not c:
+            continue
+        c = normalize_title(str(c).strip())
+        if c and not is_generic_title(c):
+            return c
+    # If everything is generic, keep fallback but normalized.
+    fb = normalize_title(fallback.strip() or "Untitled")
+    return fb or "Untitled"
 
 
 def assets_file_count(folder: Path) -> int:
@@ -158,11 +206,16 @@ class Article:
 
     @property
     def title(self) -> str:
-        return prefer_h1_title(
-            str(self.meta.get("title")) if self.meta.get("title") else None,
-            self.h1,
-            self.slug.replace("-", " ").title(),
-        )
+        meta_title = str(self.meta.get("title")) if self.meta.get("title") else None
+        h1 = self.h1
+        fallback = humanize_slug(self.slug)
+        # If docx conversion exists, prefer its filename stem over generic titles.
+        src_title = title_from_source_docx(self.meta)
+        if src_title and not is_generic_title(src_title):
+            # Only use this if both meta+h1 are generic or empty.
+            if is_generic_title(meta_title) and is_generic_title(h1):
+                return src_title
+        return prefer_h1_title(meta_title, h1, fallback)
 
     @property
     def date(self) -> str:
