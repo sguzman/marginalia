@@ -4,3 +4,4 @@ public_test/
 resources/_gen
 tmp
 .DS_Store
+*.pyc

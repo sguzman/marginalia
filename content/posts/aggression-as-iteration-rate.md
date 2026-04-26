@@ -46,6 +46,7 @@ meta:
   subtitle: Behavior as a Mathematical Process
   toc: true
   type: article
+  lang: en
 layout: single
 weight: 0
 categories:

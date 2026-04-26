@@ -57,6 +57,7 @@ meta:
     - maintenance
     - materials
     - infrastructure-history
+  lang: en
 ai_generated: true
 ---
 

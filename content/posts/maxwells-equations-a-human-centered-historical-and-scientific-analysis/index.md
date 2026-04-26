@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: maxwells-equations-a-human-centered-historical-and-scientific-analysis
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,14 @@ meta:
   slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - maxwell
+    - equations
+    - human
+    - centered
+    - historical
+    - scientific
+    - analysis
   subtitle: ''
   tags: *id003
   title: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'

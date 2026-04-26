@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: marx-engels-manifesto-analysis
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: marx-engels-manifesto-analysis
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - marx
+    - engels
+    - manifesto
+    - analysis
   subtitle: ''
   tags: *id003
   title: Marx Engels Manifesto Analysis

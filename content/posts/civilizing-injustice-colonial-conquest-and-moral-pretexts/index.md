@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: civilizing-injustice-colonial-conquest-and-moral-pretexts
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,13 @@ meta:
   slug: civilizing-injustice-colonial-conquest-and-moral-pretexts
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - civilizing
+    - injustice
+    - colonial
+    - conquest
+    - moral
+    - pretexts
   subtitle: ''
   tags: *id003
   title: Civilizing Injustice? Colonial Conquest and Moral Pretexts

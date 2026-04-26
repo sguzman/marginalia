@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: electric-motor-design-principles-types-and-practices
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,13 @@ meta:
   slug: electric-motor-design-principles-types-and-practices
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - electric
+    - motor
+    - design
+    - principles
+    - types
+    - practices
   subtitle: ''
   tags: *id003
   title: 'Electric Motor Design: Principles, Types, and Practices'

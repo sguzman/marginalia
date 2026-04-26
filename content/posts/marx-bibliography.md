@@ -57,6 +57,7 @@ meta:
     - critical-theory
     - socialism
     - communism
+  lang: en
 ai_generated: true
 ---
 

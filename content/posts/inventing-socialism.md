@@ -34,6 +34,7 @@ meta:
     - 19th Century
     - Political Theory
   identifier: inventing-socialism
+  lang: en
 authors:
   - Salvador Guzman
   - ChatGPT

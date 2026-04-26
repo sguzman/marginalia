@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: united-states-of-empire
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,10 @@ meta:
   slug: united-states-of-empire
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - united
+    - states
+    - empire
   subtitle: ''
   tags: *id003
   title: United States Of Empire

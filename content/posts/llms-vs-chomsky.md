@@ -43,6 +43,7 @@ meta:
   subtitle: Auditing Universal Grammar in the Age of Transformers
   toc: true
   type: article
+  lang: en
 series: []
 tags:
   - linguistics

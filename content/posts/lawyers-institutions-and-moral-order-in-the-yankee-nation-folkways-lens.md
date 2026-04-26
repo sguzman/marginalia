@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,15 @@ meta:
   slug: lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - lawyers
+    - institutions
+    - moral
+    - order
+    - yankee
+    - nation
+    - folkways
+    - lens
   subtitle: ''
   tags: *id003
   title: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens

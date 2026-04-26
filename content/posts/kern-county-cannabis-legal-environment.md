@@ -58,6 +58,7 @@ meta:
     - 280e
     - banking
     - compliance
+  lang: en
 ai_generated: true
 ---
 

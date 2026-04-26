@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: critical-review-of-major-official-financial-crisis-inquiry-reports
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,15 @@ meta:
   slug: critical-review-of-major-official-financial-crisis-inquiry-reports
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - critical
+    - review
+    - major
+    - official
+    - financial
+    - crisis
+    - inquiry
+    - reports
   subtitle: ''
   tags: *id003
   title: Critical Review of Major Official Financial-Crisis Inquiry Reports

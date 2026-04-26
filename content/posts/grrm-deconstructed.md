@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: grrm-deconstructed
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,9 @@ meta:
   slug: grrm-deconstructed
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - grrm
+    - deconstructed
   subtitle: ''
   tags: *id003
   title: Grrm Deconstructed

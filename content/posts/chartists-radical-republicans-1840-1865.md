@@ -48,6 +48,7 @@ meta:
     - british-history
     - us-history
   identifier: chartists-radical-republicans-1840-1865
+  lang: en
 authors:
   - Salvador Guzman
   - ChatGPT

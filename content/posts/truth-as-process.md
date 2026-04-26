@@ -45,6 +45,7 @@ meta:
   subtitle: Reimagining the Halting Problem through Topological Parity
   toc: true
   type: article
+  lang: en
 layout: single
 weight: 0
 categories:

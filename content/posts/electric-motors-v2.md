@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: electric-motors-v2
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,9 @@ meta:
   slug: electric-motors-v2
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - electric
+    - motors
   subtitle: ''
   tags: *id003
   title: Electric Motors v2

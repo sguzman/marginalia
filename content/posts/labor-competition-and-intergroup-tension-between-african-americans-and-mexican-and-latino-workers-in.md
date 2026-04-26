@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,19 @@ meta:
   slug: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - labor
+    - competition
+    - intergroup
+    - tension
+    - between
+    - african
+    - americans
+    - mexican
+    - latino
+    - workers
+    - labor
+    - markets
   subtitle: ''
   tags: *id003
   title: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets

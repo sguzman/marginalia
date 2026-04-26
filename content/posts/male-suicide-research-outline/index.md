@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: male-suicide-research-outline
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: male-suicide-research-outline
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - male
+    - suicide
+    - research
+    - outline
   subtitle: ''
   tags: *id003
   title: Male Suicide Research Outline

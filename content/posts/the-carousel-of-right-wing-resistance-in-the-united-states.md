@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: the-carousel-of-right-wing-resistance-in-the-united-states
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,13 @@ meta:
   slug: the-carousel-of-right-wing-resistance-in-the-united-states
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - carousel
+    - right
+    - wing
+    - resistance
+    - united
+    - states
   subtitle: ''
   tags: *id003
   title: The Carousel of Right-Wing Resistance in the United States

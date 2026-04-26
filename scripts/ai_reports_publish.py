@@ -26,6 +26,11 @@ PERSONAL_SLUGS: set[str] = {
     "truth-as-process",
 }
 
+IGNORED_SLUGS: set[str] = {
+    # Duplicate/erroneous import; keep `federal-legal-landscape` and `kern-county-cannabis-legal-environment` instead.
+    "kern-weed",
+}
+
 
 class FoldedStr(str):
     pass
@@ -421,6 +426,8 @@ def collect_articles() -> list[Article]:
 
     articles: list[Article] = []
     for folder in sorted([p for p in MD_ROOT.iterdir() if p.is_dir()]):
+        if folder.name in IGNORED_SLUGS:
+            continue
         meta_path = folder / "article.yaml"
         md_path = folder / "main.md"
         if not meta_path.exists() or not md_path.exists():
@@ -795,6 +802,61 @@ def dedupe_posts(*, preferred_slugs: set[str], dry_run: bool) -> tuple[int, int]
     return removed_slug, removed_td
 
 
+def dedupe_posts_by_title_only(*, preferred_slugs: set[str], dry_run: bool) -> int:
+    """
+    Remove duplicates that share the same normalized title, regardless of date.
+    Intended to catch a few lingering duplicates where dates differ.
+    Prefer keeping preferred_slugs; otherwise keep the oldest date (stable).
+    """
+    paths = iter_post_paths()
+    records: list[tuple[Path, dict[str, Any]]] = []
+    for p in paths:
+        fm = load_post_frontmatter(p)
+        if fm:
+            records.append((p, fm))
+
+    def norm_title_only(s: str) -> str:
+        s = strip_markdown(s).lower()
+        s = re.sub(r"[^a-z0-9]+", " ", s)
+        s = re.sub(r"\s+", " ", s).strip()
+        return s
+
+    by_title: dict[str, list[tuple[Path, dict[str, Any]]]] = {}
+    for p, fm in records:
+        title = fm.get("title")
+        if not isinstance(title, str) or not title.strip():
+            continue
+        by_title.setdefault(norm_title_only(title), []).append((p, fm))
+
+    removed = 0
+    for _, group in by_title.items():
+        if len(group) <= 1:
+            continue
+
+        def score(item: tuple[Path, dict[str, Any]]) -> tuple[int, str, int, str]:
+            p, fm = item
+            slug = post_slug_from_path(p, fm)
+            prefer = 1 if slug in preferred_slugs else 0
+            date = str(fm.get("date") or "")
+            # older first
+            return (prefer, date, 1 if p.name == "index.md" else 0, str(p))
+
+        keep = sorted(group, key=score, reverse=True)[0]
+        for p, _ in group:
+            if p == keep[0]:
+                continue
+            # Never delete preferred slugs in this phase.
+            fm = load_post_frontmatter(p) or {}
+            slug = post_slug_from_path(p, fm) if fm else (p.parent.name if p.name == "index.md" else p.stem)
+            if slug in preferred_slugs:
+                continue
+            if not dry_run:
+                remove_post(p)
+            removed += 1
+
+    return removed
+
+
 def repair_invalid_posts(*, article_by_slug: dict[str, Article], dry_run: bool) -> int:
     """
     If a post has invalid YAML frontmatter, overwrite it from tmp source when available.
@@ -905,6 +967,7 @@ def ensure_rich_meta_for_post(frontmatter: dict[str, Any], body: str) -> dict[st
     fill("license", "CC0-1.0")
     fill("rights", "CC0-1.0")
     fill("language", "en")
+    fill("lang", "en")
     if slug:
         fill("identifier", slug)
     fill("status", "published")
@@ -916,9 +979,47 @@ def ensure_rich_meta_for_post(frontmatter: dict[str, Any], body: str) -> dict[st
     tags = list(fm.get("tags")) if isinstance(fm.get("tags"), list) else []
     subjects = list(meta.get("subjects")) if isinstance(meta.get("subjects"), list) else []
     if not subjects:
-        subjects = [str(x) for x in (categories + tags) if str(x).strip()][:24]
-    if subjects:
-        meta["subjects"] = subjects
+        # Prefer existing meta.subject (singular) if present.
+        subj_singular = meta.get("subject")
+        if isinstance(subj_singular, list):
+            subjects = [str(x) for x in subj_singular if str(x).strip()]
+        elif isinstance(subj_singular, str) and subj_singular.strip():
+            subjects = [subj_singular.strip()]
+
+    if not subjects:
+        subjects = [str(x) for x in (categories + tags) if str(x).strip()]
+
+    if not subjects:
+        keywords = fm.get("keywords") if isinstance(fm.get("keywords"), list) else []
+        subjects = [str(x) for x in keywords if str(x).strip()][:24]
+
+    if not subjects and title:
+        stop = {
+            "the",
+            "and",
+            "or",
+            "of",
+            "in",
+            "to",
+            "a",
+            "an",
+            "as",
+            "for",
+            "on",
+            "with",
+            "from",
+            "vs",
+            "by",
+        }
+        tokens = [
+            t
+            for t in re.split(r"[^a-z0-9]+", title.lower())
+            if len(t) >= 4 and t not in stop
+        ]
+        subjects = tokens[:12]
+
+    # Always set subjects (even empty) so metadata is consistent.
+    meta["subjects"] = subjects[:24]
 
     fm["meta"] = meta
     # Keep cleaned title in frontmatter.
@@ -1003,6 +1104,9 @@ def main() -> None:
         removed_by_slug, removed_by_title_date = dedupe_posts(
             preferred_slugs=preferred, dry_run=args.dry_run
         )
+        removed_by_title_only = dedupe_posts_by_title_only(
+            preferred_slugs=preferred, dry_run=args.dry_run
+        )
         fixed_authorship_posts = fix_posts_authorship(dry_run=args.dry_run)
         fixed_posts_cleanup = fix_posts_content_and_metadata(dry_run=args.dry_run)
         repaired_invalid_posts = repair_invalid_posts(
@@ -1013,6 +1117,7 @@ def main() -> None:
         fixed_authorship_posts = 0
         fixed_posts_cleanup = 0
         repaired_invalid_posts = 0
+        removed_by_title_only = 0
 
     print(
         "\n".join(
@@ -1024,6 +1129,7 @@ def main() -> None:
                 f"wrote_posts={wrote_posts}",
                 f"removed_dupe_posts_by_slug={removed_by_slug}",
                 f"removed_dupe_posts_by_title_date={removed_by_title_date}",
+                f"removed_dupe_posts_by_title_only={removed_by_title_only}",
                 f"fixed_posts_authorship={fixed_authorship_posts}",
                 f"fixed_posts_cleanup={fixed_posts_cleanup}",
                 f"repaired_invalid_posts={repaired_invalid_posts}",

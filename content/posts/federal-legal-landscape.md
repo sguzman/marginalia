@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: federal-legal-landscape
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,10 @@ meta:
   slug: federal-legal-landscape
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - federal
+    - legal
+    - landscape
   subtitle: ''
   tags: *id003
   title: Federal Legal Landscape

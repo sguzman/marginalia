@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: fake-populism-and-neil-young
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: fake-populism-and-neil-young
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - fake
+    - populism
+    - neil
+    - young
   subtitle: ''
   tags: *id003
   title: Fake Populism And Neil Young

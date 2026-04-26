@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,13 @@ meta:
   slug: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - journalists
+    - state
+    - structural
+    - alignment
+    - incentives
+    - evidence
   subtitle: ''
   tags: *id003
   title: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'

@@ -70,6 +70,7 @@ meta:
     - supply-chain
     - export-controls
     - chips-act
+  lang: en
 ai_generated: true
 ---
 

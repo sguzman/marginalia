@@ -45,6 +45,7 @@ meta:
   subtitle: Ontology, Tuples, and the Algebra of Truth
   toc: true
   type: article
+  lang: en
 layout: single
 weight: 0
 categories:

@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: marxism-research-clarifications
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,10 @@ meta:
   slug: marxism-research-clarifications
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - marxism
+    - research
+    - clarifications
   subtitle: ''
   tags: *id003
   title: Marxism Research Clarifications

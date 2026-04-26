@@ -77,6 +77,7 @@ meta:
   subtitle: Inaugurating the Digital Scriptorium
   toc: true
   type: article
+  lang: en
 ai_generated: true
 ---
 

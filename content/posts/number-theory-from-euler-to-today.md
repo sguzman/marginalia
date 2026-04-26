@@ -109,6 +109,7 @@ meta:
   report_series: research-reports
   report_series_title: Research Reports
   report_series_number: 0
+  lang: en
 series: []
 ai_generated: true
 ---

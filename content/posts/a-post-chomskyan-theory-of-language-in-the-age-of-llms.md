@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: a-post-chomskyan-theory-of-language-in-the-age-of-llms
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,12 @@ meta:
   slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - post
+    - chomskyan
+    - theory
+    - language
+    - llms
   subtitle: ''
   tags: *id003
   title: A Post-Chomskyan Theory of Language in the Age of LLMs

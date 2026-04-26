@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: savonius-wind-turbines-comprehensive-design-diy-guide
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,13 @@ meta:
   slug: savonius-wind-turbines-comprehensive-design-diy-guide
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - savonius
+    - wind
+    - turbines
+    - comprehensive
+    - design
+    - guide
   subtitle: ''
   tags: *id003
   title: Savonius Wind Turbines – Comprehensive Design & DIY Guide

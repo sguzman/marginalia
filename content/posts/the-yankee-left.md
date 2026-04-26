@@ -31,6 +31,7 @@ meta:
     - Cultural Hegemony
     - Elite Theory
   identifier: the-yankee-left
+  lang: en
 authors:
   - Salvador Guzman
   - ChatGPT

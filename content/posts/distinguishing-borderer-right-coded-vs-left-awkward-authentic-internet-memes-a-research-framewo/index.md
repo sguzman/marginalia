@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,18 @@ meta:
   slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - distinguishing
+    - borderer
+    - right
+    - coded
+    - left
+    - awkward
+    - authentic
+    - internet
+    - memes
+    - research
+    - framework
   subtitle: ''
   tags: *id003
   title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'

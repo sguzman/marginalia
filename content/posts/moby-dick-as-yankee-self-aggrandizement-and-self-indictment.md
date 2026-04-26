@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: moby-dick-as-yankee-self-aggrandizement-and-self-indictment
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,14 @@ meta:
   slug: moby-dick-as-yankee-self-aggrandizement-and-self-indictment
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - moby
+    - dick
+    - yankee
+    - self
+    - aggrandizement
+    - self
+    - indictment
   subtitle: ''
   tags: *id003
   title: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment

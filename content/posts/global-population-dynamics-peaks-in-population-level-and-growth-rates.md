@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: global-population-dynamics-peaks-in-population-level-and-growth-rates
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,15 @@ meta:
   slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - global
+    - population
+    - dynamics
+    - peaks
+    - population
+    - level
+    - growth
+    - rates
   subtitle: ''
   tags: *id003
   title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'

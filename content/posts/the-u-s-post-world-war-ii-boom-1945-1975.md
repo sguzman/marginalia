@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: the-u-s-post-world-war-ii-boom-1945-1975
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,12 @@ meta:
   slug: the-u-s-post-world-war-ii-boom-1945-1975
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - post
+    - world
+    - boom
+    - '1945'
+    - '1975'
   subtitle: ''
   tags: *id003
   title: The U.S. Post–World War II Boom, 1945–1975

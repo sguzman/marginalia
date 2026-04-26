@@ -1,4 +1,4 @@
-generated: '2026-04-26T18:35:15.858713+00:00'
+generated: '2026-04-26T18:47:56.073613+00:00'
 articles:
   - slug: 1inventing-socialism
     title: Inventing Socialism
@@ -421,15 +421,6 @@ articles:
     source: docx
     md_path: tmp/ai-research-reports/data/md/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence/main.md
     meta_path: tmp/ai-research-reports/data/md/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence/article.yaml
-    assets_files: 0
-    published: true
-  - slug: kern-weed
-    title: Federal Legal Landscape
-    date: '2026-02-12'
-    description: Under federal law, cannabis (marijuana) remains a Schedule I controlled substance. The DEA confirms that marijuana has "no currently accepted medical use" and remains illegal to cultivate(https://www.dea.gov/sites/default/files/2020-06/Mar…
-    source: md
-    md_path: tmp/ai-research-reports/data/md/kern-weed/main.md
-    meta_path: tmp/ai-research-reports/data/md/kern-weed/article.yaml
     assets_files: 0
     published: true
   - slug: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in

@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: corporate-capital-and-progressive-cultural-politics
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,12 @@ meta:
   slug: corporate-capital-and-progressive-cultural-politics
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - corporate
+    - capital
+    - progressive
+    - cultural
+    - politics
   subtitle: ''
   tags: *id003
   title: Corporate Capital and Progressive Cultural Politics

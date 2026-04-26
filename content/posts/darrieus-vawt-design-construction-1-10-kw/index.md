@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: darrieus-vawt-design-construction-1-10-kw
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: darrieus-vawt-design-construction-1-10-kw
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - darrieus
+    - vawt
+    - design
+    - construction
   subtitle: ''
   tags: *id003
   title: Darrieus VAWT Design & Construction (1–10 kW)

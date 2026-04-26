@@ -48,6 +48,7 @@ meta:
   subtitle: Syntax as the Poetry of Computation
   toc: true
   type: article
+  lang: en
 layout: single
 weight: 0
 categories:

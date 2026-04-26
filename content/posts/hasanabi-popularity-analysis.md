@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: hasanabi-popularity-analysis
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,10 @@ meta:
   slug: hasanabi-popularity-analysis
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - hasanabi
+    - popularity
+    - analysis
   subtitle: ''
   tags: *id003
   title: HasanAbi Popularity Analysis

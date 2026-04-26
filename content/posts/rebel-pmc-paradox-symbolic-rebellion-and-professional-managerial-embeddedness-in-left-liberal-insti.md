@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,17 @@ meta:
   slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - rebel
+    - paradox
+    - symbolic
+    - rebellion
+    - professional
+    - managerial
+    - embeddedness
+    - left
+    - liberal
+    - institutions
   subtitle: ''
   tags: *id003
   title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'

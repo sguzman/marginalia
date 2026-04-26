@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: christian-socialism-report-request
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: christian-socialism-report-request
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - christian
+    - socialism
+    - report
+    - request
   subtitle: ''
   tags: *id003
   title: Christian Socialism Report Request

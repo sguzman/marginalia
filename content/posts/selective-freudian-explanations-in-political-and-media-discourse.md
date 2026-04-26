@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: selective-freudian-explanations-in-political-and-media-discourse
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,13 @@ meta:
   slug: selective-freudian-explanations-in-political-and-media-discourse
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - selective
+    - freudian
+    - explanations
+    - political
+    - media
+    - discourse
   subtitle: ''
   tags: *id003
   title: Selective Freudian Explanations in Political and Media Discourse

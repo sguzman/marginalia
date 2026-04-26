@@ -73,6 +73,7 @@ meta:
     - bds
     - social-media
     - u.s.-israel
+  lang: en
 ai_generated: true
 ---
 

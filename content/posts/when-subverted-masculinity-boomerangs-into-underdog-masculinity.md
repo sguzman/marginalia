@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: when-subverted-masculinity-boomerangs-into-underdog-masculinity
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,14 @@ meta:
   slug: when-subverted-masculinity-boomerangs-into-underdog-masculinity
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - when
+    - subverted
+    - masculinity
+    - boomerangs
+    - into
+    - underdog
+    - masculinity
   subtitle: ''
   tags: *id003
   title: When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”

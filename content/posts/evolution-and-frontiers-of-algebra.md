@@ -97,6 +97,7 @@ meta:
   subtitle: A Comprehensive Historical and Conceptual Analysis
   toc: true
   type: report
+  lang: en
 series: []
 ai_generated: true
 ---

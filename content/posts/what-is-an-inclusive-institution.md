@@ -45,6 +45,7 @@ meta:
   subtitle: Rhetoric, Resources, and the Progressive Hegemon
   toc: true
   type: article
+  lang: en
 layout: single
 weight: 0
 categories:

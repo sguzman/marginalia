@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: culture-gothic
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,9 @@ meta:
   slug: culture-gothic
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - aesthetics
+    - maimed
   subtitle: ''
   tags: *id003
   title: Aesthetics for the Maimed

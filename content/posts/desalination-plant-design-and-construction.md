@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: desalination-plant-design-and-construction
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: desalination-plant-design-and-construction
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - desalination
+    - plant
+    - design
+    - construction
   subtitle: ''
   tags: *id003
   title: Desalination Plant Design and Construction

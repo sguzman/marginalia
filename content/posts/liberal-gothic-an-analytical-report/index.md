@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: liberal-gothic-an-analytical-report
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: liberal-gothic-an-analytical-report
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - liberal
+    - gothic
+    - analytical
+    - report
   subtitle: ''
   tags: *id003
   title: 'Liberal Gothic: An Analytical Report'

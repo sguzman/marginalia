@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: symbolic-post-masculinity
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,10 @@ meta:
   slug: symbolic-post-masculinity
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - symbolic
+    - post
+    - masculinity
   subtitle: ''
   tags: *id003
   title: Symbolic Post Masculinity

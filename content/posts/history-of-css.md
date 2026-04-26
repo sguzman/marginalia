@@ -110,6 +110,7 @@ meta:
   report_series: Marginalia
   report_series_title: Marginalia
   report_series_number: 0
+  lang: en
 series: []
 ai_generated: true
 ---

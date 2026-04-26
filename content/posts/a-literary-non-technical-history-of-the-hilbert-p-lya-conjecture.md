@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,12 @@ meta:
   slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - literary
+    - technical
+    - history
+    - hilbert
+    - conjecture
   subtitle: ''
   tags: *id003
   title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture

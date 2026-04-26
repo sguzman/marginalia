@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: yankee-courts-and-legal-bias
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: yankee-courts-and-legal-bias
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - yankee
+    - courts
+    - legal
+    - bias
   subtitle: ''
   tags: *id003
   title: Yankee Courts And Legal Bias

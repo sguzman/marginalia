@@ -49,6 +49,7 @@ meta:
     - harassment
     - media
     - internet-culture
+  lang: en
 ai_generated: true
 ---
 

@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,12 @@ meta:
   slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - republican
+    - administrations
+    - enforcers
+    - imperial
+    - policy
   subtitle: ''
   tags: *id003
   title: Republican Administrations as the Enforcers of U.S. Imperial Policy

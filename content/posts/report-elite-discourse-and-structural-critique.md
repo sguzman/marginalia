@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: report-elite-discourse-and-structural-critique
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,12 @@ meta:
   slug: report-elite-discourse-and-structural-critique
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - report
+    - elite
+    - discourse
+    - structural
+    - critique
   subtitle: ''
   tags: *id003
   title: 'Report: Elite Discourse and Structural Critique'

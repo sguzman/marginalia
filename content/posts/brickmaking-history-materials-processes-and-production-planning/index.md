@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: brickmaking-history-materials-processes-and-production-planning
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,13 @@ meta:
   slug: brickmaking-history-materials-processes-and-production-planning
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - brickmaking
+    - history
+    - materials
+    - processes
+    - production
+    - planning
   subtitle: ''
   tags: *id003
   title: 'Brickmaking: History, Materials, Processes, and Production Planning'

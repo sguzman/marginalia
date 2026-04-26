@@ -77,6 +77,7 @@ meta:
   subtitle: Architecture for a Transparent Society
   toc: true
   type: article
+  lang: en
 ai_generated: true
 ---
 

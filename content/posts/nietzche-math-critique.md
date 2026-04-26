@@ -42,7 +42,7 @@ meta:
   format: markdown
   identifier: nietzche-math-critique
   keywords: *id002
-  lang: ''
+  lang: en
   language: en
   library_of_congress_classification: {}
   license: CC0-1.0
@@ -68,7 +68,11 @@ meta:
   slug: nietzche-math-critique
   status: published
   subject: []
-  subjects: []
+  subjects:
+    - dead
+    - symbols
+    - their
+    - worship
   subtitle: ''
   tags: *id003
   title: Dead Symbols and their Worship
