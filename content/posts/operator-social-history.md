@@ -117,10 +117,7 @@ meta:
     - "mathematical physics"
     - "scientific notation"
     - "engineering mathematics"
-  subtitle: "From Actions to Objects"
-  toc: true
-  type: "article"
-  subtitle: How actions became objects
+  subtitle: "How actions became objects"
   toc: true
   toc-depth: 3
   toc-title: Contents
