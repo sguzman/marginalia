@@ -1,17 +1,61 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Mathematics
+- Number theory
+- History of mathematics
+date: '2026-02-12'
+description: A research-report style history of number theory from Euler to the present,
+  tracing the interplay of algebra, analysis, geometry, probability, and computation,
+  and highlighting key results from quadratic reciprocity and Dirichlet’s theorem…
+draft: false
+keywords:
+- number theory
+- history of number theory
+- Euler
+- Gauss
+- Dirichlet
+- Riemann zeta function
+- prime number theorem
+- L-functions
+- quadratic reciprocity
+- algebraic number theory
+- class field theory
+- elliptic curves
+- Langlands program
+- probabilistic number theory
+- computational number theory
+- cryptography
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Number Theory from Euler to Today (Europe & the United St…
+markup: goldmark
+meta:
+  abstract: A research-report style history of number theory from Euler to the present,
+    tracing the interplay of algebra, analysis, geometry, probability, and computation,
+    and highlighting key results from quadratic reciprocity and Dirichlet’s theorem
+    through modern cryptography-adjacent and “structure vs randomness” perspectives.
+  categories:
   - Mathematics
   - Number theory
   - History of mathematics
-date: '2026-02-12'
-description: >-
-  A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: rr-number-theory-euler-to-today
+  date: '2026-02-12'
+  description: A research-report style history of number theory from Euler to the
+    present, tracing the interplay of algebra, analysis, geometry, probability, and
+    computation, and highlighting key results from quadratic reciprocity and Dirichlet’s
+    theorem…
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: true
+  format: markdown
+  identifier: gva:rr:number-theory-from-euler-to-today:2026-02-12
+  keywords:
   - number theory
   - history of number theory
   - Euler
@@ -28,47 +72,6 @@ keywords:
   - probabilistic number theory
   - computational number theory
   - cryptography
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Number Theory from Euler to Today (Europe & the United St…
-markup: goldmark
-meta:
-  abstract: A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness” perspectives.
-  categories:
-    - Mathematics
-    - Number theory
-    - History of mathematics
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: rr-number-theory-euler-to-today
-  date: '2026-02-12'
-  description: A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem…
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: true
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:rr:number-theory-from-euler-to-today:2026-02-12
-  keywords:
-    - number theory
-    - history of number theory
-    - Euler
-    - Gauss
-    - Dirichlet
-    - Riemann zeta function
-    - prime number theorem
-    - L-functions
-    - quadratic reciprocity
-    - algebraic number theory
-    - class field theory
-    - elliptic curves
-    - Langlands program
-    - probabilistic number theory
-    - computational number theory
-    - cryptography
   lang: en
   language: English
   library_of_congress_classification:
@@ -126,41 +129,15 @@ meta:
   slug: number-theory-from-euler
   status: published
   subject:
-    - Mathematics
-    - Number theory
-    - History of mathematics
+  - Mathematics
+  - Number theory
+  - History of mathematics
   subjects:
-    - Mathematics
-    - Number theory
-    - History of mathematics
+  - Mathematics
+  - Number theory
+  - History of mathematics
   subtitle: 'Europe & the United States: A Research Report'
   tags:
-    - euler
-    - gauss
-    - dirichlet
-    - riemann
-    - primes
-    - zeta-function
-    - l-functions
-    - reciprocity
-    - class-field-theory
-    - elliptic-curves
-    - langlands
-    - probability
-    - algorithms
-    - cryptography
-  title: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: number-theory-from-euler
-summary: >-
-  A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness” perspectives.
-tags:
   - euler
   - gauss
   - dirichlet
@@ -175,7 +152,37 @@ tags:
   - probability
   - algorithms
   - cryptography
-title: 'Number Theory from Euler to Today (Europe & the United States): A Research Report'
+  title: 'Number Theory from Euler to Today (Europe & the United States): A Research
+    Report'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: number-theory-from-euler
+summary: A research-report style history of number theory from Euler to the present,
+  tracing the interplay of algebra, analysis, geometry, probability, and computation,
+  and highlighting key results from quadratic reciprocity and Dirichlet’s theorem
+  through modern cryptography-adjacent and “structure vs randomness” perspectives.
+tags:
+- euler
+- gauss
+- dirichlet
+- riemann
+- primes
+- zeta-function
+- l-functions
+- reciprocity
+- class-field-theory
+- elliptic-curves
+- langlands
+- probability
+- algorithms
+- cryptography
+title: 'Number Theory from Euler to Today (Europe & the United States): A Research
+  Report'
 ---
 
 ## Executive Overview

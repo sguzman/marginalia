@@ -1,18 +1,64 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Mathematics
+- History of Mathematics
+- Philosophy of Mathematics
+- Semantics
+date: '2026-02-12'
+description: 'Abstract: This report traces the evolving meanings of "geometry" in
+  European and American mathematics from the era of Leonhard Euler (18th century)
+  to the present day. Over nearly three centuries, "geometry" has expanded from denoting
+  the…'
+draft: false
+keywords:
+- geometry
+- synthetic geometry
+- analytic geometry
+- projective geometry
+- non-Euclidean geometry
+- differential geometry
+- topology
+- algebraic geometry
+- transformation groups
+- geometric intuition
+- axiomatic method
+- geometric analysis
+- discrete geometry
+- computational geometry
+- history of mathematics
+- semantics
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The Semantics of "Geometry" from Euler to Today (Europe &…
+markup: goldmark
+meta:
+  abstract: A historical-semantic survey of what "geometry" has meant in mathematics
+    from Euler’s 18th-century contrast with analysis through modern differential,
+    topological, algebraic, and computational geometries, focusing on Europe and the
+    United States.
+  categories:
   - Mathematics
   - History of Mathematics
   - Philosophy of Mathematics
   - Semantics
-date: '2026-02-12'
-description: >-
-  Abstract: This report traces the evolving meanings of "geometry" in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-geometry-semantics-2026-02-12
+  date: '2026-02-12'
+  description: 'Abstract: This report traces the evolving meanings of "geometry" in
+    European and American mathematics from the era of Leonhard Euler (18th century)
+    to the present day. Over nearly three centuries, "geometry" has expanded from
+    denoting the…'
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: markdown
+  identifier: gva:geometry-semantics:euler-to-today
+  keywords:
   - geometry
   - synthetic geometry
   - analytic geometry
@@ -29,48 +75,6 @@ keywords:
   - computational geometry
   - history of mathematics
   - semantics
-lastmod: '2026-05-04'
-layout: single
-linkTitle: The Semantics of "Geometry" from Euler to Today (Europe &…
-markup: goldmark
-meta:
-  abstract: A historical-semantic survey of what "geometry" has meant in mathematics from Euler’s 18th-century contrast with analysis through modern differential, topological, algebraic, and computational geometries, focusing on Europe and the United States.
-  categories:
-    - Mathematics
-    - History of Mathematics
-    - Philosophy of Mathematics
-    - Semantics
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-geometry-semantics-2026-02-12
-  date: '2026-02-12'
-  description: 'Abstract: This report traces the evolving meanings of "geometry" in European and American mathematics from the era of Leonhard Euler (18th century) to the present day. Over nearly three centuries, "geometry" has expanded from denoting the…'
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:geometry-semantics:euler-to-today
-  keywords:
-    - geometry
-    - synthetic geometry
-    - analytic geometry
-    - projective geometry
-    - non-Euclidean geometry
-    - differential geometry
-    - topology
-    - algebraic geometry
-    - transformation groups
-    - geometric intuition
-    - axiomatic method
-    - geometric analysis
-    - discrete geometry
-    - computational geometry
-    - history of mathematics
-    - semantics
   lang: en
   language: English
   library_of_congress_classification:
@@ -129,35 +133,15 @@ meta:
   slug: geometry-semantics
   status: final
   subject:
-    - Mathematics
-    - History of mathematics
-    - Mathematical language and meaning
+  - Mathematics
+  - History of mathematics
+  - Mathematical language and meaning
   subjects:
-    - Geometry -- history
-    - Mathematics -- philosophy
-    - Mathematical terminology
+  - Geometry -- history
+  - Mathematics -- philosophy
+  - Mathematical terminology
   subtitle: Europe & the United States
   tags:
-    - geometry
-    - euler
-    - klein
-    - hilbert
-    - topology
-    - differential-geometry
-    - algebraic-geometry
-    - computational-geometry
-  title: The Semantics of "Geometry" from Euler to Today (Europe & the United States)
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: geometry-semantics
-summary: >-
-  A historical-semantic survey of what "geometry" has meant in mathematics from Euler’s 18th-century contrast with analysis through modern differential, topological, algebraic, and computational geometries, focusing on Europe and the United States.
-tags:
   - geometry
   - euler
   - klein
@@ -166,6 +150,27 @@ tags:
   - differential-geometry
   - algebraic-geometry
   - computational-geometry
+  title: The Semantics of "Geometry" from Euler to Today (Europe & the United States)
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: geometry-semantics
+summary: A historical-semantic survey of what "geometry" has meant in mathematics
+  from Euler’s 18th-century contrast with analysis through modern differential, topological,
+  algebraic, and computational geometries, focusing on Europe and the United States.
+tags:
+- geometry
+- euler
+- klein
+- hilbert
+- topology
+- differential-geometry
+- algebraic-geometry
+- computational-geometry
 title: The Semantics of "Geometry" from Euler to Today (Europe & the United States)
 ---
 

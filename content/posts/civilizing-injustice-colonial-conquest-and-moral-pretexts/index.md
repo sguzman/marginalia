@@ -1,48 +1,54 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-04'
-description: >-
-  Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French…
+description: 'Executive Summary: This report critically examines the claim that foreign
+  powers may legitimately conquer or annex a society because it tolerates grave injustices.
+  In three historical case studies (British India’s abolition of sati, French…'
 draft: false
 keywords:
-  - Civilizing Injustice_ Colonial Conquest and Moral Pretexts
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Civilizing Injustice_ Colonial Conquest and Moral Pretexts
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Civilizing Injustice? Colonial Conquest and Moral Pretexts
 markup: goldmark
 meta:
-  abstract: 'Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati,…'
+  abstract: 'Executive Summary: This report critically examines the claim that foreign
+    powers may legitimately conquer or annex a society because it tolerates grave
+    injustices. In three historical case studies (British India’s abolition of sati,…'
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: 'Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati, French…'
+  description: 'Executive Summary: This report critically examines the claim that
+    foreign powers may legitimately conquer or annex a society because it tolerates
+    grave injustices. In three historical case studies (British India’s abolition
+    of sati, French…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:civilizing-injustice-colonial-conquest-and-moral-pretexts
   keywords:
-    - Civilizing Injustice_ Colonial Conquest and Moral Pretexts
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Civilizing Injustice_ Colonial Conquest and Moral Pretexts
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +106,34 @@ meta:
   slug: civilizing-injustice-colonial-conquest-and-moral-pretexts
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - civilizing-injustice-colonial-conquest-and-moral-pretexts
-    - politics
-    - history
-    - political-theory
+  - civilizing-injustice-colonial-conquest-and-moral-pretexts
+  - politics
+  - history
+  - political-theory
   title: Civilizing Injustice? Colonial Conquest and Moral Pretexts
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: civilizing-injustice-colonial-conquest-and-moral-pretexts
-summary: >-
-  Executive Summary: This report critically examines the claim that foreign powers may legitimately conquer or annex a society because it tolerates grave injustices. In three historical case studies (British India’s abolition of sati,…
+summary: 'Executive Summary: This report critically examines the claim that foreign
+  powers may legitimately conquer or annex a society because it tolerates grave injustices.
+  In three historical case studies (British India’s abolition of sati,…'
 tags:
-  - civilizing-injustice-colonial-conquest-and-moral-pretexts
-  - politics
-  - history
-  - political-theory
+- civilizing-injustice-colonial-conquest-and-moral-pretexts
+- politics
+- history
+- political-theory
 title: Civilizing Injustice? Colonial Conquest and Moral Pretexts
 ---
 
@@ -148,8 +155,7 @@ These examples suggest that **moral rhetoric often serves as a pretext** for con
 
 ## Case Study 1: British India and *Sati*
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/assets/media/rId31.png" style="width:5.83333in;height:9.43905in" />  
-*Figure: Horace Vernet,* Shiva Carrying the Dead Sati *(1840s). In Hindu mythology, Sati (the goddess) self-immolates on her father’s funeral pyre. Colonial depictions of such myths fueled British outrage over widow-burning (*sati*) practices in India[\[9\]](https://www.britannica.com/topic/suttee#:~:text=Philadelphia%20Art%20Museum).*
+<img src="assets/media/rId31.png" style="width:5.83333in;height:9.43905in" / />*Figure: Horace Vernet,* Shiva Carrying the Dead Sati *(1840s). In Hindu mythology, Sati (the goddess) self-immolates on her father’s funeral pyre. Colonial depictions of such myths fueled British outrage over widow-burning (*sati*) practices in India[\[9\]](https://www.britannica.com/topic/suttee#:~:text=Philadelphia%20Art%20Museum).*
 
 In early 19th-century India, *sati* (also spelled *suttee*) was a social custom in which a widow immolated herself on her husband’s funeral pyre. It was **never a universal practice** across all of India; in fact, *sati* was mostly confined to certain upper castes (e.g. Brahmins and royalty) and regions. Britannica notes that *“sati was considered to embody the ideal of womanly devotion held by certain Brahmin and royal castes”*, implying it was not practiced by ordinary people[\[10\]](https://www.britannica.com/topic/suttee#:~:text=What%20is%20the%20practice%20of,sati).
 
@@ -163,8 +169,7 @@ In short, **the existence of *sati* did not confer any moral license to conquer 
 
 ## Case Study 2: French Algeria and the Civilizing Mission
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/assets/media/rId41.png" style="width:5.83333in;height:8.44187in" />  
-*Figure: French poster (1930) celebrating “Le Centenaire de la conquête de l’Algérie (1830–1930).” Official propaganda depicted Algeria’s colonization as a heroic triumph. In reality, French rule in Algeria was a brutal settler-colonial project, not a benign civilizing effort[\[7\]](https://www.britannica.com/place/Algeria/Colonial-rule#:~:text=The%20manner%20in%20which%20French,When%20Algeria)[\[8\]](https://www.britannica.com/place/Algeria/Colonial-rule#:~:text=After%20the%20overthrow%20of%20Louis,He%20declared%2C%20with).*
+<img src="assets/media/rId41.png" style="width:5.83333in;height:8.44187in" / />*Figure: French poster (1930) celebrating “Le Centenaire de la conquête de l’Algérie (1830–1930).” Official propaganda depicted Algeria’s colonization as a heroic triumph. In reality, French rule in Algeria was a brutal settler-colonial project, not a benign civilizing effort[\[7\]](https://www.britannica.com/place/Algeria/Colonial-rule#:~:text=The%20manner%20in%20which%20French,When%20Algeria)[\[8\]](https://www.britannica.com/place/Algeria/Colonial-rule#:~:text=After%20the%20overthrow%20of%20Louis,He%20declared%2C%20with).*
 
 France invaded Algeria in 1830, ostensibly to punish piracy and stabilize the region. From the start, French rhetoric framed it as bringing civilization to Muslims. The Third Republic’s politicians (e.g. Jules Ferry) later justified empire with phrases like *“supérieur races have the right over inferior races; they have the duty to civilize them.”*[\[15\]](https://www.hriui.com/en/algeria-and-the-legacy-of-colonialism-a-human-rights-reading-of-a-historical-experience/#:~:text=expansion,he%20declared) Such views were common: many French believed Algeria needed French **schools, religion, and laws** to become “modern.”
 

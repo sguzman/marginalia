@@ -1,44 +1,49 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Engineering
-  - Technology
+- Engineering
+- Technology
 date: '2026-04-04'
-description: >-
-  Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…
+description: 'Executive Summary: Electric motors – devices that convert electrical
+  energy to mechanical torque – are ubiquitous in modern engineering. Their history
+  stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
 draft: false
 keywords:
-  - Electric Motor Design_ Principles, Types, and Practices
-  - Engineering
-  - Technology
-  - Electrical engineering
+- Electric Motor Design_ Principles, Types, and Practices
+- Engineering
+- Technology
+- Electrical engineering
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Electric Motor Design: Principles, Types, and Practices'
 markup: goldmark
 meta:
-  abstract: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
+  abstract: 'Executive Summary: Electric motors – devices that convert electrical
+    energy to mechanical torque – are ubiquitous in modern engineering. Their history
+    stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
   categories:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
-  description: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
+  description: 'Executive Summary: Electric motors – devices that convert electrical
+    energy to mechanical torque – are ubiquitous in modern engineering. Their history
+    stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:electric-motor-design-principles-types-and-practices
   keywords:
-    - Electric Motor Design_ Principles, Types, and Practices
-    - Engineering
-    - Technology
-    - Electrical engineering
+  - Electric Motor Design_ Principles, Types, and Practices
+  - Engineering
+  - Technology
+  - Electrical engineering
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +101,32 @@ meta:
   slug: electric-motor-design-principles-types-and-practices
   status: complete
   subject:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subjects:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subtitle: ''
   tags:
-    - electric-motor-design-principles-types-and-practices
-    - engineering
-    - technology
+  - electric-motor-design-principles-types-and-practices
+  - engineering
+  - technology
   title: 'Electric Motor Design: Principles, Types, and Practices'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: electric-motor-design-principles-types-and-practices
-summary: >-
-  Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…
+summary: 'Executive Summary: Electric motors – devices that convert electrical energy
+  to mechanical torque – are ubiquitous in modern engineering. Their history stretches
+  from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
 tags:
-  - electric-motor-design-principles-types-and-practices
-  - engineering
-  - technology
+- electric-motor-design-principles-types-and-practices
+- engineering
+- technology
 title: 'Electric Motor Design: Principles, Types, and Practices'
 ---
 
@@ -154,8 +160,7 @@ All motors rely on the Lorentz force: a current-carrying conductor in a magnetic
 
 **Axial-Flux Motors:** The flux path is along the axis of rotation, yielding a pancake shape (flat rotor/stator discs). This geometry allows a large diameter and more magnetic length, giving very high torque density. Torque density can be *up to four times* that of similar-sized radial-flux motors[\[16\]](https://www.stanfordmagnets.com/advantages-and-disadvantages-of-axial-flux-motors.html#:~:text=Due%20to%20their%20geometry%2C%20axial,electric%20vehicles%20and%20aerospace%20applications). Axial-flux motors are used where space or weight savings are critical (e.g. EV wheel motors, aerospace). However, they can be harder to cool and more complex to manufacture.
 
-\<div style="text-align:center"\>**Figure:** Typical torque and current vs. slip (speed) curves for a three-phase induction motor (with rated load at zero slip). The torque peaks at breakdown then falls to zero at synchronous speed[\[3\]](https://www.engineeringtoolbox.com/electrical-motors-torques-d_651.html#:~:text=In%20metric%20units%20the%20rated,torque%20can%20be%20expressed%20as)[\[4\]](https://industrialmonitordirect.com/blogs/knowledgebase/three-phase-induction-motor-loss-distribution-and-analysis?srsltid=AfmBOopvtIApj3kuoUKHAHmqMJKL6IJ1r3FLde19RhXSpYFLrkYFNLMd#:~:text=Three,speed%20rating%2C%20and%20operating%20point). \</div\> <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/electric-motor-design-principles-types-and-practices/assets/media/rId39.png" style="width:5.83333in;height:3.8in" />  
-*Fig. 1. Induction motor torque-speed/current curves. Starting torque and current are high, followed by a pull-up and breakdown peak, then torque goes to zero at synchronous speed. (Data adapted from typical motor curves[\[4\]](https://industrialmonitordirect.com/blogs/knowledgebase/three-phase-induction-motor-loss-distribution-and-analysis?srsltid=AfmBOopvtIApj3kuoUKHAHmqMJKL6IJ1r3FLde19RhXSpYFLrkYFNLMd#:~:text=Three,speed%20rating%2C%20and%20operating%20point)[\[3\]](https://www.engineeringtoolbox.com/electrical-motors-torques-d_651.html#:~:text=In%20metric%20units%20the%20rated,torque%20can%20be%20expressed%20as).)*
+\<div style="text-align:center"\>**Figure:** Typical torque and current vs. slip (speed) curves for a three-phase induction motor (with rated load at zero slip). The torque peaks at breakdown then falls to zero at synchronous speed[\[3\]](https://www.engineeringtoolbox.com/electrical-motors-torques-d_651.html#:~:text=In%20metric%20units%20the%20rated,torque%20can%20be%20expressed%20as)[\[4\]](https://industrialmonitordirect.com/blogs/knowledgebase/three-phase-induction-motor-loss-distribution-and-analysis?srsltid=AfmBOopvtIApj3kuoUKHAHmqMJKL6IJ1r3FLde19RhXSpYFLrkYFNLMd#:~:text=Three,speed%20rating%2C%20and%20operating%20point). \</div\> <img src="assets/media/rId39.png" style="width:5.83333in;height:3.8in" / />*Fig. 1. Induction motor torque-speed/current curves. Starting torque and current are high, followed by a pull-up and breakdown peak, then torque goes to zero at synchronous speed. (Data adapted from typical motor curves[\[4\]](https://industrialmonitordirect.com/blogs/knowledgebase/three-phase-induction-motor-loss-distribution-and-analysis?srsltid=AfmBOopvtIApj3kuoUKHAHmqMJKL6IJ1r3FLde19RhXSpYFLrkYFNLMd#:~:text=Three,speed%20rating%2C%20and%20operating%20point)[\[3\]](https://www.engineeringtoolbox.com/electrical-motors-torques-d_651.html#:~:text=In%20metric%20units%20the%20rated,torque%20can%20be%20expressed%20as).)*
 
 ## Torque, Speed, and Power Relationships
 

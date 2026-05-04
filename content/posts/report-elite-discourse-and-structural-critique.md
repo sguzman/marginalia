@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-02-27'
-description: >-
-  Report Elite Discourse and Structural Critique
+description: Report Elite Discourse and Structural Critique
 draft: false
 keywords:
-  - Elite Discourse and Structural Critique
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Elite Discourse and Structural Critique
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Report: Elite Discourse and Structural Critique'
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: Report Elite Discourse and Structural Critique
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-02-27'
   description: Report Elite Discourse and Structural Critique
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:elite-discourse-and-structural-critique
   keywords:
-    - Elite Discourse and Structural Critique
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Elite Discourse and Structural Critique
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: report-elite-discourse-and-structural-critique
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - elite-discourse-and-structural-critique
-    - politics
-    - history
-    - political-theory
+  - elite-discourse-and-structural-critique
+  - politics
+  - history
+  - political-theory
   title: 'Report: Elite Discourse and Structural Critique'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: report-elite-discourse-and-structural-critique
-summary: >-
-  Report Elite Discourse and Structural Critique
+summary: Report Elite Discourse and Structural Critique
 tags:
-  - elite-discourse-and-structural-critique
-  - politics
-  - history
-  - political-theory
+- elite-discourse-and-structural-critique
+- politics
+- history
+- political-theory
 title: 'Report: Elite Discourse and Structural Critique'
 ---
 

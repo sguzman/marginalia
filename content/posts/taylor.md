@@ -1,18 +1,54 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Media
+- Journalism
+- Internet Culture
+- Online Harassment
+date: '2026-02-12'
+description: Taylor Lorenz is a prominent American technology-culture journalist whose
+  reporting on internet culture, influencers, and online trends has both elevated
+  her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
+draft: false
+keywords:
+- Taylor Lorenz
+- internet culture
+- journalism ethics
+- doxxing
+- online harassment
+- media trust
+- newsroom standards
+- platform politics
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bi…'
+markup: goldmark
+meta:
+  abstract: Source list and reading trail focused on Taylor Lorenz and disputes about
+    internet-culture reporting, doxxing/identification ethics, newsroom corrections,
+    platform dynamics, and public trust in media.
+  categories:
   - Media
   - Journalism
   - Internet Culture
   - Online Harassment
-date: '2026-02-12'
-description: >-
-  Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-taylor-lorenz-bibliography
+  date: '2026-02-12'
+  description: Taylor Lorenz is a prominent American technology-culture journalist
+    whose reporting on internet culture, influencers, and online trends has both elevated
+    her profile and embroiled her in heated controversies. This report chronicles
+    Lorenz'…
+  edition: '1'
+  epub-chapter-level: 0
+  epub-title-page: false
+  format: text/markdown
+  identifier: gva:taylor-lorenz-bibliography:2026-02-12
+  keywords:
   - Taylor Lorenz
   - internet culture
   - journalism ethics
@@ -21,36 +57,6 @@ keywords:
   - media trust
   - newsroom standards
   - platform politics
-lastmod: '2026-05-04'
-layout: single
-linkTitle: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bi…'
-markup: goldmark
-meta:
-  abstract: Source list and reading trail focused on Taylor Lorenz and disputes about internet-culture reporting, doxxing/identification ethics, newsroom corrections, platform dynamics, and public trust in media.
-  categories:
-    - Media
-    - Journalism
-    - Internet Culture
-    - Online Harassment
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-taylor-lorenz-bibliography
-  date: '2026-02-12'
-  description: Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
-  edition: '1'
-  epub-chapter-level: 0
-  epub-title-page: false
-  format: text/markdown
-  identifier: gva:taylor-lorenz-bibliography:2026-02-12
-  keywords:
-    - Taylor Lorenz
-    - internet culture
-    - journalism ethics
-    - doxxing
-    - online harassment
-    - media trust
-    - newsroom standards
-    - platform politics
   lang: en
   language: English
   library_of_congress_classification:
@@ -109,34 +115,15 @@ meta:
   slug: taylor
   status: complete
   subject:
-    - Journalism
-    - Media ethics
-    - Internet culture
+  - Journalism
+  - Media ethics
+  - Internet culture
   subjects:
-    - Journalism
-    - Media ethics
-    - Internet culture
+  - Journalism
+  - Media ethics
+  - Internet culture
   subtitle: Sources on controversy, ethics, and internet-era reporting
   tags:
-    - taylor-lorenz
-    - journalism
-    - ethics
-    - doxxing
-    - harassment
-    - media
-    - internet-culture
-  title: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
-  toc: false
-  toc-depth: 0
-  toc-title: Contents
-  type: bibliography
-outputs:
-  - HTML
-  - RSS
-slug: taylor
-summary: >-
-  Source list and reading trail focused on Taylor Lorenz and disputes about internet-culture reporting, doxxing/identification ethics, newsroom corrections, platform dynamics, and public trust in media.
-tags:
   - taylor-lorenz
   - journalism
   - ethics
@@ -144,6 +131,26 @@ tags:
   - harassment
   - media
   - internet-culture
+  title: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
+  toc: false
+  toc-depth: 0
+  toc-title: Contents
+  type: bibliography
+outputs:
+- HTML
+- RSS
+slug: taylor
+summary: Source list and reading trail focused on Taylor Lorenz and disputes about
+  internet-culture reporting, doxxing/identification ethics, newsroom corrections,
+  platform dynamics, and public trust in media.
+tags:
+- taylor-lorenz
+- journalism
+- ethics
+- doxxing
+- harassment
+- media
+- internet-culture
 title: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
 ---
 

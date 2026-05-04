@@ -1,48 +1,53 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Political Theory
-  - History
-  - Socialism
+- Political Theory
+- History
+- Socialism
 date: '2026-01-25'
-description: >-
-  Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…
+description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated
+  in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling
+  for proletarian revolution against capitalism(https://www.history.com/articles/co…'
 draft: false
 keywords:
-  - Marxism Research Clarifications
-  - Political Theory
-  - History
-  - Socialism
-  - Socialism. Communism. Anarchism
+- Marxism Research Clarifications
+- Political Theory
+- History
+- Socialism
+- Socialism. Communism. Anarchism
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Marxism Research Clarifications
 markup: goldmark
 meta:
-  abstract: 'Executive Summary - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.c…'
+  abstract: 'Executive Summary - Evolution of Marxism (1840s–2020s): Marxism originated
+    in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling
+    for proletarian revolution against capitalism(https://www.history.c…'
   categories:
-    - Political Theory
-    - History
-    - Socialism
+  - Political Theory
+  - History
+  - Socialism
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
-  description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…'
+  description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated
+    in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling
+    for proletarian revolution against capitalism(https://www.history.com/articles/co…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:marxism-research-clarifications
   keywords:
-    - Marxism Research Clarifications
-    - Political Theory
-    - History
-    - Socialism
-    - Socialism. Communism. Anarchism
+  - Marxism Research Clarifications
+  - Political Theory
+  - History
+  - Socialism
+  - Socialism. Communism. Anarchism
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +105,34 @@ meta:
   slug: marxism-research-clarifications
   status: complete
   subject:
-    - Political theory
-    - Socialism
+  - Political theory
+  - Socialism
   subjects:
-    - Political theory
-    - Socialism
+  - Political theory
+  - Socialism
   subtitle: ''
   tags:
-    - marxism-research-clarifications
-    - political-theory
-    - history
-    - socialism
+  - marxism-research-clarifications
+  - political-theory
+  - history
+  - socialism
   title: Marxism Research Clarifications
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: marxism-research-clarifications
-summary: >-
-  Executive Summary - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.c…
+summary: 'Executive Summary - Evolution of Marxism (1840s–2020s): Marxism originated
+  in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling
+  for proletarian revolution against capitalism(https://www.history.c…'
 tags:
-  - marxism-research-clarifications
-  - political-theory
-  - history
-  - socialism
+- marxism-research-clarifications
+- political-theory
+- history
+- socialism
 title: Marxism Research Clarifications
 ---
 

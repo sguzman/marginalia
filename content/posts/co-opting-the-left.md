@@ -1,19 +1,63 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- politics
+- political theory
+- u.s. history
+- social movements
+- institutional analysis
+date: '2026-02-12'
+description: How U.S. liberal institutions have repeatedly absorbed and deradicalized
+  left-wing movements since 1945—through concessions, professionalization, narrative
+  control, and selective inclusion paired with repression—illustrated with cross-era…
+draft: false
+keywords:
+- co-optation
+- deradicalization
+- u.s. liberalism
+- democratic party
+- nonprofit industrial complex
+- philanthropy
+- movement professionalization
+- media framing
+- selective repression
+- selective inclusion
+- political incorporation
+- occupy wall street
+- black lives matter
+- labor movement
+- civil rights movement
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Co-opting the Left: U.S. Liberal Institutions and Deradic…'
+markup: goldmark
+meta:
+  abstract: How U.S. liberal institutions have repeatedly absorbed and deradicalized
+    left-wing movements since 1945—through concessions, professionalization, narrative
+    control, and selective inclusion paired with repression—illustrated with cross-era
+    case studies.
+  categories:
   - politics
   - political theory
   - u.s. history
   - social movements
   - institutional analysis
-date: '2026-02-12'
-description: >-
-  How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-co-opting-the-left-1945-present
+  date: '2026-02-12'
+  description: How U.S. liberal institutions have repeatedly absorbed and deradicalized
+    left-wing movements since 1945—through concessions, professionalization, narrative
+    control, and selective inclusion paired with repression—illustrated with cross-era…
+  edition: 1st
+  epub-chapter-level: 2
+  epub-title-page: true
+  format: markdown
+  identifier: gva:co-opting-the-left
+  keywords:
   - co-optation
   - deradicalization
   - u.s. liberalism
@@ -29,48 +73,6 @@ keywords:
   - black lives matter
   - labor movement
   - civil rights movement
-lastmod: '2026-05-04'
-layout: single
-linkTitle: 'Co-opting the Left: U.S. Liberal Institutions and Deradic…'
-markup: goldmark
-meta:
-  abstract: How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era case studies.
-  categories:
-    - politics
-    - political theory
-    - u.s. history
-    - social movements
-    - institutional analysis
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-co-opting-the-left-1945-present
-  date: '2026-02-12'
-  description: How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era…
-  edition: 1st
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: true
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:co-opting-the-left
-  keywords:
-    - co-optation
-    - deradicalization
-    - u.s. liberalism
-    - democratic party
-    - nonprofit industrial complex
-    - philanthropy
-    - movement professionalization
-    - media framing
-    - selective repression
-    - selective inclusion
-    - political incorporation
-    - occupy wall street
-    - black lives matter
-    - labor movement
-    - civil rights movement
   lang: en
   language: English
   library_of_congress_classification:
@@ -129,36 +131,17 @@ meta:
   slug: co-opting-the-left
   status: final-draft
   subject:
-    - United States
-    - Social movements
-    - Political co-optation
+  - United States
+  - Social movements
+  - Political co-optation
   subjects:
-    - U.S. politics
-    - Left-wing movements
-    - Institutional power
-    - NGOs and philanthropy
-    - Media and narrative framing
+  - U.S. politics
+  - Left-wing movements
+  - Institutional power
+  - NGOs and philanthropy
+  - Media and narrative framing
   subtitle: U.S. Liberal Institutions and Deradicalization (1945--Present)
   tags:
-    - co-optation
-    - deradicalization
-    - institutions
-    - u.s. politics
-    - social movements
-    - occupy
-    - blm
-  title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
-  toc: true
-  toc-depth: 2
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: co-opting-the-left
-summary: >-
-  How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era case studies.
-tags:
   - co-optation
   - deradicalization
   - institutions
@@ -166,6 +149,27 @@ tags:
   - social movements
   - occupy
   - blm
+  title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
+  toc: true
+  toc-depth: 2
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: co-opting-the-left
+summary: How U.S. liberal institutions have repeatedly absorbed and deradicalized
+  left-wing movements since 1945—through concessions, professionalization, narrative
+  control, and selective inclusion paired with repression—illustrated with cross-era
+  case studies.
+tags:
+- co-optation
+- deradicalization
+- institutions
+- u.s. politics
+- social movements
+- occupy
+- blm
 title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
 ---
 

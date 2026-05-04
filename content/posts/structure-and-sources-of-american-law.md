@@ -1,18 +1,56 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Law
+- United States Law
+- Federalism
+- Legal Institutions
+date: '2026-04-27'
+description: A practical guide to the hierarchy and interaction of legal authorities
+  in the United States, from constitutions and statutes to regulations, treaties,
+  and common law.
+draft: false
+keywords:
+- American law
+- sources of law
+- legal hierarchy
+- federalism
+- preemption
+- Supremacy Clause
+- Erie doctrine
+- stare decisis
+- administrative law
+- treaties
+- federal common law
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Structure and Sources of American Law
+markup: goldmark
+meta:
+  abstract: A practical guide to the hierarchy and interaction of legal authorities
+    in the United States, from constitutions and statutes to regulations, treaties,
+    and common law.
+  categories:
   - Law
   - United States Law
   - Federalism
   - Legal Institutions
-date: '2026-04-27'
-description: >-
-  A practical guide to the hierarchy and interaction of legal authorities in the United States, from constitutions and statutes to regulations, treaties, and common law.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: structure-sources-american-law
+  date: '2026-04-27'
+  description: A practical guide to the hierarchy and interaction of legal authorities
+    in the United States, from constitutions and statutes to regulations, treaties,
+    and common law.
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: urn:gva:structure-sources-american-law
+  keywords:
   - American law
   - sources of law
   - legal hierarchy
@@ -24,39 +62,6 @@ keywords:
   - administrative law
   - treaties
   - federal common law
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Structure and Sources of American Law
-markup: goldmark
-meta:
-  abstract: A practical guide to the hierarchy and interaction of legal authorities in the United States, from constitutions and statutes to regulations, treaties, and common law.
-  categories:
-    - Law
-    - United States Law
-    - Federalism
-    - Legal Institutions
-  creator:
-    - Salvador Guzman
-  dataset_id: structure-sources-american-law
-  date: '2026-04-27'
-  description: A practical guide to the hierarchy and interaction of legal authorities in the United States, from constitutions and statutes to regulations, treaties, and common law.
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-title-page: false
-  format: text/markdown
-  identifier: urn:gva:structure-sources-american-law
-  keywords:
-    - American law
-    - sources of law
-    - legal hierarchy
-    - federalism
-    - preemption
-    - Supremacy Clause
-    - Erie doctrine
-    - stare decisis
-    - administrative law
-    - treaties
-    - federal common law
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,7 +101,8 @@ meta:
     primary_texts: []
     region: ''
     region_focus: ''
-    scope: authority hierarchy + doctrines of conflict resolution + institutional validity
+    scope: authority hierarchy + doctrines of conflict resolution + institutional
+      validity
     scope_years: ''
     series: american-law-guides
     stance: ''
@@ -114,36 +120,17 @@ meta:
   slug: structure-and-sources-of-american-law
   status: draft
   subject:
-    - United States law
-    - Legal sources
-    - Federalism
+  - United States law
+  - Legal sources
+  - Federalism
   subjects:
-    - Constitutional hierarchy
-    - Statutes and regulations
-    - Treaties and common law
-    - Preemption
-    - Administrative law
+  - Constitutional hierarchy
+  - Statutes and regulations
+  - Treaties and common law
+  - Preemption
+  - Administrative law
   subtitle: ''
   tags:
-    - law
-    - american-law
-    - federalism
-    - preemption
-    - administrative-law
-    - erie
-    - stare-decisis
-  title: Structure and Sources of American Law
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: structure-and-sources-of-american-law
-summary: >-
-  A practical guide to the hierarchy and interaction of legal authorities in the United States, from constitutions and statutes to regulations, treaties, and common law.
-tags:
   - law
   - american-law
   - federalism
@@ -151,6 +138,26 @@ tags:
   - administrative-law
   - erie
   - stare-decisis
+  title: Structure and Sources of American Law
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: structure-and-sources-of-american-law
+summary: A practical guide to the hierarchy and interaction of legal authorities in
+  the United States, from constitutions and statutes to regulations, treaties, and
+  common law.
+tags:
+- law
+- american-law
+- federalism
+- preemption
+- administrative-law
+- erie
+- stare-decisis
 title: Structure and Sources of American Law
 ---
 

@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-21'
-description: >-
-  Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+description: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
 draft: false
 keywords:
-  - Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:moby-dick-as-yankee-self-aggrandizement-and-self-indictment
   keywords:
-    - Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: moby-dick-as-yankee-self-aggrandizement-and-self-indictment
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - moby-dick-as-yankee-self-aggrandizement-and-self-indictment
-    - politics
-    - history
-    - political-theory
+  - moby-dick-as-yankee-self-aggrandizement-and-self-indictment
+  - politics
+  - history
+  - political-theory
   title: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: moby-dick-as-yankee-self-aggrandizement-and-self-indictment
-summary: >-
-  Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
+summary: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
 tags:
-  - moby-dick-as-yankee-self-aggrandizement-and-self-indictment
-  - politics
-  - history
-  - political-theory
+- moby-dick-as-yankee-self-aggrandizement-and-self-indictment
+- politics
+- history
+- political-theory
 title: Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment
 ---
 

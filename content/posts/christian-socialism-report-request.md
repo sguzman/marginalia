@@ -1,48 +1,55 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Political Theory
-  - History
-  - Socialism
+- Political Theory
+- History
+- Socialism
 date: '2026-01-25'
-description: >-
-  Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctr…
+description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick
+  Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.”
+  Confronting the upheavals of 1848, they argued that Christianity’s core doctr…'
 draft: false
 keywords:
-  - Christian Socialism Report Request
-  - Political Theory
-  - History
-  - Socialism
-  - Socialism. Communism. Anarchism
+- Christian Socialism Report Request
+- Political Theory
+- History
+- Socialism
+- Socialism. Communism. Anarchism
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Christian Socialism Report Request
 markup: goldmark
 meta:
-  abstract: Executive Summary In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core do…
+  abstract: Executive Summary In mid‑Victorian Britain, Anglican priests Frederick
+    Denison Maurice and Charles Kingsley pioneered a movement known as “Christian
+    Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s
+    core do…
   categories:
-    - Political Theory
-    - History
-    - Socialism
+  - Political Theory
+  - History
+  - Socialism
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
-  description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core doctr…'
+  description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick
+    Denison Maurice and Charles Kingsley pioneered a movement known as “Christian
+    Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s
+    core doctr…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:christian-socialism-report-request
   keywords:
-    - Christian Socialism Report Request
-    - Political Theory
-    - History
-    - Socialism
-    - Socialism. Communism. Anarchism
+  - Christian Socialism Report Request
+  - Political Theory
+  - History
+  - Socialism
+  - Socialism. Communism. Anarchism
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +107,34 @@ meta:
   slug: christian-socialism-report-request
   status: complete
   subject:
-    - Political theory
-    - Socialism
+  - Political theory
+  - Socialism
   subjects:
-    - Political theory
-    - Socialism
+  - Political theory
+  - Socialism
   subtitle: ''
   tags:
-    - christian-socialism-report-request
-    - political-theory
-    - history
-    - socialism
+  - christian-socialism-report-request
+  - political-theory
+  - history
+  - socialism
   title: Christian Socialism Report Request
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: christian-socialism-report-request
-summary: >-
-  Executive Summary In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.” Confronting the upheavals of 1848, they argued that Christianity’s core do…
+summary: Executive Summary In mid‑Victorian Britain, Anglican priests Frederick Denison
+  Maurice and Charles Kingsley pioneered a movement known as “Christian Socialism.”
+  Confronting the upheavals of 1848, they argued that Christianity’s core do…
 tags:
-  - christian-socialism-report-request
-  - political-theory
-  - history
-  - socialism
+- christian-socialism-report-request
+- political-theory
+- history
+- socialism
 title: Christian Socialism Report Request
 ---
 

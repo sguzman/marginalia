@@ -1,18 +1,57 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Public Finance
+- Taxation
+- United States
+- Fiscal Policy
+date: '2026-04-27'
+description: A data-driven overview of the current U.S. tax structure across federal,
+  state, and local levels, with emphasis on rates, revenue composition, incidence,
+  and compliance.
+draft: false
+keywords:
+- United States taxes
+- federal income tax
+- payroll tax
+- corporate tax
+- tax expenditures
+- tax incidence
+- tax gap
+- state and local taxes
+- California taxes
+- fiscal policy
+- IRS
+- CBO
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Current-Year Structure of Taxes in the United States
+markup: goldmark
+meta:
+  abstract: A data-driven overview of the current U.S. tax structure across federal,
+    state, and local levels, with emphasis on rates, revenue composition, incidence,
+    and compliance.
+  categories:
   - Public Finance
   - Taxation
   - United States
   - Fiscal Policy
-date: '2026-04-27'
-description: >-
-  A data-driven overview of the current U.S. tax structure across federal, state, and local levels, with emphasis on rates, revenue composition, incidence, and compliance.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: us-tax-structure-current-year
+  date: '2026-04-27'
+  description: A data-driven overview of the current U.S. tax structure across federal,
+    state, and local levels, with emphasis on rates, revenue composition, incidence,
+    and compliance.
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: urn:gva:us-tax-structure-current-year
+  keywords:
   - United States taxes
   - federal income tax
   - payroll tax
@@ -25,40 +64,6 @@ keywords:
   - fiscal policy
   - IRS
   - CBO
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Current-Year Structure of Taxes in the United States
-markup: goldmark
-meta:
-  abstract: A data-driven overview of the current U.S. tax structure across federal, state, and local levels, with emphasis on rates, revenue composition, incidence, and compliance.
-  categories:
-    - Public Finance
-    - Taxation
-    - United States
-    - Fiscal Policy
-  creator:
-    - Salvador Guzman
-  dataset_id: us-tax-structure-current-year
-  date: '2026-04-27'
-  description: A data-driven overview of the current U.S. tax structure across federal, state, and local levels, with emphasis on rates, revenue composition, incidence, and compliance.
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-title-page: false
-  format: text/markdown
-  identifier: urn:gva:us-tax-structure-current-year
-  keywords:
-    - United States taxes
-    - federal income tax
-    - payroll tax
-    - corporate tax
-    - tax expenditures
-    - tax incidence
-    - tax gap
-    - state and local taxes
-    - California taxes
-    - fiscal policy
-    - IRS
-    - CBO
   lang: en
   language: English
   library_of_congress_classification:
@@ -116,36 +121,17 @@ meta:
   slug: current-year-structure-of-taxes-in-the-united-states
   status: draft
   subject:
-    - Taxation
-    - United States
-    - Public finance
+  - Taxation
+  - United States
+  - Public finance
   subjects:
-    - Federal taxation
-    - State and local taxation
-    - Tax incidence
-    - Tax expenditures
-    - Tax administration
+  - Federal taxation
+  - State and local taxation
+  - Tax incidence
+  - Tax expenditures
+  - Tax administration
   subtitle: ''
   tags:
-    - taxation
-    - united-states
-    - public-finance
-    - irs
-    - cbo
-    - state-local-tax
-    - tax-gap
-  title: Current-Year Structure of Taxes in the United States
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: current-year-structure-of-taxes-in-the-united-states
-summary: >-
-  A data-driven overview of the current U.S. tax structure across federal, state, and local levels, with emphasis on rates, revenue composition, incidence, and compliance.
-tags:
   - taxation
   - united-states
   - public-finance
@@ -153,6 +139,26 @@ tags:
   - cbo
   - state-local-tax
   - tax-gap
+  title: Current-Year Structure of Taxes in the United States
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: current-year-structure-of-taxes-in-the-united-states
+summary: A data-driven overview of the current U.S. tax structure across federal,
+  state, and local levels, with emphasis on rates, revenue composition, incidence,
+  and compliance.
+tags:
+- taxation
+- united-states
+- public-finance
+- irs
+- cbo
+- state-local-tax
+- tax-gap
 title: Current-Year Structure of Taxes in the United States
 ---
 

@@ -1,18 +1,56 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- politics
+- political-theory
+- sociology
+- social-movements
+date: '2026-02-12'
+description: A complex-plane model of co-optation, class-to-culture substitution,
+  and the asymmetric co-optability of left vs right radicalism.
+draft: false
+keywords:
+- conservation of radicalism
+- radical energy
+- co-optation
+- institutionalization
+- nonprofit industrial complex
+- foundations
+- professionalization
+- political parties
+- culture war
+- class politics
+- identity politics
+- right-wing populism
+- asymmetric co-optability
+- complex plane model
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Conservation of Radicalism and Asymmetric Co-optability
+markup: goldmark
+meta:
+  abstract: A complex-plane model of co-optation, class-to-culture substitution, and
+    the asymmetric co-optability of left vs right radicalism.
+  categories:
   - politics
   - political-theory
   - sociology
   - social-movements
-date: '2026-02-12'
-description: >-
-  A complex-plane model of co-optation, class-to-culture substitution, and the asymmetric co-optability of left vs right radicalism.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva:complex-conserving-radicalism
+  date: '2026-02-12'
+  description: A complex-plane model of co-optation, class-to-culture substitution,
+    and the asymmetric co-optability of left vs right radicalism.
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: gva:conservation-of-radicalism-asymmetric-cooptability
+  keywords:
   - conservation of radicalism
   - radical energy
   - co-optation
@@ -27,46 +65,6 @@ keywords:
   - right-wing populism
   - asymmetric co-optability
   - complex plane model
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Conservation of Radicalism and Asymmetric Co-optability
-markup: goldmark
-meta:
-  abstract: A complex-plane model of co-optation, class-to-culture substitution, and the asymmetric co-optability of left vs right radicalism.
-  categories:
-    - politics
-    - political-theory
-    - sociology
-    - social-movements
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva:complex-conserving-radicalism
-  date: '2026-02-12'
-  description: A complex-plane model of co-optation, class-to-culture substitution, and the asymmetric co-optability of left vs right radicalism.
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: text/markdown
-  identifier: gva:conservation-of-radicalism-asymmetric-cooptability
-  keywords:
-    - conservation of radicalism
-    - radical energy
-    - co-optation
-    - institutionalization
-    - nonprofit industrial complex
-    - foundations
-    - professionalization
-    - political parties
-    - culture war
-    - class politics
-    - identity politics
-    - right-wing populism
-    - asymmetric co-optability
-    - complex plane model
   lang: en
   language: English
   library_of_congress_classification:
@@ -107,7 +105,8 @@ meta:
     primary_texts: []
     region: ''
     region_focus: ''
-    scope: A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric co-optability
+    scope: A complex-plane model of institutional co-optation, class-to-culture substitution,
+      and asymmetric co-optability
     scope_years: ''
     series: gva-research-reports
     stance: ''
@@ -125,44 +124,24 @@ meta:
   slug: conserving-radicalism
   status: draft
   subject:
-    - political radicalism
-    - social movements
-    - institutional co-optation
-    - culture war
-    - class politics
-    - right-wing populism
-    - liberal democracy
+  - political radicalism
+  - social movements
+  - institutional co-optation
+  - culture war
+  - class politics
+  - right-wing populism
+  - liberal democracy
   subjects:
-    - political radicalism
-    - social movements
-    - institutional co-optation
-    - culture war
-    - class politics
-    - right-wing populism
-    - liberal democracy
-  subtitle: A complex-plane model of institutional co-optation, class-to-culture substitution, and asymmetric co-optability
+  - political radicalism
+  - social movements
+  - institutional co-optation
+  - culture war
+  - class politics
+  - right-wing populism
+  - liberal democracy
+  subtitle: A complex-plane model of institutional co-optation, class-to-culture substitution,
+    and asymmetric co-optability
   tags:
-    - co-optation
-    - institutionalization
-    - nonprofit-industrial-complex
-    - culture-war
-    - class
-    - identity
-    - radicalism
-    - populism
-    - complex-plane
-  title: Conservation of Radicalism and Asymmetric Co-optability
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: conserving-radicalism
-summary: >-
-  A complex-plane model of co-optation, class-to-culture substitution, and the asymmetric co-optability of left vs right radicalism.
-tags:
   - co-optation
   - institutionalization
   - nonprofit-industrial-complex
@@ -172,6 +151,27 @@ tags:
   - radicalism
   - populism
   - complex-plane
+  title: Conservation of Radicalism and Asymmetric Co-optability
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: conserving-radicalism
+summary: A complex-plane model of co-optation, class-to-culture substitution, and
+  the asymmetric co-optability of left vs right radicalism.
+tags:
+- co-optation
+- institutionalization
+- nonprofit-industrial-complex
+- culture-war
+- class
+- identity
+- radicalism
+- populism
+- complex-plane
 title: Conservation of Radicalism and Asymmetric Co-optability
 ---
 
@@ -811,7 +811,6 @@ Finally, we compile the deliverables requested:
 
 **Data & Case-Specific:** - **ADL (2024). *"Murder & Extremism" Reports. -- Annual reports quantifying extremist killings[\[12\]](https://www.adl.org/resources/report/murder-and-extremism-united-states-2024#:~:text=,involved%20adherents%20of%20the%20anti). Show empirical shift to 100% right-wing violence in recent years in US (e.g. 2024 report states all extremist murders were by right-wing extremists for third year running[\[12\]](https://www.adl.org/resources/report/murder-and-extremism-united-states-2024#:~:text=,involved%20adherents%20of%20the%20anti)). This data robustly supports our evidence of radicalism moving right in violent expression. - Gallup & Pew Polling Data (Trust and Media) -- (Summaries we used: Gallup 2025 trust in media[\[6\]](https://news.gallup.com/poll/695762/trust-media-new-low.aspx#:~:text=Although%20Democrats%20and%20Republicans%20continue,points%20among%20all%20party%20groups), Pew 2019 trust in gov). These show record-low trust among conservatives in media/gov, indicating right's rejection of establishment. Used to bolster asymmetry (they won't work within institutions they despise). - Guardian (Krause et al. 2022). "Copying far right doesn't help mainstream".***[\[7\]](https://www.theguardian.com/world/commentisfree/2022/apr/13/copying-far-right-doesnt-help-mainstream-parties#:~:text=Based%20on%20this%20broad%20and,up%20contributing%20to%20its%20success) -- Summary of academic analysis. Found accommodating far-right by mainstream parties tends to boost far-right. This is direct evidence for asymmetry claim (co-optation of right issues backfires). The piece is easy to cite in argument.
 
-
 To further test and refine our understanding, we propose:
 
 1.  **In-depth Comparative Case Studies:** Particularly of instances that deviate from the norm -- e.g. a country like **Portugal** (where far-right remained minimal until recently while left maintained strength) or **Scandinavia** (with high trust societies) to see if co-optation effects differ. Also, study **cases of right co-optation attempts**: what happened when far-right entered government in e.g. Austria, Italy, Finland? Did it moderate or increase polarization? Gather qualitative and quantitative evidence on those outcomes. This can help gauge if our asymmetry holds universally or if under certain conditions right can be co-opted.
@@ -827,7 +826,6 @@ To further test and refine our understanding, we propose:
 6.  **Policy Experimentation:** Recommend a sort of social experiment if possible: identify a community with rising far-right sentiment and implement a combined approach -- address economic needs (job programs) *and* inclusive identity measures (forums for dialogue, recognition of majority's concerns in a respectful way) to see if that dampens radical appeal. This is more interventionist, but could be done by forward-thinking local governments or NGOs. Observing such interventions can provide real-world evidence if solving both axes reduces radicalism (testing our complex plane solution idea).
 
 Reading priorities: - More on **post-2016 political realignments** (e.g. books like "White Working Class" by Williams, "Dying of Whiteness" by Metzl) for nuance on grievance content. - Works on **"woke capitalism"** (e.g. Haskell's "Political Capitalism") to see if corporate co-optation had measurable effects on activism and public trust. - **Digital radicalization** studies (e.g. upcoming reports from think tanks on QAnon deradicalization or case studies of deplatforming outcomes) to refine how tech intersects with co-optation/resistance.
-
 
 ------------------------------------------------------------------------
 

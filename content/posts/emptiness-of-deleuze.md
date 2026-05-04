@@ -1,42 +1,49 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Philosophy
-  - Theory
+- Philosophy
+- Theory
 date: '2026-03-04'
-description: >-
-  The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…
+description: 'The user’s criticisms of Deleuze center on what they see as the emptiness
+  of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities
+  or constructions) does not mean those systems are unimportant or dispensable; c…'
 draft: false
 keywords:
-  - The Emptiness of Deleuze
-  - Philosophy
-  - Theory
+- The Emptiness of Deleuze
+- Philosophy
+- Theory
 lastmod: '2026-05-04'
 layout: single
 linkTitle: The Emptiness of Deleuze
 markup: goldmark
 meta:
-  abstract: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
+  abstract: 'The user’s criticisms of Deleuze center on what they see as the emptiness
+    of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities
+    or constructions) does not mean those systems are unimportant or dispensable;
+    c…'
   categories:
-    - Philosophy
-    - Theory
+  - Philosophy
+  - Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
+  description: 'The user’s criticisms of Deleuze center on what they see as the emptiness
+    of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities
+    or constructions) does not mean those systems are unimportant or dispensable;
+    c…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:the-emptiness-of-deleuze
   keywords:
-    - The Emptiness of Deleuze
-    - Philosophy
-    - Theory
+  - The Emptiness of Deleuze
+  - Philosophy
+  - Theory
   lang: en
   language: English
   library_of_congress_classification:
@@ -94,31 +101,32 @@ meta:
   slug: emptiness-of-deleuze
   status: complete
   subject:
-    - Philosophy
-    - Theory
+  - Philosophy
+  - Theory
   subjects:
-    - Philosophy
-    - Theory
+  - Philosophy
+  - Theory
   subtitle: ''
   tags:
-    - the-emptiness-of-deleuze
-    - philosophy
-    - theory
+  - the-emptiness-of-deleuze
+  - philosophy
+  - theory
   title: The Emptiness of Deleuze
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: emptiness-of-deleuze
-summary: >-
-  The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…
+summary: 'The user’s criticisms of Deleuze center on what they see as the emptiness
+  of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities
+  or constructions) does not mean those systems are unimportant or dispensable; c…'
 tags:
-  - the-emptiness-of-deleuze
-  - philosophy
-  - theory
+- the-emptiness-of-deleuze
+- philosophy
+- theory
 title: The Emptiness of Deleuze
 ---
 

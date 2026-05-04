@@ -1,18 +1,63 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Mathematics
+- Algebra
+- History of Mathematics
+- Mathematical Structures
+date: '2026-02-12'
+description: A comprehensive historical and conceptual report on algebra’s development,
+  major structures, applications, and future directions.
+draft: false
+keywords:
+- algebra
+- history of algebra
+- abstract algebra
+- symbolic notation
+- group theory
+- ring theory
+- field theory
+- Galois theory
+- linear algebra
+- representation theory
+- Lie algebra
+- Hopf algebra
+- homological algebra
+- algebraic geometry
+- category theory
+- computational algebra
+- Groebner bases
+- cryptography
+- coding theory
+- symmetry
+- Langlands program
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'The Evolution and Frontiers of Algebra: A Comprehensive H…'
+markup: goldmark
+meta:
+  abstract: A comprehensive historical and conceptual report on algebra’s development,
+    major structures, applications, and future directions.
+  categories:
   - Mathematics
   - Algebra
   - History of Mathematics
   - Mathematical Structures
-date: '2026-02-12'
-description: >-
-  A comprehensive historical and conceptual report on algebra’s development, major structures, applications, and future directions.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-algebra-evolution
+  date: '2026-02-12'
+  description: A comprehensive historical and conceptual report on algebra’s development,
+    major structures, applications, and future directions.
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: true
+  format: markdown
+  identifier: gva:evolution-and-frontiers-of-algebra
+  keywords:
   - algebra
   - history of algebra
   - abstract algebra
@@ -34,51 +79,6 @@ keywords:
   - coding theory
   - symmetry
   - Langlands program
-lastmod: '2026-05-04'
-layout: single
-linkTitle: 'The Evolution and Frontiers of Algebra: A Comprehensive H…'
-markup: goldmark
-meta:
-  abstract: A comprehensive historical and conceptual report on algebra’s development, major structures, applications, and future directions.
-  categories:
-    - Mathematics
-    - Algebra
-    - History of Mathematics
-    - Mathematical Structures
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-algebra-evolution
-  date: '2026-02-12'
-  description: A comprehensive historical and conceptual report on algebra’s development, major structures, applications, and future directions.
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: true
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:evolution-and-frontiers-of-algebra
-  keywords:
-    - algebra
-    - history of algebra
-    - abstract algebra
-    - symbolic notation
-    - group theory
-    - ring theory
-    - field theory
-    - Galois theory
-    - linear algebra
-    - representation theory
-    - Lie algebra
-    - Hopf algebra
-    - homological algebra
-    - algebraic geometry
-    - category theory
-    - computational algebra
-    - Groebner bases
-    - cryptography
-    - coding theory
-    - symmetry
-    - Langlands program
   lang: en
   language: English
   library_of_congress_classification:
@@ -136,44 +136,13 @@ meta:
   slug: algebra-evolution
   status: draft
   subject:
-    - Algebra
+  - Algebra
   subjects:
-    - Algebra
-    - History of Mathematics
-    - Abstract Structures
+  - Algebra
+  - History of Mathematics
+  - Abstract Structures
   subtitle: A Comprehensive Historical and Conceptual Analysis
   tags:
-    - algebra
-    - history
-    - abstract-algebra
-    - group-theory
-    - ring-theory
-    - field-theory
-    - galois-theory
-    - linear-algebra
-    - representation-theory
-    - lie-algebras
-    - hopf-algebras
-    - homological-algebra
-    - algebraic-geometry
-    - category-theory
-    - computational-algebra
-    - groebner-bases
-    - cryptography
-    - coding-theory
-    - langlands
-  title: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: algebra-evolution
-summary: >-
-  A comprehensive historical and conceptual report on algebra’s development, major structures, applications, and future directions.
-tags:
   - algebra
   - history
   - abstract-algebra
@@ -193,7 +162,40 @@ tags:
   - cryptography
   - coding-theory
   - langlands
-title: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis'
+  title: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual
+    Analysis'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: algebra-evolution
+summary: A comprehensive historical and conceptual report on algebra’s development,
+  major structures, applications, and future directions.
+tags:
+- algebra
+- history
+- abstract-algebra
+- group-theory
+- ring-theory
+- field-theory
+- galois-theory
+- linear-algebra
+- representation-theory
+- lie-algebras
+- hopf-algebras
+- homological-algebra
+- algebraic-geometry
+- category-theory
+- computational-algebra
+- groebner-bases
+- cryptography
+- coding-theory
+- langlands
+title: 'The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual
+  Analysis'
 ---
 
 ## 1. Executive Summary

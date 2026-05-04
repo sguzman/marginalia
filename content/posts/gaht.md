@@ -1,18 +1,70 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Health
+- Endocrinology
+- Gender
+- Public Policy
+date: '2026-02-12'
+description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report
+  with embedded images, references, and a formal PDF/DOCX format in this context.
+  Producing such a detailed, fully cited document far exceeds the practical output
+  limit…
+draft: false
+keywords:
+- GAHT
+- gender-affirming hormone therapy
+- gender dysphoria
+- AMAB
+- estradiol
+- anti-androgens
+- spironolactone
+- GnRHa
+- puberty blockers
+- Tanner staging
+- body composition
+- breast development
+- bone mineral density
+- DEXA
+- lipids
+- VTE
+- thromboembolism
+- transdermal estrogen
+- fertility preservation
+- sperm banking
+- psychosocial outcomes
+- WPATH
+- Endocrine Society
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Gender and GAHT
+markup: goldmark
+meta:
+  abstract: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing
+    care: expected physiologic changes, risks and benefits, timing (early vs late
+    initiation), monitoring themes, and key knowledge gaps.'
+  categories:
   - Health
   - Endocrinology
   - Gender
   - Public Policy
-date: '2026-02-12'
-description: >-
-  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: ''
+  date: '2026-02-12'
+  description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report
+    with embedded images, references, and a formal PDF/DOCX format in this context.
+    Producing such a detailed, fully cited document far exceeds the practical output
+    limit…
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: markdown
+  identifier: gva-gender-and-gaht-2026-02-12
+  keywords:
   - GAHT
   - gender-affirming hormone therapy
   - gender dysphoria
@@ -36,55 +88,6 @@ keywords:
   - psychosocial outcomes
   - WPATH
   - Endocrine Society
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Gender and GAHT
-markup: goldmark
-meta:
-  abstract: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected physiologic changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key knowledge gaps.'
-  categories:
-    - Health
-    - Endocrinology
-    - Gender
-    - Public Policy
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: ''
-  date: '2026-02-12'
-  description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva-gender-and-gaht-2026-02-12
-  keywords:
-    - GAHT
-    - gender-affirming hormone therapy
-    - gender dysphoria
-    - AMAB
-    - estradiol
-    - anti-androgens
-    - spironolactone
-    - GnRHa
-    - puberty blockers
-    - Tanner staging
-    - body composition
-    - breast development
-    - bone mineral density
-    - DEXA
-    - lipids
-    - VTE
-    - thromboembolism
-    - transdermal estrogen
-    - fertility preservation
-    - sperm banking
-    - psychosocial outcomes
-    - WPATH
-    - Endocrine Society
   lang: en
   language: English
   library_of_congress_classification:
@@ -143,46 +146,22 @@ meta:
   slug: gaht
   status: complete
   subject:
-    - Gender-affirming care
-    - Hormone therapy
-    - Endocrinology
-    - Adolescent health
-    - Risk assessment
+  - Gender-affirming care
+  - Hormone therapy
+  - Endocrinology
+  - Adolescent health
+  - Risk assessment
   subjects:
-    - Gender-affirming hormone therapy
-    - Estrogen therapy
-    - Androgen suppression
-    - Puberty suppression (GnRHa)
-    - Bone health and BMD
-    - Cardiovascular and thromboembolic risk
-    - Fertility preservation
-    - Mental health and quality of life
+  - Gender-affirming hormone therapy
+  - Estrogen therapy
+  - Androgen suppression
+  - Puberty suppression (GnRHa)
+  - Bone health and BMD
+  - Cardiovascular and thromboembolic risk
+  - Fertility preservation
+  - Mental health and quality of life
   subtitle: Physiological Effects, Risks, and Timing
   tags:
-    - gaht
-    - gender
-    - endocrinology
-    - health
-    - puberty-blockers
-    - estradiol
-    - antiandrogens
-    - bone-health
-    - vte-risk
-    - fertility
-    - mental-health
-    - policy
-  title: Gender and GAHT
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: gaht
-summary: >-
-  An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected physiologic changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key knowledge gaps.
-tags:
   - gaht
   - gender
   - endocrinology
@@ -195,6 +174,31 @@ tags:
   - fertility
   - mental-health
   - policy
+  title: Gender and GAHT
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: gaht
+summary: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing
+  care: expected physiologic changes, risks and benefits, timing (early vs late initiation),
+  monitoring themes, and key knowledge gaps.'
+tags:
+- gaht
+- gender
+- endocrinology
+- health
+- puberty-blockers
+- estradiol
+- antiandrogens
+- bone-health
+- vte-risk
+- fertility
+- mental-health
+- policy
 title: Gender and GAHT
 ---
 

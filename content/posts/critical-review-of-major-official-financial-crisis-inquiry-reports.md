@@ -1,20 +1,19 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Public Finance
-  - Economics
+- Public Finance
+- Economics
 date: '2026-03-21'
-description: >-
-  Critical Review of Major Official Financial-Crisis Inquiry Reports
+description: Critical Review of Major Official Financial-Crisis Inquiry Reports
 draft: false
 keywords:
-  - Critical Review of Major Official Financial-Crisis Inquiry Reports
-  - Public Finance
-  - Economics
-  - Public finance
+- Critical Review of Major Official Financial-Crisis Inquiry Reports
+- Public Finance
+- Economics
+- Public finance
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Critical Review of Major Official Financial-Crisis Inquir…
@@ -22,10 +21,10 @@ markup: goldmark
 meta:
   abstract: Critical Review of Major Official Financial-Crisis Inquiry Reports
   categories:
-    - Public Finance
-    - Economics
+  - Public Finance
+  - Economics
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: Critical Review of Major Official Financial-Crisis Inquiry Reports
@@ -35,10 +34,10 @@ meta:
   format: markdown
   identifier: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
   keywords:
-    - Critical Review of Major Official Financial-Crisis Inquiry Reports
-    - Public Finance
-    - Economics
-    - Public finance
+  - Critical Review of Major Official Financial-Crisis Inquiry Reports
+  - Public Finance
+  - Economics
+  - Public finance
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +95,30 @@ meta:
   slug: critical-review-of-major-official-financial-crisis-inquiry-reports
   status: complete
   subject:
-    - Public finance
-    - Fiscal policy
+  - Public finance
+  - Fiscal policy
   subjects:
-    - Public finance
-    - Fiscal policy
+  - Public finance
+  - Fiscal policy
   subtitle: ''
   tags:
-    - critical-review-of-major-official-financial-crisis-inquiry-reports
-    - public-finance
-    - economics
+  - critical-review-of-major-official-financial-crisis-inquiry-reports
+  - public-finance
+  - economics
   title: Critical Review of Major Official Financial-Crisis Inquiry Reports
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: critical-review-of-major-official-financial-crisis-inquiry-reports
-summary: >-
-  Critical Review of Major Official Financial-Crisis Inquiry Reports
+summary: Critical Review of Major Official Financial-Crisis Inquiry Reports
 tags:
-  - critical-review-of-major-official-financial-crisis-inquiry-reports
-  - public-finance
-  - economics
+- critical-review-of-major-official-financial-crisis-inquiry-reports
+- public-finance
+- economics
 title: Critical Review of Major Official Financial-Crisis Inquiry Reports
 ---
 

@@ -1,22 +1,22 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-21'
-description: >-
-  Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+description: Journalists and the U.S. State Structural Alignment, Incentives, and
+  Evidence
 draft: false
 keywords:
-  - Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Journalists and the U.S. State: Structural Alignment, Inc…'
@@ -24,25 +24,26 @@ markup: goldmark
 meta:
   abstract: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
-  description: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+  description: Journalists and the U.S. State Structural Alignment, Incentives, and
+    Evidence
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
   keywords:
-    - Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -59,7 +60,8 @@ meta:
     collection: ''
     conversion:
       date: '2026-04-20'
-      source_docx: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence.docx
+      source_docx: Journalists and the U.S. State Structural Alignment, Incentives,
+        and Evidence.docx
       tool: pandoc 3.6
     discipline: political science
     domain: politics
@@ -100,33 +102,32 @@ meta:
   slug: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
-    - politics
-    - history
-    - political-theory
+  - journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+  - politics
+  - history
+  - political-theory
   title: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
-summary: >-
-  Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+summary: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
 tags:
-  - journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
-  - politics
-  - history
-  - political-theory
+- journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+- politics
+- history
+- political-theory
 title: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
 ---
 

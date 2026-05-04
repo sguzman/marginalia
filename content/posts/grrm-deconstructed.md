@@ -1,44 +1,51 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Culture
-  - Media Studies
+- Culture
+- Media Studies
 date: '2026-03-04'
-description: >-
-  George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
+description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both
+  feel vivid, but their “natural worlds” are realized very differently. Martin builds
+  dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic
+  ecol…
 draft: false
 keywords:
-  - George R.R. Martin Deconstructed
-  - Culture
-  - Media Studies
-  - Literature and media studies
+- George R.R. Martin Deconstructed
+- Culture
+- Media Studies
+- Literature and media studies
 lastmod: '2026-05-04'
 layout: single
 linkTitle: George R.R. Martin Deconstructed
 markup: goldmark
 meta:
-  abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves m…
+  abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel
+    vivid, but their “natural worlds” are realized very differently. Martin builds
+    dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves m…
   categories:
-    - Culture
-    - Media Studies
+  - Culture
+  - Media Studies
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
+  description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both
+    feel vivid, but their “natural worlds” are realized very differently. Martin builds
+    dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic
+    ecol…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:george-r-r-martin-deconstructed
   keywords:
-    - George R.R. Martin Deconstructed
-    - Culture
-    - Media Studies
-    - Literature and media studies
+  - George R.R. Martin Deconstructed
+  - Culture
+  - Media Studies
+  - Literature and media studies
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +103,32 @@ meta:
   slug: grrm-deconstructed
   status: complete
   subject:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subjects:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subtitle: ''
   tags:
-    - george-r-r-martin-deconstructed
-    - culture
-    - media-studies
+  - george-r-r-martin-deconstructed
+  - culture
+  - media-studies
   title: George R.R. Martin Deconstructed
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: grrm-deconstructed
-summary: >-
-  George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves m…
+summary: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel
+  vivid, but their “natural worlds” are realized very differently. Martin builds dynamic
+  human conflict on a mostly static backdrop, whereas Tolkien weaves m…
 tags:
-  - george-r-r-martin-deconstructed
-  - culture
-  - media-studies
+- george-r-r-martin-deconstructed
+- culture
+- media-studies
 title: George R.R. Martin Deconstructed
 ---
 

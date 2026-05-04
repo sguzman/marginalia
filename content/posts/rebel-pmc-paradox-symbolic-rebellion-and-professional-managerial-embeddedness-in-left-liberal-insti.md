@@ -1,48 +1,52 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-02-15'
-description: >-
-  Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+description: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness
+  in Left‑Liberal Insti
 draft: false
 keywords:
-  - Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in
+  Left‑Liberal Insti
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Ma…'
 markup: goldmark
 meta:
-  abstract: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+  abstract: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness
+    in Left‑Liberal Insti
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
-  description: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+  description: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness
+    in Left‑Liberal Insti
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
   keywords:
-    - Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness
+    in Left‑Liberal Insti
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -59,7 +63,8 @@ meta:
     collection: ''
     conversion:
       date: '2026-04-20'
-      source_docx: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti.docx
+      source_docx: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial
+        Embeddedness in Left‑Liberal Insti.docx
       tool: pandoc 3.6
     discipline: political science
     domain: politics
@@ -72,7 +77,8 @@ meta:
     level: ''
     method: ''
     methods: []
-    name: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+    name: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness
+      in Left‑Liberal Insti
     notes: ''
     number: '050'
     organization: Marginalia
@@ -91,7 +97,8 @@ meta:
     subject: ''
     time_scope: ''
     time_span: ''
-    topic: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+    topic: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness
+      in Left‑Liberal Insti
     type: report
     version: 1.0.0
     year: 2026
@@ -100,34 +107,36 @@ meta:
   slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
-    - politics
-    - history
-    - political-theory
-  title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
+  - rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+  - politics
+  - history
+  - political-theory
+  title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness
+    in Left‑Liberal Institutions'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
-summary: >-
-  Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+summary: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness
+  in Left‑Liberal Insti
 tags:
-  - rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
-  - politics
-  - history
-  - political-theory
-title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
+- rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+- politics
+- history
+- political-theory
+title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness
+  in Left‑Liberal Institutions'
 ---
 
 ## Executive summary

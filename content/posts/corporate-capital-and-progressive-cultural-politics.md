@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-02-15'
-description: >-
-  Corporate Capital and Progressive Cultural Politics
+description: Corporate Capital and Progressive Cultural Politics
 draft: false
 keywords:
-  - Corporate Capital and Progressive Cultural Politics
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Corporate Capital and Progressive Cultural Politics
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Corporate Capital and Progressive Cultural Politics
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: Corporate Capital and Progressive Cultural Politics
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
   description: Corporate Capital and Progressive Cultural Politics
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:corporate-capital-and-progressive-cultural-politics
   keywords:
-    - Corporate Capital and Progressive Cultural Politics
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Corporate Capital and Progressive Cultural Politics
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: corporate-capital-and-progressive-cultural-politics
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - corporate-capital-and-progressive-cultural-politics
-    - politics
-    - history
-    - political-theory
+  - corporate-capital-and-progressive-cultural-politics
+  - politics
+  - history
+  - political-theory
   title: Corporate Capital and Progressive Cultural Politics
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: corporate-capital-and-progressive-cultural-politics
-summary: >-
-  Corporate Capital and Progressive Cultural Politics
+summary: Corporate Capital and Progressive Cultural Politics
 tags:
-  - corporate-capital-and-progressive-cultural-politics
-  - politics
-  - history
-  - political-theory
+- corporate-capital-and-progressive-cultural-politics
+- politics
+- history
+- political-theory
 title: Corporate Capital and Progressive Cultural Politics
 ---
 

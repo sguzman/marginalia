@@ -1,44 +1,49 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Engineering
-  - Technology
+- Engineering
+- Technology
 date: '2026-04-04'
-description: >-
-  Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
+description: Electric motors have evolved from 19th-century experiments to today’s
+  high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky
+  laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
 draft: false
 keywords:
-  - 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
-  - Engineering
-  - Technology
-  - Electrical engineering
+- 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
+- Engineering
+- Technology
+- Electrical engineering
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Electric Motors: Design, Control, Manufacturing, and Futu…'
 markup: goldmark
 meta:
-  abstract: Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20fir…
+  abstract: Electric motors have evolved from 19th-century experiments to today’s
+    high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky
+    laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20fir…
   categories:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
-  description: Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
+  description: Electric motors have evolved from 19th-century experiments to today’s
+    high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky
+    laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:electric-motor-design-control-manufacturing-future-trends
   keywords:
-    - 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
-    - Engineering
-    - Technology
-    - Electrical engineering
+  - 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
+  - Engineering
+  - Technology
+  - Electrical engineering
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +101,31 @@ meta:
   slug: electric-motors-v2
   status: complete
   subject:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subjects:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subtitle: ''
   tags:
-    - electric-motor-design-control-manufacturing-future-trends
-    - engineering
-    - technology
+  - electric-motor-design-control-manufacturing-future-trends
+  - engineering
+  - technology
   title: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: electric-motors-v2
-summary: >-
-  Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20fir…
+summary: Electric motors have evolved from 19th-century experiments to today’s high-performance
+  drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20fir…
 tags:
-  - electric-motor-design-control-manufacturing-future-trends
-  - engineering
-  - technology
+- electric-motor-design-control-manufacturing-future-trends
+- engineering
+- technology
 title: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
 ---
 

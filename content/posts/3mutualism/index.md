@@ -1,17 +1,53 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Political economy
+- History of socialism
+- Anarchism
+date: '2026-02-12'
+description: 'A historical and conceptual study of Proudhon''s mutualism: property
+  vs possession, the cost principle, mutual banking, and its relationship to cooperative
+  experiments.'
+draft: false
+keywords:
+- mutualism
+- Pierre-Joseph Proudhon
+- mutual banking
+- People's Bank
+- property is theft
+- possession
+- reciprocity
+- market socialism
+- libertarian socialism
+- cooperative movement
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Mutualism: Markets Without Capitalism'
+markup: goldmark
+meta:
+  abstract: 'A historical and conceptual study of Proudhon''s mutualism: property
+    vs possession, the cost principle, mutual banking, and its relationship to cooperative
+    experiments.'
+  categories:
   - Political economy
   - History of socialism
   - Anarchism
-date: '2026-02-12'
-description: >-
-  A historical and conceptual study of Proudhon's mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: ideology-studies
+  date: '2026-02-12'
+  description: 'A historical and conceptual study of Proudhon''s mutualism: property
+    vs possession, the cost principle, mutual banking, and its relationship to cooperative
+    experiments.'
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: markdown
+  identifier: gva-mutualism-2026-001
+  keywords:
   - mutualism
   - Pierre-Joseph Proudhon
   - mutual banking
@@ -22,41 +58,6 @@ keywords:
   - market socialism
   - libertarian socialism
   - cooperative movement
-lastmod: '2026-05-04'
-layout: single
-linkTitle: 'Mutualism: Markets Without Capitalism'
-markup: goldmark
-meta:
-  abstract: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.'
-  categories:
-    - Political economy
-    - History of socialism
-    - Anarchism
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: ideology-studies
-  date: '2026-02-12'
-  description: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.'
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva-mutualism-2026-001
-  keywords:
-    - mutualism
-    - Pierre-Joseph Proudhon
-    - mutual banking
-    - People's Bank
-    - property is theft
-    - possession
-    - reciprocity
-    - market socialism
-    - libertarian socialism
-    - cooperative movement
   lang: en
   language: English
   library_of_congress_classification:
@@ -115,40 +116,19 @@ meta:
   slug: 3mutualism
   status: published
   subject:
-    - Mutualism (Proudhon)
-    - Pierre-Joseph Proudhon
-    - Anarchism
-    - Socialism
-    - Mutual credit
+  - Mutualism (Proudhon)
+  - Pierre-Joseph Proudhon
+  - Anarchism
+  - Socialism
+  - Mutual credit
   subjects:
-    - Mutualism (Proudhon)
-    - Pierre-Joseph Proudhon
-    - Anarchism
-    - Socialism
-    - Mutual credit
+  - Mutualism (Proudhon)
+  - Pierre-Joseph Proudhon
+  - Anarchism
+  - Socialism
+  - Mutual credit
   subtitle: Proudhon's anti-state market socialism and mutual credit
   tags:
-    - mutualism
-    - proudhon
-    - anarchism
-    - socialism
-    - market socialism
-    - mutual banking
-    - cooperatives
-    - 19th century
-    - france
-  title: 'Mutualism: Markets Without Capitalism'
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: 3mutualism
-summary: >-
-  A historical and conceptual study of Proudhon's mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.
-tags:
   - mutualism
   - proudhon
   - anarchism
@@ -158,6 +138,28 @@ tags:
   - cooperatives
   - 19th century
   - france
+  title: 'Mutualism: Markets Without Capitalism'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: 3mutualism
+summary: 'A historical and conceptual study of Proudhon''s mutualism: property vs
+  possession, the cost principle, mutual banking, and its relationship to cooperative
+  experiments.'
+tags:
+- mutualism
+- proudhon
+- anarchism
+- socialism
+- market socialism
+- mutual banking
+- cooperatives
+- 19th century
+- france
 title: 'Mutualism: Markets Without Capitalism'
 ---
 

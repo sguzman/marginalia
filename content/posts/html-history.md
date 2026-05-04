@@ -1,18 +1,61 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Computing
+- Web
+- Internet History
+- Standards
+date: '2026-02-12'
+description: HTML has been the backbone of the World Wide Web since its inception
+  in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard
+  by 2025. Over three and a half decades, HTML's development has been shaped both
+  by f…
+draft: false
+keywords:
+- HTML
+- World Wide Web
+- W3C
+- WHATWG
+- IETF
+- HTML5
+- XHTML
+- Browser wars
+- Web standards
+- DOM
+- JavaScript
+- CSS
+- Parsing
+- Accessibility
+- Metadata
+lastmod: '2026-05-04'
+layout: single
+linkTitle: History of HTML (1990--2025)
+markup: goldmark
+meta:
+  abstract: 'A detailed history of HTML (1990--2025): standards bodies, browser wars,
+    XHTML, HTML5, parsing, semantics, accessibility, and modern web platform practice.'
+  categories:
   - Computing
   - Web
   - Internet History
   - Standards
-date: '2026-02-12'
-description: >-
-  HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: html-history
+  date: '2026-02-12'
+  description: HTML has been the backbone of the World Wide Web since its inception
+    in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard
+    by 2025. Over three and a half decades, HTML's development has been shaped both
+    by f…
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: article
+  identifier: urn:gva:html-history
+  keywords:
   - HTML
   - World Wide Web
   - W3C
@@ -28,47 +71,6 @@ keywords:
   - Parsing
   - Accessibility
   - Metadata
-lastmod: '2026-05-04'
-layout: single
-linkTitle: History of HTML (1990--2025)
-markup: goldmark
-meta:
-  abstract: 'A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing, semantics, accessibility, and modern web platform practice.'
-  categories:
-    - Computing
-    - Web
-    - Internet History
-    - Standards
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: html-history
-  date: '2026-02-12'
-  description: HTML has been the backbone of the World Wide Web since its inception in 1990, evolving from a minimal SGML-based format into a sprawling "living" standard by 2025. Over three and a half decades, HTML's development has been shaped both by f…
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: article
-  identifier: urn:gva:html-history
-  keywords:
-    - HTML
-    - World Wide Web
-    - W3C
-    - WHATWG
-    - IETF
-    - HTML5
-    - XHTML
-    - Browser wars
-    - Web standards
-    - DOM
-    - JavaScript
-    - CSS
-    - Parsing
-    - Accessibility
-    - Metadata
   lang: en
   language: English
   library_of_congress_classification:
@@ -127,39 +129,17 @@ meta:
   slug: html-history
   status: published
   subject:
-    - HTML
-    - Web standards
-    - Internet history
+  - HTML
+  - Web standards
+  - Internet history
   subjects:
-    - HyperText Markup Language
-    - World Wide Web
-    - Web browsers
-    - Standards organizations
-    - Document formats
+  - HyperText Markup Language
+  - World Wide Web
+  - Web browsers
+  - Standards organizations
+  - Document formats
   subtitle: From SGML Roots to the Living Standard
   tags:
-    - html
-    - web
-    - internet
-    - standards
-    - w3c
-    - whatwg
-    - ietf
-    - html5
-    - xhtml
-    - browsers
-  title: History of HTML (1990--2025)
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: html-history
-summary: >-
-  A detailed history of HTML (1990--2025): standards bodies, browser wars, XHTML, HTML5, parsing, semantics, accessibility, and modern web platform practice.
-tags:
   - html
   - web
   - internet
@@ -170,6 +150,28 @@ tags:
   - html5
   - xhtml
   - browsers
+  title: History of HTML (1990--2025)
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: html-history
+summary: 'A detailed history of HTML (1990--2025): standards bodies, browser wars,
+  XHTML, HTML5, parsing, semantics, accessibility, and modern web platform practice.'
+tags:
+- html
+- web
+- internet
+- standards
+- w3c
+- whatwg
+- ietf
+- html5
+- xhtml
+- browsers
 title: History of HTML (1990--2025)
 ---
 

@@ -1,44 +1,51 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Culture
-  - Media Studies
+- Culture
+- Media Studies
 date: '2026-04-13'
-description: >-
-  - Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure where…
+description: '- Modern Anglophone media increasingly foreground personal pain and
+  suffering (“liberal gothic”), often packaging trauma as consumable content. Critics
+  argue this reflects a commodification of trauma: an industry incentives structure
+  where…'
 draft: false
 keywords:
-  - 'Liberal Gothic: Quick Facts'
-  - Culture
-  - Media Studies
-  - Literature and media studies
+- 'Liberal Gothic: Quick Facts'
+- Culture
+- Media Studies
+- Literature and media studies
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Liberal Gothic: Quick Facts'
 markup: goldmark
 meta:
-  abstract: '- Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure whe…'
+  abstract: '- Modern Anglophone media increasingly foreground personal pain and suffering
+    (“liberal gothic”), often packaging trauma as consumable content. Critics argue
+    this reflects a commodification of trauma: an industry incentives structure whe…'
   categories:
-    - Culture
-    - Media Studies
+  - Culture
+  - Media Studies
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-13'
-  description: '- Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure where…'
+  description: '- Modern Anglophone media increasingly foreground personal pain and
+    suffering (“liberal gothic”), often packaging trauma as consumable content. Critics
+    argue this reflects a commodification of trauma: an industry incentives structure
+    where…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:liberal-gothic-quick-facts
   keywords:
-    - 'Liberal Gothic: Quick Facts'
-    - Culture
-    - Media Studies
-    - Literature and media studies
+  - 'Liberal Gothic: Quick Facts'
+  - Culture
+  - Media Studies
+  - Literature and media studies
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +103,32 @@ meta:
   slug: liberal-gothic-quick-facts
   status: complete
   subject:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subjects:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subtitle: ''
   tags:
-    - liberal-gothic-quick-facts
-    - culture
-    - media-studies
+  - liberal-gothic-quick-facts
+  - culture
+  - media-studies
   title: 'Liberal Gothic: Quick Facts'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: briefing
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: liberal-gothic-quick-facts
-summary: >-
-  - Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure whe…
+summary: '- Modern Anglophone media increasingly foreground personal pain and suffering
+  (“liberal gothic”), often packaging trauma as consumable content. Critics argue
+  this reflects a commodification of trauma: an industry incentives structure whe…'
 tags:
-  - liberal-gothic-quick-facts
-  - culture
-  - media-studies
+- liberal-gothic-quick-facts
+- culture
+- media-studies
 title: 'Liberal Gothic: Quick Facts'
 ---
 

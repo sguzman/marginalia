@@ -1,17 +1,58 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Mathematics
+- Philosophy of Mathematics
+- Computation
+date: '2023-04-16'
+description: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism
+  to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
+draft: false
+keywords:
+- formalism
+- Hilbert program
+- intuitionism
+- syntax
+- provability
+- lambda calculus
+- combinatory logic
+- type theory
+- polynomials
+- iteration
+- closed form
+- operator theory
+- Godel numbering
+- iterated function algebra
+- syntactic primitives
+- function composition
+- model reduction
+- arithmetic reduction
+- computational poetry
+- symbolic syntax
+lastmod: '2026-04-20T15:45:00Z'
+layout: single
+linkTitle: The Tragedy of Formalism
+markup: goldmark
+meta:
+  abstract: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism
+    to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
+  categories:
   - Mathematics
   - Philosophy of Mathematics
   - Computation
-date: '2023-04-16'
-description: >-
-  Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: iterated-algebra-2023
+  date: '2023-04-16'
+  description: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism
+    to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
+  edition: ''
+  format: markdown
+  identifier: math-2023-001
+  keywords:
   - formalism
   - Hilbert program
   - intuitionism
@@ -32,45 +73,6 @@ keywords:
   - arithmetic reduction
   - computational poetry
   - symbolic syntax
-lastmod: '2026-04-20T15:45:00Z'
-layout: single
-linkTitle: The Tragedy of Formalism
-markup: goldmark
-meta:
-  abstract: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
-  categories:
-    - Mathematics
-    - Philosophy of Mathematics
-    - Computation
-  creator:
-    - Salvador Guzman
-  dataset_id: iterated-algebra-2023
-  date: '2023-04-16'
-  description: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
-  edition: ''
-  format: markdown
-  identifier: math-2023-001
-  keywords:
-    - formalism
-    - Hilbert program
-    - intuitionism
-    - syntax
-    - provability
-    - lambda calculus
-    - combinatory logic
-    - type theory
-    - polynomials
-    - iteration
-    - closed form
-    - operator theory
-    - Godel numbering
-    - iterated function algebra
-    - syntactic primitives
-    - function composition
-    - model reduction
-    - arithmetic reduction
-    - computational poetry
-    - symbolic syntax
   lang: en
   language: en-US
   library_of_congress_classification:
@@ -127,36 +129,17 @@ meta:
   slug: iterated-function-algebra
   status: final
   subject:
-    - mathematics
+  - mathematics
   subjects:
-    - mathematics
-    - algebra
-    - formalism
-    - computation
-    - iterated functions
-    - symbolic logic
-    - polynomial dynamics
+  - mathematics
+  - algebra
+  - formalism
+  - computation
+  - iterated functions
+  - symbolic logic
+  - polynomial dynamics
   subtitle: Syntax as the Poetry of Computation
   tags:
-    - formalism
-    - syntax
-    - computation
-    - polynomials
-    - iteration
-    - type signatures
-    - operators
-  title: The Tragedy of Formalism
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: iterated-function-algebra
-summary: >-
-  Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.
-tags:
   - formalism
   - syntax
   - computation
@@ -164,6 +147,25 @@ tags:
   - iteration
   - type signatures
   - operators
+  title: The Tragedy of Formalism
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: iterated-function-algebra
+summary: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism
+  to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
+tags:
+- formalism
+- syntax
+- computation
+- polynomials
+- iteration
+- type signatures
+- operators
 title: The Tragedy of Formalism
 ---
 

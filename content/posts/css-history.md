@@ -1,41 +1,43 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - web
-  - css
-  - web-standards
-  - software-history
-  - front-end
+- web
+- css
+- web-standards
+- software-history
+- front-end
 date: '2026-02-12'
-description: >-
-  A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS archite…
+description: A detailed, timeline-driven history of CSS that connects W3C specifications
+  and browser implementation realities with community practice (from early standards
+  and the browser wars to responsive design, Flexbox, Grid, and modern CSS archite…
 draft: false
 keywords:
-  - CSS
-  - Cascading Style Sheets
-  - W3C
-  - CSS Working Group
-  - web standards
-  - browser interoperability
-  - CSS1
-  - CSS2
-  - CSS2.1
-  - CSS3 modules
-  - Flexbox
-  - Grid
-  - media queries
-  - responsive design
-  - CSS architecture
-  - BEM
-  - OOCSS
-  - SMACSS
-  - CSS Zen Garden
+- CSS
+- Cascading Style Sheets
+- W3C
+- CSS Working Group
+- web standards
+- browser interoperability
+- CSS1
+- CSS2
+- CSS2.1
+- CSS3 modules
+- Flexbox
+- Grid
+- media queries
+- responsive design
+- CSS architecture
+- BEM
+- OOCSS
+- SMACSS
+- CSS Zen Garden
 lastmod: '2026-05-04'
 layout: single
-linkTitle: A Comprehensive History of CSS --- Institutions, Specs, a…
+linkTitle: A Comprehensive History of CSS
+--- Institutions, Specs, a…
 markup: goldmark
 meta:
   abstract: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS architecture).

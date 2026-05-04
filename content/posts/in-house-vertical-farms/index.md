@@ -1,42 +1,47 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Engineering
-  - Technology
+- Engineering
+- Technology
 date: '2026-04-04'
-description: >-
-  The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
+description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000
+  ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow
+  leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
 draft: false
 keywords:
-  - In-House Vertical Farms
-  - Engineering
-  - Technology
+- In-House Vertical Farms
+- Engineering
+- Technology
 lastmod: '2026-05-04'
 layout: single
 linkTitle: In-House Vertical Farms
 markup: goldmark
 meta:
-  abstract: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/west…
+  abstract: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000
+    ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow
+    leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/west…
   categories:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
-  description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
+  description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000
+    ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow
+    leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:in-house-vertical-farms
   keywords:
-    - In-House Vertical Farms
-    - Engineering
-    - Technology
+  - In-House Vertical Farms
+  - Engineering
+  - Technology
   lang: en
   language: English
   library_of_congress_classification:
@@ -94,38 +99,38 @@ meta:
   slug: in-house-vertical-farms
   status: complete
   subject:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subjects:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subtitle: ''
   tags:
-    - in-house-vertical-farms
-    - engineering
-    - technology
+  - in-house-vertical-farms
+  - engineering
+  - technology
   title: In-House Vertical Farms
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: in-house-vertical-farms
-summary: >-
-  The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/west…
+summary: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft²
+  indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy
+  greens and herbs year-round(https://verticalharvestfarms.com/locations/west…
 tags:
-  - in-house-vertical-farms
-  - engineering
-  - technology
+- in-house-vertical-farms
+- engineering
+- technology
 title: In-House Vertical Farms
 ---
 
 The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round[\[1\]](https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)[\[2\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). It is funded by ~\$59.5 M in project financing (USDA, state, C-PACE, ARPA, etc.) as part of an \$88 M total construction budget[\[3\]](https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)[\[4\]](https://www.famemaine.com/fame_news/fame-approves-financing-for-vertical-harvest-l3c/#:~:text=FAME%20approved%20a%20%24500%2C000%20FAME,the%20broader%20New%20England%20market). At full capacity the farm aims for ~2.0–2.5 million lbs of produce per year (lettuce, microgreens, petite greens, herbs)[\[3\]](https://igrownews.com/vertical-harvest-latest-news/#:~:text=1,employment%20for%20people%20with%20disabilities)[\[5\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=Vertical%20Harvest%20Farms%20says%20the,petite%20greens%2C%20microgreens%20and%20herbs). For context, AeroFarms’ 69,000 ft² Newark, NJ farm produces ~2 M lbs/yr[\[6\]](https://www.aerofarms.com/worlds-largest-vertical-farm/#:~:text=Stacks%20of%20these%20lettuce,Marc%20Oshima%20tells%20Tech%20Insider), and GoodLeaf’s planned 200,000 ft² expansion targets ~2 M lbs[\[7\]](https://www.indoorverticalfarm.com/p/plenty-opens-its-latest-facility#:~:text=The%20company%20plans%20to%20open,Canada%2C%20making%20it%20the%20only); larger “3D” designs (e.g. Plenty’s Compton, CA farm) may yield ~4–5 M lbs/yr[\[8\]](https://www.indoorverticalfarm.com/p/plenty-opens-its-latest-facility#:~:text=In%20a%20significant%20advancement%20for,a%20traditional%20farm%20per%20acre). This report analyzes the Westbrook project in depth: scope and comparables; financial pro-forma (CAPEX ~\$88 M, OPEX drivers, multi-year P&L/CF/BS and break-even); market economics (pricing, channels, unit costs); agronomy (yields, schedules, inputs, handling); engineering (structural, MEP, controls); automation (process flows, tech maturity); operations/staffing; sustainability (energy, water, waste); risks/regulations; and detailed appendices (SOPs, BOM, vendors, timeline).
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/in-house-vertical-farms/assets/media/rId29.png" style="width:5.83333in;height:3.28417in" />  
-The Westbrook farm is a 52,000 ft², four-story building in downtown Westbrook, ME[\[1\]](https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building). Its façade (36-ft tall windows) yields ~200,000 ft² of growing canopy[\[2\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). The design (by Harriman/GYDE) supports heavy hydroponic racks, irrigation and HVAC equipment. The project broke ground in 2022 and aims to open in 2025[\[1\]](https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)[\[9\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=Vertical%20Harvest%20Farms%20said%20traditional,food%20are%20imperative%2C%20it%20said).
+<img src="assets/media/rId29.png" style="width:5.83333in;height:3.28417in" / />The Westbrook farm is a 52,000 ft², four-story building in downtown Westbrook, ME[\[1\]](https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building). Its façade (36-ft tall windows) yields ~200,000 ft² of growing canopy[\[2\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said). The design (by Harriman/GYDE) supports heavy hydroponic racks, irrigation and HVAC equipment. The project broke ground in 2022 and aims to open in 2025[\[1\]](https://verticalharvestfarms.com/locations/westbrook-maine/#:~:text=,story%2C%2052%2C000%20sq.%20ft.%20building)[\[9\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=Vertical%20Harvest%20Farms%20said%20traditional,food%20are%20imperative%2C%20it%20said).
 
 ## Project Scope & Comparables
 
@@ -224,8 +229,7 @@ These overlap on different trays. Table 3 illustrates a hypothetical block of tr
 
 **Building layout:** Ground floor: receiving, germination room, refrigeration/packaging and loading docks; upper floors (2–4): grow rooms. Basement/roof: mechanical plant. Floor plans (schematic below) show contiguous grow rooms on each floor, with central HVAC/utility spine. Each grow floor has ~50,000 ft² of open area.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/in-house-vertical-farms/assets/media/rId50.png" style="width:5.83333in;height:3.88889in" />  
-*Figure:* Westbrook farm interior during construction. High ceilings and strong cross-beams (visible) support the multi-tier racks and heavy fixtures[\[2\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said).
+<img src="assets/media/rId50.png" style="width:5.83333in;height:3.88889in" / />*Figure:* Westbrook farm interior during construction. High ceilings and strong cross-beams (visible) support the multi-tier racks and heavy fixtures[\[2\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said).
 
 **Structure & floor loads:** The shell is reinforced concrete/steel with floor load capacity ~1,000–1,500 lb/ft² to carry racks and water. Racking on each floor may hold 1–2 ft of water overhead, plus equipment weight. Walls and roof are insulated to reduce thermal losses; south walls are largely glass for daylight (36 ft glazing height[\[2\]](https://www.pressherald.com/2024/04/24/westbrook-vertical-hydroponic-farm-secures-nearly-60-million-in-financing/#:~:text=The%20Westbrook%20building%2C%20dominated%20by,a%20%E2%80%9Cgrowing%20canopy%2C%E2%80%9D%20she%20said)).
 

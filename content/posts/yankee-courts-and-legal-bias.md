@@ -1,44 +1,51 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Law
-  - United States Law
+- Law
+- United States Law
 date: '2026-03-21'
-description: >-
-  A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+description: A growing body of evidence suggests that judicial outcomes often favor
+  entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog
+  challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
 draft: false
 keywords:
-  - Yankee Courts and Legal Bias
-  - Law
-  - United States Law
-  - Law of the United States
+- Yankee Courts and Legal Bias
+- Law
+- United States Law
+- Law of the United States
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Yankee Courts and Legal Bias
 markup: goldmark
 meta:
-  abstract: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+  abstract: A growing body of evidence suggests that judicial outcomes often favor
+    entrenched or elite interests (the “establishment” or “pro-yankee” side) over
+    underdog challengers. Landmark U.S. Supreme Court cases across history routinely
+    vindicate…
   categories:
-    - Law
-    - United States Law
+  - Law
+  - United States Law
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
-  description: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+  description: A growing body of evidence suggests that judicial outcomes often favor
+    entrenched or elite interests (the “establishment” or “pro-yankee” side) over
+    underdog challengers. Landmark U.S. Supreme Court cases across history routinely
+    vindicate…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:yankee-courts-and-legal-bias
   keywords:
-    - Yankee Courts and Legal Bias
-    - Law
-    - United States Law
-    - Law of the United States
+  - Yankee Courts and Legal Bias
+  - Law
+  - United States Law
+  - Law of the United States
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +103,32 @@ meta:
   slug: yankee-courts-and-legal-bias
   status: complete
   subject:
-    - Law
-    - United States law
+  - Law
+  - United States law
   subjects:
-    - Law
-    - United States law
+  - Law
+  - United States law
   subtitle: ''
   tags:
-    - yankee-courts-and-legal-bias
-    - law
-    - united-states-law
+  - yankee-courts-and-legal-bias
+  - law
+  - united-states-law
   title: Yankee Courts and Legal Bias
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: yankee-courts-and-legal-bias
-summary: >-
-  A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+summary: A growing body of evidence suggests that judicial outcomes often favor entrenched
+  or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers.
+  Landmark U.S. Supreme Court cases across history routinely vindicate…
 tags:
-  - yankee-courts-and-legal-bias
-  - law
-  - united-states-law
+- yankee-courts-and-legal-bias
+- law
+- united-states-law
 title: Yankee Courts and Legal Bias
 ---
 

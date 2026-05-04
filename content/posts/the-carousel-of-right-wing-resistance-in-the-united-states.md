@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-02-15'
-description: >-
-  The Carousel of Right-Wing Resistance in the United States
+description: The Carousel of Right-Wing Resistance in the United States
 draft: false
 keywords:
-  - The Carousel of Right-Wing Resistance in the United States
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- The Carousel of Right-Wing Resistance in the United States
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: The Carousel of Right-Wing Resistance in the United States
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: The Carousel of Right-Wing Resistance in the United States
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
   description: The Carousel of Right-Wing Resistance in the United States
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:the-carousel-of-right-wing-resistance-in-the-united-states
   keywords:
-    - The Carousel of Right-Wing Resistance in the United States
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - The Carousel of Right-Wing Resistance in the United States
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: the-carousel-of-right-wing-resistance-in-the-united-states
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - the-carousel-of-right-wing-resistance-in-the-united-states
-    - politics
-    - history
-    - political-theory
+  - the-carousel-of-right-wing-resistance-in-the-united-states
+  - politics
+  - history
+  - political-theory
   title: The Carousel of Right-Wing Resistance in the United States
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: the-carousel-of-right-wing-resistance-in-the-united-states
-summary: >-
-  The Carousel of Right-Wing Resistance in the United States
+summary: The Carousel of Right-Wing Resistance in the United States
 tags:
-  - the-carousel-of-right-wing-resistance-in-the-united-states
-  - politics
-  - history
-  - political-theory
+- the-carousel-of-right-wing-resistance-in-the-united-states
+- politics
+- history
+- political-theory
 title: The Carousel of Right-Wing Resistance in the United States
 ---
 

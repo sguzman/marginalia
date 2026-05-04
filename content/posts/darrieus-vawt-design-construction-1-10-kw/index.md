@@ -1,42 +1,49 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Engineering
-  - Technology
+- Engineering
+- Technology
 date: '2026-04-04'
-description: >-
-  Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…
+description: 'Executive Summary: This report reviews the principles and practical
+  steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis
+  wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,
+  pow…'
 draft: false
 keywords:
-  - Darrieus VAWT Design & Construction (1–10 kW)
-  - Engineering
-  - Technology
+- Darrieus VAWT Design & Construction (1–10 kW)
+- Engineering
+- Technology
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Darrieus VAWT Design & Construction (1–10 kW)
 markup: goldmark
 meta:
-  abstract: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,…'
+  abstract: 'Executive Summary: This report reviews the principles and practical steps
+    for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis
+    wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,…'
   categories:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
-  description: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…'
+  description: 'Executive Summary: This report reviews the principles and practical
+    steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis
+    wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,
+    pow…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:darrieus-vawt-design-construction-1-10-kw
   keywords:
-    - Darrieus VAWT Design & Construction (1–10 kW)
-    - Engineering
-    - Technology
+  - Darrieus VAWT Design & Construction (1–10 kW)
+  - Engineering
+  - Technology
   lang: en
   language: English
   library_of_congress_classification:
@@ -94,31 +101,32 @@ meta:
   slug: darrieus-vawt-design-construction-1-10-kw
   status: complete
   subject:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subjects:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subtitle: ''
   tags:
-    - darrieus-vawt-design-construction-1-10-kw
-    - engineering
-    - technology
+  - darrieus-vawt-design-construction-1-10-kw
+  - engineering
+  - technology
   title: Darrieus VAWT Design & Construction (1–10 kW)
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: darrieus-vawt-design-construction-1-10-kw
-summary: >-
-  Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,…
+summary: 'Executive Summary: This report reviews the principles and practical steps
+  for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis
+  wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,…'
 tags:
-  - darrieus-vawt-design-construction-1-10-kw
-  - engineering
-  - technology
+- darrieus-vawt-design-construction-1-10-kw
+- engineering
+- technology
 title: Darrieus VAWT Design & Construction (1–10 kW)
 ---
 
@@ -140,8 +148,7 @@ Darrieus VAWTs come in several geometries: **curved (D-arrieus)**, **straight-bl
 
 - **Helical (twisted) blades:** Blades twisted in a helical shape (e.g. 120° twist for three blades) form a “Savonius-shaped” swept area. Helical rotors blend Darrieus lift with an element of constant torque: they are known to **self-start more easily** than straight Darrieus[\[1\]](https://www.sciencedirect.com/science/article/abs/pii/S0196890423007513#:~:text=In%20contrast%2C%20helical%20VAWTs%20are,Karimian%20and%20Abdolahifar). Twist distributes the angle-of-attack variation along the blade, so dynamic stall is de-synchronized and peak-torque pulsations drop[\[9\]](https://www.sciencedirect.com/science/article/abs/pii/S0196890423007513#:~:text=Hohman%20et%20al.%20,recovery%20and%20a%20larger%20planform). The trade-off is slightly lower peak Cp compared to the same blades un-twisted. Designers often choose helical blades for smoother operation, despite higher manufacturing effort.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/darrieus-vawt-design-construction-1-10-kw/assets/media/rId33.png" style="width:5.83333in;height:7.31771in" />  
-*Fig: Classic curved-blade Darrieus VAWT (two-bladed, egg-beater style). Blades are reinforced with end-plates and struts. (Image source: Wikimedia Commons)*
+<img src="assets/media/rId33.png" style="width:5.83333in;height:7.31771in" / />*Fig: Classic curved-blade Darrieus VAWT (two-bladed, egg-beater style). Blades are reinforced with end-plates and struts. (Image source: Wikimedia Commons)*
 
 ## Blade Airfoil and Sizing
 

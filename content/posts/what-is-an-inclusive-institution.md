@@ -1,17 +1,62 @@
 ---
 ai_generated: false
 authors:
-  - Salvador Guzman
+- Salvador Guzman
 categories:
+- education
+- political philosophy
+- institutional analysis
+- rhetoric
+date: '2023-02-04'
+description: 'An essay arguing that institutional claims of inclusivity are not mere
+  branding: they entail an obligation to invite inquiry, align rhetoric with mission
+  and resources, and acknowledge the Realpolitik that makes idealistic aims possible.'
+draft: false
+keywords:
+- inclusive institution
+- progressive tradition
+- Realpolitik
+- idealism vs realism
+- institutional mission
+- administrative capacity
+- rhetoric and resources
+- public analysis
+- organizational clarity
+- educational governance
+- progressive hegemon
+- dead rhetoric
+- invitation to inquiry
+- managerial function
+- institutional truth
+- resource allocation
+- public accountability
+- political marketing
+- administrative realism
+- pedagogical integrity
+lastmod: '2026-04-20T15:45:00Z'
+layout: single
+linkTitle: What Is an Inclusive Institution?
+markup: goldmark
+meta:
+  abstract: An essay arguing that institutional claims of inclusivity are obligations,
+    not branding, and must match mission, capacity, and governance reality.
+  categories:
   - education
   - political philosophy
   - institutional analysis
   - rhetoric
-date: '2023-02-04'
-description: >-
-  An essay arguing that institutional claims of inclusivity are not mere branding: they entail an obligation to invite inquiry, align rhetoric with mission and resources, and acknowledge the Realpolitik that makes idealistic aims possible.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: inclusive-institutions-2023
+  date: '2023-02-04'
+  description: 'An essay arguing that institutional claims of inclusivity are not
+    mere branding: they entail an obligation to invite inquiry, align rhetoric with
+    mission and resources, and acknowledge the Realpolitik that makes idealistic aims
+    possible.'
+  edition: ''
+  format: markdown
+  identifier: edu-2023-003
+  keywords:
   - inclusive institution
   - progressive tradition
   - Realpolitik
@@ -32,46 +77,6 @@ keywords:
   - political marketing
   - administrative realism
   - pedagogical integrity
-lastmod: '2026-04-20T15:45:00Z'
-layout: single
-linkTitle: What Is an Inclusive Institution?
-markup: goldmark
-meta:
-  abstract: An essay arguing that institutional claims of inclusivity are obligations, not branding, and must match mission, capacity, and governance reality.
-  categories:
-    - education
-    - political philosophy
-    - institutional analysis
-    - rhetoric
-  creator:
-    - Salvador Guzman
-  dataset_id: inclusive-institutions-2023
-  date: '2023-02-04'
-  description: 'An essay arguing that institutional claims of inclusivity are not mere branding: they entail an obligation to invite inquiry, align rhetoric with mission and resources, and acknowledge the Realpolitik that makes idealistic aims possible.'
-  edition: ''
-  format: markdown
-  identifier: edu-2023-003
-  keywords:
-    - inclusive institution
-    - progressive tradition
-    - Realpolitik
-    - idealism vs realism
-    - institutional mission
-    - administrative capacity
-    - rhetoric and resources
-    - public analysis
-    - organizational clarity
-    - educational governance
-    - progressive hegemon
-    - dead rhetoric
-    - invitation to inquiry
-    - managerial function
-    - institutional truth
-    - resource allocation
-    - public accountability
-    - political marketing
-    - administrative realism
-    - pedagogical integrity
   lang: en
   language: en-US
   library_of_congress_classification:
@@ -128,38 +133,16 @@ meta:
   slug: what-is-an-inclusive-institution
   status: final
   subject:
-    - education
+  - education
   subjects:
-    - education
-    - inclusivity
-    - progressivism
-    - institutional governance
-    - Realpolitik
-    - administrative ethics
+  - education
+  - inclusivity
+  - progressivism
+  - institutional governance
+  - Realpolitik
+  - administrative ethics
   subtitle: Rhetoric, Resources, and the Progressive Hegemon
   tags:
-    - inclusive institution
-    - schools
-    - progressivism
-    - realism
-    - Realpolitik
-    - institutional governance
-    - mission statements
-    - organizational will
-    - public accountability
-    - political rhetoric
-  title: What Is an Inclusive Institution?
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: what-is-an-inclusive-institution
-summary: >-
-  An essay arguing that institutional claims of inclusivity are obligations, not branding, and must match mission, capacity, and governance reality.
-tags:
   - inclusive institution
   - schools
   - progressivism
@@ -170,6 +153,28 @@ tags:
   - organizational will
   - public accountability
   - political rhetoric
+  title: What Is an Inclusive Institution?
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: what-is-an-inclusive-institution
+summary: An essay arguing that institutional claims of inclusivity are obligations,
+  not branding, and must match mission, capacity, and governance reality.
+tags:
+- inclusive institution
+- schools
+- progressivism
+- realism
+- Realpolitik
+- institutional governance
+- mission statements
+- organizational will
+- public accountability
+- political rhetoric
 title: What Is an Inclusive Institution?
 ---
 

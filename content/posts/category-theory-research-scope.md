@@ -1,42 +1,47 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Mathematics
-  - History of Mathematics
+- Mathematics
+- History of Mathematics
 date: '2026-01-25'
-description: >-
-  1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
+description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary
+  framework to unify and abstract mathematical structures. It was introduced by Samuel
+  Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
 draft: false
 keywords:
-  - Category Theory Research Scope
-  - Mathematics
-  - History of Mathematics
+- Category Theory Research Scope
+- Mathematics
+- History of Mathematics
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Category Theory Research Scope
 markup: goldmark
 meta:
-  abstract: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, nota…
+  abstract: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary
+    framework to unify and abstract mathematical structures. It was introduced by
+    Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, nota…
   categories:
-    - Mathematics
-    - History of Mathematics
+  - Mathematics
+  - History of Mathematics
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
-  description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
+  description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary
+    framework to unify and abstract mathematical structures. It was introduced by
+    Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:category-theory-research-scope
   keywords:
-    - Category Theory Research Scope
-    - Mathematics
-    - History of Mathematics
+  - Category Theory Research Scope
+  - Mathematics
+  - History of Mathematics
   lang: en
   language: English
   library_of_congress_classification:
@@ -94,31 +99,32 @@ meta:
   slug: category-theory-research-scope
   status: complete
   subject:
-    - Mathematics
-    - History of mathematics
+  - Mathematics
+  - History of mathematics
   subjects:
-    - Mathematics
-    - History of mathematics
+  - Mathematics
+  - History of mathematics
   subtitle: ''
   tags:
-    - category-theory-research-scope
-    - mathematics
-    - history-of-mathematics
+  - category-theory-research-scope
+  - mathematics
+  - history-of-mathematics
   title: Category Theory Research Scope
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: category-theory-research-scope
-summary: >-
-  1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, nota…
+summary: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary
+  framework to unify and abstract mathematical structures. It was introduced by Samuel
+  Eilenberg and Saunders Mac Lane in their work on algebraic topology, nota…
 tags:
-  - category-theory-research-scope
-  - mathematics
-  - history-of-mathematics
+- category-theory-research-scope
+- mathematics
+- history-of-mathematics
 title: Category Theory Research Scope
 ---
 

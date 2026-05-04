@@ -1,18 +1,54 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Mathematics
+- Linear Algebra
+- History of Mathematics
+- Mathematical Structures
+date: '2026-05-03'
+description: A long-form history of linear algebra, from elimination and determinants
+  to vector spaces, matrices, eigenvalues, and the computational era.
+draft: false
+keywords:
+- linear algebra
+- history of linear algebra
+- Gaussian elimination
+- determinants
+- matrices
+- vector spaces
+- eigenvalues
+- canonical forms
+- numerical linear algebra
+- Grassmann
+- Cayley
+- Jordan form
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The Making of Linear Algebra
+markup: goldmark
+meta:
+  abstract: A long-form history of linear algebra, from elimination and determinants
+    to vector spaces, matrices, eigenvalues, and the computational era.
+  categories:
   - Mathematics
   - Linear Algebra
   - History of Mathematics
   - Mathematical Structures
-date: '2026-05-03'
-description: >-
-  A long-form history of linear algebra, from elimination and determinants to vector spaces, matrices, eigenvalues, and the computational era.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: linear-algebra-history-report
+  date: '2026-05-03'
+  description: A long-form history of linear algebra, from elimination and determinants
+    to vector spaces, matrices, eigenvalues, and the computational era.
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: urn:gva:linear-algebra-history-report
+  keywords:
   - linear algebra
   - history of linear algebra
   - Gaussian elimination
@@ -25,40 +61,6 @@ keywords:
   - Grassmann
   - Cayley
   - Jordan form
-lastmod: '2026-05-04'
-layout: single
-linkTitle: The Making of Linear Algebra
-markup: goldmark
-meta:
-  abstract: A long-form history of linear algebra, from elimination and determinants to vector spaces, matrices, eigenvalues, and the computational era.
-  categories:
-    - Mathematics
-    - Linear Algebra
-    - History of Mathematics
-    - Mathematical Structures
-  creator:
-    - Salvador Guzman
-  dataset_id: linear-algebra-history-report
-  date: '2026-05-03'
-  description: A long-form history of linear algebra, from elimination and determinants to vector spaces, matrices, eigenvalues, and the computational era.
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-title-page: false
-  format: text/markdown
-  identifier: urn:gva:linear-algebra-history-report
-  keywords:
-    - linear algebra
-    - history of linear algebra
-    - Gaussian elimination
-    - determinants
-    - matrices
-    - vector spaces
-    - eigenvalues
-    - canonical forms
-    - numerical linear algebra
-    - Grassmann
-    - Cayley
-    - Jordan form
   lang: en
   language: English
   library_of_congress_classification:
@@ -116,38 +118,19 @@ meta:
   slug: linear-algebra-history-report
   status: draft
   subject:
-    - Linear algebra
-    - History of mathematics
-    - Matrices
+  - Linear algebra
+  - History of mathematics
+  - Matrices
   subjects:
-    - Linear algebra
-    - Gaussian elimination
-    - Determinants
-    - Matrices
-    - Vector spaces
-    - Eigenvalues
-    - History of mathematics
+  - Linear algebra
+  - Gaussian elimination
+  - Determinants
+  - Matrices
+  - Vector spaces
+  - Eigenvalues
+  - History of mathematics
   subtitle: ''
   tags:
-    - linear-algebra
-    - math-history
-    - matrices
-    - vector-spaces
-    - determinants
-    - eigenvalues
-    - numerical-linear-algebra
-  title: The Making of Linear Algebra
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: linear-algebra-history-report
-summary: >-
-  A long-form history of linear algebra, from elimination and determinants to vector spaces, matrices, eigenvalues, and the computational era.
-tags:
   - linear-algebra
   - math-history
   - matrices
@@ -155,6 +138,25 @@ tags:
   - determinants
   - eigenvalues
   - numerical-linear-algebra
+  title: The Making of Linear Algebra
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: linear-algebra-history-report
+summary: A long-form history of linear algebra, from elimination and determinants
+  to vector spaces, matrices, eigenvalues, and the computational era.
+tags:
+- linear-algebra
+- math-history
+- matrices
+- vector-spaces
+- determinants
+- eigenvalues
+- numerical-linear-algebra
 title: The Making of Linear Algebra
 ---
 

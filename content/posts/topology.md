@@ -1,17 +1,60 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Mathematics
+- History of Mathematics
+- Topology
+date: '2026-02-12'
+description: A longform history-and-concepts guide to topology, from Euler and Poincare
+  to modern manifold theory and topological data analysis.
+draft: false
+keywords:
+- topology
+- history of topology
+- point-set topology
+- topological space
+- open sets
+- continuity
+- homeomorphism
+- algebraic topology
+- fundamental group
+- homology
+- cohomology
+- homotopy
+- manifolds
+- knot theory
+- low-dimensional topology
+- geometric topology
+- differential topology
+- Jones polynomial
+- persistent homology
+- topological data analysis
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Topology: From 18th-Century Precursors to Present-Day Fro…'
+markup: goldmark
+meta:
+  abstract: A longform history-and-concepts guide to topology, from Euler and Poincare
+    to modern manifold theory and topological data analysis.
+  categories:
   - Mathematics
   - History of Mathematics
   - Topology
-date: '2026-02-12'
-description: >-
-  A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-essay-topology-2026-02-12
+  date: '2026-02-12'
+  description: A longform history-and-concepts guide to topology, from Euler and Poincare
+    to modern manifold theory and topological data analysis.
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: gva:article:topology:2026-02-12
+  keywords:
   - topology
   - history of topology
   - point-set topology
@@ -32,51 +75,6 @@ keywords:
   - Jones polynomial
   - persistent homology
   - topological data analysis
-lastmod: '2026-05-04'
-layout: single
-linkTitle: 'Topology: From 18th-Century Precursors to Present-Day Fro…'
-markup: goldmark
-meta:
-  abstract: A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
-  categories:
-    - Mathematics
-    - History of Mathematics
-    - Topology
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-essay-topology-2026-02-12
-  date: '2026-02-12'
-  description: A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: text/markdown
-  identifier: gva:article:topology:2026-02-12
-  keywords:
-    - topology
-    - history of topology
-    - point-set topology
-    - topological space
-    - open sets
-    - continuity
-    - homeomorphism
-    - algebraic topology
-    - fundamental group
-    - homology
-    - cohomology
-    - homotopy
-    - manifolds
-    - knot theory
-    - low-dimensional topology
-    - geometric topology
-    - differential topology
-    - Jones polynomial
-    - persistent homology
-    - topological data analysis
   lang: en
   language: English
   library_of_congress_classification:
@@ -134,35 +132,15 @@ meta:
   slug: topology
   status: complete
   subject:
-    - Mathematics
-    - Topology
-    - History of Mathematics
+  - Mathematics
+  - Topology
+  - History of Mathematics
   subjects:
-    - Mathematics
-    - Topology
-    - History of Mathematics
+  - Mathematics
+  - Topology
+  - History of Mathematics
   subtitle: From 18th-Century Precursors to Present-Day Frontiers
   tags:
-    - topology
-    - math-history
-    - algebraic-topology
-    - point-set-topology
-    - manifolds
-    - knot-theory
-    - tda
-    - persistent-homology
-  title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: topology
-summary: >-
-  A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
-tags:
   - topology
   - math-history
   - algebraic-topology
@@ -171,6 +149,26 @@ tags:
   - knot-theory
   - tda
   - persistent-homology
+  title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: topology
+summary: A longform history-and-concepts guide to topology, from Euler and Poincare
+  to modern manifold theory and topological data analysis.
+tags:
+- topology
+- math-history
+- algebraic-topology
+- point-set-topology
+- manifolds
+- knot-theory
+- tda
+- persistent-homology
 title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
 ---
 

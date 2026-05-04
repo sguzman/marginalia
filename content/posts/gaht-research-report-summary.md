@@ -1,44 +1,52 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Health
-  - Public Health
+- Health
+- Public Health
 date: '2026-01-31'
-description: >-
-  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report
+  with embedded images, references, and a formal PDF/DOCX format in this context.
+  Producing such a detailed, fully cited document far exceeds the practical output
+  limit…
 draft: false
 keywords:
-  - GAHT Research Report Summary
-  - Health
-  - Public Health
-  - Public aspects of medicine
+- GAHT Research Report Summary
+- Health
+- Public Health
+- Public aspects of medicine
 lastmod: '2026-05-04'
 layout: single
 linkTitle: GAHT Research Report Summary
 markup: goldmark
 meta:
-  abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+  abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report
+    with embedded images, references, and a formal PDF/DOCX format in this context.
+    Producing such a detailed, fully cited document far exceeds the practical output
+    limit…
   categories:
-    - Health
-    - Public Health
+  - Health
+  - Public Health
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-01-31'
-  description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+  description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report
+    with embedded images, references, and a formal PDF/DOCX format in this context.
+    Producing such a detailed, fully cited document far exceeds the practical output
+    limit…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:gaht-research-report-summary
   keywords:
-    - GAHT Research Report Summary
-    - Health
-    - Public Health
-    - Public aspects of medicine
+  - GAHT Research Report Summary
+  - Health
+  - Public Health
+  - Public aspects of medicine
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +104,33 @@ meta:
   slug: gaht-research-report-summary
   status: complete
   subject:
-    - Public health
-    - Health policy
+  - Public health
+  - Health policy
   subjects:
-    - Public health
-    - Health policy
+  - Public health
+  - Health policy
   subtitle: ''
   tags:
-    - gaht-research-report-summary
-    - health
-    - public-health
+  - gaht-research-report-summary
+  - health
+  - public-health
   title: GAHT Research Report Summary
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: summary
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: gaht-research-report-summary
-summary: >-
-  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+summary: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report
+  with embedded images, references, and a formal PDF/DOCX format in this context.
+  Producing such a detailed, fully cited document far exceeds the practical output
+  limit…
 tags:
-  - gaht-research-report-summary
-  - health
-  - public-health
+- gaht-research-report-summary
+- health
+- public-health
 title: GAHT Research Report Summary
 ---
 

@@ -1,48 +1,55 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-22'
-description: >-
-  Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
+description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that
+  the explosion of inequality in recent decades has been driven not by impersonal
+  market forces alone but by an unprecedented surge in top managers’ earnings. Piketty
+  docum…
 draft: false
 keywords:
-  - 'Piketty and the Liberal PMC: A Critique'
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- 'Piketty and the Liberal PMC: A Critique'
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Piketty and the Liberal PMC: A Critique'
 markup: goldmark
 meta:
-  abstract: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty…
+  abstract: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the
+    explosion of inequality in recent decades has been driven not by impersonal market
+    forces alone but by an unprecedented surge in top managers’ earnings. Piketty…
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-22'
-  description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
+  description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that
+    the explosion of inequality in recent decades has been driven not by impersonal
+    market forces alone but by an unprecedented surge in top managers’ earnings. Piketty
+    docum…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:piketty-liberal-pmc-critique
   keywords:
-    - 'Piketty and the Liberal PMC: A Critique'
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - 'Piketty and the Liberal PMC: A Critique'
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +107,34 @@ meta:
   slug: piketty-liberal-pmc-critique
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - piketty-liberal-pmc-critique
-    - politics
-    - history
-    - political-theory
+  - piketty-liberal-pmc-critique
+  - politics
+  - history
+  - political-theory
   title: 'Piketty and the Liberal PMC: A Critique'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: piketty-liberal-pmc-critique
-summary: >-
-  Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty…
+summary: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the
+  explosion of inequality in recent decades has been driven not by impersonal market
+  forces alone but by an unprecedented surge in top managers’ earnings. Piketty…
 tags:
-  - piketty-liberal-pmc-critique
-  - politics
-  - history
-  - political-theory
+- piketty-liberal-pmc-critique
+- politics
+- history
+- political-theory
 title: 'Piketty and the Liberal PMC: A Critique'
 ---
 
@@ -136,8 +144,7 @@ Empirical evidence confirms this insight. Over the past four decades, CEO pay in
 
 Real-world cases vividly illustrate self-awarded pay and governance breakdowns. For example, **Wells Fargo’s** fake-accounts scandal (2016) saw its CEO John Stumpf collect roughly **\$130 million** on exit even as regulators fined him \$20m[\[8\]](https://inequality.org/article/wells-fargo-ceo-pay/#:~:text=As%20these%20fake%20accounts%20grew%2C,in%20compensation%20when%20he%20resigned). **WeWork’s** founder Adam Neumann was ousted in 2019 after a failed IPO, yet in 2021 still secured an estimated **\$445 million** exit package (including cash, stock, and debt relief) from SoftBank[\[9\]](https://www.theguardian.com/business/2021/may/27/wework-founder-adam-neumann-enormous-exit-package#:~:text=WeWork%20founder%20Adam%20Neumann%20received,before%20its%20equally%20dramatic%20fall). In the UK, **Royal Bank of Scotland (RBS)** shareholders revolted in 2009: 90% voted down the pay report over Sir Fred Goodwin’s £703k/yr pension after a taxpayer bailout[\[10\]](https://www.theguardian.com/business/2017/may/21/royal-bank-of-scotland-a-timeline-of-events#:~:text=,but%20no%20action%20is%20taken). These and other cases (Enron’s 2001 collapse, Uber’s governance crisis, shareholder uprisings at European firms like InterContinental Hotels[\[11\]](https://www.research-tree.com/newsfeed/article/interco-hotels-grp-statement-re-shareholder-engagement-and-outcome-2966221#:~:text=At%20our%20Annual%20General%20Meeting,and%20their%20proxy%20advisory%20bodies)) underscore how boards and compensation committees have often failed to check excess pay.
 
-Statistical trends reinforce the connection between governance and inequality. (Chart: U.S. CEO-to-worker pay ratio, 1965–2024<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/piketty-liberal-pmc-critique/assets/media/rId32.png" style="width:5.83333in;height:6.74374in" />  
-.) Here, top CEO pay soared from ~21× a worker’s pay in 1965 to ~366× in 2000 and still ~281× by 2024[\[5\]](https://www.epi.org/blog/ceo-pay-increased-in-2024-and-is-now-281-times-that-of-the-typical-worker-new-epi-landing-page-has-all-the-details/#:~:text=2018%20284,57). Similarly, U.S. top income shares have swung from ~45–50% (1910–20) down to ~30% mid-century and back up to ~45% by the 2000s[\[12\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=The%20US%20curve%2C%20shown%20in,We%20subsequently%20see), driven largely by labor (especially top managerial) earnings[\[13\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=I%20will%20show%20that%20this,managers%20of%20large%20firms%20from). Cross-country data also show that weak shareholder rights and board oversight correlate with higher pay ratios.
+Statistical trends reinforce the connection between governance and inequality. (Chart: U.S. CEO-to-worker pay ratio, 1965–2024<img src="assets/media/rId32.png" style="width:5.83333in;height:6.74374in" / />.) Here, top CEO pay soared from ~21× a worker’s pay in 1965 to ~366× in 2000 and still ~281× by 2024[\[5\]](https://www.epi.org/blog/ceo-pay-increased-in-2024-and-is-now-281-times-that-of-the-typical-worker-new-epi-landing-page-has-all-the-details/#:~:text=2018%20284,57). Similarly, U.S. top income shares have swung from ~45–50% (1910–20) down to ~30% mid-century and back up to ~45% by the 2000s[\[12\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=The%20US%20curve%2C%20shown%20in,We%20subsequently%20see), driven largely by labor (especially top managerial) earnings[\[13\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=I%20will%20show%20that%20this,managers%20of%20large%20firms%20from). Cross-country data also show that weak shareholder rights and board oversight correlate with higher pay ratios.
 
 Underlying mechanisms include **compensation committees’ use of peer benchmarking, the influence of pay consultants, and weak oversight by boards**. In effect, CEO pay-setting becomes circular: boards reference peer pay (often larger firms with similarly expensive CEOs), pushing up the median; CEOs whose pay is below the median get outsized raises; this inflates peers and so on. As studies note, most firms set CEO pay at or above the peer-group median[\[6\]](https://www.sciencedirect.com/science/article/abs/pii/S0304405X08001475#:~:text=review%20compensation%20committee%20reports%20of,based%20on%20industry%20and%20size), exploiting “ratchet” effects. This dynamic resembles Piketty’s description of patrimonial tendencies: without strong constraints (low “outrage cost”), managers take rents.
 
@@ -192,8 +199,7 @@ Each case highlights a common pattern: **executives or boards engineered large p
 
 # Statistical Trends in Top Incomes and Pay
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/piketty-liberal-pmc-critique/assets/media/rId32.png" style="width:5.83333in;height:6.74374in" />  
-*Chart: Ratio of CEO-to-typical-worker pay in the U.S., 1965–2024 (realized and granted measures). Data source: EPI[\[5\]](https://www.epi.org/blog/ceo-pay-increased-in-2024-and-is-now-281-times-that-of-the-typical-worker-new-epi-landing-page-has-all-the-details/#:~:text=2018%20284,57).*
+<img src="assets/media/rId32.png" style="width:5.83333in;height:6.74374in" / />*Chart: Ratio of CEO-to-typical-worker pay in the U.S., 1965–2024 (realized and granted measures). Data source: EPI[\[5\]](https://www.epi.org/blog/ceo-pay-increased-in-2024-and-is-now-281-times-that-of-the-typical-worker-new-epi-landing-page-has-all-the-details/#:~:text=2018%20284,57).*
 
 This chart illustrates the **stunning rise in executive pay relative to workers**. Using realized compensation (which counts stock awards when vested), the CEO–worker pay gap widened from roughly 21:1 in 1965 to a peak of 366:1 in 2000[\[28\]](https://www.epi.org/publication/ceo-pay-in-2020/#:~:text=307,the%20typical%20worker%20grew%20by), settling to about 280:1 by 2024[\[5\]](https://www.epi.org/blog/ceo-pay-increased-in-2024-and-is-now-281-times-that-of-the-typical-worker-new-epi-landing-page-has-all-the-details/#:~:text=2018%20284,57). (Under the “granted” measure, which counts stock at grant, the ratio similarly shot up.) The steep climb in 1990s–2000s reflects the tech and financial boom; the subsequent dip in 2008–09 was brief, with the ratio rebounding above 300× in 2020[\[5\]](https://www.epi.org/blog/ceo-pay-increased-in-2024-and-is-now-281-times-that-of-the-typical-worker-new-epi-landing-page-has-all-the-details/#:~:text=2018%20284,57).
 

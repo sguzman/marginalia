@@ -1,48 +1,53 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-04'
-description: >-
-  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+description: This report examines the so-called “Yankee-left” – broadly identified
+  with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+  ruling formation. We argue that a class of highly educated professionals and bureauc…
 draft: false
 keywords:
-  - The Yankee Left
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- The Yankee Left
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: The Yankee Left
 markup: goldmark
 meta:
-  abstract: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bur…
+  abstract: This report examines the so-called “Yankee-left” – broadly identified
+    with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+    ruling formation. We argue that a class of highly educated professionals and bur…
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+  description: This report examines the so-called “Yankee-left” – broadly identified
+    with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+    ruling formation. We argue that a class of highly educated professionals and bureauc…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:the-yankee-left
   keywords:
-    - The Yankee Left
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - The Yankee Left
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +105,34 @@ meta:
   slug: yankee-left
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - the-yankee-left
-    - politics
-    - history
-    - political-theory
+  - the-yankee-left
+  - politics
+  - history
+  - political-theory
   title: The Yankee Left
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: yankee-left
-summary: >-
-  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bur…
+summary: This report examines the so-called “Yankee-left” – broadly identified with
+  Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+  ruling formation. We argue that a class of highly educated professionals and bur…
 tags:
-  - the-yankee-left
-  - politics
-  - history
-  - political-theory
+- the-yankee-left
+- politics
+- history
+- political-theory
 title: The Yankee Left
 ---
 

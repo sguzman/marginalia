@@ -1,17 +1,60 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- History of Ideas
+- Political Thought
+- 19th Century
+date: '2026-02-12'
+description: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by
+  utopian thinkers in Britain and France. Robert Owen and his followers in Britain
+  were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s
+  co-op…'
+draft: false
+keywords:
+- socialism
+- socialist
+- utopian socialism
+- Robert Owen
+- Saint-Simonianism
+- Claude Henri de Saint-Simon
+- Charles Fourier
+- Fourierism
+- Etienne Cabet
+- Icaria
+- co-operative movement
+- industrial capitalism
+- France
+- Britain
+- nineteenth century
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Inventing Socialism
+markup: goldmark
+meta:
+  abstract: A compact research note on the earliest documented uses of “socialism/socialist”
+    in Britain and France (1820-1840), with mini-profiles and comparative analysis
+    of Owenites, Saint-Simonians, Fourierists, and Cabet’s Icarians.
+  categories:
   - History of Ideas
   - Political Thought
   - 19th Century
-date: '2026-02-12'
-description: >-
-  Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen's co-op…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-inventing-socialism
+  date: '2026-02-12'
+  description: 'Between 1820 and 1840 the term "socialism" was coined and reshaped
+    by utopian thinkers in Britain and France. Robert Owen and his followers in Britain
+    were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s
+    co-op…'
+  edition: 1.0.0
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: article
+  identifier: urn:gva:inventing-socialism
+  keywords:
   - socialism
   - socialist
   - utopian socialism
@@ -27,46 +70,6 @@ keywords:
   - France
   - Britain
   - nineteenth century
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Inventing Socialism
-markup: goldmark
-meta:
-  abstract: A compact research note on the earliest documented uses of “socialism/socialist” in Britain and France (1820-1840), with mini-profiles and comparative analysis of Owenites, Saint-Simonians, Fourierists, and Cabet’s Icarians.
-  categories:
-    - History of Ideas
-    - Political Thought
-    - 19th Century
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-inventing-socialism
-  date: '2026-02-12'
-  description: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s co-op…'
-  edition: 1.0.0
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: article
-  identifier: urn:gva:inventing-socialism
-  keywords:
-    - socialism
-    - socialist
-    - utopian socialism
-    - Robert Owen
-    - Saint-Simonianism
-    - Claude Henri de Saint-Simon
-    - Charles Fourier
-    - Fourierism
-    - Etienne Cabet
-    - Icaria
-    - co-operative movement
-    - industrial capitalism
-    - France
-    - Britain
-    - nineteenth century
   lang: en
   language: English
   library_of_congress_classification:
@@ -125,37 +128,38 @@ meta:
   slug: 1inventing-socialism
   status: published
   subject:
-    - History of socialism
-    - Political terminology
-    - Utopian movements
+  - History of socialism
+  - Political terminology
+  - Utopian movements
   subjects:
-    - History of socialism
-    - Political terminology
-    - Utopian movements
+  - History of socialism
+  - Political terminology
+  - Utopian movements
   subtitle: How a Name Emerged in Britain and France (1820-1840)
   tags:
-    - socialism
-    - history
-    - political-theory
-    - utopianism
-    - 19th-century
+  - socialism
+  - history
+  - political-theory
+  - utopianism
+  - 19th-century
   title: Inventing Socialism
   toc: true
   toc-depth: 3
   toc-title: Table of Contents
   type: essay
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: 1inventing-socialism
-summary: >-
-  A compact research note on the earliest documented uses of “socialism/socialist” in Britain and France (1820-1840), with mini-profiles and comparative analysis of Owenites, Saint-Simonians, Fourierists, and Cabet’s Icarians.
+summary: A compact research note on the earliest documented uses of “socialism/socialist”
+  in Britain and France (1820-1840), with mini-profiles and comparative analysis of
+  Owenites, Saint-Simonians, Fourierists, and Cabet’s Icarians.
 tags:
-  - socialism
-  - history
-  - political-theory
-  - utopianism
-  - 19th-century
+- socialism
+- history
+- political-theory
+- utopianism
+- 19th-century
 title: Inventing Socialism
 ---
 

@@ -1,48 +1,55 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-04-11'
-description: >-
-  Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ cla…
+description: 'Executive Summary: In medieval and early modern Europe, a discipline’s
+  prestige depended largely on its convertibility into real power and status. Law
+  attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’
+  cla…'
 draft: false
 keywords:
-  - Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Prestige Economy of Knowledge in Early Modern Europe (c.1…
 markup: goldmark
 meta:
-  abstract: 'Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and noble…'
+  abstract: 'Executive Summary: In medieval and early modern Europe, a discipline’s
+    prestige depended largely on its convertibility into real power and status. Law
+    attained immense prestige from c.1100–1700 because it underpinned kings’ and noble…'
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-11'
-  description: 'Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’ cla…'
+  description: 'Executive Summary: In medieval and early modern Europe, a discipline’s
+    prestige depended largely on its convertibility into real power and status. Law
+    attained immense prestige from c.1100–1700 because it underpinned kings’ and nobles’
+    cla…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
   keywords:
-    - Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +107,34 @@ meta:
   slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
-    - politics
-    - history
-    - political-theory
+  - prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+  - politics
+  - history
+  - political-theory
   title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
-summary: >-
-  Executive Summary: In medieval and early modern Europe, a discipline’s prestige depended largely on its convertibility into real power and status. Law attained immense prestige from c.1100–1700 because it underpinned kings’ and noble…
+summary: 'Executive Summary: In medieval and early modern Europe, a discipline’s prestige
+  depended largely on its convertibility into real power and status. Law attained
+  immense prestige from c.1100–1700 because it underpinned kings’ and noble…'
 tags:
-  - prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
-  - politics
-  - history
-  - political-theory
+- prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850
+- politics
+- history
+- political-theory
 title: Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)
 ---
 

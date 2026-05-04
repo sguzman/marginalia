@@ -1,42 +1,47 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Engineering
-  - Technology
+- Engineering
+- Technology
 date: '2026-04-04'
-description: >-
-  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…
+description: 'Executive Summary: Desalination is rapidly growing to meet freshwater
+  shortages, especially in arid regions. Modern desalination is dominated by membrane
+  processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
 draft: false
 keywords:
-  - Desalination Plant Design and Construction
-  - Engineering
-  - Technology
+- Desalination Plant Design and Construction
+- Engineering
+- Technology
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Desalination Plant Design and Construction
 markup: goldmark
 meta:
-  abstract: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global cap…'
+  abstract: 'Executive Summary: Desalination is rapidly growing to meet freshwater
+    shortages, especially in arid regions. Modern desalination is dominated by membrane
+    processes (chiefly reverse osmosis, RO) which now account for >80% of global cap…'
   categories:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
-  description: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
+  description: 'Executive Summary: Desalination is rapidly growing to meet freshwater
+    shortages, especially in arid regions. Modern desalination is dominated by membrane
+    processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:desalination-plant-design-and-construction
   keywords:
-    - Desalination Plant Design and Construction
-    - Engineering
-    - Technology
+  - Desalination Plant Design and Construction
+  - Engineering
+  - Technology
   lang: en
   language: English
   library_of_congress_classification:
@@ -94,31 +99,32 @@ meta:
   slug: desalination-plant-design-and-construction
   status: complete
   subject:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subjects:
-    - Engineering
-    - Technology
+  - Engineering
+  - Technology
   subtitle: ''
   tags:
-    - desalination-plant-design-and-construction
-    - engineering
-    - technology
+  - desalination-plant-design-and-construction
+  - engineering
+  - technology
   title: Desalination Plant Design and Construction
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: desalination-plant-design-and-construction
-summary: >-
-  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global cap…
+summary: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages,
+  especially in arid regions. Modern desalination is dominated by membrane processes
+  (chiefly reverse osmosis, RO) which now account for >80% of global cap…'
 tags:
-  - desalination-plant-design-and-construction
-  - engineering
-  - technology
+- desalination-plant-design-and-construction
+- engineering
+- technology
 title: Desalination Plant Design and Construction
 ---
 

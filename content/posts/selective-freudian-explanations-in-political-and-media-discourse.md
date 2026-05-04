@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-21'
-description: >-
-  Selective Freudian Explanations in Political and Media Discourse
+description: Selective Freudian Explanations in Political and Media Discourse
 draft: false
 keywords:
-  - Selective Freudian Explanations in Political and Media Discourse
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Selective Freudian Explanations in Political and Media Discourse
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Selective Freudian Explanations in Political and Media Di…
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: Selective Freudian Explanations in Political and Media Discourse
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: Selective Freudian Explanations in Political and Media Discourse
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:selective-freudian-explanations-in-political-and-media-discourse
   keywords:
-    - Selective Freudian Explanations in Political and Media Discourse
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Selective Freudian Explanations in Political and Media Discourse
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: selective-freudian-explanations-in-political-and-media-discourse
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - selective-freudian-explanations-in-political-and-media-discourse
-    - politics
-    - history
-    - political-theory
+  - selective-freudian-explanations-in-political-and-media-discourse
+  - politics
+  - history
+  - political-theory
   title: Selective Freudian Explanations in Political and Media Discourse
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: selective-freudian-explanations-in-political-and-media-discourse
-summary: >-
-  Selective Freudian Explanations in Political and Media Discourse
+summary: Selective Freudian Explanations in Political and Media Discourse
 tags:
-  - selective-freudian-explanations-in-political-and-media-discourse
-  - politics
-  - history
-  - political-theory
+- selective-freudian-explanations-in-political-and-media-discourse
+- politics
+- history
+- political-theory
 title: Selective Freudian Explanations in Political and Media Discourse
 ---
 

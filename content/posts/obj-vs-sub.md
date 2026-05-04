@@ -1,19 +1,67 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- philosophy
+- epistemology
+- philosophy of science
+- media studies
+- technology ethics
+date: '2026-02-12'
+description: A long-form report mapping the philosophical and practical tensions between
+  objectivity and subjectivity—historically and across disciplines (science, social
+  science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective…
+draft: false
+keywords:
+- objectivity
+- subjectivity
+- intersubjectivity
+- relativism
+- scientific objectivity
+- replication crisis
+- peer review
+- standpoint epistemology
+- Lorraine Daston
+- Peter Galison
+- Thomas Kuhn
+- Karl Popper
+- Donna Haraway
+- journalistic objectivity
+- view from nowhere
+- algorithmic bias
+- AI ethics
+- post-truth
+- expert authority
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Objectivity vs. Subjectivity: Philosophical Debate and Im…'
+markup: goldmark
+meta:
+  abstract: A long-form report mapping the philosophical and practical tensions between
+    objectivity and subjectivity—historically and across disciplines (science, social
+    science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective
+    procedures as the real engine of reliable knowledge.
+  categories:
   - philosophy
   - epistemology
   - philosophy of science
   - media studies
   - technology ethics
-date: '2026-02-12'
-description: >-
-  A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva.objectivity-vs-subjectivity.2026-02-12
+  date: '2026-02-12'
+  description: A long-form report mapping the philosophical and practical tensions
+    between objectivity and subjectivity—historically and across disciplines (science,
+    social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective…
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: true
+  format: markdown
+  identifier: gva:objectivity-vs-subjectivity:2026-02-12
+  keywords:
   - objectivity
   - subjectivity
   - intersubjectivity
@@ -33,48 +81,6 @@ keywords:
   - AI ethics
   - post-truth
   - expert authority
-lastmod: '2026-05-04'
-layout: single
-linkTitle: 'Objectivity vs. Subjectivity: Philosophical Debate and Im…'
-markup: goldmark
-meta:
-  abstract: A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective procedures as the real engine of reliable knowledge.
-  categories:
-    - philosophy
-    - epistemology
-    - philosophy of science
-    - media studies
-    - technology ethics
-  creator:
-    - Salvador Guzman
-  dataset_id: gva.objectivity-vs-subjectivity.2026-02-12
-  date: '2026-02-12'
-  description: A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective…
-  edition: '1'
-  epub-chapter-level: 2
-  epub-title-page: true
-  format: markdown
-  identifier: gva:objectivity-vs-subjectivity:2026-02-12
-  keywords:
-    - objectivity
-    - subjectivity
-    - intersubjectivity
-    - relativism
-    - scientific objectivity
-    - replication crisis
-    - peer review
-    - standpoint epistemology
-    - Lorraine Daston
-    - Peter Galison
-    - Thomas Kuhn
-    - Karl Popper
-    - Donna Haraway
-    - journalistic objectivity
-    - view from nowhere
-    - algorithmic bias
-    - AI ethics
-    - post-truth
-    - expert authority
   lang: en
   language: English
   library_of_congress_classification:
@@ -133,45 +139,23 @@ meta:
   slug: obj-vs-sub
   status: complete
   subject:
-    - Objectivity
-    - Subjectivity
-    - Epistemology
-    - Philosophy of Science
-    - Relativism
-    - Intersubjectivity
-    - Media Trust
-    - AI Bias
+  - Objectivity
+  - Subjectivity
+  - Epistemology
+  - Philosophy of Science
+  - Relativism
+  - Intersubjectivity
+  - Media Trust
+  - AI Bias
   subjects:
-    - Philosophy
-    - Epistemology
-    - Science and technology studies
-    - Journalism ethics
-    - Legal philosophy
-    - Technology ethics
+  - Philosophy
+  - Epistemology
+  - Science and technology studies
+  - Journalism ethics
+  - Legal philosophy
+  - Technology ethics
   subtitle: From Plato to AI, and why intersubjective methods matter
   tags:
-    - epistemology
-    - philosophy
-    - science
-    - journalism
-    - law
-    - ai
-    - bias
-    - relativism
-    - intersubjectivity
-    - post-truth
-  title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: obj-vs-sub
-summary: >-
-  A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective procedures as the real engine of reliable knowledge.
-tags:
   - epistemology
   - philosophy
   - science
@@ -182,6 +166,30 @@ tags:
   - relativism
   - intersubjectivity
   - post-truth
+  title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: obj-vs-sub
+summary: A long-form report mapping the philosophical and practical tensions between
+  objectivity and subjectivity—historically and across disciplines (science, social
+  science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective
+  procedures as the real engine of reliable knowledge.
+tags:
+- epistemology
+- philosophy
+- science
+- journalism
+- law
+- ai
+- bias
+- relativism
+- intersubjectivity
+- post-truth
 title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
 ---
 

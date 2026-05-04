@@ -1,16 +1,18 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Law
-  - Public Policy
-  - Cannabis
-  - California
+- Law
+- Public Policy
+- Cannabis
+- California
 date: '2026-02-12'
-description: >-
-  A practical legal and compliance overview of cannabis cultivation as it relates to (1) continuing federal prohibition under the Controlled Substances Act, (2) California’s statewide licensing regime administered by the Department of Cannab…
+description: A practical legal and compliance overview of cannabis cultivation as
+  it relates to (1) continuing federal prohibition under the Controlled Substances
+  Act, (2) California’s statewide licensing regime administered by the Department
+  of Cannab…
 draft: false
 keywords: []
 lastmod: '2026-05-04'
@@ -18,17 +20,29 @@ layout: single
 linkTitle: Kern County and the Cannabis Legal Environment
 markup: goldmark
 meta:
-  abstract: A practical legal and compliance overview of cannabis cultivation as it relates to (1) continuing federal prohibition under the Controlled Substances Act, (2) California’s statewide licensing regime administered by the Department of Cannabis Control (DCC), and (3) local control in Kern County and its cities. The article summarizes key constraints that shape feasibility - including Schedule I status, 280E tax treatment, banking friction, licensing categories, local authorization prerequisites, track-and-trace (METRC) obligations, security and recordkeeping rules, CEQA and environmental compliance, and enforcement exposure - with special emphasis on Kern County’s local prohibition of commercial activity and the limited, city-specific exceptions elsewhere in the county.
+  abstract: A practical legal and compliance overview of cannabis cultivation as it
+    relates to (1) continuing federal prohibition under the Controlled Substances
+    Act, (2) California’s statewide licensing regime administered by the Department
+    of Cannabis Control (DCC), and (3) local control in Kern County and its cities.
+    The article summarizes key constraints that shape feasibility - including Schedule
+    I status, 280E tax treatment, banking friction, licensing categories, local authorization
+    prerequisites, track-and-trace (METRC) obligations, security and recordkeeping
+    rules, CEQA and environmental compliance, and enforcement exposure - with special
+    emphasis on Kern County’s local prohibition of commercial activity and the limited,
+    city-specific exceptions elsewhere in the county.
   categories:
-    - Law
-    - Public Policy
-    - Cannabis
-    - California
+  - Law
+  - Public Policy
+  - Cannabis
+  - California
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: kern-county-cannabis-legal-environment
   date: '2026-02-12'
-  description: A practical legal and compliance overview of cannabis cultivation as it relates to (1) continuing federal prohibition under the Controlled Substances Act, (2) California’s statewide licensing regime administered by the Department of Cannab…
+  description: A practical legal and compliance overview of cannabis cultivation as
+    it relates to (1) continuing federal prohibition under the Controlled Substances
+    Act, (2) California’s statewide licensing regime administered by the Department
+    of Cannab…
   edition: ''
   format: markdown
   identifier: kern-county-cannabis-legal-environment
@@ -89,44 +103,10 @@ meta:
   status: published
   subject: []
   subjects:
-    - Law
-    - Public Policy
-    - Cannabis
-    - California
-    - kern-county
-    - california
-    - cannabis-law
-    - local-control
-    - zoning
-    - ceqa
-    - metrc
-    - 280e
-    - banking
-    - compliance
-  subtitle: Federal, California, and Kern County constraints on licensing, permitting, and operations
-  tags:
-    - kern-county
-    - california
-    - cannabis-law
-    - local-control
-    - zoning
-    - ceqa
-    - metrc
-    - 280e
-    - banking
-    - compliance
-  title: Kern County and the Cannabis Legal Environment
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: kern-county-cannabis-legal-environment
-summary: >-
-  A practical legal and compliance overview of cannabis cultivation as it relates to (1) continuing federal prohibition under the Controlled Substances Act, (2) California’s statewide licensing regime administered by the Department of Cannabis Control (DCC), and (3) local control in Kern County and its cities. The article summarizes key constraints that shape feasibility - including Schedule I status, 280E tax treatment, banking friction, licensing categories, local authorization prerequisites, track-and-trace (METRC) obligations, security and recordkeeping rules, CEQA and environmental compliance, and enforcement exposure - with special emphasis on Kern County’s local prohibition of commercial activity and the limited, city-specific exceptions elsewhere in the county.
-tags:
+  - Law
+  - Public Policy
+  - Cannabis
+  - California
   - kern-county
   - california
   - cannabis-law
@@ -137,6 +117,49 @@ tags:
   - 280e
   - banking
   - compliance
+  subtitle: Federal, California, and Kern County constraints on licensing, permitting,
+    and operations
+  tags:
+  - kern-county
+  - california
+  - cannabis-law
+  - local-control
+  - zoning
+  - ceqa
+  - metrc
+  - 280e
+  - banking
+  - compliance
+  title: Kern County and the Cannabis Legal Environment
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: kern-county-cannabis-legal-environment
+summary: A practical legal and compliance overview of cannabis cultivation as it relates
+  to (1) continuing federal prohibition under the Controlled Substances Act, (2) California’s
+  statewide licensing regime administered by the Department of Cannabis Control (DCC),
+  and (3) local control in Kern County and its cities. The article summarizes key
+  constraints that shape feasibility - including Schedule I status, 280E tax treatment,
+  banking friction, licensing categories, local authorization prerequisites, track-and-trace
+  (METRC) obligations, security and recordkeeping rules, CEQA and environmental compliance,
+  and enforcement exposure - with special emphasis on Kern County’s local prohibition
+  of commercial activity and the limited, city-specific exceptions elsewhere in the
+  county.
+tags:
+- kern-county
+- california
+- cannabis-law
+- local-control
+- zoning
+- ceqa
+- metrc
+- 280e
+- banking
+- compliance
 title: Kern County and the Cannabis Legal Environment
 ---
 

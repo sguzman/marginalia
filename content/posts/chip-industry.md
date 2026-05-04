@@ -1,19 +1,63 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Technology
+- Semiconductors
+- Industry
+- Supply Chains
+- Geopolitics
+date: '2026-02-12'
+description: 'A non-technical field guide to how the worldwide chip industry works:
+  design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
+draft: false
+keywords:
+- semiconductors
+- computer chips
+- chip industry
+- semiconductor supply chain
+- fabless
+- foundry
+- IDM
+- EDA
+- photolithography
+- process nodes
+- advanced packaging
+- HBM
+- CoWoS
+- OSAT
+- GPUs
+- AI accelerators
+- export controls
+- CHIPS Act
+- geopolitics
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The Worldwide Computer Chip Industry -- A Non-Technical F…
+markup: goldmark
+meta:
+  abstract: 'A non-technical field guide to how the worldwide chip industry works:
+    design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
+  categories:
   - Technology
   - Semiconductors
   - Industry
   - Supply Chains
   - Geopolitics
-date: '2026-02-12'
-description: >-
-  A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-chip-industry-field-guide
+  date: '2026-02-12'
+  description: 'A non-technical field guide to how the worldwide chip industry works:
+    design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: true
+  format: markdown
+  identifier: gva-chip-industry-field-guide-2026-02-12
+  keywords:
   - semiconductors
   - computer chips
   - chip industry
@@ -33,52 +77,6 @@ keywords:
   - export controls
   - CHIPS Act
   - geopolitics
-lastmod: '2026-05-04'
-layout: single
-linkTitle: The Worldwide Computer Chip Industry -- A Non-Technical F…
-markup: goldmark
-meta:
-  abstract: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
-  categories:
-    - Technology
-    - Semiconductors
-    - Industry
-    - Supply Chains
-    - Geopolitics
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-chip-industry-field-guide
-  date: '2026-02-12'
-  description: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: true
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva-chip-industry-field-guide-2026-02-12
-  keywords:
-    - semiconductors
-    - computer chips
-    - chip industry
-    - semiconductor supply chain
-    - fabless
-    - foundry
-    - IDM
-    - EDA
-    - photolithography
-    - process nodes
-    - advanced packaging
-    - HBM
-    - CoWoS
-    - OSAT
-    - GPUs
-    - AI accelerators
-    - export controls
-    - CHIPS Act
-    - geopolitics
   lang: en
   language: English
   library_of_congress_classification:
@@ -137,43 +135,17 @@ meta:
   slug: chip-industry
   status: published
   subject:
-    - Semiconductor industry
-    - Technology supply chains
-    - Industrial organization
-    - Geopolitics
+  - Semiconductor industry
+  - Technology supply chains
+  - Industrial organization
+  - Geopolitics
   subjects:
-    - Semiconductor industry
-    - Technology supply chains
-    - Industrial organization
-    - Geopolitics
+  - Semiconductor industry
+  - Technology supply chains
+  - Industrial organization
+  - Geopolitics
   subtitle: A Non-Technical Field Guide
   tags:
-    - chips
-    - semiconductors
-    - tsmc
-    - intel
-    - nvidia
-    - amd
-    - asml
-    - eda
-    - fabs
-    - packaging
-    - hbm
-    - supply-chain
-    - export-controls
-    - chips-act
-  title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: chip-industry
-summary: >-
-  A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.
-tags:
   - chips
   - semiconductors
   - tsmc
@@ -188,6 +160,32 @@ tags:
   - supply-chain
   - export-controls
   - chips-act
+  title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: chip-industry
+summary: 'A non-technical field guide to how the worldwide chip industry works: design,
+  fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
+tags:
+- chips
+- semiconductors
+- tsmc
+- intel
+- nvidia
+- amd
+- asml
+- eda
+- fabs
+- packaging
+- hbm
+- supply-chain
+- export-controls
+- chips-act
 title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
 ---
 

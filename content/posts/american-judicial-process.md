@@ -1,18 +1,52 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Law
+- Courts
+- United States Law
+- Judicial Administration
+date: '2026-04-30'
+description: A structured guide to U.S. judges and judicial offices across federal
+  and state systems, including tenure, appointment, elections, powers, and pay.
+draft: false
+keywords:
+- judges
+- judicial process
+- Article III
+- federal courts
+- state courts
+- magistrate judges
+- bankruptcy judges
+- judicial selection
+- judicial compensation
+- administrative law judges
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Judges in the Judicial Process of the United States
+markup: goldmark
+meta:
+  abstract: A structured guide to U.S. judges and judicial offices across federal
+    and state systems, including tenure, appointment, elections, powers, and pay.
+  categories:
   - Law
   - Courts
   - United States Law
   - Judicial Administration
-date: '2026-04-30'
-description: >-
-  A structured guide to U.S. judges and judicial offices across federal and state systems, including tenure, appointment, elections, powers, and pay.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: american-judicial-process
+  date: '2026-04-30'
+  description: A structured guide to U.S. judges and judicial offices across federal
+    and state systems, including tenure, appointment, elections, powers, and pay.
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: urn:gva:american-judicial-process
+  keywords:
   - judges
   - judicial process
   - Article III
@@ -23,38 +57,6 @@ keywords:
   - judicial selection
   - judicial compensation
   - administrative law judges
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Judges in the Judicial Process of the United States
-markup: goldmark
-meta:
-  abstract: A structured guide to U.S. judges and judicial offices across federal and state systems, including tenure, appointment, elections, powers, and pay.
-  categories:
-    - Law
-    - Courts
-    - United States Law
-    - Judicial Administration
-  creator:
-    - Salvador Guzman
-  dataset_id: american-judicial-process
-  date: '2026-04-30'
-  description: A structured guide to U.S. judges and judicial offices across federal and state systems, including tenure, appointment, elections, powers, and pay.
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-title-page: false
-  format: text/markdown
-  identifier: urn:gva:american-judicial-process
-  keywords:
-    - judges
-    - judicial process
-    - Article III
-    - federal courts
-    - state courts
-    - magistrate judges
-    - bankruptcy judges
-    - judicial selection
-    - judicial compensation
-    - administrative law judges
   lang: en
   language: English
   library_of_congress_classification:
@@ -112,41 +114,41 @@ meta:
   slug: american-judicial-process
   status: draft
   subject:
-    - Judges
-    - United States courts
-    - Judicial administration
+  - Judges
+  - United States courts
+  - Judicial administration
   subjects:
-    - Federal judges
-    - State judges
-    - Judicial selection
-    - Judicial powers
-    - Judicial compensation
+  - Federal judges
+  - State judges
+  - Judicial selection
+  - Judicial powers
+  - Judicial compensation
   subtitle: ''
   tags:
-    - judges
-    - courts
-    - american-law
-    - article-iii
-    - judicial-selection
-    - judicial-administration
-  title: Judges in the Judicial Process of the United States
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: american-judicial-process
-summary: >-
-  A structured guide to U.S. judges and judicial offices across federal and state systems, including tenure, appointment, elections, powers, and pay.
-tags:
   - judges
   - courts
   - american-law
   - article-iii
   - judicial-selection
   - judicial-administration
+  title: Judges in the Judicial Process of the United States
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: american-judicial-process
+summary: A structured guide to U.S. judges and judicial offices across federal and
+  state systems, including tenure, appointment, elections, powers, and pay.
+tags:
+- judges
+- courts
+- american-law
+- article-iii
+- judicial-selection
+- judicial-administration
 title: Judges in the Judicial Process of the United States
 ---
 

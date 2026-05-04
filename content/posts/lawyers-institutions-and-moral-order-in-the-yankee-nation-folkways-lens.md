@@ -1,44 +1,46 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Law
-  - United States Law
+- Law
+- United States Law
 date: '2026-03-21'
-description: >-
-  Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+description: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways
+  Lens
 draft: false
 keywords:
-  - Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
-  - Law
-  - United States Law
-  - Law of the United States
+- Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+- Law
+- United States Law
+- Law of the United States
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Lawyers, Institutions, and Moral Order in the “Yankee Nat…
 markup: goldmark
 meta:
-  abstract: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+  abstract: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways
+    Lens
   categories:
-    - Law
-    - United States Law
+  - Law
+  - United States Law
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
-  description: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+  description: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways
+    Lens
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
   keywords:
-    - Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
-    - Law
-    - United States Law
-    - Law of the United States
+  - Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+  - Law
+  - United States Law
+  - Law of the United States
   lang: en
   language: English
   library_of_congress_classification:
@@ -55,7 +57,8 @@ meta:
     collection: ''
     conversion:
       date: '2026-04-20'
-      source_docx: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens.docx
+      source_docx: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways
+        Lens.docx
       tool: pandoc 3.6
     discipline: law
     domain: law
@@ -87,7 +90,8 @@ meta:
     subject: ''
     time_scope: ''
     time_span: ''
-    topic: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+    topic: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways
+      Lens
     type: report
     version: 1.0.0
     year: 2026
@@ -96,31 +100,30 @@ meta:
   slug: lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
   status: complete
   subject:
-    - Law
-    - United States law
+  - Law
+  - United States law
   subjects:
-    - Law
-    - United States law
+  - Law
+  - United States law
   subtitle: ''
   tags:
-    - lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
-    - law
-    - united-states-law
+  - lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
+  - law
+  - united-states-law
   title: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
-summary: >-
-  Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
+summary: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
 tags:
-  - lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
-  - law
-  - united-states-law
+- lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens
+- law
+- united-states-law
 title: Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens
 ---
 

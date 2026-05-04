@@ -1,44 +1,51 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Computing
-  - Technology
+- Computing
+- Technology
 date: '2026-03-03'
-description: >-
-  Executive Summary: Noam Chomsky’s linguistic framework hinges on strong innate structures (Universal Grammar) and a sharp distinction between internal competence and observable performance. He has long argued that children learn language “…
+description: 'Executive Summary: Noam Chomsky’s linguistic framework hinges on strong
+  innate structures (Universal Grammar) and a sharp distinction between internal competence
+  and observable performance. He has long argued that children learn language “…'
 draft: false
 keywords:
-  - How LLMs Challenge Chomskyan Assumptions_ Analytical Report
-  - Computing
-  - Technology
-  - Computer science
+- How LLMs Challenge Chomskyan Assumptions_ Analytical Report
+- Computing
+- Technology
+- Computer science
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'How LLMs Challenge Chomskyan Assumptions: Analytical Report'
 markup: goldmark
 meta:
-  abstract: 'Executive Summary: Noam Chomsky’s linguistic framework hinges on strong innate structures (Universal Grammar) and a sharp distinction between internal competence and observable performance. He has long argued that children learn la…'
+  abstract: 'Executive Summary: Noam Chomsky’s linguistic framework hinges on strong
+    innate structures (Universal Grammar) and a sharp distinction between internal
+    competence and observable performance. He has long argued that children learn
+    la…'
   categories:
-    - Computing
-    - Technology
+  - Computing
+  - Technology
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-03'
-  description: 'Executive Summary: Noam Chomsky’s linguistic framework hinges on strong innate structures (Universal Grammar) and a sharp distinction between internal competence and observable performance. He has long argued that children learn language “…'
+  description: 'Executive Summary: Noam Chomsky’s linguistic framework hinges on strong
+    innate structures (Universal Grammar) and a sharp distinction between internal
+    competence and observable performance. He has long argued that children learn
+    language “…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:how-llms-challenge-chomskyan-assumptions-analytical-report
   keywords:
-    - How LLMs Challenge Chomskyan Assumptions_ Analytical Report
-    - Computing
-    - Technology
-    - Computer science
+  - How LLMs Challenge Chomskyan Assumptions_ Analytical Report
+  - Computing
+  - Technology
+  - Computer science
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +103,32 @@ meta:
   slug: how-llms-challenge-chomskyan-assumptions-analytical-report
   status: complete
   subject:
-    - Computer science
-    - Technology
+  - Computer science
+  - Technology
   subjects:
-    - Computer science
-    - Technology
+  - Computer science
+  - Technology
   subtitle: ''
   tags:
-    - how-llms-challenge-chomskyan-assumptions-analytical-report
-    - computing
-    - technology
+  - how-llms-challenge-chomskyan-assumptions-analytical-report
+  - computing
+  - technology
   title: 'How LLMs Challenge Chomskyan Assumptions: Analytical Report'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: how-llms-challenge-chomskyan-assumptions-analytical-report
-summary: >-
-  Executive Summary: Noam Chomsky’s linguistic framework hinges on strong innate structures (Universal Grammar) and a sharp distinction between internal competence and observable performance. He has long argued that children learn la…
+summary: 'Executive Summary: Noam Chomsky’s linguistic framework hinges on strong
+  innate structures (Universal Grammar) and a sharp distinction between internal competence
+  and observable performance. He has long argued that children learn la…'
 tags:
-  - how-llms-challenge-chomskyan-assumptions-analytical-report
-  - computing
-  - technology
+- how-llms-challenge-chomskyan-assumptions-analytical-report
+- computing
+- technology
 title: 'How LLMs Challenge Chomskyan Assumptions: Analytical Report'
 ---
 

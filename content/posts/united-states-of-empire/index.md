@@ -1,48 +1,56 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-04'
-description: >-
-  The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+description: The United States formally operates as a constitutional federation, but
+  many scholars and critics argue it often behaves like an empire – a powerful center
+  imposing a uniform vision over diverse regions. This report investigates whether
+  th…
 draft: false
 keywords:
-  - The United States of Empire
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- The United States of Empire
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: The United States of Empire
 markup: goldmark
 meta:
-  abstract: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+  abstract: The United States formally operates as a constitutional federation, but
+    many scholars and critics argue it often behaves like an empire – a powerful center
+    imposing a uniform vision over diverse regions. This report investigates whether
+    th…
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+  description: The United States formally operates as a constitutional federation,
+    but many scholars and critics argue it often behaves like an empire – a powerful
+    center imposing a uniform vision over diverse regions. This report investigates
+    whether th…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:the-united-states-of-empire
   keywords:
-    - The United States of Empire
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - The United States of Empire
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +108,34 @@ meta:
   slug: united-states-of-empire
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - the-united-states-of-empire
-    - politics
-    - history
-    - political-theory
+  - the-united-states-of-empire
+  - politics
+  - history
+  - political-theory
   title: The United States of Empire
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: united-states-of-empire
-summary: >-
-  The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+summary: The United States formally operates as a constitutional federation, but many
+  scholars and critics argue it often behaves like an empire – a powerful center imposing
+  a uniform vision over diverse regions. This report investigates whether th…
 tags:
-  - the-united-states-of-empire
-  - politics
-  - history
-  - political-theory
+- the-united-states-of-empire
+- politics
+- history
+- political-theory
 title: The United States of Empire
 ---
 
@@ -143,8 +152,7 @@ The United States formally operates as a constitutional federation, but many sch
 
 **Evolution of American Federalism.** The U.S. constitutional system was designed as a federation: power split between national and state governments. Britannica notes that a federation has “two levels of government” and a *“necessary tension between the federal state and its constituent parts,”* with the balance of power shifting over time[\[2\]](https://www.britannica.com/topic/federation#:~:text=In%20such%20a%20model%20there,rather%20than%20a%20static%20design). In theory, the U.S. is a federation where the federal government has only those powers expressly delegated to it, preserving state autonomy in other areas. Over history, however, pivotal changes (Civil War, the New Deal, Great Society, etc.) expanded federal authority. For example, by the late 20th century Congress regularly used the Commerce Clause and taxation/spending power to enact nationwide laws on civil rights, welfare, education and more – areas once left to states. This trend has often diluted state autonomy. Nonetheless, the U.S. Constitution retains the *Supremacy Clause* (federal law is supreme) and enumerated powers, so the question is how these have been interpreted and applied. We examine how this dynamic has played out in practice.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/united-states-of-empire/assets/media/rId24.png" style="width:5.83333in;height:3.89083in" />  
-*Figure: The U.S. Capitol, symbol of federal authority. Congress, courts, and bureaucracy in Washington set laws and policies intended to bind all states, reflecting central power in U.S. governance.*
+<img src="assets/media/rId24.png" style="width:5.83333in;height:3.89083in" / />*Figure: The U.S. Capitol, symbol of federal authority. Congress, courts, and bureaucracy in Washington set laws and policies intended to bind all states, reflecting central power in U.S. governance.*
 
 ## Political Theory Framework: Empire, Federalism, and Pluralism
 
@@ -154,8 +162,7 @@ The United States formally operates as a constitutional federation, but many sch
 
 - **Pluralism.** Pluralism is the principle that multiple groups, beliefs, and ways of life should coexist within one society. In political philosophy, pluralism means that different cultural or social communities live under the same political roof with mutual tolerance and institutional recognition. As a Wikipedia article summarizes, pluralism “implies diversity within a political body, which is seen to permit the peaceful coexistence of different interests, convictions, ideologies and lifestyles”[\[6\]](https://en.wikipedia.org/wiki/Pluralism_(political_philosophy)#:~:text=Pluralism%20as%20a%20political%20philosophy,2). A pluralistic system values local autonomy and variety, curbing any one group’s dominance. Applying this to the U.S., genuine pluralism would allow each region to maintain its folkways with minimal forced assimilation, within a cooperative national framework.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/united-states-of-empire/assets/media/rId32.png" style="width:5.83333in;height:3.70417in" />  
-*Figure: An example of an American small town. Town squares and local businesses embody regional folkways and traditions. In a truly pluralistic federation, local culture like this would be respected and preserved within national unity.*
+<img src="assets/media/rId32.png" style="width:5.83333in;height:3.70417in" / />*Figure: An example of an American small town. Town squares and local businesses embody regional folkways and traditions. In a truly pluralistic federation, local culture like this would be respected and preserved within national unity.*
 
 ## Mechanisms of Central Control over Regions
 

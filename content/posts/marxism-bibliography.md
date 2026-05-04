@@ -1,19 +1,62 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- marxism
+- bibliography
+- political-theory
+- intellectual-history
+- research-guide
+date: '2026-02-12'
+description: An annotated research guide and reading list of Marxist literature (primary
+  and secondary) from 1840 to 2025, arranged to track both historical development
+  and major thematic currents.
+draft: false
+keywords:
+- Karl Marx
+- Friedrich Engels
+- Marxism
+- Marxist literature
+- annotated bibliography
+- reading list
+- intellectual history
+- political economy
+- socialism
+- communism
+- Western Marxism
+- Leninism
+- Maoism
+- Frankfurt School
+- critical theory
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Comprehensive Marxist Literature (1840--2025): An Annotat…'
+markup: goldmark
+meta:
+  abstract: An annotated research guide and reading list of Marxist literature (primary
+    and secondary) from 1840 to 2025, arranged to track both historical development
+    and major thematic currents.
+  categories:
   - marxism
   - bibliography
   - political-theory
   - intellectual-history
   - research-guide
-date: '2026-02-12'
-description: >-
-  An annotated research guide and reading list of Marxist literature (primary and secondary) from 1840 to 2025, arranged to track both historical development and major thematic currents.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-marx-bibliography-2026-02-12
+  date: '2026-02-12'
+  description: An annotated research guide and reading list of Marxist literature
+    (primary and secondary) from 1840 to 2025, arranged to track both historical development
+    and major thematic currents.
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: true
+  format: article
+  identifier: gva:article:marx-bibliography:2026-02-12
+  keywords:
   - Karl Marx
   - Friedrich Engels
   - Marxism
@@ -29,48 +72,6 @@ keywords:
   - Maoism
   - Frankfurt School
   - critical theory
-lastmod: '2026-05-04'
-layout: single
-linkTitle: 'Comprehensive Marxist Literature (1840--2025): An Annotat…'
-markup: goldmark
-meta:
-  abstract: An annotated research guide and reading list of Marxist literature (primary and secondary) from 1840 to 2025, arranged to track both historical development and major thematic currents.
-  categories:
-    - marxism
-    - bibliography
-    - political-theory
-    - intellectual-history
-    - research-guide
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-marx-bibliography-2026-02-12
-  date: '2026-02-12'
-  description: An annotated research guide and reading list of Marxist literature (primary and secondary) from 1840 to 2025, arranged to track both historical development and major thematic currents.
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: true
-  epub_cover_image: cover.png
-  format: article
-  identifier: gva:article:marx-bibliography:2026-02-12
-  keywords:
-    - Karl Marx
-    - Friedrich Engels
-    - Marxism
-    - Marxist literature
-    - annotated bibliography
-    - reading list
-    - intellectual history
-    - political economy
-    - socialism
-    - communism
-    - Western Marxism
-    - Leninism
-    - Maoism
-    - Frankfurt School
-    - critical theory
   lang: en
   language: English
   library_of_congress_classification:
@@ -129,37 +130,17 @@ meta:
   slug: marxism-bibliography
   status: complete
   subject:
-    - Marxism
-    - Bibliography
-    - Political economy
-    - Intellectual history
+  - Marxism
+  - Bibliography
+  - Political economy
+  - Intellectual history
   subjects:
-    - Marxism
-    - Marxist literature
-    - Annotated bibliography
-    - Research methodology
+  - Marxism
+  - Marxist literature
+  - Annotated bibliography
+  - Research methodology
   subtitle: An Annotated Bibliography and Research Guide
   tags:
-    - marx
-    - engels
-    - marxism
-    - bibliography
-    - reading-list
-    - critical-theory
-    - socialism
-    - communism
-  title: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: research
-outputs:
-  - HTML
-  - RSS
-slug: marxism-bibliography
-summary: >-
-  An annotated research guide and reading list of Marxist literature (primary and secondary) from 1840 to 2025, arranged to track both historical development and major thematic currents.
-tags:
   - marx
   - engels
   - marxism
@@ -168,7 +149,30 @@ tags:
   - critical-theory
   - socialism
   - communism
-title: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide'
+  title: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography
+    and Research Guide'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: research
+outputs:
+- HTML
+- RSS
+slug: marxism-bibliography
+summary: An annotated research guide and reading list of Marxist literature (primary
+  and secondary) from 1840 to 2025, arranged to track both historical development
+  and major thematic currents.
+tags:
+- marx
+- engels
+- marxism
+- bibliography
+- reading-list
+- critical-theory
+- socialism
+- communism
+title: 'Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and
+  Research Guide'
 ---
 
 ## 1. Executive Overview

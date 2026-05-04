@@ -1,48 +1,56 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-02-27'
-description: >-
-  We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
+description: We define Managerial Yankee White Supremacy as a paternalistic ideology
+  in which (Northern) white elites disclaim overt racism but claim a unique moral
+  and administrative role in “uplifting” other races. In practice they frame racial
+  hiera…
 draft: false
 keywords:
-  - Yankee White Supremacy
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Yankee White Supremacy
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Yankee White Supremacy
 markup: goldmark
 meta:
-  abstract: We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial h…
+  abstract: We define Managerial Yankee White Supremacy as a paternalistic ideology
+    in which (Northern) white elites disclaim overt racism but claim a unique moral
+    and administrative role in “uplifting” other races. In practice they frame racial
+    h…
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-02-27'
-  description: We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial hiera…
+  description: We define Managerial Yankee White Supremacy as a paternalistic ideology
+    in which (Northern) white elites disclaim overt racism but claim a unique moral
+    and administrative role in “uplifting” other races. In practice they frame racial
+    hiera…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:yankee-white-supremacy
   keywords:
-    - Yankee White Supremacy
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Yankee White Supremacy
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +108,34 @@ meta:
   slug: yankee-white-supremacy
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - yankee-white-supremacy
-    - politics
-    - history
-    - political-theory
+  - yankee-white-supremacy
+  - politics
+  - history
+  - political-theory
   title: Yankee White Supremacy
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: yankee-white-supremacy
-summary: >-
-  We define Managerial Yankee White Supremacy as a paternalistic ideology in which (Northern) white elites disclaim overt racism but claim a unique moral and administrative role in “uplifting” other races. In practice they frame racial h…
+summary: We define Managerial Yankee White Supremacy as a paternalistic ideology in
+  which (Northern) white elites disclaim overt racism but claim a unique moral and
+  administrative role in “uplifting” other races. In practice they frame racial h…
 tags:
-  - yankee-white-supremacy
-  - politics
-  - history
-  - political-theory
+- yankee-white-supremacy
+- politics
+- history
+- political-theory
 title: Yankee White Supremacy
 ---
 

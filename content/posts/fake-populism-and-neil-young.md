@@ -1,44 +1,52 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Culture
-  - Media Studies
+- Culture
+- Media Studies
 date: '2026-03-04'
-description: >-
-  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+description: Neil Young’s career has long been framed around a “common man” authenticity
+  – as a solitary troubadour recording rough-and-ready folk-rock while championing
+  farmers, the working poor and environmental causes. Yet this cultivated persona
+  co…
 draft: false
 keywords:
-  - Fake Populism and Neil Young
-  - Culture
-  - Media Studies
-  - Literature and media studies
+- Fake Populism and Neil Young
+- Culture
+- Media Studies
+- Literature and media studies
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Fake Populism and Neil Young
 markup: goldmark
 meta:
-  abstract: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+  abstract: Neil Young’s career has long been framed around a “common man” authenticity
+    – as a solitary troubadour recording rough-and-ready folk-rock while championing
+    farmers, the working poor and environmental causes. Yet this cultivated persona
+    co…
   categories:
-    - Culture
-    - Media Studies
+  - Culture
+  - Media Studies
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+  description: Neil Young’s career has long been framed around a “common man” authenticity
+    – as a solitary troubadour recording rough-and-ready folk-rock while championing
+    farmers, the working poor and environmental causes. Yet this cultivated persona
+    co…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:fake-populism-and-neil-young
   keywords:
-    - Fake Populism and Neil Young
-    - Culture
-    - Media Studies
-    - Literature and media studies
+  - Fake Populism and Neil Young
+  - Culture
+  - Media Studies
+  - Literature and media studies
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +104,33 @@ meta:
   slug: fake-populism-and-neil-young
   status: complete
   subject:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subjects:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subtitle: ''
   tags:
-    - fake-populism-and-neil-young
-    - culture
-    - media-studies
+  - fake-populism-and-neil-young
+  - culture
+  - media-studies
   title: Fake Populism and Neil Young
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: fake-populism-and-neil-young
-summary: >-
-  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+summary: Neil Young’s career has long been framed around a “common man” authenticity
+  – as a solitary troubadour recording rough-and-ready folk-rock while championing
+  farmers, the working poor and environmental causes. Yet this cultivated persona
+  co…
 tags:
-  - fake-populism-and-neil-young
-  - culture
-  - media-studies
+- fake-populism-and-neil-young
+- culture
+- media-studies
 title: Fake Populism and Neil Young
 ---
 

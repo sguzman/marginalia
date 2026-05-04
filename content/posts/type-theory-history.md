@@ -1,18 +1,57 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- mathematics
+- computer science
+- logic
+- history of ideas
+date: '2026-02-12'
+description: Type theory arose as a foundational response to contradictions in early
+  set theory and evolved into a unifying language for logic, mathematics, and programming.
+  In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
+draft: false
+keywords:
+- type theory
+- typed lambda calculus
+- Curry-Howard correspondence
+- dependent types
+- polymorphism
+- type inference
+- Martin-Lof type theory
+- System F
+- proof assistants
+- formal verification
+- Homotopy Type Theory
+- programming languages
+lastmod: '2026-05-04'
+layout: single
+linkTitle: A Comprehensive History of Type Theory (1900s--Present)
+markup: goldmark
+meta:
+  abstract: A comprehensive history of type theory (1900s to the present), tracing
+    its mathematical origins, its integration into programming languages, and its
+    modern role in proof assistants and verified software/hardware.
+  categories:
   - mathematics
   - computer science
   - logic
   - history of ideas
-date: '2026-02-12'
-description: >-
-  Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: ''
+  date: '2026-02-12'
+  description: Type theory arose as a foundational response to contradictions in early
+    set theory and evolved into a unifying language for logic, mathematics, and programming.
+    In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: gva-type-theory-history-1900s-present
+  keywords:
   - type theory
   - typed lambda calculus
   - Curry-Howard correspondence
@@ -25,44 +64,6 @@ keywords:
   - formal verification
   - Homotopy Type Theory
   - programming languages
-lastmod: '2026-05-04'
-layout: single
-linkTitle: A Comprehensive History of Type Theory (1900s--Present)
-markup: goldmark
-meta:
-  abstract: A comprehensive history of type theory (1900s to the present), tracing its mathematical origins, its integration into programming languages, and its modern role in proof assistants and verified software/hardware.
-  categories:
-    - mathematics
-    - computer science
-    - logic
-    - history of ideas
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: ''
-  date: '2026-02-12'
-  description: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: text/markdown
-  identifier: gva-type-theory-history-1900s-present
-  keywords:
-    - type theory
-    - typed lambda calculus
-    - Curry-Howard correspondence
-    - dependent types
-    - polymorphism
-    - type inference
-    - Martin-Lof type theory
-    - System F
-    - proof assistants
-    - formal verification
-    - Homotopy Type Theory
-    - programming languages
   lang: en
   language: English
   library_of_congress_classification:
@@ -120,42 +121,23 @@ meta:
   slug: type-theory-history
   status: draft
   subject:
-    - Type theory
-    - Mathematical logic
-    - Programming languages
-    - Formal methods
+  - Type theory
+  - Mathematical logic
+  - Programming languages
+  - Formal methods
   subjects:
-    - Type theory
-    - History of type theory
-    - Typed lambda calculus
-    - Curry-Howard correspondence
-    - Dependent type theory
-    - Polymorphic type systems
-    - Type inference and unification
-    - Proof assistants and theorem provers
-    - Software and systems verification
-    - Homotopy Type Theory
+  - Type theory
+  - History of type theory
+  - Typed lambda calculus
+  - Curry-Howard correspondence
+  - Dependent type theory
+  - Polymorphic type systems
+  - Type inference and unification
+  - Proof assistants and theorem provers
+  - Software and systems verification
+  - Homotopy Type Theory
   subtitle: ''
   tags:
-    - type-theory
-    - logic
-    - foundations
-    - programming-languages
-    - formal-verification
-    - proof-assistants
-    - history
-  title: A Comprehensive History of Type Theory (1900s--Present)
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: type-theory-history
-summary: >-
-  A comprehensive history of type theory (1900s to the present), tracing its mathematical origins, its integration into programming languages, and its modern role in proof assistants and verified software/hardware.
-tags:
   - type-theory
   - logic
   - foundations
@@ -163,6 +145,26 @@ tags:
   - formal-verification
   - proof-assistants
   - history
+  title: A Comprehensive History of Type Theory (1900s--Present)
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: type-theory-history
+summary: A comprehensive history of type theory (1900s to the present), tracing its
+  mathematical origins, its integration into programming languages, and its modern
+  role in proof assistants and verified software/hardware.
+tags:
+- type-theory
+- logic
+- foundations
+- programming-languages
+- formal-verification
+- proof-assistants
+- history
 title: A Comprehensive History of Type Theory (1900s--Present)
 ---
 

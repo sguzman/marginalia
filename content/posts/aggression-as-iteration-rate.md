@@ -1,17 +1,62 @@
 ---
 ai_generated: false
 authors:
-  - Salvador Guzman
+- Salvador Guzman
 categories:
+- behavior
+- philosophy
+- mathematics
+- psychology
+date: '2023-06-29'
+description: An essay proposing a simple mathematical framing of behavior as a probability-like
+  competition among biological impulses, defining aggression as the pursuit and persistence
+  of strategy under conditions like scarcity and competition.
+draft: false
+keywords:
+- behavior as impulses
+- normalized impulse strength
+- aggression as strategic iteration
+- scarcity and aggression
+- aggression tolerance inheritance
+- behavioral iteration
+- mathematical psychology
+- evolutionary stable strategies
+- biological primitives
+- homeostasis and behavior
+- circadian rhythms
+- genetic determinism
+- phenotypic plasticity
+- extended phenotype
+- Richard Dawkins
+- strategic persistence
+- competition for actuation
+- impulse thresholds
+- behavioral grammar
+- rational calculus of behavior
+lastmod: '2023-06-29'
+layout: single
+linkTitle: Aggression as Iteration Rate
+markup: goldmark
+meta:
+  abstract: An essay proposing a simple mathematical framing of behavior as a probability-like
+    competition among biological impulses, defining aggression as the pursuit and
+    persistence of strategy under conditions like scarcity and competition.
+  categories:
   - behavior
   - philosophy
   - mathematics
   - psychology
-date: '2023-06-29'
-description: >-
-  An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: behavioral-modeling-2023
+  date: '2023-06-29'
+  description: An essay proposing a simple mathematical framing of behavior as a probability-like
+    competition among biological impulses, defining aggression as the pursuit and
+    persistence of strategy under conditions like scarcity and competition.
+  edition: ''
+  format: markdown
+  identifier: behavior-2023-001
+  keywords:
   - behavior as impulses
   - normalized impulse strength
   - aggression as strategic iteration
@@ -32,46 +77,6 @@ keywords:
   - impulse thresholds
   - behavioral grammar
   - rational calculus of behavior
-lastmod: '2023-06-29'
-layout: single
-linkTitle: Aggression as Iteration Rate
-markup: goldmark
-meta:
-  abstract: An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition.
-  categories:
-    - behavior
-    - philosophy
-    - mathematics
-    - psychology
-  creator:
-    - Salvador Guzman
-  dataset_id: behavioral-modeling-2023
-  date: '2023-06-29'
-  description: An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition.
-  edition: ''
-  format: markdown
-  identifier: behavior-2023-001
-  keywords:
-    - behavior as impulses
-    - normalized impulse strength
-    - aggression as strategic iteration
-    - scarcity and aggression
-    - aggression tolerance inheritance
-    - behavioral iteration
-    - mathematical psychology
-    - evolutionary stable strategies
-    - biological primitives
-    - homeostasis and behavior
-    - circadian rhythms
-    - genetic determinism
-    - phenotypic plasticity
-    - extended phenotype
-    - Richard Dawkins
-    - strategic persistence
-    - competition for actuation
-    - impulse thresholds
-    - behavioral grammar
-    - rational calculus of behavior
   lang: en
   language: en-US
   library_of_congress_classification:
@@ -128,38 +133,16 @@ meta:
   slug: aggression-as-iteration-rate
   status: final
   subject:
-    - behavior
+  - behavior
   subjects:
-    - behavioral modeling
-    - mathematical psychology
-    - evolutionary biology
-    - aggression
-    - game theory
-    - strategic iteration
+  - behavioral modeling
+  - mathematical psychology
+  - evolutionary biology
+  - aggression
+  - game theory
+  - strategic iteration
   subtitle: Behavior as a Mathematical Process
   tags:
-    - aggression
-    - strategy
-    - behavioral modeling
-    - impulses
-    - probability
-    - scarcity
-    - competition
-    - genetics
-    - phenotype
-    - extended phenotype
-  title: Aggression as Iteration Rate
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: aggression-as-iteration-rate
-summary: >-
-  An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition.
-tags:
   - aggression
   - strategy
   - behavioral modeling
@@ -170,6 +153,29 @@ tags:
   - genetics
   - phenotype
   - extended phenotype
+  title: Aggression as Iteration Rate
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: aggression-as-iteration-rate
+summary: An essay proposing a simple mathematical framing of behavior as a probability-like
+  competition among biological impulses, defining aggression as the pursuit and persistence
+  of strategy under conditions like scarcity and competition.
+tags:
+- aggression
+- strategy
+- behavioral modeling
+- impulses
+- probability
+- scarcity
+- competition
+- genetics
+- phenotype
+- extended phenotype
 title: Aggression as Iteration Rate
 ---
 

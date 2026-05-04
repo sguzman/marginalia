@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-22'
-description: >-
-  Republican Administrations as the Enforcers of U.S. Imperial Policy
+description: Republican Administrations as the Enforcers of U.S. Imperial Policy
 draft: false
 keywords:
-  - Republican Administrations as the Enforcers of U.S. Imperial Policy
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Republican Administrations as the Enforcers of U.S. Imperial Policy
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Republican Administrations as the Enforcers of U.S. Imper…
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: Republican Administrations as the Enforcers of U.S. Imperial Policy
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-22'
   description: Republican Administrations as the Enforcers of U.S. Imperial Policy
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:republican-administrations-as-the-enforcers-of-u-s-imperial-policy
   keywords:
-    - Republican Administrations as the Enforcers of U.S. Imperial Policy
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Republican Administrations as the Enforcers of U.S. Imperial Policy
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - republican-administrations-as-the-enforcers-of-u-s-imperial-policy
-    - politics
-    - history
-    - political-theory
+  - republican-administrations-as-the-enforcers-of-u-s-imperial-policy
+  - politics
+  - history
+  - political-theory
   title: Republican Administrations as the Enforcers of U.S. Imperial Policy
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: republican-administrations-as-the-enforcers-of-u-s-imperial-policy
-summary: >-
-  Republican Administrations as the Enforcers of U.S. Imperial Policy
+summary: Republican Administrations as the Enforcers of U.S. Imperial Policy
 tags:
-  - republican-administrations-as-the-enforcers-of-u-s-imperial-policy
-  - politics
-  - history
-  - political-theory
+- republican-administrations-as-the-enforcers-of-u-s-imperial-policy
+- politics
+- history
+- political-theory
 title: Republican Administrations as the Enforcers of U.S. Imperial Policy
 ---
 

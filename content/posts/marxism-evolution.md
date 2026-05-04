@@ -1,17 +1,63 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- political-theory
+- intellectual-history
+- modern-history
+date: '2026-02-12'
+description: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao,
+  Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848
+  to 2026.
+draft: false
+keywords:
+- Marxism
+- Karl Marx
+- Friedrich Engels
+- communism
+- socialism
+- Leninism
+- Bolsheviks
+- Soviet Union
+- Stalinism
+- Trotskyism
+- Maoism
+- Western Marxism
+- Frankfurt School
+- Gramsci
+- Eurocommunism
+- social democracy
+- Cold War
+- planned economy
+- market reforms
+- 2008 financial crisis
+- political history
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Evolution of Marxism
+markup: goldmark
+meta:
+  abstract: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western
+    Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
+  categories:
   - political-theory
   - intellectual-history
   - modern-history
-date: '2026-02-12'
-description: >-
-  How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva.marx-evolution
+  date: '2026-02-12'
+  description: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao,
+    Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848
+    to 2026.
+  edition: '1'
+  epub-chapter-level: 0
+  epub-title-page: false
+  format: article
+  identifier: gva:article:marx-evolution:2026-02-12
+  keywords:
   - Marxism
   - Karl Marx
   - Friedrich Engels
@@ -33,52 +79,6 @@ keywords:
   - market reforms
   - 2008 financial crisis
   - political history
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Evolution of Marxism
-markup: goldmark
-meta:
-  abstract: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
-  categories:
-    - political-theory
-    - intellectual-history
-    - modern-history
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva.marx-evolution
-  date: '2026-02-12'
-  description: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
-  edition: '1'
-  epub-chapter-level: 0
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: article
-  identifier: gva:article:marx-evolution:2026-02-12
-  keywords:
-    - Marxism
-    - Karl Marx
-    - Friedrich Engels
-    - communism
-    - socialism
-    - Leninism
-    - Bolsheviks
-    - Soviet Union
-    - Stalinism
-    - Trotskyism
-    - Maoism
-    - Western Marxism
-    - Frankfurt School
-    - Gramsci
-    - Eurocommunism
-    - social democracy
-    - Cold War
-    - planned economy
-    - market reforms
-    - 2008 financial crisis
-    - political history
   lang: en
   language: English
   library_of_congress_classification:
@@ -137,43 +137,17 @@ meta:
   slug: marxism-evolution
   status: published
   subject:
-    - History of Marxism
-    - Socialist movements
-    - Communist movements
-    - Political ideologies
+  - History of Marxism
+  - Socialist movements
+  - Communist movements
+  - Political ideologies
   subjects:
-    - History of Marxism
-    - Socialist movements
-    - Communist movements
-    - Political ideologies
+  - History of Marxism
+  - Socialist movements
+  - Communist movements
+  - Political ideologies
   subtitle: A timeline and conceptual map (1840s–2026)
   tags:
-    - marxism
-    - marx
-    - engels
-    - lenin
-    - stalin
-    - trotsky
-    - mao
-    - comintern
-    - eurocommunism
-    - western-marxism
-    - social-democracy
-    - cold-war
-    - political-theory
-    - timeline
-  title: Evolution of Marxism
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: essay
-outputs:
-  - HTML
-  - RSS
-slug: marxism-evolution
-summary: >-
-  How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
-tags:
   - marxism
   - marx
   - engels
@@ -188,6 +162,32 @@ tags:
   - cold-war
   - political-theory
   - timeline
+  title: Evolution of Marxism
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: essay
+outputs:
+- HTML
+- RSS
+slug: marxism-evolution
+summary: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western
+  Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
+tags:
+- marxism
+- marx
+- engels
+- lenin
+- stalin
+- trotsky
+- mao
+- comintern
+- eurocommunism
+- western-marxism
+- social-democracy
+- cold-war
+- political-theory
+- timeline
 title: Evolution of Marxism
 ---
 

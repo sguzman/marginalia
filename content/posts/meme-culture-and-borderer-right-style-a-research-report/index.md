@@ -1,44 +1,49 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Culture
-  - Media Studies
+- Culture
+- Media Studies
 date: '2026-03-04'
-description: >-
-  Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…
+description: 'Executive Summary: Internet meme culture is characterized by irreverence,
+  mockery, and transgressive humor – traits that closely align with what we define
+  as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
 draft: false
 keywords:
-  - Meme Culture and “Borderer-Right” Style_ A Research Report
-  - Culture
-  - Media Studies
-  - Literature and media studies
+- Meme Culture and “Borderer-Right” Style_ A Research Report
+- Culture
+- Media Studies
+- Literature and media studies
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Meme Culture and “Borderer-Right” Style: A Research Report'
 markup: goldmark
 meta:
-  abstract: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, per…'
+  abstract: 'Executive Summary: Internet meme culture is characterized by irreverence,
+    mockery, and transgressive humor – traits that closely align with what we define
+    as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, per…'
   categories:
-    - Culture
-    - Media Studies
+  - Culture
+  - Media Studies
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
+  description: 'Executive Summary: Internet meme culture is characterized by irreverence,
+    mockery, and transgressive humor – traits that closely align with what we define
+    as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:meme-culture-and-borderer-right-style-a-research-report
   keywords:
-    - Meme Culture and “Borderer-Right” Style_ A Research Report
-    - Culture
-    - Media Studies
-    - Literature and media studies
+  - Meme Culture and “Borderer-Right” Style_ A Research Report
+  - Culture
+  - Media Studies
+  - Literature and media studies
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +101,32 @@ meta:
   slug: meme-culture-and-borderer-right-style-a-research-report
   status: complete
   subject:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subjects:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subtitle: ''
   tags:
-    - meme-culture-and-borderer-right-style-a-research-report
-    - culture
-    - media-studies
+  - meme-culture-and-borderer-right-style-a-research-report
+  - culture
+  - media-studies
   title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: meme-culture-and-borderer-right-style-a-research-report
-summary: >-
-  Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, per…
+summary: 'Executive Summary: Internet meme culture is characterized by irreverence,
+  mockery, and transgressive humor – traits that closely align with what we define
+  as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, per…'
 tags:
-  - meme-culture-and-borderer-right-style-a-research-report
-  - culture
-  - media-studies
+- meme-culture-and-borderer-right-style-a-research-report
+- culture
+- media-studies
 title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
 ---
 
@@ -335,8 +341,7 @@ These mappings are illustrated in Table 2 below:
 
 *We embed an example image below illustrating disrespectful humor – a classical statue with “thug life” sunglasses, symbolizing how culture milestones are treated irreverently (Figure 1).*
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/meme-culture-and-borderer-right-style-a-research-report/assets/media/rId62.png" style="width:5.83333in;height:3.28417in" />  
-*Figure 1: A meme-ready classical statue (“digital carnivalesque” mockery). Such images exemplify meme culture’s* *irreverence toward prestige, mocking high culture with low-brow humor[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions) (source: UOC News)[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions).*
+<img src="assets/media/rId62.png" style="width:5.83333in;height:3.28417in" / />*Figure 1: A meme-ready classical statue (“digital carnivalesque” mockery). Such images exemplify meme culture’s* *irreverence toward prestige, mocking high culture with low-brow humor[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions) (source: UOC News)[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions).*
 
 ## 6. Cross-Ideological Adoption
 

@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-21'
-description: >-
-  The U.S. Post–World War II Boom, 1945–1975
+description: The U.S. Post–World War II Boom, 1945–1975
 draft: false
 keywords:
-  - The U.S. Post–World War II Boom, 1945–1975
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- The U.S. Post–World War II Boom, 1945–1975
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: The U.S. Post–World War II Boom, 1945–1975
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: The U.S. Post–World War II Boom, 1945–1975
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: The U.S. Post–World War II Boom, 1945–1975
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:the-u-s-post-world-war-ii-boom-1945-1975
   keywords:
-    - The U.S. Post–World War II Boom, 1945–1975
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - The U.S. Post–World War II Boom, 1945–1975
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: the-u-s-post-world-war-ii-boom-1945-1975
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - the-u-s-post-world-war-ii-boom-1945-1975
-    - politics
-    - history
-    - political-theory
+  - the-u-s-post-world-war-ii-boom-1945-1975
+  - politics
+  - history
+  - political-theory
   title: The U.S. Post–World War II Boom, 1945–1975
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: the-u-s-post-world-war-ii-boom-1945-1975
-summary: >-
-  The U.S. Post–World War II Boom, 1945–1975
+summary: The U.S. Post–World War II Boom, 1945–1975
 tags:
-  - the-u-s-post-world-war-ii-boom-1945-1975
-  - politics
-  - history
-  - political-theory
+- the-u-s-post-world-war-ii-boom-1945-1975
+- politics
+- history
+- political-theory
 title: The U.S. Post–World War II Boom, 1945–1975
 ---
 

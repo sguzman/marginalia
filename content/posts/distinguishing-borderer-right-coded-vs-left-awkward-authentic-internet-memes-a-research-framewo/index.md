@@ -1,44 +1,48 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Culture
-  - Media Studies
+- Culture
+- Media Studies
 date: '2026-03-04'
-description: >-
-  Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+description: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet
+  Memes A Research Framewo
 draft: false
 keywords:
-  - Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo
-  - Culture
-  - Media Studies
-  - Literature and media studies
+- Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_
+  A Research Framewo
+- Culture
+- Media Studies
+- Literature and media studies
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Au…
 markup: goldmark
 meta:
-  abstract: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+  abstract: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet
+    Memes A Research Framewo
   categories:
-    - Culture
-    - Media Studies
+  - Culture
+  - Media Studies
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+  description: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet
+    Memes A Research Framewo
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
   keywords:
-    - Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo
-    - Culture
-    - Media Studies
-    - Literature and media studies
+  - Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_
+    A Research Framewo
+  - Culture
+  - Media Studies
+  - Literature and media studies
   lang: en
   language: English
   library_of_congress_classification:
@@ -55,7 +59,8 @@ meta:
     collection: ''
     conversion:
       date: '2026-04-20'
-      source_docx: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo.docx
+      source_docx: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic”
+        Internet Memes A Research Framewo.docx
       tool: pandoc 3.6
     discipline: media and cultural studies
     domain: culture
@@ -68,7 +73,8 @@ meta:
     level: ''
     method: ''
     methods: []
-    name: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+    name: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet
+      Memes A Research Framewo
     notes: ''
     number: 059
     organization: Marginalia
@@ -87,7 +93,8 @@ meta:
     subject: ''
     time_scope: ''
     time_span: ''
-    topic: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+    topic: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet
+      Memes A Research Framewo
     type: report
     version: 1.0.0
     year: 2026
@@ -96,32 +103,34 @@ meta:
   slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
   status: complete
   subject:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subjects:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subtitle: ''
   tags:
-    - distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-    - culture
-    - media-studies
-  title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
+  - distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+  - culture
+  - media-studies
+  title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet
+    Memes: A Research Framework'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-summary: >-
-  Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+summary: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet
+  Memes A Research Framewo
 tags:
-  - distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-  - culture
-  - media-studies
-title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
+- distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+- culture
+- media-studies
+title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet
+  Memes: A Research Framework'
 ---
 
 ## Executive Summary
@@ -236,14 +245,11 @@ Based on our schema and related research, we predict the following patterns (hyp
 
 **Political Culture Implications:** This schema highlights how digital humor participates in political socialization. If borderer memes do indeed normalize contempt and scapegoating, this could erode discourse civility and empower extremist groups. Conversely, a rise in “authentic” memes suggests younger activists value sincerity and personal narrative. Understanding these dynamics is vital: memes are **tools** for emotional mobilization[\[3\]](https://europeanjournalofhumour.org/ejhr/article/download/1157/906/5770#:~:text=far,pixel%20bleed%2C%20clashing%20fonts%2C%20crude)[\[6\]](https://arxiv.org/html/2510.15256v1#:~:text=Tenderness%20%26%20Care%20Fosters%20solidarity,Gallagher%20et%20al). Educators and moderators might leverage this by promoting more empathy-driven humor, or at least recognizing how certain meme styles can radicalize or alienate.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/assets/media/rId37.png" style="width:5.83333in;height:2.98667in" />  
-*Figure 1. Example of an “awkward-authentic” meme style: a startled bride (sourced from a stock wedding photo) superimposed on a cityscape. The image’s humor comes from its childlike awkwardness and inoffensive absurdity, exemplifying how left‑leaning memes often use* *vulnerability and naïve humor* *(cf. RollStone on pro-cringe[\[5\]](https://rollingstoneindia.com/am-i-cringey-yes-do-i-care-absolutely-not/#:~:text=carpets,cringe)). In contrast, Figures 2–3 below show memes with* *right-coded* *mockery (they target others to provoke “lulz”).*
+<img src="assets/media/rId37.png" style="width:5.83333in;height:2.98667in" / />*Figure 1. Example of an “awkward-authentic” meme style: a startled bride (sourced from a stock wedding photo) superimposed on a cityscape. The image’s humor comes from its childlike awkwardness and inoffensive absurdity, exemplifying how left‑leaning memes often use* *vulnerability and naïve humor* *(cf. RollStone on pro-cringe[\[5\]](https://rollingstoneindia.com/am-i-cringey-yes-do-i-care-absolutely-not/#:~:text=carpets,cringe)). In contrast, Figures 2–3 below show memes with* *right-coded* *mockery (they target others to provoke “lulz”).*
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/assets/media/rId40.png" style="width:5.83333in;height:7.1201in" />  
-*Figure 2. Example of a “borderer/right‑coded” meme: a satire “conspiracy pyramid chart” mocking conspiracy theorists. It uses labeled layers (“Science Denial,” “Will to Power,” etc.) with captions like “you are a threat to yourself.” This high‑irony meme ridicules an out‑group and employs a hard-edged graphic style, consistent with studies that far‑right memes often normalize extremist ideas under a veneer of humor[\[8\]](https://europeanjournalofhumour.org/ejhr/article/download/1157/906/5770#:~:text=strategic%20provocation%20of%20outrage,ironic%20distancing%3A%20their%20very%20look)[\[4\]](https://arxiv.org/html/2510.15256v1#:~:text=Memes%2C%20as%20humorous%20and%20viral,revealed%20that%20exposure%20to%20memes).*
+<img src="assets/media/rId40.png" style="width:5.83333in;height:7.1201in" / />*Figure 2. Example of a “borderer/right‑coded” meme: a satire “conspiracy pyramid chart” mocking conspiracy theorists. It uses labeled layers (“Science Denial,” “Will to Power,” etc.) with captions like “you are a threat to yourself.” This high‑irony meme ridicules an out‑group and employs a hard-edged graphic style, consistent with studies that far‑right memes often normalize extremist ideas under a veneer of humor[\[8\]](https://europeanjournalofhumour.org/ejhr/article/download/1157/906/5770#:~:text=strategic%20provocation%20of%20outrage,ironic%20distancing%3A%20their%20very%20look)[\[4\]](https://arxiv.org/html/2510.15256v1#:~:text=Memes%2C%20as%20humorous%20and%20viral,revealed%20that%20exposure%20to%20memes).*
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/assets/media/rId43.png" style="width:4.16667in;height:3.88889in" />  
-*Figure 3. Another left‑coded example: a “Chill Pill” meme (text “CHILL 250000 mg”). This clean, simple image dispenses a gentle message (“relax”), reflecting how left/awkward memes often convey* *self-aware, empathetic humor* *with no target. It contrasts with rightist memes’ confrontational tone[\[8\]](https://europeanjournalofhumour.org/ejhr/article/download/1157/906/5770#:~:text=strategic%20provocation%20of%20outrage,ironic%20distancing%3A%20their%20very%20look)[\[4\]](https://arxiv.org/html/2510.15256v1#:~:text=Memes%2C%20as%20humorous%20and%20viral,revealed%20that%20exposure%20to%20memes).*
+<img src="assets/media/rId43.png" style="width:4.16667in;height:3.88889in" / />*Figure 3. Another left‑coded example: a “Chill Pill” meme (text “CHILL 250000 mg”). This clean, simple image dispenses a gentle message (“relax”), reflecting how left/awkward memes often convey* *self-aware, empathetic humor* *with no target. It contrasts with rightist memes’ confrontational tone[\[8\]](https://europeanjournalofhumour.org/ejhr/article/download/1157/906/5770#:~:text=strategic%20provocation%20of%20outrage,ironic%20distancing%3A%20their%20very%20look)[\[4\]](https://arxiv.org/html/2510.15256v1#:~:text=Memes%2C%20as%20humorous%20and%20viral,revealed%20that%20exposure%20to%20memes).*
 
 ## 5. Conclusion
 

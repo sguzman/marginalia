@@ -1,14 +1,15 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Political Science
-  - Sociology
+- Political Science
+- Sociology
 date: '2026-05-04'
-description: >-
-  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+description: This report examines the so-called “Yankee-left” – broadly identified
+  with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+  ruling formation. We argue that a class of highly educated professionals and bureauc…
 draft: false
 keywords: []
 lastmod: '2026-05-04'
@@ -16,15 +17,21 @@ layout: single
 linkTitle: 'The Yankee Left: Managerial Elites and Moralizing Rule'
 markup: goldmark
 meta:
-  abstract: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. It argues that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse.
+  abstract: This report examines the so-called “Yankee-left” – broadly identified
+    with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+    ruling formation. It argues that a class of highly educated professionals and
+    bureaucrats has come to dominate culture and politics through technocratic expertise,
+    symbolic status rituals, and a moralistic discourse.
   categories:
-    - Political Science
-    - Sociology
+  - Political Science
+  - Sociology
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-05-04'
-  description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+  description: This report examines the so-called “Yankee-left” – broadly identified
+    with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+    ruling formation. We argue that a class of highly educated professionals and bureauc…
   edition: ''
   format: markdown
   identifier: the-yankee-left
@@ -85,34 +92,37 @@ meta:
   status: published
   subject: []
   subjects:
-    - Political Science
-    - Sociology
-    - Yankee Left
-    - Managerialism
-    - Cultural Hegemony
-    - Elite Theory
+  - Political Science
+  - Sociology
+  - Yankee Left
+  - Managerialism
+  - Cultural Hegemony
+  - Elite Theory
   subtitle: ''
   tags:
-    - Yankee Left
-    - Managerialism
-    - Cultural Hegemony
-    - Elite Theory
+  - Yankee Left
+  - Managerialism
+  - Cultural Hegemony
+  - Elite Theory
   title: 'The Yankee Left: Managerial Elites and Moralizing Rule'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: the-yankee-left
-summary: >-
-  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. It argues that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse.
+summary: This report examines the so-called “Yankee-left” – broadly identified with
+  Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing
+  ruling formation. It argues that a class of highly educated professionals and bureaucrats
+  has come to dominate culture and politics through technocratic expertise, symbolic
+  status rituals, and a moralistic discourse.
 tags:
-  - Yankee Left
-  - Managerialism
-  - Cultural Hegemony
-  - Elite Theory
+- Yankee Left
+- Managerialism
+- Cultural Hegemony
+- Elite Theory
 title: 'The Yankee Left: Managerial Elites and Moralizing Rule'
 ---
 

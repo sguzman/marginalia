@@ -1,19 +1,54 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- history
+- political-ideology
+- fascism
+- nazism
+- germany
+date: '2026-02-12'
+description: An analytical timeline-style essay on the formation, core components,
+  and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
+draft: false
+keywords:
+- Adolf Hitler
+- Nazism
+- National Socialism
+- ideology
+- antisemitism
+- racial nationalism
+- Führerprinzip
+- Lebensraum
+- Weimar Republic
+- World War II
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+markup: goldmark
+meta:
+  abstract: An analytical timeline-style essay on the formation, core components,
+    and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
+  categories:
   - history
   - political-ideology
   - fascism
   - nazism
   - germany
-date: '2026-02-12'
-description: >-
-  An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva-hitlers-ideology-1907-1945
+  date: '2026-02-12'
+  description: An analytical timeline-style essay on the formation, core components,
+    and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: markdown
+  identifier: gva:hitlers-ideology-1907-1945
+  keywords:
   - Adolf Hitler
   - Nazism
   - National Socialism
@@ -24,43 +59,6 @@ keywords:
   - Lebensraum
   - Weimar Republic
   - World War II
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-markup: goldmark
-meta:
-  abstract: An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
-  categories:
-    - history
-    - political-ideology
-    - fascism
-    - nazism
-    - germany
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva-hitlers-ideology-1907-1945
-  date: '2026-02-12'
-  description: An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:hitlers-ideology-1907-1945
-  keywords:
-    - Adolf Hitler
-    - Nazism
-    - National Socialism
-    - ideology
-    - antisemitism
-    - racial nationalism
-    - Führerprinzip
-    - Lebensraum
-    - Weimar Republic
-    - World War II
   lang: en
   language: English
   library_of_congress_classification:
@@ -119,39 +117,39 @@ meta:
   slug: hitler-philosophy
   status: published
   subject:
-    - Hitler's ideology (1907--1945)
+  - Hitler's ideology (1907--1945)
   subjects:
-    - Hitler, Adolf, 1889-1945 -- political and social views
-    - National socialism -- ideology
-    - Germany -- history -- 1933-1945
-    - Antisemitism -- Europe -- history -- 20th century
-    - Fascism -- Germany
+  - Hitler, Adolf, 1889-1945 -- political and social views
+  - National socialism -- ideology
+  - Germany -- history -- 1933-1945
+  - Antisemitism -- Europe -- history -- 20th century
+  - Fascism -- Germany
   subtitle: Continuity and tactical adaptation from Vienna to 1945
   tags:
-    - hitler
-    - nazism
-    - fascism
-    - ideology
-    - germany
-    - wwii
-  title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: hitler-philosophy
-summary: >-
-  An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
-tags:
   - hitler
   - nazism
   - fascism
   - ideology
   - germany
   - wwii
+  title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: hitler-philosophy
+summary: An analytical timeline-style essay on the formation, core components, and
+  historical continuity of Adolf Hitler's ideology from 1907 to 1945.
+tags:
+- hitler
+- nazism
+- fascism
+- ideology
+- germany
+- wwii
 title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
 ---
 

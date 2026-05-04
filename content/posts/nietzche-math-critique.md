@@ -1,19 +1,18 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Philosophy
-  - Theory
+- Philosophy
+- Theory
 date: '2026-04-20'
-description: >-
-  Dead Symbols and their Worship
+description: Dead Symbols and their Worship
 draft: false
 keywords:
-  - Dead Symbols and their Worship
-  - Philosophy
-  - Theory
+- Dead Symbols and their Worship
+- Philosophy
+- Theory
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Dead Symbols and their Worship
@@ -21,10 +20,10 @@ markup: goldmark
 meta:
   abstract: Dead Symbols and their Worship
   categories:
-    - Philosophy
-    - Theory
+  - Philosophy
+  - Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-20'
   description: Dead Symbols and their Worship
@@ -34,9 +33,9 @@ meta:
   format: markdown
   identifier: urn:marginalia:nietzche-math-critique
   keywords:
-    - Dead Symbols and their Worship
-    - Philosophy
-    - Theory
+  - Dead Symbols and their Worship
+  - Philosophy
+  - Theory
   lang: en
   language: English
   library_of_congress_classification:
@@ -94,31 +93,30 @@ meta:
   slug: nietzche-math-critique
   status: complete
   subject:
-    - Philosophy
-    - Theory
+  - Philosophy
+  - Theory
   subjects:
-    - Philosophy
-    - Theory
+  - Philosophy
+  - Theory
   subtitle: ''
   tags:
-    - nietzche-math-critique
-    - philosophy
-    - theory
+  - nietzche-math-critique
+  - philosophy
+  - theory
   title: Dead Symbols and their Worship
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: nietzche-math-critique
-summary: >-
-  Dead Symbols and their Worship
+summary: Dead Symbols and their Worship
 tags:
-  - nietzche-math-critique
-  - philosophy
-  - theory
+- nietzche-math-critique
+- philosophy
+- theory
 title: Dead Symbols and their Worship
 ---
 

@@ -1,18 +1,57 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Mathematics
+- Analysis
+- Functional Analysis
+- History of Mathematics
+date: '2026-04-22'
+description: 'A long-form history of functional analysis: Banach and Hilbert spaces,
+  operators, duality, distributions, and the concrete analytic problems that produced
+  them.'
+draft: false
+keywords:
+- functional analysis
+- history of functional analysis
+- Banach space
+- Hilbert space
+- operator theory
+- spectral theorem
+- compact operators
+- duality
+- distribution theory
+- PDE
+- Fourier analysis
+- quantum mechanics
+lastmod: '2026-05-04'
+layout: single
+linkTitle: A History of Functional Analysis
+markup: goldmark
+meta:
+  abstract: 'A long-form history of functional analysis: Banach and Hilbert spaces,
+    operators, duality, distributions, and the concrete analytic problems that produced
+    them.'
+  categories:
   - Mathematics
   - Analysis
   - Functional Analysis
   - History of Mathematics
-date: '2026-04-22'
-description: >-
-  A long-form history of functional analysis: Banach and Hilbert spaces, operators, duality, distributions, and the concrete analytic problems that produced them.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: functional-analysis-history
+  date: '2026-04-22'
+  description: 'A long-form history of functional analysis: Banach and Hilbert spaces,
+    operators, duality, distributions, and the concrete analytic problems that produced
+    them.'
+  edition: '1.0'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: text/markdown
+  identifier: urn:gva:functional-analysis-history
+  keywords:
   - functional analysis
   - history of functional analysis
   - Banach space
@@ -25,40 +64,6 @@ keywords:
   - PDE
   - Fourier analysis
   - quantum mechanics
-lastmod: '2026-05-04'
-layout: single
-linkTitle: A History of Functional Analysis
-markup: goldmark
-meta:
-  abstract: 'A long-form history of functional analysis: Banach and Hilbert spaces, operators, duality, distributions, and the concrete analytic problems that produced them.'
-  categories:
-    - Mathematics
-    - Analysis
-    - Functional Analysis
-    - History of Mathematics
-  creator:
-    - Salvador Guzman
-  dataset_id: functional-analysis-history
-  date: '2026-04-22'
-  description: 'A long-form history of functional analysis: Banach and Hilbert spaces, operators, duality, distributions, and the concrete analytic problems that produced them.'
-  edition: '1.0'
-  epub-chapter-level: 2
-  epub-title-page: false
-  format: text/markdown
-  identifier: urn:gva:functional-analysis-history
-  keywords:
-    - functional analysis
-    - history of functional analysis
-    - Banach space
-    - Hilbert space
-    - operator theory
-    - spectral theorem
-    - compact operators
-    - duality
-    - distribution theory
-    - PDE
-    - Fourier analysis
-    - quantum mechanics
   lang: en
   language: English
   library_of_congress_classification:
@@ -116,37 +121,18 @@ meta:
   slug: a-history-of-functional-analysis
   status: draft
   subject:
-    - Functional analysis
-    - History of mathematics
-    - Mathematical analysis
+  - Functional analysis
+  - History of mathematics
+  - Mathematical analysis
   subjects:
-    - Functional analysis
-    - Banach spaces
-    - Hilbert spaces
-    - Operator theory
-    - Distribution theory
-    - History of mathematics
+  - Functional analysis
+  - Banach spaces
+  - Hilbert spaces
+  - Operator theory
+  - Distribution theory
+  - History of mathematics
   subtitle: ''
   tags:
-    - functional-analysis
-    - analysis
-    - math-history
-    - operator-theory
-    - banach-spaces
-    - hilbert-spaces
-    - distributions
-  title: A History of Functional Analysis
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: a-history-of-functional-analysis
-summary: >-
-  A long-form history of functional analysis: Banach and Hilbert spaces, operators, duality, distributions, and the concrete analytic problems that produced them.
-tags:
   - functional-analysis
   - analysis
   - math-history
@@ -154,6 +140,25 @@ tags:
   - banach-spaces
   - hilbert-spaces
   - distributions
+  title: A History of Functional Analysis
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: a-history-of-functional-analysis
+summary: 'A long-form history of functional analysis: Banach and Hilbert spaces, operators,
+  duality, distributions, and the concrete analytic problems that produced them.'
+tags:
+- functional-analysis
+- analysis
+- math-history
+- operator-theory
+- banach-spaces
+- hilbert-spaces
+- distributions
 title: A History of Functional Analysis
 ---
 

@@ -1,48 +1,50 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Political Theory
-  - History
-  - Socialism
+- Political Theory
+- History
+- Socialism
 date: '2026-01-25'
-description: >-
-  Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…
+description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism
+  as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…'
 draft: false
 keywords:
-  - Proudhon Mutualism Report
-  - Political Theory
-  - History
-  - Socialism
-  - Socialism. Communism. Anarchism
+- Proudhon Mutualism Report
+- Political Theory
+- History
+- Socialism
+- Socialism. Communism. Anarchism
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Proudhon Mutualism Report
 markup: goldmark
 meta:
-  abstract: Executive Summary Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20w…
+  abstract: Executive Summary Pierre‐Joseph Proudhon (1809–1865) reconceived socialism
+    as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20w…
   categories:
-    - Political Theory
-    - History
-    - Socialism
+  - Political Theory
+  - History
+  - Socialism
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
-  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…'
+  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived
+    socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:proudhon-mutualism-report
   keywords:
-    - Proudhon Mutualism Report
-    - Political Theory
-    - History
-    - Socialism
-    - Socialism. Communism. Anarchism
+  - Proudhon Mutualism Report
+  - Political Theory
+  - History
+  - Socialism
+  - Socialism. Communism. Anarchism
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +102,33 @@ meta:
   slug: proudhon-mutualism-report
   status: complete
   subject:
-    - Political theory
-    - Socialism
+  - Political theory
+  - Socialism
   subjects:
-    - Political theory
-    - Socialism
+  - Political theory
+  - Socialism
   subtitle: ''
   tags:
-    - proudhon-mutualism-report
-    - political-theory
-    - history
-    - socialism
+  - proudhon-mutualism-report
+  - political-theory
+  - history
+  - socialism
   title: Proudhon Mutualism Report
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: proudhon-mutualism-report
-summary: >-
-  Executive Summary Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20w…
+summary: Executive Summary Pierre‐Joseph Proudhon (1809–1865) reconceived socialism
+  as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20w…
 tags:
-  - proudhon-mutualism-report
-  - political-theory
-  - history
-  - socialism
+- proudhon-mutualism-report
+- political-theory
+- history
+- socialism
 title: Proudhon Mutualism Report
 ---
 
@@ -169,8 +171,7 @@ Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as *anti‑state* a
 
 • **Reciprocity in Exchange:** Proudhon invokes the principle of equivalent exchange as the cornerstone of justice in commerce: *“All* value *originates in labor; thus, in a just society, the* *only* *legitimate exchange is one of labor for labor[\[3\]](https://openlibrary.org/works/OL960281W/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges). To speak plainly, the product of one man’s toil should be worth the product of another’s – no more, no less.”* He gives this moral law a contractual form: *“Do unto others as you would have done unto you – in trade, this means price every good by the labor that produced it”*. In *What Is Property?* he asserts that in a true free market (*marché synallagmatique*), *“every exchange is an act of mutual surrender (*mutuum*) between laborers…* *Reciprocity* *is thus the only rule – I owe you for what* you *have done, as you owe me for what* I *have done”*[\[15\]](https://www.marxists.org/archive/plekhanov/1895/anarch/ch04.htm#:~:text=weakening%2C%20and%20gradually%20eliminating%20the,The%20political%20constitution%20was)[\[28\]](https://technostism.fandom.com/wiki/Mutualism#:~:text=support%C2%A0markets%C2%A0,advocating%C2%A0personal%20property%2C%20but%20not%C2%A0private%20property). This idea would later blossom into Proudhon’s proposals for *people’s banks* and labor notes, ensuring that all trades yield equal labor on both sides.
 
-> **Source:** Pierre-Joseph Proudhon. *Qu’est-ce que la propriété ?* (Paris, 1840), Chapter I. English trans. in **What Is Property?** (trans. B.R. Tucker, 1876), p. 117: “Property is the right to use and abuse one’s own within the limits of the law… It is in this sense of absolute domain that I undertake to prove that property, in the full Roman and juridical sense, is a theft on the part of the non-laborer from the laborer”[\[29\]](https://en.wikisource.org/wiki/Page:What_is_Property%3F.pdf/334#:~:text=library%20en,If%2C%20then%2C%20government%20is). *(Gallica link: Archives,* *What Is Property?* *1840 *<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/proudhon-mutualism-report/assets/media/rId50.png" style="width:5.83333in;height:7.54902in" />  
-> *)*
+> **Source:** Pierre-Joseph Proudhon. *Qu’est-ce que la propriété ?* (Paris, 1840), Chapter I. English trans. in **What Is Property?** (trans. B.R. Tucker, 1876), p. 117: “Property is the right to use and abuse one’s own within the limits of the law… It is in this sense of absolute domain that I undertake to prove that property, in the full Roman and juridical sense, is a theft on the part of the non-laborer from the laborer”[\[29\]](https://en.wikisource.org/wiki/Page:What_is_Property%3F.pdf/334#:~:text=library%20en,If%2C%20then%2C%20government%20is). *(Gallica link: Archives,* *What Is Property?* *1840 *<img src="assets/media/rId50.png" style="width:5.83333in;height:7.54902in" / />> *)*
 
 **Mutual-Credit Blueprint**  
 At the heart of Proudhon’s social revolution was a bold financial mechanism: the **Banque du Peuple** or People’s Bank, a scheme for mutual credit. The concept is best understood step by step:

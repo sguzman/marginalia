@@ -1,48 +1,55 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-03-03'
-description: >-
-  Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues
+  (rapid Orthodox population growth and school budgeting) with overt antisemitic framing.
+  Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
 draft: false
 keywords:
-  - Tyler and Jews
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Tyler and Jews
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Tyler and Jews
 markup: goldmark
 meta:
-  abstract: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+  abstract: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues
+    (rapid Orthodox population growth and school budgeting) with overt antisemitic
+    framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+
+    views),…
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-03-03'
-  description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+  description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local
+    issues (rapid Orthodox population growth and school budgeting) with overt antisemitic
+    framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+
+    views),…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:tyler-and-jews
   keywords:
-    - Tyler and Jews
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Tyler and Jews
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +107,34 @@ meta:
   slug: tyler-and-jews
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - tyler-and-jews
-    - politics
-    - history
-    - political-theory
+  - tyler-and-jews
+  - politics
+  - history
+  - political-theory
   title: Tyler and Jews
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: tyler-and-jews
-summary: >-
-  Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+summary: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues
+  (rapid Orthodox population growth and school budgeting) with overt antisemitic framing.
+  Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
 tags:
-  - tyler-and-jews
-  - politics
-  - history
-  - political-theory
+- tyler-and-jews
+- politics
+- history
+- political-theory
 title: Tyler and Jews
 ---
 

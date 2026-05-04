@@ -1,22 +1,21 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Politics
-  - History
-  - Political Theory
+- Politics
+- History
+- Political Theory
 date: '2026-04-20'
-description: >-
-  Aesthetics for the Maimed
+description: Aesthetics for the Maimed
 draft: false
 keywords:
-  - Aesthetics for the Maimed
-  - Politics
-  - History
-  - Political Theory
-  - Political science (General)
+- Aesthetics for the Maimed
+- Politics
+- History
+- Political Theory
+- Political science (General)
 lastmod: '2026-05-04'
 layout: single
 linkTitle: Aesthetics for the Maimed
@@ -24,11 +23,11 @@ markup: goldmark
 meta:
   abstract: Aesthetics for the Maimed
   categories:
-    - Politics
-    - History
-    - Political Theory
+  - Politics
+  - History
+  - Political Theory
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-20'
   description: Aesthetics for the Maimed
@@ -38,11 +37,11 @@ meta:
   format: markdown
   identifier: urn:marginalia:culture-gothic
   keywords:
-    - Aesthetics for the Maimed
-    - Politics
-    - History
-    - Political Theory
-    - Political science (General)
+  - Aesthetics for the Maimed
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
   lang: en
   language: English
   library_of_congress_classification:
@@ -100,33 +99,32 @@ meta:
   slug: culture-gothic
   status: complete
   subject:
-    - Politics
-    - History
+  - Politics
+  - History
   subjects:
-    - Politics
-    - History
+  - Politics
+  - History
   subtitle: ''
   tags:
-    - culture-gothic
-    - politics
-    - history
-    - political-theory
+  - culture-gothic
+  - politics
+  - history
+  - political-theory
   title: Aesthetics for the Maimed
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: culture-gothic
-summary: >-
-  Aesthetics for the Maimed
+summary: Aesthetics for the Maimed
 tags:
-  - culture-gothic
-  - politics
-  - history
-  - political-theory
+- culture-gothic
+- politics
+- history
+- political-theory
 title: Aesthetics for the Maimed
 ---
 

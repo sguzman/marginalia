@@ -1,19 +1,68 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- mathematics
+- history-of-mathematics
+- algebra
+- topology
+- algebraic-geometry
+date: '2026-02-12'
+description: A narrative history of homological algebra and why its tools (complexes,
+  exact sequences, derived functors, spectral sequences, and derived categories) became
+  foundational across topology, algebra, geometry, and number theory.
+draft: false
+keywords:
+- homological algebra
+- chain complexes
+- homology
+- cohomology
+- exact sequences
+- derived functors
+- Ext
+- Tor
+- spectral sequences
+- abelian categories
+- derived categories
+- triangulated categories
+- dg-categories
+- infinity-categories
+- derived algebraic geometry
+- Grothendieck
+- Eilenberg
+- Mac Lane
+- Cartan
+- Noether
+- Poincaré
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The History and Impact of Homological Algebra
+markup: goldmark
+meta:
+  abstract: A narrative history of homological algebra and why its tools (complexes,
+    exact sequences, derived functors, spectral sequences, and derived categories)
+    became foundational across topology, algebra, geometry, and number theory.
+  categories:
   - mathematics
   - history-of-mathematics
   - algebra
   - topology
   - algebraic-geometry
-date: '2026-02-12'
-description: >-
-  A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: gva.article.homological-algebra
+  date: '2026-02-12'
+  description: A narrative history of homological algebra and why its tools (complexes,
+    exact sequences, derived functors, spectral sequences, and derived categories)
+    became foundational across topology, algebra, geometry, and number theory.
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: true
+  format: article
+  identifier: gva:article:homological-algebra:2026-02-12
+  keywords:
   - homological algebra
   - chain complexes
   - homology
@@ -35,54 +84,6 @@ keywords:
   - Cartan
   - Noether
   - Poincaré
-lastmod: '2026-05-04'
-layout: single
-linkTitle: The History and Impact of Homological Algebra
-markup: goldmark
-meta:
-  abstract: A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
-  categories:
-    - mathematics
-    - history-of-mathematics
-    - algebra
-    - topology
-    - algebraic-geometry
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: gva.article.homological-algebra
-  date: '2026-02-12'
-  description: A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: true
-  epub_cover_image: cover.png
-  format: article
-  identifier: gva:article:homological-algebra:2026-02-12
-  keywords:
-    - homological algebra
-    - chain complexes
-    - homology
-    - cohomology
-    - exact sequences
-    - derived functors
-    - Ext
-    - Tor
-    - spectral sequences
-    - abelian categories
-    - derived categories
-    - triangulated categories
-    - dg-categories
-    - infinity-categories
-    - derived algebraic geometry
-    - Grothendieck
-    - Eilenberg
-    - Mac Lane
-    - Cartan
-    - Noether
-    - Poincaré
   lang: en-US
   language: English
   library_of_congress_classification:
@@ -141,43 +142,23 @@ meta:
   slug: homological-algebra
   status: published
   subject:
-    - Homological algebra
-    - History of mathematics
-    - Algebraic topology
-    - Category theory
-    - Algebraic geometry
-    - Number theory
+  - Homological algebra
+  - History of mathematics
+  - Algebraic topology
+  - Category theory
+  - Algebraic geometry
+  - Number theory
   subjects:
-    - homological-algebra
-    - history-of-mathematics
-    - algebraic-topology
-    - category-theory
-    - algebraic-geometry
-    - number-theory
-    - spectral-sequences
-    - derived-categories
+  - homological-algebra
+  - history-of-mathematics
+  - algebraic-topology
+  - category-theory
+  - algebraic-geometry
+  - number-theory
+  - spectral-sequences
+  - derived-categories
   subtitle: From Betti Numbers to Infinity-Categories
   tags:
-    - math
-    - history
-    - homology
-    - cohomology
-    - derived
-    - categories
-    - spectral-sequences
-    - grothendieck
-  title: The History and Impact of Homological Algebra
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: homological-algebra
-summary: >-
-  A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
-tags:
   - math
   - history
   - homology
@@ -186,6 +167,27 @@ tags:
   - categories
   - spectral-sequences
   - grothendieck
+  title: The History and Impact of Homological Algebra
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: homological-algebra
+summary: A narrative history of homological algebra and why its tools (complexes,
+  exact sequences, derived functors, spectral sequences, and derived categories) became
+  foundational across topology, algebra, geometry, and number theory.
+tags:
+- math
+- history
+- homology
+- cohomology
+- derived
+- categories
+- spectral-sequences
+- grothendieck
 title: The History and Impact of Homological Algebra
 ---
 

@@ -1,17 +1,55 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- Artificial Intelligence
+- Computer Science
+- History of Computing
+date: '2026-02-12'
+description: A detailed timeline and conceptual history of neural networks in computing
+  (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional
+  'AI cycles'.
+draft: false
+keywords:
+- neural networks
+- deep learning
+- machine learning
+- artificial intelligence
+- backpropagation
+- perceptron
+- convolutional neural networks
+- transformers
+- cybernetics
+- AI winter
+- GPU computing
+- history of computing
+lastmod: '2026-05-04'
+layout: single
+linkTitle: History of Neural Networks in Computing (1940s--2026)
+markup: goldmark
+meta:
+  abstract: A detailed timeline and conceptual history of neural networks in computing
+    (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional
+    'AI cycles'.
+  categories:
   - Artificial Intelligence
   - Computer Science
   - History of Computing
-date: '2026-02-12'
-description: >-
-  A detailed timeline and conceptual history of neural networks in computing (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional 'AI cycles'.
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: nn-history-1940s-2026
+  date: '2026-02-12'
+  description: A detailed timeline and conceptual history of neural networks in computing
+    (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional
+    'AI cycles'.
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: markdown
+  identifier: gva:nn-history-1940s-2026
+  keywords:
   - neural networks
   - deep learning
   - machine learning
@@ -24,43 +62,6 @@ keywords:
   - AI winter
   - GPU computing
   - history of computing
-lastmod: '2026-05-04'
-layout: single
-linkTitle: History of Neural Networks in Computing (1940s--2026)
-markup: goldmark
-meta:
-  abstract: A detailed timeline and conceptual history of neural networks in computing (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional 'AI cycles'.
-  categories:
-    - Artificial Intelligence
-    - Computer Science
-    - History of Computing
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: nn-history-1940s-2026
-  date: '2026-02-12'
-  description: A detailed timeline and conceptual history of neural networks in computing (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional 'AI cycles'.
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:nn-history-1940s-2026
-  keywords:
-    - neural networks
-    - deep learning
-    - machine learning
-    - artificial intelligence
-    - backpropagation
-    - perceptron
-    - convolutional neural networks
-    - transformers
-    - cybernetics
-    - AI winter
-    - GPU computing
-    - history of computing
   lang: en-US
   language: en
   library_of_congress_classification:
@@ -101,7 +102,8 @@ meta:
     primary_texts: []
     region: ''
     region_focus: ''
-    scope: From cybernetics and connectionism to deep learning and the transformer era
+    scope: From cybernetics and connectionism to deep learning and the transformer
+      era
     scope_years: ''
     series: Computing & AI Histories
     stance: ''
@@ -119,42 +121,22 @@ meta:
   slug: neural-networks
   status: published
   subject:
-    - Artificial intelligence
-    - Neural networks (Computer science)
-    - Machine learning
-    - Deep learning
-    - History of computing
-    - Cybernetics
+  - Artificial intelligence
+  - Neural networks (Computer science)
+  - Machine learning
+  - Deep learning
+  - History of computing
+  - Cybernetics
   subjects:
-    - Artificial intelligence
-    - Neural networks (Computer science)
-    - Machine learning
-    - Deep learning
-    - History of computing
-    - Cybernetics
-  subtitle: From cybernetics and connectionism to deep learning and the transformer era
+  - Artificial intelligence
+  - Neural networks (Computer science)
+  - Machine learning
+  - Deep learning
+  - History of computing
+  - Cybernetics
+  subtitle: From cybernetics and connectionism to deep learning and the transformer
+    era
   tags:
-    - neural-networks
-    - deep-learning
-    - machine-learning
-    - ai-history
-    - computing-history
-    - backpropagation
-    - cnn
-    - transformers
-    - gpu
-  title: History of Neural Networks in Computing (1940s--2026)
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: article
-outputs:
-  - HTML
-  - RSS
-slug: neural-networks
-summary: >-
-  A detailed timeline and conceptual history of neural networks in computing (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional 'AI cycles'.
-tags:
   - neural-networks
   - deep-learning
   - machine-learning
@@ -164,6 +146,28 @@ tags:
   - cnn
   - transformers
   - gpu
+  title: History of Neural Networks in Computing (1940s--2026)
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+- HTML
+- RSS
+slug: neural-networks
+summary: A detailed timeline and conceptual history of neural networks in computing
+  (1940s-2026), connecting major mathematical ideas, hardware shifts, and institutional
+  'AI cycles'.
+tags:
+- neural-networks
+- deep-learning
+- machine-learning
+- ai-history
+- computing-history
+- backpropagation
+- cnn
+- transformers
+- gpu
 title: History of Neural Networks in Computing (1940s--2026)
 ---
 

@@ -1,44 +1,50 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
-  - Culture
-  - Media Studies
+- Culture
+- Media Studies
 date: '2026-04-13'
-description: >-
-  Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
+description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked
+  by educated, often progressive protagonists who foreground personal trauma and existential
+  malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
 draft: false
 keywords:
-  - Liberal Gothic_ An Analytical Report
-  - Culture
-  - Media Studies
-  - Literature and media studies
+- Liberal Gothic_ An Analytical Report
+- Culture
+- Media Studies
+- Literature and media studies
 lastmod: '2026-05-04'
 layout: single
 linkTitle: 'Liberal Gothic: An Analytical Report'
 markup: goldmark
 meta:
-  abstract: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic…
+  abstract: Executive Summary. “Liberal gothic” is a proposed narrative mode marked
+    by educated, often progressive protagonists who foreground personal trauma and
+    existential malaise in hushed, introspective settings. Unlike classical Gothic…
   categories:
-    - Culture
-    - Media Studies
+  - Culture
+  - Media Studies
   creator:
-    - Salvador Guzman
+  - Salvador Guzman
   dataset_id: ''
   date: '2026-04-13'
-  description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
+  description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked
+    by educated, often progressive protagonists who foreground personal trauma and
+    existential malaise in hushed, introspective settings. Unlike classical Gothic
+    (emphasis…
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
   format: markdown
   identifier: urn:marginalia:liberal-gothic-an-analytical-report
   keywords:
-    - Liberal Gothic_ An Analytical Report
-    - Culture
-    - Media Studies
-    - Literature and media studies
+  - Liberal Gothic_ An Analytical Report
+  - Culture
+  - Media Studies
+  - Literature and media studies
   lang: en
   language: English
   library_of_congress_classification:
@@ -96,31 +102,32 @@ meta:
   slug: liberal-gothic-an-analytical-report
   status: complete
   subject:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subjects:
-    - Culture
-    - Media studies
+  - Culture
+  - Media studies
   subtitle: ''
   tags:
-    - liberal-gothic-an-analytical-report
-    - culture
-    - media-studies
+  - liberal-gothic-an-analytical-report
+  - culture
+  - media-studies
   title: 'Liberal Gothic: An Analytical Report'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-  - HTML
-  - RSS
+- HTML
+- RSS
 slug: liberal-gothic-an-analytical-report
-summary: >-
-  Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic…
+summary: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by
+  educated, often progressive protagonists who foreground personal trauma and existential
+  malaise in hushed, introspective settings. Unlike classical Gothic…
 tags:
-  - liberal-gothic-an-analytical-report
-  - culture
-  - media-studies
+- liberal-gothic-an-analytical-report
+- culture
+- media-studies
 title: 'Liberal Gothic: An Analytical Report'
 ---
 
@@ -161,13 +168,11 @@ Each subtype shares the core trait: **the plot exists mainly to trigger the char
 
 - **Firewatch** (Campo Santo, 2016) – A first-person exploration game set in an isolated Wyoming forest. The player is Henry, a middle-aged fire lookout running from a troubled past. *Game Narrative Analysis* notes that the game’s few plot conspiracies (“cougar in the woods?”) are largely irrelevant to the end – “they don’t matter as much as the core relationship between Henry and Delilah”[\[5\]](https://www.jaybroderick.blog/2016/11/game-narrative-analysis-firewatch.html#:~:text=Because%20the%20plot%20is%20quite,the%20player%2C%20Henry%20and%20Delilah). In fact, critics emphasize that Firewatch is *“nonviolent and introspective”*[\[15\]](https://www.avclub.com/firewatch-10th-anniversary-toxic-masculinity#:~:text=potential%E2%80%9D%20kotaku,But%20the%20cultural%20conversation%20around) and even “radically mundane” in a market of action games. Henry can do little but walk, listen to ambient sounds, and radio-chat with his supervisor Delilah. As one analysis observes, Henry “is unable to change the world around him, \[so\] Firewatch is primarily interested in his emotional landscape. It revolves around his personal development, specifically how he grapples with a tragic past”[\[16\]](https://www.avclub.com/firewatch-10th-anniversary-toxic-masculinity#:~:text=capable%20of%20putting%20out%20a,of%20the%20women%20in%20his). In gameplay terms it’s a walking simulator, and in narrative terms it’s pure liberal-gothic: the setting is atmospheric (sun-dappled forests, empty vistas) and the drama is Henry’s therapy-by-radio.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/liberal-gothic-an-analytical-report/assets/media/rId38.png" style="width:5.83333in;height:3.89083in" />  
-*Figure:* The haunted family home from *What Remains of Edith Finch* (2017). This title is often cited (with *Gone Home*) as a high-water mark of indie narrative games that blend melancholy with environmental storytelling. Wired describes the Finch house as “a mausoleum” of family memories[\[17\]](https://www.wired.com/2017/05/what-remains-of-edith-finch-review/#:~:text=What%20Remains%20of%20Edith%20Finch,Edith%20Finch%27s%20family%20is%20dead) – every closed room contains diaries and relics of a deceased relative.
+<img src="assets/media/rId38.png" style="width:5.83333in;height:3.89083in" / />*Figure:* The haunted family home from *What Remains of Edith Finch* (2017). This title is often cited (with *Gone Home*) as a high-water mark of indie narrative games that blend melancholy with environmental storytelling. Wired describes the Finch house as “a mausoleum” of family memories[\[17\]](https://www.wired.com/2017/05/what-remains-of-edith-finch-review/#:~:text=What%20Remains%20of%20Edith%20Finch,Edith%20Finch%27s%20family%20is%20dead) – every closed room contains diaries and relics of a deceased relative.
 
 - **What Remains of Edith Finch** (Giant Sparrow, 2017) – A short narrative game in which the player explores the multi-winged home of the Finch family, learning through vignettes how each ancestor died. The aesthetic is quietly eerie: ordinary spaces become surreal tableaux. Wired’s Julie Muncy writes that *Edith Finch*’s vignettes often feel “gimmicky,” but when they *work* they “reveal a quiet beauty” in tragic stories[\[18\]](https://www.wired.com/2017/05/what-remains-of-edith-finch-review/#:~:text=What%20follows%20is%20a%20series,conceits%20that%20feel%20like%20a). Each scene is atmospheric – for example, one mini-game plays out in a child’s elaborately decorated “space fort” bedroom (see image below). The player, as teen Edith, reads journals and witnesses these short tales firsthand. Overall the game “aims … to tell a story about home, grief, and growing up”[\[19\]](https://www.wired.com/2017/05/what-remains-of-edith-finch-review/#:~:text=So%20when%20I%20step%20into,we%20leave%2C%20it%27s%20an%20exorcism). Its interest is not jump scares or combat, but empathetic immersion in the protagonists’ emotional states – a core liberal-gothic trait.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/liberal-gothic-an-analytical-report/assets/media/rId44.png" style="width:5.83333in;height:4.375in" />  
-*Figure:* A child’s “space fort” bedroom from *Edith Finch*. In one vignette, this cheerful bedroom setting yields a devastating outcome, illustrating how *Edith Finch* uses mundane detail to evoke deep loss. Wired notes that each vignette “offers a compelling sketch of a person and a time” and can achieve “a quiet beauty” even in tragedy[\[18\]](https://www.wired.com/2017/05/what-remains-of-edith-finch-review/#:~:text=What%20follows%20is%20a%20series,conceits%20that%20feel%20like%20a).
+<img src="assets/media/rId44.png" style="width:5.83333in;height:4.375in" / />*Figure:* A child’s “space fort” bedroom from *Edith Finch*. In one vignette, this cheerful bedroom setting yields a devastating outcome, illustrating how *Edith Finch* uses mundane detail to evoke deep loss. Wired notes that each vignette “offers a compelling sketch of a person and a time” and can achieve “a quiet beauty” even in tragedy[\[18\]](https://www.wired.com/2017/05/what-remains-of-edith-finch-review/#:~:text=What%20follows%20is%20a%20series,conceits%20that%20feel%20like%20a).
 
 - **Gone Home** (The Fullbright Company, 2013) – A prototypical “walking simulator”: the player returns to an empty family home and learns the story of a teen’s coming-out and family tensions by finding letters and objects. There is no supernatural monster or murderer – the house itself is the main setting. As Wired points out, *Gone Home* started a “long line of games about empty houses,” with *Edith Finch* as its heir[\[20\]](https://www.wired.com/2017/05/what-remains-of-edith-finch-review/#:~:text=Yet%20I%20find%20my%20experience,As%20a). This design exemplifies liberal gothic’s narrative: there is no external antagonist, only the interior secret (a daughter’s affair with her best friend) and the emotional fallout. The player pieces together a personal story purely through environmental detail, highlighting mood and memory over plot twists.
 

@@ -1,19 +1,73 @@
 ---
 ai_generated: true
 authors:
-  - Salvador Guzman
-  - ChatGPT
+- Salvador Guzman
+- ChatGPT
 categories:
+- public health
+- mental health
+- epidemiology
+- policy
+- united states
+date: '2026-02-12'
+description: '<img src="assets/media/rId21.png" style="width:5.83333in;height:3.61814in"
+  / />Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex,
+  2000–2…'
+draft: false
+keywords:
+- male suicide
+- suicide mortality
+- United States
+- CDC WONDER
+- WISQARS
+- NVSS
+- NSDUH
+- YRBS
+- NVDRS
+- veterans
+- rural health
+- firearms
+- lethal means safety
+- means restriction
+- depression
+- PTSD
+- substance use disorder
+- opioid epidemic
+- economic stress
+- divorce
+- social isolation
+- help-seeking
+- masculinity norms
+- 988 lifeline
+- time-series projection
+- suicide prevention
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Male Suicide in the United States (2000--Present)
+markup: goldmark
+meta:
+  abstract: A comprehensive graduate-level synthesis of U.S. male suicide trends since
+    2000, integrating mortality data, demographic disparities, risk/protective factors,
+    policy context, intervention evidence, case studies, and projections to 2030.
+  categories:
   - public health
   - mental health
   - epidemiology
   - policy
   - united states
-date: '2026-02-12'
-description: >-
-  <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2…
-draft: false
-keywords:
+  creator:
+  - Salvador Guzman
+  dataset_id: male-suicide-us-2000-present
+  date: '2026-02-12'
+  description: '<img src="assets/media/rId21.png" style="width:5.83333in;height:3.61814in"
+    / />Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex,
+    2000–2…'
+  edition: '1'
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: markdown
+  identifier: gva:male-suicide-us-2000-present
+  keywords:
   - male suicide
   - suicide mortality
   - United States
@@ -40,59 +94,6 @@ keywords:
   - 988 lifeline
   - time-series projection
   - suicide prevention
-lastmod: '2026-05-04'
-layout: single
-linkTitle: Male Suicide in the United States (2000--Present)
-markup: goldmark
-meta:
-  abstract: A comprehensive graduate-level synthesis of U.S. male suicide trends since 2000, integrating mortality data, demographic disparities, risk/protective factors, policy context, intervention evidence, case studies, and projections to 2030.
-  categories:
-    - public health
-    - mental health
-    - epidemiology
-    - policy
-    - united states
-  cover-image: cover.png
-  cover_image: cover.png
-  creator:
-    - Salvador Guzman
-  dataset_id: male-suicide-us-2000-present
-  date: '2026-02-12'
-  description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2…'
-  edition: '1'
-  epub-chapter-level: 2
-  epub-cover-image: cover.png
-  epub-title-page: false
-  epub_cover_image: cover.png
-  format: markdown
-  identifier: gva:male-suicide-us-2000-present
-  keywords:
-    - male suicide
-    - suicide mortality
-    - United States
-    - CDC WONDER
-    - WISQARS
-    - NVSS
-    - NSDUH
-    - YRBS
-    - NVDRS
-    - veterans
-    - rural health
-    - firearms
-    - lethal means safety
-    - means restriction
-    - depression
-    - PTSD
-    - substance use disorder
-    - opioid epidemic
-    - economic stress
-    - divorce
-    - social isolation
-    - help-seeking
-    - masculinity norms
-    - 988 lifeline
-    - time-series projection
-    - suicide prevention
   lang: en-US
   language: English
   library_of_congress_classification:
@@ -151,47 +152,21 @@ meta:
   slug: male-suicide
   status: published
   subject:
-    - Male suicide epidemiology
-    - Suicide prevention
-    - Mental health policy
-    - Lethal means safety
-    - Demographic and geographic disparities
+  - Male suicide epidemiology
+  - Suicide prevention
+  - Mental health policy
+  - Lethal means safety
+  - Demographic and geographic disparities
   subjects:
-    - Public health surveillance
-    - Injury epidemiology
-    - Behavioral health services
-    - Veteran mental health
-    - Rural health
-    - Firearm policy and safety
-    - Social determinants of health
+  - Public health surveillance
+  - Injury epidemiology
+  - Behavioral health services
+  - Veteran mental health
+  - Rural health
+  - Firearm policy and safety
+  - Social determinants of health
   subtitle: Trends, disparities, drivers, interventions, and projections
   tags:
-    - male-suicide
-    - suicide
-    - public-health
-    - epidemiology
-    - mental-health
-    - us
-    - firearms
-    - means-safety
-    - veterans
-    - rural
-    - risk-factors
-    - prevention
-    - '988'
-    - projections
-  title: Male Suicide in the United States (2000--Present)
-  toc: true
-  toc-depth: 3
-  toc-title: Contents
-  type: report
-outputs:
-  - HTML
-  - RSS
-slug: male-suicide
-summary: >-
-  A comprehensive graduate-level synthesis of U.S. male suicide trends since 2000, integrating mortality data, demographic disparities, risk/protective factors, policy context, intervention evidence, case studies, and projections to 2030.
-tags:
   - male-suicide
   - suicide
   - public-health
@@ -206,11 +181,37 @@ tags:
   - prevention
   - '988'
   - projections
+  title: Male Suicide in the United States (2000--Present)
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+- HTML
+- RSS
+slug: male-suicide
+summary: A comprehensive graduate-level synthesis of U.S. male suicide trends since
+  2000, integrating mortality data, demographic disparities, risk/protective factors,
+  policy context, intervention evidence, case studies, and projections to 2030.
+tags:
+- male-suicide
+- suicide
+- public-health
+- epidemiology
+- mental-health
+- us
+- firearms
+- means-safety
+- veterans
+- rural
+- risk-factors
+- prevention
+- '988'
+- projections
 title: Male Suicide in the United States (2000--Present)
 ---
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" />  
-**Figure 1:** *Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.*
+<img src="assets/media/rId21.png" style="width:5.83333in;height:3.61814in" / />**Figure 1:** *Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.*
 
 # **Male Suicide in the United States (2000–Present)**
 
@@ -238,8 +239,7 @@ Male suicide in the United States is a **urgent public health concern**, with me
 
 In sum, **male suicide is preventable** – but it demands attention to the specific needs, cultural norms, and risk factors that drive men to take their lives. Implementing the evidence-based approaches identified in this report with urgency and sensitivity could substantially reduce the toll of suicide on men, their families, and society. The findings herein serve as a knowledge base and a call to action for stakeholders across public health, healthcare, government, and communities to intensify suicide prevention efforts for America’s men.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId30.png" style="width:5.83333in;height:3.61814in" />  
-**Figure 2:** *Observed and projected age-adjusted suicide rates for U.S. males. The solid line shows historical male suicide rates (2000–2022), which climbed overall with a peak in 2018 and record high in 2022. The orange dashed line (baseline) extrapolates the long-term trend, indicating the male rate could reach ~25 per 100,000 by 2030 absent new interventions. The magenta dashed line (intervention scenario) models a modest decline (≈15% reduction) by 2030 – achievable if comprehensive prevention measures are implemented. This contrast illustrates that hundreds of male lives per year could be saved by bending the curve downward.*
+<img src="assets/media/rId30.png" style="width:5.83333in;height:3.61814in" / />**Figure 2:** *Observed and projected age-adjusted suicide rates for U.S. males. The solid line shows historical male suicide rates (2000–2022), which climbed overall with a peak in 2018 and record high in 2022. The orange dashed line (baseline) extrapolates the long-term trend, indicating the male rate could reach ~25 per 100,000 by 2030 absent new interventions. The magenta dashed line (intervention scenario) models a modest decline (≈15% reduction) by 2030 – achievable if comprehensive prevention measures are implemented. This contrast illustrates that hundreds of male lives per year could be saved by bending the curve downward.*
 
 ## **2. Introduction**
 
@@ -307,8 +307,7 @@ In absolute terms (crude numbers), the **annual number of male suicides** rose f
 
 To sum up the national trend: **Male suicide in the U.S. increased substantially from 2000 to 2018, dipped during 2019–20, and as of 2022 has reached its highest level on record.** Men’s suicide rates remain several-fold higher than women’s, making up the majority of suicide deaths. The next sections will break down these aggregate patterns into demographic and geographic components, revealing which subgroups of men have driven these trends or diverged from them.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId38.png" style="width:5.83333in;height:3.79167in" />  
-**Figure 3:** *Geographic distribution of suicide mortality rates in the U.S. by county (2016–2020 average, all genders). Warmer colors (orange/red) indicate higher annual suicide death rates per 100,000 population. The map shows a clear concentration of high suicide rates in* *Western states* *(e.g. Rocky Mountain region, Alaska) and parts of the rural* *South and Midwest. Many of these areas are characterized by higher proportions of white, middle-aged, rural men – a demographic with elevated suicide risk. Notably, counties with* *low rates (yellow)* *include much of the Northeast corridor, parts of California, and urban centers (which often have more access to mental health services and lower firearm ownership). While this map is not male-specific, it largely reflects male patterns since ~80% of suicides are male and male rates vary more widely by region than female rates. States like* *Montana, Wyoming, Alaska, and New Mexico* *(seen dominated by red) have among the highest male suicide rates (often \>30 per 100k), whereas states like* *New York or New Jersey* *(many yellow counties) have much lower rates (sometimes \<10 per 100k).*
+<img src="assets/media/rId38.png" style="width:5.83333in;height:3.79167in" / />**Figure 3:** *Geographic distribution of suicide mortality rates in the U.S. by county (2016–2020 average, all genders). Warmer colors (orange/red) indicate higher annual suicide death rates per 100,000 population. The map shows a clear concentration of high suicide rates in* *Western states* *(e.g. Rocky Mountain region, Alaska) and parts of the rural* *South and Midwest. Many of these areas are characterized by higher proportions of white, middle-aged, rural men – a demographic with elevated suicide risk. Notably, counties with* *low rates (yellow)* *include much of the Northeast corridor, parts of California, and urban centers (which often have more access to mental health services and lower firearm ownership). While this map is not male-specific, it largely reflects male patterns since ~80% of suicides are male and male rates vary more widely by region than female rates. States like* *Montana, Wyoming, Alaska, and New Mexico* *(seen dominated by red) have among the highest male suicide rates (often \>30 per 100k), whereas states like* *New York or New Jersey* *(many yellow counties) have much lower rates (sometimes \<10 per 100k).*
 
 ## **5. Demographic & Geographic Breakdown**
 
@@ -348,8 +347,7 @@ It’s also noteworthy to consider **intersection of race with age and geography
 
 In conclusion, **white and Native American men have the highest suicide rates** (with Native men at the top), whereas **Black, Hispanic, and Asian/Pacific Islander men have had lower rates** historically – though some of these gaps are closing due to rising suicide in the latter groups. Prevention efforts must be culturally informed: what works in one community may not directly translate to another. For example, outreach on reservations (incorporating tribal leaders and traditions) is key for AI/AN, while church-based programs or barbershop mental health projects might resonate in Black communities.
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId42.png" style="width:5.83333in;height:3.61814in" />  
-**Figure 4:** *Suicide rates by race/ethnicity and sex (2022, age-adjusted). The bar chart illustrates that for each major racial/ethnic group, the male suicide rate (blue bars) exceeds the female rate (orange bars). American Indian/Alaska Native (AI/AN) males have by far the highest rate (~39.5), nearly three times the U.S. male average, and significantly higher than AI/AN females. White non-Hispanic males (~28.0) also have a high rate, about double that of the total population. Black and Hispanic males (~14.9 and 13.0) have intermediate rates – roughly half of white males – and Asian/Pacific Islander males (~10.4) the lowest. Female rates range from ~7.3 (white) down to ~3–4 (Black, Hispanic, Asian), except AI/AN females (14.6) who have a notably elevated rate closer to white males than to other females. These disparities highlight the need for culturally tailored suicide prevention, as the burden is highest among Indigenous and white men.*
+<img src="assets/media/rId42.png" style="width:5.83333in;height:3.61814in" / />**Figure 4:** *Suicide rates by race/ethnicity and sex (2022, age-adjusted). The bar chart illustrates that for each major racial/ethnic group, the male suicide rate (blue bars) exceeds the female rate (orange bars). American Indian/Alaska Native (AI/AN) males have by far the highest rate (~39.5), nearly three times the U.S. male average, and significantly higher than AI/AN females. White non-Hispanic males (~28.0) also have a high rate, about double that of the total population. Black and Hispanic males (~14.9 and 13.0) have intermediate rates – roughly half of white males – and Asian/Pacific Islander males (~10.4) the lowest. Female rates range from ~7.3 (white) down to ~3–4 (Black, Hispanic, Asian), except AI/AN females (14.6) who have a notably elevated rate closer to white males than to other females. These disparities highlight the need for culturally tailored suicide prevention, as the burden is highest among Indigenous and white men.*
 
 **5.3 Socioeconomic Status & Education:** Socioeconomic factors significantly influence suicide risk among men, often intersecting with race and geography. While national mortality data do not list income or education on death certificates, numerous studies have linked **lower SES** to higher suicide rates.
 
@@ -409,8 +407,7 @@ It’s important to note, however, that urbanization doesn’t guarantee low ris
 
 **5.8 Method of Suicide:** While not a demographic per se, method is a critical dimension where differences emerge among groups. Over half of male suicides are by **firearms** (~60% in 2022), as depicted in the method breakdown below. This proportion is higher in certain demographics (e.g. ~75% of veteran male suicides with firearms, and likely very high in rural white men; lower in, say, urban minority men who might use other methods like hanging). Suffocation (primarily hanging) is the second most common method for men (~24% in 2022), and poisoning (e.g. drug overdose) a distant third (~8%). Women, by contrast, use firearms ~34% and poisoning ~30%, reflecting men’s tendency to choose more immediately lethal methods. We mention methods here because they intersect with demographics: e.g. Black male youth might be more likely to hang than shoot themselves (some data shows lower firearm suicide among Black youth, possibly due to difference in household gun ownership or method choice).
 
-<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide/assets/media/rId45.png" style="width:5.83333in;height:2.90362in" />  
-**Figure 5:** *Suicide methods by sex (2022). These pie charts show the distribution of methods used in male versus female suicides.* *Among males (right):* *Firearms (red) are by far the leading method, involved in ~60.0% of male suicide deaths. Suffocation (blue, mostly hanging) accounts for ~24.3%. Poisoning (green, which includes drug overdoses) is ~7.9%, and other methods (orange, e.g. jumping, cutting) ~7.8%.* *Among females (left):* *Firearms (red) make up a smaller share, ~34.2%. Poisoning (green) is relatively more common in women, ~29.8%, nearly equal to suffocation (blue) at 26.5%. Other methods (orange) ~9.5%. This stark contrast highlights that men tend to use more violent, irreversible means (guns), contributing to their higher case-fatality rate of suicidal behavior. It also implies that means safety (like reducing gun access for at-risk men) could have a significant impact on male suicide.*
+<img src="assets/media/rId45.png" style="width:5.83333in;height:2.90362in" / />**Figure 5:** *Suicide methods by sex (2022). These pie charts show the distribution of methods used in male versus female suicides.* *Among males (right):* *Firearms (red) are by far the leading method, involved in ~60.0% of male suicide deaths. Suffocation (blue, mostly hanging) accounts for ~24.3%. Poisoning (green, which includes drug overdoses) is ~7.9%, and other methods (orange, e.g. jumping, cutting) ~7.8%.* *Among females (left):* *Firearms (red) make up a smaller share, ~34.2%. Poisoning (green) is relatively more common in women, ~29.8%, nearly equal to suffocation (blue) at 26.5%. Other methods (orange) ~9.5%. This stark contrast highlights that men tend to use more violent, irreversible means (guns), contributing to their higher case-fatality rate of suicidal behavior. It also implies that means safety (like reducing gun access for at-risk men) could have a significant impact on male suicide.*
 
 In conclusion, breaking down male suicide by demographics and geography reveals **which men are most at risk**: older men (especially white widowers), younger men in certain minority groups (AI/AN youth, LGBTQ youth), socioeconomically disadvantaged men (unemployed, less educated), veterans, divorced men, and men in rural/frontier areas. Conversely, men with strong social/economic supports – e.g. employed, married, living in urban areas with good access to care – generally have lower risk (though of course not immune). These insights inform targeted prevention: for example, a program for middle-aged men in rural Montana might focus on firearm safety and peer support through farming communities, while an initiative for Black male teens in an urban setting might focus on school counseling and community mentoring. The heterogeneity within “male suicide” underscores that a one-size-fits-all approach will miss key subgroups; nuanced strategies are needed (elaborated in recommendations).
 
