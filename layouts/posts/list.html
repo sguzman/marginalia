@@ -88,100 +88,11 @@
       </div>
     </div>
 
-    <div class="publications-grid" id="publications-grid">
+    <ul id="publications-list">
       {{- range $paginator.Pages -}}
-        {{- $authors := .Params.authors | default (slice) -}}
-        {{- if not $authors -}}
-          {{- with .Params.author -}}
-            {{- $authors = slice . -}}
-          {{- end -}}
-        {{- end -}}
-        {{- if not $authors -}}
-          {{- $authors = slice "Salvador Guzman" -}}
-        {{- end -}}
-        {{- $categories := .Params.categories | default (slice) -}}
-        {{- $tags := .Params.tags | default (slice) -}}
-        {{- $description := .Params.description | default (.Summary | plainify) -}}
-        {{- $authorKeys := slice -}}
-        {{- range $authors -}}
-          {{- $authorKeys = $authorKeys | append (lower (trim . " ")) -}}
-        {{- end -}}
-        {{- $categoryKeys := slice -}}
-        {{- range $categories -}}
-          {{- $categoryKeys = $categoryKeys | append (lower (trim . " ")) -}}
-        {{- end -}}
-        {{- $tagKeys := slice -}}
-        {{- range $tags -}}
-          {{- $tagKeys = $tagKeys | append (lower (trim . " ")) -}}
-        {{- end -}}
-      <article
-        class="publication-card"
-        data-authors="{{ delimit $authorKeys "," }}"
-        data-categories="{{ delimit $categoryKeys "," }}"
-        data-tags="{{ delimit $tagKeys "," }}"
-        data-published="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"
-        data-lastmod="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}"
-        data-wordcount="{{ .WordCount }}"
-        data-title="{{ lower .Title }}"
-      >
-        <div class="publication-card-inner">
-          <header class="publication-card-head">
-            <div class="publication-card-dates">
-              <span class="publication-date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006") }}</span>
-              <span class="publication-separator">•</span>
-              <span class="publication-lastmod">Updated {{ .Lastmod | time.Format (.Site.Params.dateFormat | default "January 2, 2006") }}</span>
-            </div>
-            <h2 class="publication-title">
-              <a href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-            </h2>
-            <p class="publication-description">{{ $description | plainify }}</p>
-          </header>
-
-          <div class="publication-meta-grid">
-            <div class="publication-meta-item">
-              <span class="publication-meta-label">Word count</span>
-              <span class="publication-meta-value">{{ .WordCount }}</span>
-            </div>
-            <div class="publication-meta-item">
-              <span class="publication-meta-label">Reading time</span>
-              <span class="publication-meta-value">{{ .ReadingTime }} min</span>
-            </div>
-          </div>
-
-          <div class="publication-taxonomy-group">
-            <span class="publication-taxonomy-label">Authors</span>
-            <ul class="publication-chip-list">
-              {{- range $authors -}}
-              <li><button type="button" class="publication-chip publication-author-chip" data-filter-type="author" data-filter-value="{{ lower (trim . " ") }}">{{ . }}</button></li>
-              {{- end -}}
-            </ul>
-          </div>
-
-          {{- if gt (len $categories) 0 -}}
-          <div class="publication-taxonomy-group">
-            <span class="publication-taxonomy-label">Categories</span>
-            <ul class="publication-chip-list">
-              {{- range $categories -}}
-              <li><button type="button" class="publication-chip publication-category-chip" data-filter-type="category" data-filter-value="{{ lower (trim . " ") }}">{{ . }}</button></li>
-              {{- end -}}
-            </ul>
-          </div>
-          {{- end -}}
-
-          {{- if gt (len $tags) 0 -}}
-          <div class="publication-taxonomy-group">
-            <span class="publication-taxonomy-label">Tags</span>
-            <ul class="publication-chip-list">
-              {{- range $tags -}}
-              <li><button type="button" class="publication-chip publication-tag-chip" data-filter-type="tag" data-filter-value="{{ lower (trim . " ") }}">{{ . }}</button></li>
-              {{- end -}}
-            </ul>
-          </div>
-          {{- end -}}
-        </div>
-      </article>
+        {{- .Render "li" -}}
       {{- end -}}
-    </div>
+    </ul>
 
     {{ partial "pagination.html" . }}
   </section>
