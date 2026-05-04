@@ -5,3 +5,4 @@ resources/_gen
 tmp
 .DS_Store
 *.pyc
+scripts/__pycache__
