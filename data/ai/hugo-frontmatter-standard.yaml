@@ -60,32 +60,23 @@ meta_required:
   subtitle: ""
   abstract: ""
   description: ""
-  slug: ""
-  date: ""
   identifier: ""
-  type: "article"
-  status: "published"
   creator: []
   publisher: "Marginalia"
   rights: "CC0-1.0"
   license: "CC0-1.0"
   lang: "en"
   language: "en"
-  categories: []
-  tags: []
-  keywords: []
   subject: []
   subjects: []
   reference-section-title: ""
   toc: true
   toc-depth: 3
   toc-title: "Contents"
-  number-sections: true
   revision: ""
   edition: ""
   format: "markdown"
   dataset_id: ""
-  plate_id: ""
   library_of_congress_classification:
     class: ""
     label: ""
@@ -134,33 +125,33 @@ meta_required:
       date: ""
 
 meta_optional:
+  slug: ""
+  date: ""
+  type: "article"
+  status: "published"
+  categories: []
+  tags: []
+  keywords: []
+  number-sections: true
+  plate_id: ""
   cover-image: ""
   cover_image: ""
   epub-cover-image: ""
   epub_cover_image: ""
   epub-title-page: false
   epub-chapter-level: 2
-  series: ""
-  series-title: ""
-  series-number: 0
-  report-no: ""
-  report-number: ""
-  report-year: ""
-  report_no: 0
-  report_number: 0
-  report_year: 0
 
 normalization_rules:
   - "Prefer source `article.yaml` values over stale Hugo values when enriching metadata."
   - "Keep `title`, `description`, and `summary` plain-text and concise; do not embed raw HTML or image tags."
   - "Set `summary` from `meta.abstract` when the abstract is strong, otherwise from the first clean paragraph."
   - "Keep `authors` at top level as site-facing authorship; keep `meta.creator` as the bibliographic creator field."
-  - "Mirror taxonomies across top level and `meta`: `categories`, `tags`, and `keywords` should agree."
-  - "Mirror page identity across top level and `meta`: `title`, `slug`, and `date` should agree."
-  - "Use `meta.status = published` for live posts and `draft = false` at top level."
+  - "Mirror taxonomies across top level and `meta` when `meta.categories`, `meta.tags`, and `meta.keywords` are present."
+  - "Mirror page identity across top level and `meta` when `meta.slug` and `meta.date` are present."
+  - "Use `meta.status = published` for live posts when that field is present, and `draft = false` at top level."
   - "Preserve `cover-image` and EPUB keys only when the post actually has a meaningful cover asset."
   - "Use empty strings or empty arrays for unknown optional metadata; do not invent values."
-  - "Do not preserve malformed legacy fields such as `report.false`, `report_series`, `report_series_title`, or `report_series_number`."
+  - "Do not preserve malformed legacy fields such as `report.false`, redundant report-number variants, series-number variants, `report_series`, `report_series_title`, or `report_series_number`."
   - "Do not create duplicate slugs. If a post already exists under the canonical source slug, remove renamed duplicates."
 
 omit_from_hugo_posts:
@@ -175,6 +166,17 @@ omit_from_hugo_posts:
   - "highlight-style"
   - "author"
   - "publishDate"
+  - "series"
+  - "series-title"
+  - "series-number"
+  - "series_title"
+  - "series_number"
+  - "report-no"
+  - "report-number"
+  - "report-year"
+  - "report_no"
+  - "report_number"
+  - "report_year"
   - "report_series"
   - "report_series_title"
   - "report_series_number"
