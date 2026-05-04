@@ -1,0 +1,86 @@
+{{- if or (.Params.math) (.Site.Params.math) (.Params.katex) (.Site.Params.katex) -}}
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"
+    integrity="sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0"
+    crossorigin="anonymous"
+  >
+  <script
+    defer
+    src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"
+    integrity="sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    defer
+    src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"
+    integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05"
+    crossorigin="anonymous"
+  ></script>
+  <script defer>
+    document.addEventListener("DOMContentLoaded", function () {
+      if (typeof renderMathInElement !== "function") {
+        return;
+      }
+
+      const root = document.querySelector(".post-content") || document.body;
+
+      // Some imported math-heavy posts were converted with escaped dollar
+      // delimiters like \$...\$, which KaTeX auto-render does not treat as
+      // math boundaries out of the box.
+      const normalizeEscapedDollarMath = (nodeRoot) => {
+        const walker = document.createTreeWalker(
+          nodeRoot,
+          NodeFilter.SHOW_TEXT,
+          {
+            acceptNode(node) {
+              if (!node.parentElement) {
+                return NodeFilter.FILTER_REJECT;
+              }
+              if (
+                node.parentElement.closest(
+                  "code, pre, script, style, textarea, .katex, .highlight"
+                )
+              ) {
+                return NodeFilter.FILTER_REJECT;
+              }
+              return node.nodeValue.includes("\\$")
+                ? NodeFilter.FILTER_ACCEPT
+                : NodeFilter.FILTER_SKIP;
+            },
+          }
+        );
+
+        const textNodes = [];
+        while (walker.nextNode()) {
+          textNodes.push(walker.currentNode);
+        }
+
+        textNodes.forEach((textNode) => {
+          textNode.nodeValue = textNode.nodeValue.replace(
+            /\\\$(.+?)\\\$/g,
+            "$$$1$"
+          );
+        });
+      };
+
+      normalizeEscapedDollarMath(root);
+
+      renderMathInElement(root, {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "\\[", right: "\\]", display: true },
+          { left: "\\(", right: "\\)", display: false },
+          { left: "$", right: "$", display: false }
+        ],
+        ignoredClasses: ["katex"],
+        ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"],
+        output: "htmlAndMathml",
+        processEnvironments: true,
+        processEscapes: true,
+        strict: "ignore",
+        throwOnError: false
+      });
+    });
+  </script>
+{{- end -}}
