@@ -1,7 +1,6 @@
 {{ define "content" }}
   {{- $pages := where .Site.RegularPages "Section" "posts" -}}
   {{- $pages = $pages.ByDate.Reverse -}}
-  {{- $paginator := .Paginate $pages -}}
   {{- $tagTerms := slice -}}
   {{- $categoryTerms := slice -}}
   {{- $authorTerms := slice -}}
@@ -45,6 +44,14 @@
         </div>
 
         <div class="publications-filter-select-wrap">
+          <label for="publications-sort-direction">Direction</label>
+          <select id="publications-sort-direction">
+            <option value="desc" selected>Descending</option>
+            <option value="asc">Ascending</option>
+          </select>
+        </div>
+
+        <div class="publications-filter-select-wrap">
           <label for="publications-category-select">Category</label>
           <select id="publications-category-select">
             <option value="">All categories</option>
@@ -82,13 +89,13 @@
       </div>
     </div>
 
+    <p id="publications-empty-state" class="publications-empty-state" hidden>No publications match the current filters.</p>
+
     <ul id="publications-list">
-      {{- range $paginator.Pages -}}
+      {{- range $pages -}}
         {{- .Render "li" -}}
       {{- end -}}
     </ul>
-
-    {{ partial "pagination.html" . }}
   </section>
   <script defer src="{{ "js/publications.js" | relURL }}"></script>
 {{ end }}

@@ -256,6 +256,12 @@ body.colorscheme-auto .publications-filter-select-wrap select {
   font-size: 1.4rem;
 }
 
+.publications-empty-state {
+  margin-top: 2rem;
+  color: var(--ui-muted);
+  font-style: italic;
+}
+
 .publications-clear-btn:hover {
   border-color: var(--ui-accent);
   color: var(--ui-accent);
