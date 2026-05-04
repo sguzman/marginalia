@@ -1,11 +1,13 @@
 (function () {
   const list = document.getElementById("publications-list");
   const sortSelect = document.getElementById("publications-sort");
+  const directionSelect = document.getElementById("publications-sort-direction");
   const categorySelect = document.getElementById("publications-category-select");
   const tagSelect = document.getElementById("publications-tag-select");
   const authorSelect = document.getElementById("publications-author-select");
   const clearFiltersButton = document.getElementById("publications-clear-filters");
   const resultsSummary = document.getElementById("publications-results-summary");
+  const emptyState = document.getElementById("publications-empty-state");
 
   if (!list || !sortSelect) return;
 
@@ -28,16 +30,19 @@
       .map((part) => part.trim().toLowerCase())
       .filter(Boolean);
 
-  const compareEntries = (a, b, mode) => {
+  const compareEntries = (a, b, mode, direction) => {
+    let delta = 0;
     if (mode === "last_modified") {
-      return parseDate(b.dataset.lastmod) - parseDate(a.dataset.lastmod);
+      delta = parseDate(b.dataset.lastmod) - parseDate(a.dataset.lastmod);
+    } else if (mode === "word_count") {
+      delta = parseNum(b.dataset.wordcount) - parseNum(a.dataset.wordcount);
+    } else {
+      delta = parseDate(b.dataset.published) - parseDate(a.dataset.published);
+      if (delta === 0) {
+        delta = (a.dataset.title || "").localeCompare(b.dataset.title || "");
+      }
     }
-    if (mode === "word_count") {
-      return parseNum(b.dataset.wordcount) - parseNum(a.dataset.wordcount);
-    }
-    const publishedDelta = parseDate(b.dataset.published) - parseDate(a.dataset.published);
-    if (publishedDelta !== 0) return publishedDelta;
-    return (a.dataset.title || "").localeCompare(b.dataset.title || "");
+    return direction === "asc" ? delta * -1 : delta;
   };
 
   const updateResultsSummary = (visibleCount) => {
@@ -76,16 +81,19 @@
       if (visible) visibleCount += 1;
     });
 
+    if (emptyState) emptyState.hidden = visibleCount !== 0;
     updateResultsSummary(visibleCount);
   };
 
   const sortEntries = () => {
     const mode = sortSelect.value;
-    entries.sort((a, b) => compareEntries(a, b, mode));
+    const direction = directionSelect?.value || "desc";
+    entries.sort((a, b) => compareEntries(a, b, mode, direction));
     entries.forEach((entry) => list.appendChild(entry));
   };
 
   sortSelect.addEventListener("change", sortEntries);
+  directionSelect?.addEventListener("change", sortEntries);
   categorySelect?.addEventListener("change", filterEntries);
   tagSelect?.addEventListener("change", filterEntries);
   authorSelect?.addEventListener("change", filterEntries);
