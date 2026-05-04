@@ -11,7 +11,7 @@
     </h1>
   </header>
   {{ .Content }}
-  {{ $items := .Pages }}
+  {{ $items := .Pages.ByDate.Reverse }}
   {{ if eq .Section "posts" }}
     {{ $items = .Paginator.Pages }}
   {{ end }}

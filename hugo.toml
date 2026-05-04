@@ -12,3 +12,8 @@ math = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"

@@ -1215,6 +1215,50 @@ def dedupe_posts_by_title_only(*, preferred_slugs: set[str], dry_run: bool) -> i
     return removed
 
 
+def dedupe_posts_by_dataset_id(*, preferred_slugs: set[str], dry_run: bool) -> int:
+    paths = iter_post_paths()
+    records: list[tuple[Path, dict[str, Any], str]] = []
+    for p in paths:
+        fm = load_post_frontmatter(p)
+        if not fm:
+            continue
+        meta = fm.get("meta") if isinstance(fm.get("meta"), dict) else {}
+        dataset_id = meta.get("dataset_id")
+        if not isinstance(dataset_id, str) or not dataset_id.strip():
+            continue
+        records.append((p, fm, dataset_id.strip()))
+
+    by_dataset: dict[str, list[tuple[Path, dict[str, Any]]]] = {}
+    for p, fm, dataset_id in records:
+        by_dataset.setdefault(dataset_id, []).append((p, fm))
+
+    removed = 0
+    for _, group in by_dataset.items():
+        if len(group) <= 1:
+            continue
+
+        def score(item: tuple[Path, dict[str, Any]]) -> tuple[int, int, str, str]:
+            p, fm = item
+            slug = post_slug_from_path(p, fm)
+            prefer = 1 if slug in preferred_slugs else 0
+            is_bundle = 1 if p.name == "index.md" else 0
+            date = str(fm.get("date") or "")
+            return (prefer, is_bundle, date, str(p))
+
+        keep = sorted(group, key=score, reverse=True)[0]
+        for p, fm in group:
+            if p == keep[0]:
+                continue
+            slug = post_slug_from_path(p, fm)
+            if slug in preferred_slugs and post_slug_from_path(keep[0], keep[1]) not in preferred_slugs:
+                continue
+            if not dry_run:
+                remove_post(p)
+            removed += 1
+
+    return removed
+
+
 def repair_invalid_posts(*, article_by_slug: dict[str, Article], dry_run: bool) -> int:
     """
     If a post has invalid YAML frontmatter, overwrite it from tmp source when available.
@@ -1447,6 +1491,9 @@ def main() -> None:
         removed_by_title_only = dedupe_posts_by_title_only(
             preferred_slugs=preferred, dry_run=args.dry_run
         )
+        removed_by_dataset_id = dedupe_posts_by_dataset_id(
+            preferred_slugs=preferred, dry_run=args.dry_run
+        )
         fixed_authorship_posts = fix_posts_authorship(dry_run=args.dry_run)
         fixed_posts_cleanup = fix_posts_content_and_metadata(dry_run=args.dry_run)
         repaired_invalid_posts = repair_invalid_posts(
@@ -1458,6 +1505,7 @@ def main() -> None:
         fixed_posts_cleanup = 0
         repaired_invalid_posts = 0
         removed_by_title_only = 0
+        removed_by_dataset_id = 0
 
     print(
         "\n".join(
@@ -1470,6 +1518,7 @@ def main() -> None:
                 f"removed_dupe_posts_by_slug={removed_by_slug}",
                 f"removed_dupe_posts_by_title_date={removed_by_title_date}",
                 f"removed_dupe_posts_by_title_only={removed_by_title_only}",
+                f"removed_dupe_posts_by_dataset_id={removed_by_dataset_id}",
                 f"fixed_posts_authorship={fixed_authorship_posts}",
                 f"fixed_posts_cleanup={fixed_posts_cleanup}",
                 f"repaired_invalid_posts={repaired_invalid_posts}",
