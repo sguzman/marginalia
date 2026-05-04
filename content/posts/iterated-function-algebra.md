@@ -1,8 +1,7 @@
 ---
-ai_generated: true
+ai_generated: false
 authors:
 - Salvador Guzman
-- ChatGPT
 categories:
 - Mathematics
 - Philosophy of Mathematics
