@@ -1,5 +1,5 @@
 (function () {
-  const grid = document.getElementById("publications-grid");
+  const list = document.getElementById("publications-list");
   const sortSelect = document.getElementById("publications-sort");
   const categorySelect = document.getElementById("publications-category-select");
   const tagSelect = document.getElementById("publications-tag-select");
@@ -7,10 +7,9 @@
   const clearFiltersButton = document.getElementById("publications-clear-filters");
   const resultsSummary = document.getElementById("publications-results-summary");
 
-  if (!grid || !sortSelect) return;
+  if (!list || !sortSelect) return;
 
-  const cards = Array.from(grid.querySelectorAll(".publication-card"));
-  const chipButtons = Array.from(grid.querySelectorAll(".publication-chip"));
+  const entries = Array.from(list.querySelectorAll(".publication-entry"));
 
   const parseDate = (value) => {
     if (!value) return 0;
@@ -23,13 +22,13 @@
     return Number.isFinite(n) ? n : 0;
   };
 
-  const getSet = (card, key) =>
-    (card.dataset[key] || "")
+  const getSet = (entry, key) =>
+    (entry.dataset[key] || "")
       .split(",")
       .map((part) => part.trim().toLowerCase())
       .filter(Boolean);
 
-  const compareCards = (a, b, mode) => {
+  const compareEntries = (a, b, mode) => {
     if (mode === "last_modified") {
       return parseDate(b.dataset.lastmod) - parseDate(a.dataset.lastmod);
     }
@@ -41,26 +40,10 @@
     return (a.dataset.title || "").localeCompare(b.dataset.title || "");
   };
 
-  const updateChipStates = () => {
-    const selectedCategory = (categorySelect?.value || "").trim().toLowerCase();
-    const selectedTag = (tagSelect?.value || "").trim().toLowerCase();
-    const selectedAuthor = (authorSelect?.value || "").trim().toLowerCase();
-
-    chipButtons.forEach((button) => {
-      const type = button.dataset.filterType || "";
-      const value = (button.dataset.filterValue || "").toLowerCase();
-      const active =
-        (type === "category" && selectedCategory === value) ||
-        (type === "tag" && selectedTag === value) ||
-        (type === "author" && selectedAuthor === value);
-      button.classList.toggle("is-active", active);
-    });
-  };
-
   const updateResultsSummary = (visibleCount) => {
     if (!resultsSummary) return;
 
-    const total = cards.length;
+    const total = entries.length;
     const bits = [];
     const category = (categorySelect?.value || "").trim();
     const tag = (tagSelect?.value || "").trim();
@@ -78,62 +61,41 @@
     resultsSummary.textContent = `Showing ${visibleCount} of ${total} publications for ${bits.join(" • ")}`;
   };
 
-  const filterCards = () => {
+  const filterEntries = () => {
     const category = (categorySelect?.value || "").trim().toLowerCase();
     const tag = (tagSelect?.value || "").trim().toLowerCase();
     const author = (authorSelect?.value || "").trim().toLowerCase();
 
     let visibleCount = 0;
-    cards.forEach((card) => {
-      const categoryMatch = !category || getSet(card, "categories").includes(category);
-      const tagMatch = !tag || getSet(card, "tags").includes(tag);
-      const authorMatch = !author || getSet(card, "authors").includes(author);
+    entries.forEach((entry) => {
+      const categoryMatch = !category || getSet(entry, "categories").includes(category);
+      const tagMatch = !tag || getSet(entry, "tags").includes(tag);
+      const authorMatch = !author || getSet(entry, "authors").includes(author);
       const visible = categoryMatch && tagMatch && authorMatch;
-      card.hidden = !visible;
+      entry.hidden = !visible;
       if (visible) visibleCount += 1;
     });
 
-    updateChipStates();
     updateResultsSummary(visibleCount);
   };
 
-  const sortCards = () => {
+  const sortEntries = () => {
     const mode = sortSelect.value;
-    cards.sort((a, b) => compareCards(a, b, mode));
-    cards.forEach((card) => grid.appendChild(card));
+    entries.sort((a, b) => compareEntries(a, b, mode));
+    entries.forEach((entry) => list.appendChild(entry));
   };
 
-  const applyFilter = (type, value) => {
-    if (!value) return;
-    if (type === "category" && categorySelect) {
-      categorySelect.value = categorySelect.value === value ? "" : value;
-    }
-    if (type === "tag" && tagSelect) {
-      tagSelect.value = tagSelect.value === value ? "" : value;
-    }
-    if (type === "author" && authorSelect) {
-      authorSelect.value = authorSelect.value === value ? "" : value;
-    }
-    filterCards();
-  };
-
-  sortSelect.addEventListener("change", sortCards);
-  categorySelect?.addEventListener("change", filterCards);
-  tagSelect?.addEventListener("change", filterCards);
-  authorSelect?.addEventListener("change", filterCards);
+  sortSelect.addEventListener("change", sortEntries);
+  categorySelect?.addEventListener("change", filterEntries);
+  tagSelect?.addEventListener("change", filterEntries);
+  authorSelect?.addEventListener("change", filterEntries);
   clearFiltersButton?.addEventListener("click", () => {
     if (categorySelect) categorySelect.value = "";
     if (tagSelect) tagSelect.value = "";
     if (authorSelect) authorSelect.value = "";
-    filterCards();
+    filterEntries();
   });
 
-  chipButtons.forEach((button) => {
-    button.addEventListener("click", () => {
-      applyFilter(button.dataset.filterType || "", (button.dataset.filterValue || "").toLowerCase());
-    });
-  });
-
-  sortCards();
-  filterCards();
+  sortEntries();
+  filterEntries();
 })();
