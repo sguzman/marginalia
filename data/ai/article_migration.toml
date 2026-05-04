@@ -1,211 +1,1364 @@
-generated_at = "2026-05-04T16:38:23.846952+00:00"
+generated_at = "2026-05-04T17:02:59.043271+00:00"
 source_root = "tmp/ai-research-reports/data/md"
-total_source_articles = 97
-copied_articles = 91
-pending_articles = 6
+crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
+total_documents = 97
+added_documents = 91
+pending_documents = 6
 
-all_source_slugs = [
-  "1inventing-socialism",
-  "2christian-socialism",
-  "3mutualism",
-  "4chartist",
-  "a-history-of-functional-analysis",
-  "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture",
-  "a-post-chomskyan-theory-of-language-in-the-age-of-llms",
-  "algebra-evolution",
-  "american-judicial-process",
-  "analysis-semantics",
-  "brickmaking-history-materials-processes-and-production-planning",
-  "category-theory",
-  "category-theory-research-scope",
-  "chip-industry",
-  "christian-socialism-report-request",
-  "civilizing-injustice-colonial-conquest-and-moral-pretexts",
-  "co-opting-the-left",
-  "complex-plane-canvas",
-  "complex-plane-culture",
-  "conserving-radicalism",
-  "corporate-capital-and-progressive-cultural-politics",
-  "critical-review-of-major-official-financial-crisis-inquiry-reports",
-  "css-history",
-  "culture-gothic",
-  "current-year-structure-of-taxes-in-the-united-states",
-  "darrieus-vawt-design-construction-1-10-kw",
-  "desalination-plant-design-and-construction",
-  "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo",
-  "electric-motor-design-principles-types-and-practices",
-  "electric-motors-v2",
-  "emptiness-of-deleuze",
-  "fake-populism-and-neil-young",
-  "federal-legal-landscape",
-  "gaht",
-  "gaht-research-report-summary",
-  "geometry-semantics",
-  "global-population-dynamics-peaks-in-population-level-and-growth-rates",
-  "grrm-deconstructed",
-  "hasan",
-  "hasanabi-popularity-analysis",
-  "heaviside",
-  "highway-engineering",
-  "hitler-philosophy",
-  "homological-algebra",
-  "how-llms-challenge-chomskyan-assumptions-analytical-report",
-  "html-history",
-  "in-house-vertical-farms",
-  "javascript-history",
-  "jewish-political-activism",
-  "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence",
-  "judges-in-the-judicial-process-of-the-united-states",
-  "kern-weed",
-  "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in",
-  "land-rooted-ethno",
-  "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens",
-  "liberal-gothic-an-analytical-report",
-  "liberal-gothic-quick-facts",
-  "linear-algebra-history-report",
-  "male-suicide",
-  "male-suicide-research-outline",
-  "marx-engels",
-  "marx-engels-manifesto-analysis",
-  "marxism-bibliography",
-  "marxism-evolution",
-  "marxism-research-clarifications",
-  "matrix-culture",
-  "mauler",
-  "maxwells-equations-a-human-centered-historical-and-scientific-analysis",
-  "meme-culture-and-borderer-right-style-a-research-report",
-  "moby-dick-as-yankee-self-aggrandizement-and-self-indictment",
-  "nations-right-wing-critique",
-  "neural-networks",
-  "nietzche-math-critique",
-  "number-theory-from-euler",
-  "obj-vs-sub",
-  "operators-social-history",
-  "piketty-liberal-pmc-critique",
-  "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850",
-  "proudhon-mutualism-report",
-  "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti",
-  "report-elite-discourse-and-structural-critique",
-  "republican-administrations-as-the-enforcers-of-u-s-imperial-policy",
-  "savonius-wind-turbines-comprehensive-design-diy-guide",
-  "selective-freudian-explanations-in-political-and-media-discourse",
-  "structure-and-sources-of-american-law",
-  "symbolic-post-masculinity",
-  "taylor",
-  "the-carousel-of-right-wing-resistance-in-the-united-states",
-  "the-u-s-post-world-war-ii-boom-1945-1975",
-  "topology",
-  "tyler-and-jews",
-  "type-theory-history",
-  "united-states-of-empire",
-  "when-subverted-masculinity-boomerangs-into-underdog-masculinity",
-  "yankee-courts-and-legal-bias",
-  "yankee-left",
-  "yankee-white-supremacy",
-]
+[[documents]]
+source_slug = "1inventing-socialism"
+title = "Inventing Socialism"
+source_date = "2026-02-12"
+docx_file = "Inventing Socialism.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/1inventing-socialism/main.md"
+meta_path = "tmp/ai-research-reports/data/md/1inventing-socialism/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "1inventing-socialism"
+blog_path = "content/posts/1inventing-socialism.md"
+note = ""
 
-copied_source_slugs = [
-  "1inventing-socialism",
-  "2christian-socialism",
-  "3mutualism",
-  "4chartist",
-  "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture",
-  "a-post-chomskyan-theory-of-language-in-the-age-of-llms",
-  "algebra-evolution",
-  "analysis-semantics",
-  "brickmaking-history-materials-processes-and-production-planning",
-  "category-theory",
-  "category-theory-research-scope",
-  "chip-industry",
-  "christian-socialism-report-request",
-  "civilizing-injustice-colonial-conquest-and-moral-pretexts",
-  "co-opting-the-left",
-  "complex-plane-canvas",
-  "complex-plane-culture",
-  "conserving-radicalism",
-  "corporate-capital-and-progressive-cultural-politics",
-  "critical-review-of-major-official-financial-crisis-inquiry-reports",
-  "css-history",
-  "culture-gothic",
-  "darrieus-vawt-design-construction-1-10-kw",
-  "desalination-plant-design-and-construction",
-  "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo",
-  "electric-motor-design-principles-types-and-practices",
-  "electric-motors-v2",
-  "emptiness-of-deleuze",
-  "fake-populism-and-neil-young",
-  "federal-legal-landscape",
-  "gaht",
-  "gaht-research-report-summary",
-  "geometry-semantics",
-  "global-population-dynamics-peaks-in-population-level-and-growth-rates",
-  "grrm-deconstructed",
-  "hasan",
-  "hasanabi-popularity-analysis",
-  "heaviside",
-  "highway-engineering",
-  "hitler-philosophy",
-  "homological-algebra",
-  "how-llms-challenge-chomskyan-assumptions-analytical-report",
-  "html-history",
-  "in-house-vertical-farms",
-  "javascript-history",
-  "jewish-political-activism",
-  "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence",
-  "kern-weed",
-  "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in",
-  "land-rooted-ethno",
-  "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens",
-  "liberal-gothic-an-analytical-report",
-  "liberal-gothic-quick-facts",
-  "male-suicide",
-  "male-suicide-research-outline",
-  "marx-engels",
-  "marx-engels-manifesto-analysis",
-  "marxism-bibliography",
-  "marxism-evolution",
-  "marxism-research-clarifications",
-  "matrix-culture",
-  "mauler",
-  "maxwells-equations-a-human-centered-historical-and-scientific-analysis",
-  "meme-culture-and-borderer-right-style-a-research-report",
-  "moby-dick-as-yankee-self-aggrandizement-and-self-indictment",
-  "nations-right-wing-critique",
-  "neural-networks",
-  "nietzche-math-critique",
-  "number-theory-from-euler",
-  "obj-vs-sub",
-  "operators-social-history",
-  "piketty-liberal-pmc-critique",
-  "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850",
-  "proudhon-mutualism-report",
-  "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti",
-  "report-elite-discourse-and-structural-critique",
-  "republican-administrations-as-the-enforcers-of-u-s-imperial-policy",
-  "savonius-wind-turbines-comprehensive-design-diy-guide",
-  "selective-freudian-explanations-in-political-and-media-discourse",
-  "symbolic-post-masculinity",
-  "taylor",
-  "the-carousel-of-right-wing-resistance-in-the-united-states",
-  "the-u-s-post-world-war-ii-boom-1945-1975",
-  "topology",
-  "tyler-and-jews",
-  "type-theory-history",
-  "united-states-of-empire",
-  "when-subverted-masculinity-boomerangs-into-underdog-masculinity",
-  "yankee-courts-and-legal-bias",
-  "yankee-left",
-  "yankee-white-supremacy",
-]
+[[documents]]
+source_slug = "2christian-socialism"
+title = "Christian Socialism in Mid-Victorian Britain"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/2christian-socialism/main.md"
+meta_path = "tmp/ai-research-reports/data/md/2christian-socialism/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "2christian-socialism"
+blog_path = "content/posts/2christian-socialism.md"
+note = "No linked docx entry in upstream crosswalk."
 
-pending_source_slugs = [
-  "a-history-of-functional-analysis",
-  "american-judicial-process",
-  "current-year-structure-of-taxes-in-the-united-states",
-  "judges-in-the-judicial-process-of-the-united-states",
-  "linear-algebra-history-report",
-  "structure-and-sources-of-american-law",
-]
+[[documents]]
+source_slug = "3mutualism"
+title = "Mutualism: Markets Without Capitalism"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/3mutualism/main.md"
+meta_path = "tmp/ai-research-reports/data/md/3mutualism/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "3mutualism"
+blog_path = "content/posts/3mutualism/index.md"
+note = "No linked docx entry in upstream crosswalk."
 
-[renamed_blog_slugs]
-"kern-weed" = "kern-county-cannabis-legal-environment"
+[[documents]]
+source_slug = "4chartist"
+title = "Chartists & Radical Republicans, 1840-1865"
+source_date = "2026-02-12"
+docx_file = "Chartists & Radical Republicans, 1840‑1865_ Franchise, Socialism, and the Limits of Alliance.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/4chartist/main.md"
+meta_path = "tmp/ai-research-reports/data/md/4chartist/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "4chartist"
+blog_path = "content/posts/4chartist.md"
+note = ""
+
+[[documents]]
+source_slug = "a-history-of-functional-analysis"
+title = "A History of Functional Analysis"
+source_date = "2026-04-22"
+docx_file = "A History of Functional Analysis.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/a-history-of-functional-analysis/main.md"
+meta_path = "tmp/ai-research-reports/data/md/a-history-of-functional-analysis/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = false
+blog_slug = ""
+blog_path = ""
+note = ""
+
+[[documents]]
+source_slug = "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture"
+title = "A Literary, Non-Technical History of the Hilbert–Pólya Conjecture"
+source_date = "2026-01-25"
+docx_file = "A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture/main.md"
+meta_path = "tmp/ai-research-reports/data/md/a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture"
+blog_path = "content/posts/a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture.md"
+note = ""
+
+[[documents]]
+source_slug = "a-post-chomskyan-theory-of-language-in-the-age-of-llms"
+title = "A Post-Chomskyan Theory of Language in the Age of LLMs"
+source_date = "2026-03-03"
+docx_file = "A Post-Chomskyan Theory of Language in the Age of LLMs.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/main.md"
+meta_path = "tmp/ai-research-reports/data/md/a-post-chomskyan-theory-of-language-in-the-age-of-llms/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "a-post-chomskyan-theory-of-language-in-the-age-of-llms"
+blog_path = "content/posts/a-post-chomskyan-theory-of-language-in-the-age-of-llms.md"
+note = ""
+
+[[documents]]
+source_slug = "algebra-evolution"
+title = "The Evolution and Frontiers of Algebra"
+source_date = "2026-02-12"
+docx_file = "The Evolution and Frontiers of Algebra_ A Comprehensive Historical and Conceptual Analysis.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/algebra-evolution/main.md"
+meta_path = "tmp/ai-research-reports/data/md/algebra-evolution/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "algebra-evolution"
+blog_path = "content/posts/algebra-evolution.md"
+note = ""
+
+[[documents]]
+source_slug = "american-judicial-process"
+title = "Judges in the Judicial Process of the United States"
+source_date = "2026-04-30"
+docx_file = "american-judicial-process.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/american-judicial-process/main.md"
+meta_path = "tmp/ai-research-reports/data/md/american-judicial-process/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = false
+blog_slug = ""
+blog_path = ""
+note = ""
+
+[[documents]]
+source_slug = "analysis-semantics"
+title = "The Semantics of \"Analysis\" in Mathematics"
+source_date = "2026-02-12"
+docx_file = "The Semantics of “Analysis” in Mathematics (Newton → Present, Europe & the United States).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/analysis-semantics/main.md"
+meta_path = "tmp/ai-research-reports/data/md/analysis-semantics/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "analysis-semantics"
+blog_path = "content/posts/analysis-semantics.md"
+note = ""
+
+[[documents]]
+source_slug = "brickmaking-history-materials-processes-and-production-planning"
+title = "Brickmaking_ History, Materials, Processes, and Production Planning"
+source_date = "2026-04-04"
+docx_file = "Brickmaking_ History, Materials, Processes, and Production Planning.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/brickmaking-history-materials-processes-and-production-planning/main.md"
+meta_path = "tmp/ai-research-reports/data/md/brickmaking-history-materials-processes-and-production-planning/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "brickmaking-history-materials-processes-and-production-planning"
+blog_path = "content/posts/brickmaking-history-materials-processes-and-production-planning/index.md"
+note = ""
+
+[[documents]]
+source_slug = "category-theory"
+title = "Category Theory: Origins, Invention, and Early Reception (1935-1965)"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/category-theory/main.md"
+meta_path = "tmp/ai-research-reports/data/md/category-theory/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "category-theory"
+blog_path = "content/posts/category-theory.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "category-theory-research-scope"
+title = "Category Theory Research Scope"
+source_date = "2026-01-25"
+docx_file = "Category Theory Research Scope.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/category-theory-research-scope/main.md"
+meta_path = "tmp/ai-research-reports/data/md/category-theory-research-scope/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "category-theory-research-scope"
+blog_path = "content/posts/category-theory-research-scope.md"
+note = ""
+
+[[documents]]
+source_slug = "chip-industry"
+title = "The Worldwide Computer Chip Industry"
+source_date = "2026-02-12"
+docx_file = "The Worldwide Computer Chip Industry – A Non-Technical Field Guide.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/chip-industry/main.md"
+meta_path = "tmp/ai-research-reports/data/md/chip-industry/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "chip-industry"
+blog_path = "content/posts/chip-industry.md"
+note = ""
+
+[[documents]]
+source_slug = "christian-socialism-report-request"
+title = "Christian Socialism Report Request"
+source_date = "2026-01-25"
+docx_file = "Christian Socialism Report Request.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/christian-socialism-report-request/main.md"
+meta_path = "tmp/ai-research-reports/data/md/christian-socialism-report-request/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "christian-socialism-report-request"
+blog_path = "content/posts/christian-socialism-report-request.md"
+note = ""
+
+[[documents]]
+source_slug = "civilizing-injustice-colonial-conquest-and-moral-pretexts"
+title = "Civilizing Injustice_ Colonial Conquest and Moral Pretexts"
+source_date = "2026-03-04"
+docx_file = "Civilizing Injustice_ Colonial Conquest and Moral Pretexts.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/main.md"
+meta_path = "tmp/ai-research-reports/data/md/civilizing-injustice-colonial-conquest-and-moral-pretexts/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "civilizing-injustice-colonial-conquest-and-moral-pretexts"
+blog_path = "content/posts/civilizing-injustice-colonial-conquest-and-moral-pretexts/index.md"
+note = ""
+
+[[documents]]
+source_slug = "co-opting-the-left"
+title = "Co-opting the Left"
+source_date = "2026-02-12"
+docx_file = "__Co-opting the Left_ U.S. Liberal Institutions and Deradicalization (1945–Present)__.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/co-opting-the-left/main.md"
+meta_path = "tmp/ai-research-reports/data/md/co-opting-the-left/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "co-opting-the-left"
+blog_path = "content/posts/co-opting-the-left.md"
+note = ""
+
+[[documents]]
+source_slug = "complex-plane-canvas"
+title = "Complex Analysis as a Universal Canvas"
+source_date = "2026-02-12"
+docx_file = "Complex Analysis as a Universal Canvas (Euler to Today)_ A Research Report.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/complex-plane-canvas/main.md"
+meta_path = "tmp/ai-research-reports/data/md/complex-plane-canvas/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "complex-plane-canvas"
+blog_path = "content/posts/complex-plane-canvas.md"
+note = ""
+
+[[documents]]
+source_slug = "complex-plane-culture"
+title = "Imagining the Imaginary"
+source_date = "2026-02-12"
+docx_file = "Imagining the Imaginary_ A Cultural-Intellectual History of the Complex Plane (1748–2025).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/complex-plane-culture/main.md"
+meta_path = "tmp/ai-research-reports/data/md/complex-plane-culture/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "complex-plane-culture"
+blog_path = "content/posts/complex-plane-culture/index.md"
+note = ""
+
+[[documents]]
+source_slug = "conserving-radicalism"
+title = "Conservation of Radicalism and Asymmetric Co-optability"
+source_date = "2026-02-12"
+docx_file = "Conservation of Radicalism and Asymmetric Co-optability.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/conserving-radicalism/main.md"
+meta_path = "tmp/ai-research-reports/data/md/conserving-radicalism/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "conserving-radicalism"
+blog_path = "content/posts/conserving-radicalism.md"
+note = ""
+
+[[documents]]
+source_slug = "corporate-capital-and-progressive-cultural-politics"
+title = "Corporate Capital and Progressive Cultural Politics"
+source_date = "2026-02-15"
+docx_file = "Corporate Capital and Progressive Cultural Politics.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/corporate-capital-and-progressive-cultural-politics/main.md"
+meta_path = "tmp/ai-research-reports/data/md/corporate-capital-and-progressive-cultural-politics/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "corporate-capital-and-progressive-cultural-politics"
+blog_path = "content/posts/corporate-capital-and-progressive-cultural-politics.md"
+note = ""
+
+[[documents]]
+source_slug = "critical-review-of-major-official-financial-crisis-inquiry-reports"
+title = "Critical Review of Major Official Financial-Crisis Inquiry Reports"
+source_date = "2026-03-21"
+docx_file = "Critical Review of Major Official Financial-Crisis Inquiry Reports.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/critical-review-of-major-official-financial-crisis-inquiry-reports/main.md"
+meta_path = "tmp/ai-research-reports/data/md/critical-review-of-major-official-financial-crisis-inquiry-reports/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "critical-review-of-major-official-financial-crisis-inquiry-reports"
+blog_path = "content/posts/critical-review-of-major-official-financial-crisis-inquiry-reports.md"
+note = ""
+
+[[documents]]
+source_slug = "css-history"
+title = "A Comprehensive History of CSS"
+source_date = "2026-02-12"
+docx_file = "A Comprehensive History of CSS — Institutions, Specs, and Practice.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/css-history/main.md"
+meta_path = "tmp/ai-research-reports/data/md/css-history/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "css-history"
+blog_path = "content/posts/css-history.md"
+note = ""
+
+[[documents]]
+source_slug = "culture-gothic"
+title = "Aesthetics for the Maimed"
+source_date = "2026-04-20"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/culture-gothic/main.md"
+meta_path = "tmp/ai-research-reports/data/md/culture-gothic/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "culture-gothic"
+blog_path = "content/posts/culture-gothic.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "current-year-structure-of-taxes-in-the-united-states"
+title = "Current-Year Structure of Taxes in the United States"
+source_date = "2026-04-27"
+docx_file = "Current-Year Structure of Taxes in the United States.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/current-year-structure-of-taxes-in-the-united-states/main.md"
+meta_path = "tmp/ai-research-reports/data/md/current-year-structure-of-taxes-in-the-united-states/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = false
+blog_slug = ""
+blog_path = ""
+note = ""
+
+[[documents]]
+source_slug = "darrieus-vawt-design-construction-1-10-kw"
+title = "Darrieus VAWT Design & Construction (1–10 kW)"
+source_date = "2026-04-04"
+docx_file = "Darrieus VAWT Design & Construction (1–10 kW).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/darrieus-vawt-design-construction-1-10-kw/main.md"
+meta_path = "tmp/ai-research-reports/data/md/darrieus-vawt-design-construction-1-10-kw/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "darrieus-vawt-design-construction-1-10-kw"
+blog_path = "content/posts/darrieus-vawt-design-construction-1-10-kw/index.md"
+note = ""
+
+[[documents]]
+source_slug = "desalination-plant-design-and-construction"
+title = "Desalination Plant Design and Construction"
+source_date = "2026-04-04"
+docx_file = "Desalination Plant Design and Construction.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/desalination-plant-design-and-construction/main.md"
+meta_path = "tmp/ai-research-reports/data/md/desalination-plant-design-and-construction/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "desalination-plant-design-and-construction"
+blog_path = "content/posts/desalination-plant-design-and-construction.md"
+note = ""
+
+[[documents]]
+source_slug = "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo"
+title = "Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo"
+source_date = "2026-03-04"
+docx_file = "Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/main.md"
+meta_path = "tmp/ai-research-reports/data/md/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo"
+blog_path = "content/posts/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/index.md"
+note = ""
+
+[[documents]]
+source_slug = "electric-motor-design-principles-types-and-practices"
+title = "Electric Motor Design_ Principles, Types, and Practices"
+source_date = "2026-04-04"
+docx_file = "Electric Motor Design_ Principles, Types, and Practices.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/electric-motor-design-principles-types-and-practices/main.md"
+meta_path = "tmp/ai-research-reports/data/md/electric-motor-design-principles-types-and-practices/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "electric-motor-design-principles-types-and-practices"
+blog_path = "content/posts/electric-motor-design-principles-types-and-practices/index.md"
+note = ""
+
+[[documents]]
+source_slug = "electric-motors-v2"
+title = "Electric Motors: Design, Control, Manufacturing, and Future Trends"
+source_date = "2026-04-04"
+docx_file = "electric-motors-v2.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/electric-motors-v2/main.md"
+meta_path = "tmp/ai-research-reports/data/md/electric-motors-v2/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "electric-motors-v2"
+blog_path = "content/posts/electric-motors-v2.md"
+note = ""
+
+[[documents]]
+source_slug = "emptiness-of-deleuze"
+title = "The Emptiness of Deleuze"
+source_date = "2026-03-04"
+docx_file = "emptiness-of-deleuze.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/emptiness-of-deleuze/main.md"
+meta_path = "tmp/ai-research-reports/data/md/emptiness-of-deleuze/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "emptiness-of-deleuze"
+blog_path = "content/posts/emptiness-of-deleuze.md"
+note = ""
+
+[[documents]]
+source_slug = "fake-populism-and-neil-young"
+title = "Fake Populism and Neil Young"
+source_date = "2026-03-04"
+docx_file = "fake-populism-and-neil-young.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/fake-populism-and-neil-young/main.md"
+meta_path = "tmp/ai-research-reports/data/md/fake-populism-and-neil-young/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "fake-populism-and-neil-young"
+blog_path = "content/posts/fake-populism-and-neil-young.md"
+note = ""
+
+[[documents]]
+source_slug = "federal-legal-landscape"
+title = "Federal Legal Landscape"
+source_date = "2026-01-31"
+docx_file = "Federal Legal Landscape.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/federal-legal-landscape/main.md"
+meta_path = "tmp/ai-research-reports/data/md/federal-legal-landscape/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "federal-legal-landscape"
+blog_path = "content/posts/federal-legal-landscape.md"
+note = ""
+
+[[documents]]
+source_slug = "gaht"
+title = "Gender and GAHT"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/gaht/main.md"
+meta_path = "tmp/ai-research-reports/data/md/gaht/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "gaht"
+blog_path = "content/posts/gaht.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "gaht-research-report-summary"
+title = "GAHT Research Report Summary"
+source_date = "2026-01-31"
+docx_file = "GAHT Research Report Summary.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/gaht-research-report-summary/main.md"
+meta_path = "tmp/ai-research-reports/data/md/gaht-research-report-summary/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "gaht-research-report-summary"
+blog_path = "content/posts/gaht-research-report-summary.md"
+note = ""
+
+[[documents]]
+source_slug = "geometry-semantics"
+title = "The Semantics of \"Geometry\" from Euler to Today"
+source_date = "2026-02-12"
+docx_file = "The Semantics of “Geometry” from Euler to Today (Europe & the United States).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/geometry-semantics/main.md"
+meta_path = "tmp/ai-research-reports/data/md/geometry-semantics/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "geometry-semantics"
+blog_path = "content/posts/geometry-semantics.md"
+note = ""
+
+[[documents]]
+source_slug = "global-population-dynamics-peaks-in-population-level-and-growth-rates"
+title = "Global Population Dynamics_ Peaks in Population Level and Growth Rates"
+source_date = "2026-03-21"
+docx_file = "Global Population Dynamics_ Peaks in Population Level and Growth Rates.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/global-population-dynamics-peaks-in-population-level-and-growth-rates/main.md"
+meta_path = "tmp/ai-research-reports/data/md/global-population-dynamics-peaks-in-population-level-and-growth-rates/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "global-population-dynamics-peaks-in-population-level-and-growth-rates"
+blog_path = "content/posts/global-population-dynamics-peaks-in-population-level-and-growth-rates.md"
+note = ""
+
+[[documents]]
+source_slug = "grrm-deconstructed"
+title = "George R.R. Martin Deconstructed"
+source_date = "2026-03-04"
+docx_file = "grrm-deconstructed.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/grrm-deconstructed/main.md"
+meta_path = "tmp/ai-research-reports/data/md/grrm-deconstructed/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "grrm-deconstructed"
+blog_path = "content/posts/grrm-deconstructed.md"
+note = ""
+
+[[documents]]
+source_slug = "hasan"
+title = "HasanAbi as a Platform-Native Political Brand"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/hasan/main.md"
+meta_path = "tmp/ai-research-reports/data/md/hasan/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "hasan"
+blog_path = "content/posts/hasan.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "hasanabi-popularity-analysis"
+title = "HasanAbi Popularity Analysis"
+source_date = "2026-01-25"
+docx_file = "HasanAbi Popularity Analysis.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/hasanabi-popularity-analysis/main.md"
+meta_path = "tmp/ai-research-reports/data/md/hasanabi-popularity-analysis/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "hasanabi-popularity-analysis"
+blog_path = "content/posts/hasanabi-popularity-analysis.md"
+note = ""
+
+[[documents]]
+source_slug = "heaviside"
+title = "Oliver Heaviside"
+source_date = "2026-03-04"
+docx_file = "heaviside.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/heaviside/main.md"
+meta_path = "tmp/ai-research-reports/data/md/heaviside/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "heaviside"
+blog_path = "content/posts/heaviside/index.md"
+note = ""
+
+[[documents]]
+source_slug = "highway-engineering"
+title = "From Dirt Track to Durable Highway"
+source_date = "2026-02-12"
+docx_file = "From Dirt Track to Durable Highway – Engineering, Material Science & Historic Precedent.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/highway-engineering/main.md"
+meta_path = "tmp/ai-research-reports/data/md/highway-engineering/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "highway-engineering"
+blog_path = "content/posts/highway-engineering/index.md"
+note = ""
+
+[[documents]]
+source_slug = "hitler-philosophy"
+title = "Adolf Hitler's Ideology from Origins to Demise (1907--1945)"
+source_date = "2026-02-12"
+docx_file = "Adolf Hitler’s Ideology from Origins to Demise (1907–1945).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/hitler-philosophy/main.md"
+meta_path = "tmp/ai-research-reports/data/md/hitler-philosophy/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "hitler-philosophy"
+blog_path = "content/posts/hitler-philosophy.md"
+note = ""
+
+[[documents]]
+source_slug = "homological-algebra"
+title = "The History and Impact of Homological Algebra"
+source_date = "2026-02-12"
+docx_file = "The History and Impact of Homological Algebra.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/homological-algebra/main.md"
+meta_path = "tmp/ai-research-reports/data/md/homological-algebra/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "homological-algebra"
+blog_path = "content/posts/homological-algebra.md"
+note = ""
+
+[[documents]]
+source_slug = "how-llms-challenge-chomskyan-assumptions-analytical-report"
+title = "How LLMs Challenge Chomskyan Assumptions_ Analytical Report"
+source_date = "2026-03-03"
+docx_file = "How LLMs Challenge Chomskyan Assumptions_ Analytical Report.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/how-llms-challenge-chomskyan-assumptions-analytical-report/main.md"
+meta_path = "tmp/ai-research-reports/data/md/how-llms-challenge-chomskyan-assumptions-analytical-report/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "how-llms-challenge-chomskyan-assumptions-analytical-report"
+blog_path = "content/posts/how-llms-challenge-chomskyan-assumptions-analytical-report.md"
+note = ""
+
+[[documents]]
+source_slug = "html-history"
+title = "History of HTML (1990--2025)"
+source_date = "2026-02-12"
+docx_file = "History of HTML (1990–2025).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/html-history/main.md"
+meta_path = "tmp/ai-research-reports/data/md/html-history/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "html-history"
+blog_path = "content/posts/html-history.md"
+note = ""
+
+[[documents]]
+source_slug = "in-house-vertical-farms"
+title = "In-House Vertical Farms"
+source_date = "2026-04-04"
+docx_file = "in-house-vertical-farms.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/in-house-vertical-farms/main.md"
+meta_path = "tmp/ai-research-reports/data/md/in-house-vertical-farms/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "in-house-vertical-farms"
+blog_path = "content/posts/in-house-vertical-farms/index.md"
+note = ""
+
+[[documents]]
+source_slug = "javascript-history"
+title = "The Formal and Informal History of JavaScript (1995--2025)"
+source_date = "2026-02-12"
+docx_file = "The Formal and Informal History of JavaScript (1995–2025).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/javascript-history/main.md"
+meta_path = "tmp/ai-research-reports/data/md/javascript-history/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "javascript-history"
+blog_path = "content/posts/javascript-history.md"
+note = ""
+
+[[documents]]
+source_slug = "jewish-political-activism"
+title = "Jewish Political Activism in the United States"
+source_date = "2026-02-12"
+docx_file = "Jewish Political Activism in the United States (1880–2025).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/jewish-political-activism/main.md"
+meta_path = "tmp/ai-research-reports/data/md/jewish-political-activism/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "jewish-political-activism"
+blog_path = "content/posts/jewish-political-activism.md"
+note = ""
+
+[[documents]]
+source_slug = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
+title = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence"
+source_date = "2026-03-21"
+docx_file = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence/main.md"
+meta_path = "tmp/ai-research-reports/data/md/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
+blog_path = "content/posts/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence.md"
+note = ""
+
+[[documents]]
+source_slug = "judges-in-the-judicial-process-of-the-united-states"
+title = "Judges in the Judicial Process of the United States"
+source_date = "2026-05-03"
+docx_file = "Judges in the Judicial Process of the entity[_country_,_United States_,_north america_].docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/judges-in-the-judicial-process-of-the-united-states/main.md"
+meta_path = "tmp/ai-research-reports/data/md/judges-in-the-judicial-process-of-the-united-states/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = false
+blog_slug = ""
+blog_path = ""
+note = ""
+
+[[documents]]
+source_slug = "kern-weed"
+title = "Kern County and the Cannabis Legal Environment"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/kern-weed/main.md"
+meta_path = "tmp/ai-research-reports/data/md/kern-weed/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "kern-county-cannabis-legal-environment"
+blog_path = "content/posts/kern-county-cannabis-legal-environment.md"
+note = "Source md project maps to a renamed blog slug."
+
+[[documents]]
+source_slug = "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in"
+title = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in"
+source_date = "2026-02-15"
+docx_file = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in/main.md"
+meta_path = "tmp/ai-research-reports/data/md/labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in"
+blog_path = "content/posts/labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in.md"
+note = ""
+
+[[documents]]
+source_slug = "land-rooted-ethno"
+title = "Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence"
+source_date = "2026-02-12"
+docx_file = "Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/land-rooted-ethno/main.md"
+meta_path = "tmp/ai-research-reports/data/md/land-rooted-ethno/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "land-rooted-ethno"
+blog_path = "content/posts/land-rooted-ethno.md"
+note = ""
+
+[[documents]]
+source_slug = "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens"
+title = "Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens"
+source_date = "2026-03-21"
+docx_file = "Lawyers, Institutions, and Moral Order in the “Yankee Nation” Folkways Lens.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens/main.md"
+meta_path = "tmp/ai-research-reports/data/md/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens"
+blog_path = "content/posts/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens.md"
+note = ""
+
+[[documents]]
+source_slug = "liberal-gothic-an-analytical-report"
+title = "Liberal Gothic_ An Analytical Report"
+source_date = "2026-04-13"
+docx_file = "Liberal Gothic_ An Analytical Report.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/liberal-gothic-an-analytical-report/main.md"
+meta_path = "tmp/ai-research-reports/data/md/liberal-gothic-an-analytical-report/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "liberal-gothic-an-analytical-report"
+blog_path = "content/posts/liberal-gothic-an-analytical-report/index.md"
+note = ""
+
+[[documents]]
+source_slug = "liberal-gothic-quick-facts"
+title = "Liberal Gothic: Quick Facts"
+source_date = "2026-04-13"
+docx_file = "liberal-gothic-quick-facts.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/liberal-gothic-quick-facts/main.md"
+meta_path = "tmp/ai-research-reports/data/md/liberal-gothic-quick-facts/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "liberal-gothic-quick-facts"
+blog_path = "content/posts/liberal-gothic-quick-facts.md"
+note = ""
+
+[[documents]]
+source_slug = "linear-algebra-history-report"
+title = "The Making of Linear Algebra"
+source_date = "2026-05-03"
+docx_file = "linear_algebra_history_report.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/linear-algebra-history-report/main.md"
+meta_path = "tmp/ai-research-reports/data/md/linear-algebra-history-report/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = false
+blog_slug = ""
+blog_path = ""
+note = ""
+
+[[documents]]
+source_slug = "male-suicide"
+title = "Male Suicide in the United States (2000--Present)"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/male-suicide/main.md"
+meta_path = "tmp/ai-research-reports/data/md/male-suicide/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "male-suicide"
+blog_path = "content/posts/male-suicide/index.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "male-suicide-research-outline"
+title = "Male Suicide Research Outline"
+source_date = "2026-01-25"
+docx_file = "Male Suicide Research Outline.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/male-suicide-research-outline/main.md"
+meta_path = "tmp/ai-research-reports/data/md/male-suicide-research-outline/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "male-suicide-research-outline"
+blog_path = "content/posts/male-suicide-research-outline/index.md"
+note = ""
+
+[[documents]]
+source_slug = "marx-engels"
+title = "Marx and Engels: Scientific Socialism and the Communist Manifesto"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/marx-engels/main.md"
+meta_path = "tmp/ai-research-reports/data/md/marx-engels/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "marx-engels"
+blog_path = "content/posts/marx-engels.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "marx-engels-manifesto-analysis"
+title = "Marx Engels Manifesto Analysis"
+source_date = "2026-01-25"
+docx_file = "Marx Engels Manifesto Analysis.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/marx-engels-manifesto-analysis/main.md"
+meta_path = "tmp/ai-research-reports/data/md/marx-engels-manifesto-analysis/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "marx-engels-manifesto-analysis"
+blog_path = "content/posts/marx-engels-manifesto-analysis.md"
+note = ""
+
+[[documents]]
+source_slug = "marxism-bibliography"
+title = "Comprehensive Marxist Literature (1840--2025)"
+source_date = "2026-02-12"
+docx_file = "__Comprehensive Marxist Literature (1840–2025)_ An Annotated Bibliography and Research Guide__.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/marxism-bibliography/main.md"
+meta_path = "tmp/ai-research-reports/data/md/marxism-bibliography/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "marxism-bibliography"
+blog_path = "content/posts/marxism-bibliography.md"
+note = ""
+
+[[documents]]
+source_slug = "marxism-evolution"
+title = "Evolution of Marxism"
+source_date = "2026-02-12"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/marxism-evolution/main.md"
+meta_path = "tmp/ai-research-reports/data/md/marxism-evolution/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "marxism-evolution"
+blog_path = "content/posts/marxism-evolution.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "marxism-research-clarifications"
+title = "Marxism Research Clarifications"
+source_date = "2026-01-25"
+docx_file = "Marxism Research Clarifications.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/marxism-research-clarifications/main.md"
+meta_path = "tmp/ai-research-reports/data/md/marxism-research-clarifications/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "marxism-research-clarifications"
+blog_path = "content/posts/marxism-research-clarifications.md"
+note = ""
+
+[[documents]]
+source_slug = "matrix-culture"
+title = "The Matrix as Cultural Technology"
+source_date = "2026-02-12"
+docx_file = "The Matrix as Cultural Technology_ A Mythical & Social History.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/matrix-culture/main.md"
+meta_path = "tmp/ai-research-reports/data/md/matrix-culture/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "matrix-culture"
+blog_path = "content/posts/matrix-culture.md"
+note = ""
+
+[[documents]]
+source_slug = "mauler"
+title = "Ad Hoc \"Maulerian School of Film Criticism\""
+source_date = "2026-02-12"
+docx_file = "__Ad Hoc “Maulerian School of Film Criticism”__.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/mauler/main.md"
+meta_path = "tmp/ai-research-reports/data/md/mauler/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "mauler"
+blog_path = "content/posts/mauler.md"
+note = ""
+
+[[documents]]
+source_slug = "maxwells-equations-a-human-centered-historical-and-scientific-analysis"
+title = "Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis"
+source_date = "2026-03-04"
+docx_file = "Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/maxwells-equations-a-human-centered-historical-and-scientific-analysis/main.md"
+meta_path = "tmp/ai-research-reports/data/md/maxwells-equations-a-human-centered-historical-and-scientific-analysis/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "maxwells-equations-a-human-centered-historical-and-scientific-analysis"
+blog_path = "content/posts/maxwells-equations-a-human-centered-historical-and-scientific-analysis/index.md"
+note = ""
+
+[[documents]]
+source_slug = "meme-culture-and-borderer-right-style-a-research-report"
+title = "Meme Culture and “Borderer-Right” Style_ A Research Report"
+source_date = "2026-03-04"
+docx_file = "Meme Culture and “Borderer-Right” Style_ A Research Report.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/meme-culture-and-borderer-right-style-a-research-report/main.md"
+meta_path = "tmp/ai-research-reports/data/md/meme-culture-and-borderer-right-style-a-research-report/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "meme-culture-and-borderer-right-style-a-research-report"
+blog_path = "content/posts/meme-culture-and-borderer-right-style-a-research-report/index.md"
+note = ""
+
+[[documents]]
+source_slug = "moby-dick-as-yankee-self-aggrandizement-and-self-indictment"
+title = "Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment"
+source_date = "2026-03-21"
+docx_file = "Moby-Dick as Yankee Self-Aggrandizement and Self-Indictment.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/moby-dick-as-yankee-self-aggrandizement-and-self-indictment/main.md"
+meta_path = "tmp/ai-research-reports/data/md/moby-dick-as-yankee-self-aggrandizement-and-self-indictment/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "moby-dick-as-yankee-self-aggrandizement-and-self-indictment"
+blog_path = "content/posts/moby-dick-as-yankee-self-aggrandizement-and-self-indictment.md"
+note = ""
+
+[[documents]]
+source_slug = "nations-right-wing-critique"
+title = "Nation's Right-Wing Critique"
+source_date = "2026-04-04"
+docx_file = "nations-right-wing-critique.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/nations-right-wing-critique/main.md"
+meta_path = "tmp/ai-research-reports/data/md/nations-right-wing-critique/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "nations-right-wing-critique"
+blog_path = "content/posts/nations-right-wing-critique/index.md"
+note = ""
+
+[[documents]]
+source_slug = "neural-networks"
+title = "History of Neural Networks in Computing (1940s--2026)"
+source_date = "2026-02-12"
+docx_file = "History of Neural Networks in Computing (1940s–2026).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/neural-networks/main.md"
+meta_path = "tmp/ai-research-reports/data/md/neural-networks/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "neural-networks"
+blog_path = "content/posts/neural-networks.md"
+note = ""
+
+[[documents]]
+source_slug = "nietzche-math-critique"
+title = "Dead Symbols and their Worship"
+source_date = "2026-04-20"
+docx_file = ""
+source_kind = "md-only"
+md_path = "tmp/ai-research-reports/data/md/nietzche-math-critique/main.md"
+meta_path = "tmp/ai-research-reports/data/md/nietzche-math-critique/article.yaml"
+crosswalk_match_basis = ""
+added = true
+blog_slug = "nietzche-math-critique"
+blog_path = "content/posts/nietzche-math-critique.md"
+note = "No linked docx entry in upstream crosswalk."
+
+[[documents]]
+source_slug = "number-theory-from-euler"
+title = "Number Theory from Euler to Today"
+source_date = "2026-02-12"
+docx_file = "Number Theory from Euler to Today (Europe & the United States)_ A Research Report.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/number-theory-from-euler/main.md"
+meta_path = "tmp/ai-research-reports/data/md/number-theory-from-euler/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "number-theory-from-euler"
+blog_path = "content/posts/number-theory-from-euler.md"
+note = ""
+
+[[documents]]
+source_slug = "obj-vs-sub"
+title = "Objectivity vs. Subjectivity: Philosophical Debate and Implications"
+source_date = "2026-02-12"
+docx_file = "Objectivity vs. Subjectivity_ Philosophical Debate and Implications.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/obj-vs-sub/main.md"
+meta_path = "tmp/ai-research-reports/data/md/obj-vs-sub/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "obj-vs-sub"
+blog_path = "content/posts/obj-vs-sub.md"
+note = ""
+
+[[documents]]
+source_slug = "operators-social-history"
+title = "A Social History of \"Operators\" in Mathematics"
+source_date = "2026-02-12"
+docx_file = "A Social History of “Operators” in Mathematics.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/operators-social-history/main.md"
+meta_path = "tmp/ai-research-reports/data/md/operators-social-history/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "operators-social-history"
+blog_path = "content/posts/operators-social-history.md"
+note = ""
+
+[[documents]]
+source_slug = "piketty-liberal-pmc-critique"
+title = "Piketty and the Liberal PMC: A Critique"
+source_date = "2026-03-22"
+docx_file = "piketty-liberal-pmc-critique.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/piketty-liberal-pmc-critique/main.md"
+meta_path = "tmp/ai-research-reports/data/md/piketty-liberal-pmc-critique/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "piketty-liberal-pmc-critique"
+blog_path = "content/posts/piketty-liberal-pmc-critique/index.md"
+note = ""
+
+[[documents]]
+source_slug = "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850"
+title = "Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850)"
+source_date = "2026-04-11"
+docx_file = "Prestige Economy of Knowledge in Early Modern Europe (c.1100–c.1850).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850/main.md"
+meta_path = "tmp/ai-research-reports/data/md/prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850"
+blog_path = "content/posts/prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850.md"
+note = ""
+
+[[documents]]
+source_slug = "proudhon-mutualism-report"
+title = "Proudhon Mutualism Report"
+source_date = "2026-01-25"
+docx_file = "Proudhon Mutualism Report.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/proudhon-mutualism-report/main.md"
+meta_path = "tmp/ai-research-reports/data/md/proudhon-mutualism-report/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "proudhon-mutualism-report"
+blog_path = "content/posts/proudhon-mutualism-report/index.md"
+note = ""
+
+[[documents]]
+source_slug = "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti"
+title = "Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti"
+source_date = "2026-02-15"
+docx_file = "Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti/main.md"
+meta_path = "tmp/ai-research-reports/data/md/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti"
+blog_path = "content/posts/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti.md"
+note = ""
+
+[[documents]]
+source_slug = "report-elite-discourse-and-structural-critique"
+title = "Elite Discourse and Structural Critique"
+source_date = "2026-02-27"
+docx_file = "Report_ Elite Discourse and Structural Critique.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/report-elite-discourse-and-structural-critique/main.md"
+meta_path = "tmp/ai-research-reports/data/md/report-elite-discourse-and-structural-critique/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "report-elite-discourse-and-structural-critique"
+blog_path = "content/posts/report-elite-discourse-and-structural-critique.md"
+note = ""
+
+[[documents]]
+source_slug = "republican-administrations-as-the-enforcers-of-u-s-imperial-policy"
+title = "Republican Administrations as the Enforcers of U.S. Imperial Policy"
+source_date = "2026-03-22"
+docx_file = "Republican Administrations as the Enforcers of U.S. Imperial Policy.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/republican-administrations-as-the-enforcers-of-u-s-imperial-policy/main.md"
+meta_path = "tmp/ai-research-reports/data/md/republican-administrations-as-the-enforcers-of-u-s-imperial-policy/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "republican-administrations-as-the-enforcers-of-u-s-imperial-policy"
+blog_path = "content/posts/republican-administrations-as-the-enforcers-of-u-s-imperial-policy.md"
+note = ""
+
+[[documents]]
+source_slug = "savonius-wind-turbines-comprehensive-design-diy-guide"
+title = "Savonius Wind Turbines – Comprehensive Design & DIY Guide"
+source_date = "2026-04-04"
+docx_file = "Savonius Wind Turbines – Comprehensive Design & DIY Guide.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/savonius-wind-turbines-comprehensive-design-diy-guide/main.md"
+meta_path = "tmp/ai-research-reports/data/md/savonius-wind-turbines-comprehensive-design-diy-guide/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "savonius-wind-turbines-comprehensive-design-diy-guide"
+blog_path = "content/posts/savonius-wind-turbines-comprehensive-design-diy-guide/index.md"
+note = ""
+
+[[documents]]
+source_slug = "selective-freudian-explanations-in-political-and-media-discourse"
+title = "Selective Freudian Explanations in Political and Media Discourse"
+source_date = "2026-03-21"
+docx_file = "Selective Freudian Explanations in Political and Media Discourse.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/selective-freudian-explanations-in-political-and-media-discourse/main.md"
+meta_path = "tmp/ai-research-reports/data/md/selective-freudian-explanations-in-political-and-media-discourse/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "selective-freudian-explanations-in-political-and-media-discourse"
+blog_path = "content/posts/selective-freudian-explanations-in-political-and-media-discourse.md"
+note = ""
+
+[[documents]]
+source_slug = "structure-and-sources-of-american-law"
+title = "Structure and Sources of American Law"
+source_date = "2026-04-27"
+docx_file = "Structure and Sources of American Law.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/structure-and-sources-of-american-law/main.md"
+meta_path = "tmp/ai-research-reports/data/md/structure-and-sources-of-american-law/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = false
+blog_slug = ""
+blog_path = ""
+note = ""
+
+[[documents]]
+source_slug = "symbolic-post-masculinity"
+title = "Symbolic Post-Masculinity"
+source_date = "2026-03-04"
+docx_file = "symbolic-post-masculinity.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/symbolic-post-masculinity/main.md"
+meta_path = "tmp/ai-research-reports/data/md/symbolic-post-masculinity/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "symbolic-post-masculinity"
+blog_path = "content/posts/symbolic-post-masculinity/index.md"
+note = ""
+
+[[documents]]
+source_slug = "taylor"
+title = "Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)"
+source_date = "2026-02-12"
+docx_file = "Taylor Lorenz.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/taylor/main.md"
+meta_path = "tmp/ai-research-reports/data/md/taylor/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "taylor"
+blog_path = "content/posts/taylor.md"
+note = ""
+
+[[documents]]
+source_slug = "the-carousel-of-right-wing-resistance-in-the-united-states"
+title = "The Carousel of Right-Wing Resistance in the United States"
+source_date = "2026-02-15"
+docx_file = "The Carousel of Right-Wing Resistance in the United States.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/main.md"
+meta_path = "tmp/ai-research-reports/data/md/the-carousel-of-right-wing-resistance-in-the-united-states/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "the-carousel-of-right-wing-resistance-in-the-united-states"
+blog_path = "content/posts/the-carousel-of-right-wing-resistance-in-the-united-states.md"
+note = ""
+
+[[documents]]
+source_slug = "the-u-s-post-world-war-ii-boom-1945-1975"
+title = "The U.S. Post–World War II Boom, 1945–1975"
+source_date = "2026-03-21"
+docx_file = "The U.S. Post–World War II Boom, 1945–1975.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/the-u-s-post-world-war-ii-boom-1945-1975/main.md"
+meta_path = "tmp/ai-research-reports/data/md/the-u-s-post-world-war-ii-boom-1945-1975/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "the-u-s-post-world-war-ii-boom-1945-1975"
+blog_path = "content/posts/the-u-s-post-world-war-ii-boom-1945-1975.md"
+note = ""
+
+[[documents]]
+source_slug = "topology"
+title = "Topology"
+source_date = "2026-02-12"
+docx_file = "Topology_ From 18th-Century Precursors to Present-Day Frontiers.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/topology/main.md"
+meta_path = "tmp/ai-research-reports/data/md/topology/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "topology"
+blog_path = "content/posts/topology.md"
+note = ""
+
+[[documents]]
+source_slug = "tyler-and-jews"
+title = "Tyler and Jews"
+source_date = "2026-03-03"
+docx_file = "tyler-and-jews.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/tyler-and-jews/main.md"
+meta_path = "tmp/ai-research-reports/data/md/tyler-and-jews/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "tyler-and-jews"
+blog_path = "content/posts/tyler-and-jews.md"
+note = ""
+
+[[documents]]
+source_slug = "type-theory-history"
+title = "A Comprehensive History of Type Theory (1900s--Present)"
+source_date = "2026-02-12"
+docx_file = "A Comprehensive History of Type Theory (1900s–Present).docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/type-theory-history/main.md"
+meta_path = "tmp/ai-research-reports/data/md/type-theory-history/article.yaml"
+crosswalk_match_basis = "folder_title_inference"
+added = true
+blog_slug = "type-theory-history"
+blog_path = "content/posts/type-theory-history.md"
+note = ""
+
+[[documents]]
+source_slug = "united-states-of-empire"
+title = "The United States of Empire"
+source_date = "2026-03-04"
+docx_file = "united-states-of-empire.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/united-states-of-empire/main.md"
+meta_path = "tmp/ai-research-reports/data/md/united-states-of-empire/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "united-states-of-empire"
+blog_path = "content/posts/united-states-of-empire/index.md"
+note = ""
+
+[[documents]]
+source_slug = "when-subverted-masculinity-boomerangs-into-underdog-masculinity"
+title = "When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”"
+source_date = "2026-02-15"
+docx_file = "When “Subverted Masculinity” Boomerangs into “Underdog Masculinity”.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/main.md"
+meta_path = "tmp/ai-research-reports/data/md/when-subverted-masculinity-boomerangs-into-underdog-masculinity/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "when-subverted-masculinity-boomerangs-into-underdog-masculinity"
+blog_path = "content/posts/when-subverted-masculinity-boomerangs-into-underdog-masculinity.md"
+note = ""
+
+[[documents]]
+source_slug = "yankee-courts-and-legal-bias"
+title = "Yankee Courts and Legal Bias"
+source_date = "2026-03-21"
+docx_file = "yankee-courts-and-legal-bias.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/yankee-courts-and-legal-bias/main.md"
+meta_path = "tmp/ai-research-reports/data/md/yankee-courts-and-legal-bias/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "yankee-courts-and-legal-bias"
+blog_path = "content/posts/yankee-courts-and-legal-bias.md"
+note = ""
+
+[[documents]]
+source_slug = "yankee-left"
+title = "The Yankee Left"
+source_date = "2026-03-04"
+docx_file = "yankee-left.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/yankee-left/main.md"
+meta_path = "tmp/ai-research-reports/data/md/yankee-left/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "yankee-left"
+blog_path = "content/posts/yankee-left.md"
+note = ""
+
+[[documents]]
+source_slug = "yankee-white-supremacy"
+title = "Yankee White Supremacy"
+source_date = "2026-02-27"
+docx_file = "yankee-white-supremacy.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/yankee-white-supremacy/main.md"
+meta_path = "tmp/ai-research-reports/data/md/yankee-white-supremacy/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "yankee-white-supremacy"
+blog_path = "content/posts/yankee-white-supremacy.md"
+note = ""
