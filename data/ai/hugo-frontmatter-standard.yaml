@@ -1,0 +1,185 @@
+---
+# Canonical Hugo frontmatter standard for AI-derived blog posts under `content/posts/`.
+# This is a filtered, Hugo-oriented subset of the richer source metadata in
+# `tmp/ai-research-reports/data/md/**/article.yaml`.
+#
+# Goals:
+# - Keep top-level Hugo fields lean and consistent.
+# - Preserve rich bibliographic/report metadata under `meta`.
+# - Avoid source-only/export-only noise unless Hugo or the site actually uses it.
+#
+# Rules:
+# - Every AI article should have all top-level keys in `top_level_required`.
+# - `top_level_optional` keys are allowed when meaningful, otherwise omit them.
+# - `meta_required` should exist for all AI articles.
+# - `meta_optional` should be included when the source article has real values.
+# - Keys listed in `omit_from_hugo_posts` should not be copied into Hugo posts.
+# - When the same concept exists at top level and under `meta`, keep the top-level
+#   field as the Hugo-facing value and keep the richer/canonical detail under `meta`.
+
+standard_version: "1.0"
+derived_from:
+  - "tmp/ai-research-reports/data/md/metadata-standard.yaml"
+  - "content/posts/css-history.md"
+  - "repo-wide frontmatter audit on 2026-05-04"
+
+reference_article:
+  slug: "css-history"
+  path: "content/posts/css-history.md"
+  reason: "Strong example of rich metadata that maps cleanly into Hugo."
+
+top_level_required:
+  title: ""
+  linkTitle: ""
+  description: ""
+  summary: ""
+  slug: ""
+  date: ""
+  lastmod: ""
+  draft: false
+  authors: []
+  categories: []
+  tags: []
+  keywords: []
+  layout: "single"
+  markup: "goldmark"
+  outputs:
+    - "HTML"
+    - "RSS"
+  meta: {}
+  ai_generated: true
+
+top_level_optional:
+  url: ""
+  aliases: []
+  weight: 0
+  expiryDate: ""
+
+meta_required:
+  title: ""
+  subtitle: ""
+  abstract: ""
+  description: ""
+  slug: ""
+  date: ""
+  identifier: ""
+  type: "article"
+  status: "published"
+  creator: []
+  publisher: "Marginalia"
+  rights: "CC0-1.0"
+  license: "CC0-1.0"
+  lang: "en"
+  language: "en"
+  categories: []
+  tags: []
+  keywords: []
+  subject: []
+  subjects: []
+  reference-section-title: ""
+  toc: true
+  toc-depth: 3
+  toc-title: "Contents"
+  number-sections: true
+  revision: ""
+  edition: ""
+  format: "markdown"
+  dataset_id: ""
+  plate_id: ""
+  library_of_congress_classification:
+    class: ""
+    label: ""
+    description: ""
+  report:
+    id: ""
+    code: ""
+    name: ""
+    organization: ""
+    collection: ""
+    series: ""
+    number: ""
+    year: 0
+    version: ""
+    kind: ""
+    type: ""
+    domain: ""
+    discipline: ""
+    subdiscipline: ""
+    topic: ""
+    subject: ""
+    scope: ""
+    scope_years: ""
+    time_scope: ""
+    time_span: ""
+    period: ""
+    period_covered: ""
+    region: ""
+    region_focus: ""
+    audience: ""
+    level: ""
+    focus: ""
+    emphasis: ""
+    structure: ""
+    intent: ""
+    methods: []
+    method: ""
+    primary_texts: []
+    population_focus: ""
+    stance: ""
+    is_report: true
+    notes: ""
+    conversion:
+      source_docx: ""
+      tool: ""
+      date: ""
+
+meta_optional:
+  cover-image: ""
+  cover_image: ""
+  epub-cover-image: ""
+  epub_cover_image: ""
+  epub-title-page: false
+  epub-chapter-level: 2
+  series: ""
+  series-title: ""
+  series-number: 0
+  report-no: ""
+  report-number: ""
+  report-year: ""
+  report_no: 0
+  report_number: 0
+  report_year: 0
+
+normalization_rules:
+  - "Prefer source `article.yaml` values over stale Hugo values when enriching metadata."
+  - "Keep `title`, `description`, and `summary` plain-text and concise; do not embed raw HTML or image tags."
+  - "Set `summary` from `meta.abstract` when the abstract is strong, otherwise from the first clean paragraph."
+  - "Keep `authors` at top level as site-facing authorship; keep `meta.creator` as the bibliographic creator field."
+  - "Mirror taxonomies across top level and `meta`: `categories`, `tags`, and `keywords` should agree."
+  - "Mirror page identity across top level and `meta`: `title`, `slug`, and `date` should agree."
+  - "Use `meta.status = published` for live posts and `draft = false` at top level."
+  - "Preserve `cover-image` and EPUB keys only when the post actually has a meaningful cover asset."
+  - "Use empty strings or empty arrays for unknown optional metadata; do not invent values."
+  - "Do not preserve malformed legacy fields such as `report.false`, `report_series`, `report_series_title`, or `report_series_number`."
+  - "Do not create duplicate slugs. If a post already exists under the canonical source slug, remove renamed duplicates."
+
+omit_from_hugo_posts:
+  - "build"
+  - "cascade"
+  - "sitemap"
+  - "resources"
+  - "headless"
+  - "isCJKLanguage"
+  - "translationKey"
+  - "epub-stylesheet"
+  - "highlight-style"
+  - "author"
+  - "publishDate"
+  - "report_series"
+  - "report_series_title"
+  - "report_series_number"
+
+notes:
+  - "The source repo can stay richer than Hugo posts; this file defines the filtered contract for blog content."
+  - "If the site later starts using more Hugo-native features, expand this standard intentionally instead of copying all source keys by default."
+...
