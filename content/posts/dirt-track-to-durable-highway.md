@@ -1,9 +1,5 @@
 ---
-title: From Dirt Track to Durable Highway
-subtitle: Engineering, Material Science & Historic Precedent
-date: '2026-02-12'
-draft: false
-slug: dirt-track-to-durable-highway
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
@@ -13,34 +9,87 @@ categories:
   - infrastructure
   - materials-science
   - history-of-technology
-tags:
-  - pavement-engineering
-  - subgrade
-  - drainage
-  - soil-stabilization
-  - asphalt
-  - concrete
-  - quality-control
-  - maintenance
-  - materials
-  - infrastructure-history
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: Highway engineering / road construction and pavements
+date: '2026-02-12'
+description: >-
+  Introduction: Upgrading an unpaved dirt or gravel road into a long-lasting, high-speed highway involves a multi-phase engineering process. It requires improving the foundation (subgrade), adding structured base layers with proper drainage,…
+draft: false
+keywords: []
+lastmod: '2026-05-04'
+layout: single
+linkTitle: From Dirt Track to Durable Highway
+markup: goldmark
 meta:
   abstract: 'A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded into a durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization, granular base and drainage design, asphalt vs. concrete surface selection and mix design, construction quality control, and long-term maintenance planning. The piece also connects modern best practices to historical milestones (e.g., Macadam roads, early Autobahn design, and the Interstate era) to show how proven lessons shaped today’s pavement engineering.'
+  categories:
+    - civil-engineering
+    - transportation
+    - infrastructure
+    - materials-science
+    - history-of-technology
   creator:
     - Salvador Guzman
   dataset_id: gva.highways.dirttrack.v1
-  report: {}
-  publisher: Marginalia
-  license: CC0-1.0
-  rights: CC0-1.0
-  language: en
+  date: '2026-02-12'
+  description: 'Introduction: Upgrading an unpaved dirt or gravel road into a long-lasting, high-speed highway involves a multi-phase engineering process. It requires improving the foundation (subgrade), adding structured base layers with proper drainage,…'
+  edition: ''
+  format: markdown
   identifier: dirt-track-to-durable-highway
+  lang: en
+  language: en
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: ''
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: ''
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: ''
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: ''
+    type: ''
+    version: ''
+    year: 0
+  revision: ''
+  rights: CC0-1.0
+  slug: dirt-track-to-durable-highway
   status: published
-  type: article
+  subject: []
   subjects:
     - civil-engineering
     - transportation
@@ -57,8 +106,41 @@ meta:
     - maintenance
     - materials
     - infrastructure-history
-  lang: en
-ai_generated: true
+  subtitle: Engineering, Material Science & Historic Precedent
+  tags:
+    - pavement-engineering
+    - subgrade
+    - drainage
+    - soil-stabilization
+    - asphalt
+    - concrete
+    - quality-control
+    - maintenance
+    - materials
+    - infrastructure-history
+  title: From Dirt Track to Durable Highway
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+  - HTML
+  - RSS
+slug: dirt-track-to-durable-highway
+summary: >-
+  A practical, engineering-focused walkthrough of how an unpaved dirt or gravel road is upgraded into a durable, high-speed highway. It explains the full pipeline: subgrade investigation and stabilization, granular base and drainage design, asphalt vs. concrete surface selection and mix design, construction quality control, and long-term maintenance planning. The piece also connects modern best practices to historical milestones (e.g., Macadam roads, early Autobahn design, and the Interstate era) to show how proven lessons shaped today’s pavement engineering.
+tags:
+  - pavement-engineering
+  - subgrade
+  - drainage
+  - soil-stabilization
+  - asphalt
+  - concrete
+  - quality-control
+  - maintenance
+  - materials
+  - infrastructure-history
+title: From Dirt Track to Durable Highway
 ---
 
 # From Dirt Track to Durable Highway

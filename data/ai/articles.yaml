@@ -1,4 +1,4 @@
-generated: '2026-04-26T18:47:56.073613+00:00'
+generated: '2026-05-04T20:11:55.406865+00:00'
 articles:
   - slug: 1inventing-socialism
     title: Inventing Socialism
@@ -36,6 +36,15 @@ articles:
     meta_path: tmp/ai-research-reports/data/md/4chartist/article.yaml
     assets_files: 0
     published: true
+  - slug: a-history-of-functional-analysis
+    title: A History of Functional Analysis
+    date: '2026-04-22'
+    description: A History of Functional Analysis
+    source: docx
+    md_path: tmp/ai-research-reports/data/md/a-history-of-functional-analysis/main.md
+    meta_path: tmp/ai-research-reports/data/md/a-history-of-functional-analysis/article.yaml
+    assets_files: 0
+    published: true
   - slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
     title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
     date: '2026-01-25'
@@ -61,6 +70,15 @@ articles:
     source: md
     md_path: tmp/ai-research-reports/data/md/algebra-evolution/main.md
     meta_path: tmp/ai-research-reports/data/md/algebra-evolution/article.yaml
+    assets_files: 0
+    published: true
+  - slug: american-judicial-process
+    title: 'Judges in the Judicial Process of the United States(https: //www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges)'
+    date: '2026-04-30'
+    description: 'Judges in the Judicial Process of the United States(https: //www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges)'
+    source: docx
+    md_path: tmp/ai-research-reports/data/md/american-judicial-process/main.md
+    meta_path: tmp/ai-research-reports/data/md/american-judicial-process/article.yaml
     assets_files: 0
     published: true
   - slug: analysis-semantics
@@ -198,6 +216,15 @@ articles:
     meta_path: tmp/ai-research-reports/data/md/culture-gothic/article.yaml
     assets_files: 0
     published: true
+  - slug: current-year-structure-of-taxes-in-the-united-states
+    title: Current-Year Structure of Taxes in the United States
+    date: '2026-04-27'
+    description: Current-Year Structure of Taxes in the United States
+    source: docx
+    md_path: tmp/ai-research-reports/data/md/current-year-structure-of-taxes-in-the-united-states/main.md
+    meta_path: tmp/ai-research-reports/data/md/current-year-structure-of-taxes-in-the-united-states/article.yaml
+    assets_files: 0
+    published: true
   - slug: darrieus-vawt-design-construction-1-10-kw
     title: Darrieus VAWT Design & Construction (1–10 kW)
     date: '2026-04-04'
@@ -235,7 +262,7 @@ articles:
     assets_files: 1
     published: true
   - slug: electric-motors-v2
-    title: Electric Motors v2
+    title: 'Electric Motors: Design, Control, Manufacturing, and Future Trends'
     date: '2026-04-04'
     description: Electric motors have evolved from 19th-century experiments to today’s high-performance drives. Pioneers like Volta, Faraday, Tesla and Dolivo-Dobrovolsky laid the foundation(https://www.eti.kit.edu/english/1376.php#:~:text=The%20first%20ro…
     source: docx
@@ -244,7 +271,7 @@ articles:
     assets_files: 0
     published: true
   - slug: emptiness-of-deleuze
-    title: Emptiness Of Deleuze
+    title: The Emptiness of Deleuze
     date: '2026-03-04'
     description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
     source: docx
@@ -253,7 +280,7 @@ articles:
     assets_files: 0
     published: true
   - slug: fake-populism-and-neil-young
-    title: Fake Populism And Neil Young
+    title: Fake Populism and Neil Young
     date: '2026-03-04'
     description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
     source: docx
@@ -307,7 +334,7 @@ articles:
     assets_files: 0
     published: true
   - slug: grrm-deconstructed
-    title: Grrm Deconstructed
+    title: George R.R. Martin Deconstructed
     date: '2026-03-04'
     description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
     source: docx
@@ -334,7 +361,7 @@ articles:
     assets_files: 0
     published: true
   - slug: heaviside
-    title: heaviside
+    title: Oliver Heaviside
     date: '2026-03-04'
     description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
     source: docx
@@ -388,7 +415,7 @@ articles:
     assets_files: 0
     published: true
   - slug: in-house-vertical-farms
-    title: In House Vertical Farms
+    title: In-House Vertical Farms
     date: '2026-04-04'
     description: The new Vertical Harvest farm in Westbrook, ME is a four-story, 52,000 ft² indoor facility (≈200,000 ft² of cumulative “canopy” area) designed to grow leafy greens and herbs year-round(https://verticalharvestfarms.com/locations/westbrook-m…
     source: docx
@@ -460,12 +487,21 @@ articles:
     assets_files: 2
     published: true
   - slug: liberal-gothic-quick-facts
-    title: Liberal Gothic Quick Facts
+    title: 'Liberal Gothic: Quick Facts'
     date: '2026-04-13'
     description: '- Modern Anglophone media increasingly foreground personal pain and suffering (“liberal gothic”), often packaging trauma as consumable content. Critics argue this reflects a commodification of trauma: an industry incentives structure where…'
     source: docx
     md_path: tmp/ai-research-reports/data/md/liberal-gothic-quick-facts/main.md
     meta_path: tmp/ai-research-reports/data/md/liberal-gothic-quick-facts/article.yaml
+    assets_files: 0
+    published: true
+  - slug: linear-algebra-history-report
+    title: The Making of Linear Algebra
+    date: '2026-05-03'
+    description: The Making of Linear Algebra
+    source: docx
+    md_path: tmp/ai-research-reports/data/md/linear-algebra-history-report/main.md
+    meta_path: tmp/ai-research-reports/data/md/linear-algebra-history-report/article.yaml
     assets_files: 0
     published: true
   - slug: male-suicide
@@ -577,7 +613,7 @@ articles:
     assets_files: 0
     published: true
   - slug: nations-right-wing-critique
-    title: Nations Right Wing Critique
+    title: Nation's Right-Wing Critique
     date: '2026-04-04'
     description: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…'
     source: docx
@@ -631,7 +667,7 @@ articles:
     assets_files: 0
     published: true
   - slug: piketty-liberal-pmc-critique
-    title: Piketty Liberal Pmc Critique
+    title: 'Piketty and the Liberal PMC: A Critique'
     date: '2026-03-22'
     description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
     source: docx
@@ -702,8 +738,17 @@ articles:
     meta_path: tmp/ai-research-reports/data/md/selective-freudian-explanations-in-political-and-media-discourse/article.yaml
     assets_files: 0
     published: true
+  - slug: structure-and-sources-of-american-law
+    title: Structure and Sources of American Law
+    date: '2026-04-27'
+    description: Structure and Sources of American Law
+    source: docx
+    md_path: tmp/ai-research-reports/data/md/structure-and-sources-of-american-law/main.md
+    meta_path: tmp/ai-research-reports/data/md/structure-and-sources-of-american-law/article.yaml
+    assets_files: 0
+    published: true
   - slug: symbolic-post-masculinity
-    title: Symbolic Post Masculinity
+    title: Symbolic Post-Masculinity
     date: '2026-03-04'
     description: As advanced economies shift from heavy industry and traditional male roles toward service and knowledge sectors, masculinity’s material basis has eroded. Yet many men still crave the status and identity once conferred by breadwinning, phys…
     source: docx
@@ -712,7 +757,7 @@ articles:
     assets_files: 1
     published: true
   - slug: taylor
-    title: Taylor
+    title: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
     date: '2026-02-12'
     description: Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
     source: md
@@ -748,7 +793,7 @@ articles:
     assets_files: 0
     published: true
   - slug: tyler-and-jews
-    title: Tyler And Jews
+    title: Tyler and Jews
     date: '2026-03-03'
     description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
     source: docx
@@ -766,7 +811,7 @@ articles:
     assets_files: 0
     published: true
   - slug: united-states-of-empire
-    title: United States Of Empire
+    title: The United States of Empire
     date: '2026-03-04'
     description: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
     source: docx
@@ -784,7 +829,7 @@ articles:
     assets_files: 0
     published: true
   - slug: yankee-courts-and-legal-bias
-    title: Yankee Courts And Legal Bias
+    title: Yankee Courts and Legal Bias
     date: '2026-03-21'
     description: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
     source: docx
@@ -793,7 +838,7 @@ articles:
     assets_files: 0
     published: true
   - slug: yankee-left
-    title: Yankee Left
+    title: The Yankee Left
     date: '2026-03-04'
     description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
     source: docx

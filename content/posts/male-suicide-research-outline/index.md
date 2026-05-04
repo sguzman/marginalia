@@ -1,86 +1,127 @@
 ---
-title: Male Suicide Research Outline
-linkTitle: Male Suicide Research Outline
-description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.…'
-summary: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.'
-slug: male-suicide-research-outline
-url: ''
-aliases: []
-date: '2026-01-25'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Health
+  - Public Health
+date: '2026-01-25'
+description: >-
+  <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.…
+draft: false
+keywords:
+  - Male Suicide Research Outline
+  - Health
+  - Public Health
+  - Public aspects of medicine
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Male Suicide Research Outline
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.S. by sex, 2000–2022. Male suicide mortality (blue line) far exceeds female rates (orange line) throughout, with males roughly 4× higher. National suicide rates rose overall by ~37% from 2000 through a peak in 2018, dipped slightly in 2019–2020, then reached a new high in 2022.'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in t…'
+  categories:
+    - Health
+    - Public Health
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: '<img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in the U.…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: male-suicide-research-outline
-  keywords: *id002
+  identifier: urn:marginalia:male-suicide-research-outline
+  keywords:
+    - Male Suicide Research Outline
+    - Health
+    - Public Health
+    - Public aspects of medicine
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: RA
+    description: Public health, health policy, epidemiology, and medicine in society.
+    label: Public aspects of medicine
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general policy-oriented reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Male Suicide Research Outline.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: public health
+    domain: health
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:male-suicide-research-outline
+    intent: ''
+    is_report: true
+    kind: research outline
+    level: ''
+    method: ''
+    methods: []
+    name: Male Suicide Research Outline
+    notes: ''
+    number: '005'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: health policy and epidemiology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Male Suicide Research Outline
+    type: outline
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: male-suicide-research-outline
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Public health
+    - Health policy
   subjects:
-    - male
-    - suicide
-    - research
-    - outline
+    - Public health
+    - Health policy
   subtitle: ''
-  tags: *id003
+  tags:
+    - male-suicide-research-outline
+    - health
+    - public-health
   title: Male Suicide Research Outline
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: outline
+outputs:
+  - HTML
+  - RSS
+slug: male-suicide-research-outline
+summary: >-
+  <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" /> Figure 1: Age-adjusted suicide rates (deaths per 100,000) in t…
+tags:
+  - male-suicide-research-outline
+  - health
+  - public-health
+title: Male Suicide Research Outline
 ---
 
 <img src="/win/linux/Code/Text/marginalia/tmp/ai-research-reports/data/md/male-suicide-research-outline/assets/media/rId21.png" style="width:5.83333in;height:3.61814in" />  

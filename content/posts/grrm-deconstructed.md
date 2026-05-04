@@ -1,84 +1,127 @@
 ---
-title: Grrm Deconstructed
-linkTitle: Grrm Deconstructed
-description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
-summary: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecology into the very fabric of his world. In Martin’s work the focus is on power struggles and personal histories; nature mostly serves as a setting or symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast, Tolkien (drawing on his own affection for pastoral England and medieval lore) imbues landscapes with character – from the fertile Shire farms to the living forests of Fangorn and the dying wilds of Mordor – integrating culture, language, and values into ecology.
-slug: grrm-deconstructed
-url: ''
-aliases: []
-date: '2026-03-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Culture
+  - Media Studies
+date: '2026-03-04'
+description: >-
+  George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
+draft: false
+keywords:
+  - George R.R. Martin Deconstructed
+  - Culture
+  - Media Studies
+  - Literature and media studies
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: George R.R. Martin Deconstructed
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecology into the very fabric of his world. In Martin’s work the focus is on power struggles and personal histories; nature mostly serves as a setting or symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast, Tolkien (drawing on his own affection for pastoral England and medieval lore) imbues landscapes with character – from the fertile Shire farms to the living forests of Fangorn and the dying wilds of Mordor – integrating culture, language, and values into ecology.
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves m…
+  categories:
+    - Culture
+    - Media Studies
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves mythic ecol…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: grrm-deconstructed
-  keywords: *id002
+  identifier: urn:marginalia:george-r-r-martin-deconstructed
+  keywords:
+    - George R.R. Martin Deconstructed
+    - Culture
+    - Media Studies
+    - Literature and media studies
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: grrm-deconstructed.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:george-r-r-martin-deconstructed
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: George R.R. Martin Deconstructed
+    notes: ''
+    number: '062'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: George R.R. Martin Deconstructed
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: grrm-deconstructed
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Culture
+    - Media studies
   subjects:
-    - grrm
-    - deconstructed
+    - Culture
+    - Media studies
   subtitle: ''
-  tags: *id003
-  title: Grrm Deconstructed
+  tags:
+    - george-r-r-martin-deconstructed
+    - culture
+    - media-studies
+  title: George R.R. Martin Deconstructed
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: grrm-deconstructed
+summary: >-
+  George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds dynamic human conflict on a mostly static backdrop, whereas Tolkien weaves m…
+tags:
+  - george-r-r-martin-deconstructed
+  - culture
+  - media-studies
+title: George R.R. Martin Deconstructed
 ---
 
 George R.R. Martin’s Westeros and J.R.R. Tolkien’s Middle‑earth both feel vivid, but their “natural worlds” are realized very differently. Martin builds **dynamic human conflict** on a mostly **static backdrop**, whereas Tolkien weaves **mythic ecology** into the very fabric of his world. In Martin’s work the focus is on **power struggles and personal histories**; nature mostly serves as a setting or symbol (e.g. “winter” as dread) rather than a fully modeled system. By contrast, Tolkien (drawing on his own affection for pastoral England and medieval lore) imbues landscapes with character – from the fertile Shire farms to the living forests of Fangorn and the dying wilds of Mordor – integrating culture, language, and values into ecology.

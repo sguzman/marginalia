@@ -16,6 +16,7 @@ MD_ROOT = REPO_ROOT / "tmp" / "ai-research-reports" / "data" / "md"
 POSTS_DIR = REPO_ROOT / "content" / "posts"
 DATA_DIR = REPO_ROOT / "data" / "ai"
 ARTICLES_YAML = DATA_DIR / "articles.yaml"
+HUGO_STANDARD_YAML = DATA_DIR / "hugo-frontmatter-standard.yaml"
 
 PERSONAL_SLUGS: set[str] = {
     "aggression-as-iteration-rate",
@@ -29,6 +30,8 @@ PERSONAL_SLUGS: set[str] = {
 IGNORED_SLUGS: set[str] = {
     # Duplicate/erroneous import; keep `federal-legal-landscape` and `kern-county-cannabis-legal-environment` instead.
     "kern-weed",
+    # Duplicate article; keep `american-judicial-process` as the canonical blog slug.
+    "judges-in-the-judicial-process-of-the-united-states",
 }
 
 
@@ -70,6 +73,27 @@ def dump_yaml(data: Any) -> str:
         indent=2,
         default_flow_style=False,
     )
+
+
+def sort_deep(value: Any) -> Any:
+    if isinstance(value, dict):
+        return {k: sort_deep(value[k]) for k in sorted(value)}
+    if isinstance(value, list):
+        return [sort_deep(v) for v in value]
+    return value
+
+
+def load_hugo_standard() -> dict[str, Any]:
+    if not HUGO_STANDARD_YAML.exists():
+        die(f"missing hugo standard: {HUGO_STANDARD_YAML}")
+    docs = list(yaml.safe_load_all(HUGO_STANDARD_YAML.read_text(encoding="utf-8")))
+    for doc in docs:
+        if isinstance(doc, dict) and doc:
+            return doc
+    die(f"unable to parse hugo standard: {HUGO_STANDARD_YAML}")
+
+
+HUGO_STANDARD = load_hugo_standard()
 
 
 def read_h1_from_text(text: str) -> str | None:
@@ -250,6 +274,264 @@ def assets_file_count(folder: Path) -> int:
     if not assets.exists():
         return 0
     return sum(1 for p in assets.rglob("*") if p.is_file())
+
+
+def has_meaningful_value(value: Any) -> bool:
+    if value is None:
+        return False
+    if isinstance(value, str):
+        return bool(value.strip())
+    if isinstance(value, (list, tuple, set, dict)):
+        return bool(value)
+    return True
+
+
+def as_string_list(value: Any) -> list[str]:
+    if isinstance(value, list):
+        return [str(v).strip() for v in value if str(v).strip()]
+    if isinstance(value, str) and value.strip():
+        return [value.strip()]
+    return []
+
+
+def clean_scalar_text(value: Any) -> str:
+    if not isinstance(value, str):
+        return ""
+    return strip_markdown(value).strip()
+
+
+def clean_summary_text(value: Any, *, max_len: int) -> str:
+    text = clean_scalar_text(value)
+    if not text:
+        return ""
+    return shorten(text, max_len=max_len)
+
+
+def looks_bad_excerpt(text: str, *, title: str) -> bool:
+    t = clean_scalar_text(text)
+    if not t:
+        return True
+    if "http://" in t.lower() or "https://" in t.lower() or "(https:" in t.lower():
+        return True
+    if norm_key(t) == norm_key(title):
+        return True
+    if len(t) < 40:
+        return True
+    return False
+
+
+def choose_best_excerpt(
+    candidates: list[Any], *, title: str, max_len: int, allow_title_fallback: bool = True
+) -> str:
+    for candidate in candidates:
+        text = clean_summary_text(candidate, max_len=max_len)
+        if text and not looks_bad_excerpt(text, title=title):
+            return text
+    for candidate in candidates:
+        text = clean_summary_text(candidate, max_len=max_len)
+        if text:
+            return text
+    return clean_summary_text(title if allow_title_fallback else "", max_len=max_len)
+
+
+def looks_bad_title(text: str) -> bool:
+    t = clean_scalar_text(text)
+    if not t:
+        return True
+    if "http://" in t.lower() or "https://" in t.lower() or "(https:" in t.lower():
+        return True
+    return False
+
+
+def choose_best_title(candidates: list[Any], fallback: str) -> str:
+    for candidate in candidates:
+        text = clean_scalar_text(candidate)
+        if text and not looks_bad_title(text):
+            return text
+    for candidate in candidates:
+        text = clean_scalar_text(candidate)
+        if text:
+            return text
+    return clean_scalar_text(fallback) or fallback
+
+
+def as_int(value: Any, default: int) -> int:
+    if isinstance(value, int):
+        return value
+    if isinstance(value, str):
+        raw = value.strip()
+        if re.fullmatch(r"-?\d+", raw):
+            return int(raw)
+    return default
+
+
+def meaningful_cover(meta: dict[str, Any]) -> str:
+    for key in ("cover-image", "cover_image"):
+        value = meta.get(key)
+        if isinstance(value, str) and value.strip():
+            return value.strip()
+    return ""
+
+
+def build_filtered_meta(
+    *,
+    meta_source: dict[str, Any],
+    title: str,
+    description: str,
+    abstract: str,
+    slug: str,
+    date: str,
+    categories: list[str],
+    tags: list[str],
+    keywords: list[str],
+) -> dict[str, Any]:
+    required = HUGO_STANDARD.get("meta_required", {})
+    optional = HUGO_STANDARD.get("meta_optional", {})
+
+    meta_out: dict[str, Any] = {}
+
+    for key, default in required.items():
+        if key == "title":
+            meta_out[key] = title
+        elif key == "subtitle":
+            value = clean_scalar_text(meta_source.get(key))
+            meta_out[key] = value
+        elif key == "abstract":
+            meta_out[key] = abstract
+        elif key == "description":
+            meta_out[key] = description
+        elif key == "creator":
+            creators = as_string_list(meta_source.get(key))
+            if not creators:
+                creators = ["Salvador Guzman"]
+            meta_out[key] = creators
+        elif key == "publisher":
+            value = clean_scalar_text(meta_source.get(key)) or str(default)
+            meta_out[key] = value
+        elif key == "rights":
+            value = clean_scalar_text(meta_source.get(key)) or str(default)
+            meta_out[key] = value
+        elif key == "license":
+            value = clean_scalar_text(meta_source.get(key)) or str(default)
+            meta_out[key] = value
+        elif key == "lang":
+            value = clean_scalar_text(meta_source.get(key)) or str(default)
+            meta_out[key] = value
+        elif key == "language":
+            value = clean_scalar_text(meta_source.get(key)) or str(default)
+            meta_out[key] = value
+        elif key in {"subject", "subjects"}:
+            values = as_string_list(meta_source.get(key))
+            if key == "subjects" and not values:
+                values = as_string_list(meta_source.get("subject"))
+            meta_out[key] = values
+        elif key == "reference-section-title":
+            meta_out[key] = clean_scalar_text(meta_source.get(key))
+        elif key in {"toc", "number-sections"}:
+            value = meta_source.get(key)
+            meta_out[key] = value if isinstance(value, bool) else bool(default)
+        elif key == "toc-depth":
+            value = meta_source.get(key)
+            meta_out[key] = as_int(value, int(default))
+        elif key == "toc-title":
+            value = clean_scalar_text(meta_source.get(key)) or str(default)
+            meta_out[key] = value
+        elif key in {"revision", "edition", "format", "dataset_id", "identifier"}:
+            if key == "identifier":
+                value = clean_scalar_text(meta_source.get(key)) or slug
+            elif key == "format":
+                value = clean_scalar_text(meta_source.get(key)) or str(default)
+            else:
+                value = clean_scalar_text(meta_source.get(key))
+            meta_out[key] = value
+        elif key == "library_of_congress_classification":
+            loc = meta_source.get(key)
+            if not isinstance(loc, dict):
+                loc = {}
+            meta_out[key] = {
+                "class": clean_scalar_text(loc.get("class")),
+                "description": clean_scalar_text(loc.get("description")),
+                "label": clean_scalar_text(loc.get("label")),
+            }
+        elif key == "report":
+            report_src = meta_source.get("report")
+            if not isinstance(report_src, dict):
+                report_src = {}
+            report_required = default if isinstance(default, dict) else {}
+            report_out: dict[str, Any] = {}
+            for rkey, rdefault in report_required.items():
+                if rkey == "conversion":
+                    conv_src = report_src.get("conversion")
+                    if not isinstance(conv_src, dict):
+                        conv_src = {}
+                    conv_default = rdefault if isinstance(rdefault, dict) else {}
+                    report_out[rkey] = {
+                        "date": clean_scalar_text(conv_src.get("date")) or clean_scalar_text(conv_default.get("date")),
+                        "source_docx": clean_scalar_text(conv_src.get("source_docx")) or clean_scalar_text(conv_default.get("source_docx")),
+                        "tool": clean_scalar_text(conv_src.get("tool")) or clean_scalar_text(conv_default.get("tool")),
+                    }
+                elif isinstance(rdefault, list):
+                    report_out[rkey] = as_string_list(report_src.get(rkey))
+                elif isinstance(rdefault, bool):
+                    value = report_src.get(rkey)
+                    report_out[rkey] = value if isinstance(value, bool) else bool(rdefault)
+                elif isinstance(rdefault, int):
+                    value = report_src.get(rkey)
+                    report_out[rkey] = as_int(value, int(rdefault))
+                else:
+                    report_out[rkey] = clean_scalar_text(report_src.get(rkey))
+            meta_out[key] = report_out
+        else:
+            meta_out[key] = meta_source.get(key, default)
+
+    for key in optional:
+        if key in {"slug", "date", "type", "status"}:
+            value = {
+                "slug": slug,
+                "date": date,
+                "type": clean_scalar_text(meta_source.get("type")) or "article",
+                "status": clean_scalar_text(meta_source.get("status")) or "published",
+            }[key]
+            if has_meaningful_value(value):
+                meta_out[key] = value
+        elif key in {"categories", "tags", "keywords"}:
+            value = {
+                "categories": categories,
+                "tags": tags,
+                "keywords": keywords,
+            }[key]
+            if has_meaningful_value(value):
+                meta_out[key] = value
+        elif key == "number-sections":
+            value = meta_source.get(key)
+            if isinstance(value, bool):
+                meta_out[key] = value
+        elif key == "plate_id":
+            value = clean_scalar_text(meta_source.get(key))
+            if has_meaningful_value(value):
+                meta_out[key] = value
+        elif key in {"cover-image", "cover_image"}:
+            cover = meaningful_cover(meta_source)
+            if cover:
+                meta_out["cover-image"] = cover
+                meta_out["cover_image"] = cover
+        elif key in {"epub-cover-image", "epub_cover_image"}:
+            value = clean_scalar_text(meta_source.get(key))
+            if not value:
+                value = meaningful_cover(meta_source)
+            if value:
+                meta_out["epub-cover-image"] = value
+                meta_out["epub_cover_image"] = value
+        elif key == "epub-title-page":
+            value = meta_source.get(key)
+            if isinstance(value, bool):
+                meta_out[key] = value
+        elif key == "epub-chapter-level":
+            value = meta_source.get(key)
+            if isinstance(value, int) or (isinstance(value, str) and value.strip()):
+                meta_out[key] = as_int(value, 2)
+
+    return sort_deep(meta_out)
 
 
 @dataclass(frozen=True)
@@ -492,49 +774,125 @@ def fix_article_main_md(a: Article) -> bool:
     return True
 
 
-def hugo_frontmatter_from_article(a: Article) -> dict[str, Any]:
-    meta = dict(a.meta)
-    meta.setdefault("abstract", a.abstract)
-    meta.setdefault("creator", ["Salvador Guzman"])
-    meta.setdefault("publisher", "Marginalia")
-    meta.setdefault("license", "CC0-1.0")
-    meta.setdefault("rights", "CC0-1.0")
-    meta.setdefault("language", meta.get("lang") or "en")
-    meta.setdefault("identifier", a.slug)
+def build_standard_frontmatter(
+    *,
+    slug: str,
+    title: str,
+    date: str,
+    description: str,
+    summary: str,
+    meta_source: dict[str, Any],
+    lastmod: str,
+    is_personal: bool,
+    paragraph_fallback: str = "",
+) -> dict[str, Any]:
+    report_src = meta_source.get("report") if isinstance(meta_source.get("report"), dict) else {}
+    clean_title = choose_best_title(
+        [
+            title,
+            meta_source.get("linkTitle"),
+            meta_source.get("title"),
+            report_src.get("name") if isinstance(report_src, dict) else "",
+            report_src.get("topic") if isinstance(report_src, dict) else "",
+        ],
+        fallback=title or slug,
+    )
+    description = choose_best_excerpt(
+        [
+            description,
+            meta_source.get("description"),
+            meta_source.get("summary"),
+            meta_source.get("abstract"),
+            paragraph_fallback,
+        ],
+        title=clean_title,
+        max_len=240,
+    ) or clean_title
+    summary = choose_best_excerpt(
+        [
+            summary,
+            meta_source.get("abstract"),
+            meta_source.get("summary"),
+            meta_source.get("description"),
+            paragraph_fallback,
+        ],
+        title=clean_title,
+        max_len=800,
+    ) or description
 
-    # Authorship policy:
-    # - Personal posts: Salvador only.
-    # - Everything else: Salvador + ChatGPT.
-    is_personal = a.slug in PERSONAL_SLUGS
+    categories = as_string_list(meta_source.get("categories"))
+    tags = as_string_list(meta_source.get("tags"))
+    keywords = as_string_list(meta_source.get("keywords"))
+
+    meta_filtered = build_filtered_meta(
+        meta_source=meta_source,
+        title=clean_title,
+        description=description,
+        abstract=summary,
+        slug=slug,
+        date=date,
+        categories=categories,
+        tags=tags,
+        keywords=keywords,
+    )
+
     authors_list = ["Salvador Guzman"] + ([] if is_personal else ["ChatGPT"])
 
-    categories = meta.get("categories") if isinstance(meta.get("categories"), list) else []
-    tags = meta.get("tags") if isinstance(meta.get("tags"), list) else []
-    keywords = meta.get("keywords") if isinstance(meta.get("keywords"), list) else []
-
-    clean_title = strip_markdown(a.title).strip() or a.title
-    return {
-        "title": clean_title,
-        "linkTitle": clean_title if len(clean_title) <= 60 else clean_title[:57].rstrip() + "…",
-        "description": FoldedStr(a.description),
-        "summary": FoldedStr(str(meta.get("abstract") or a.abstract)),
-        "slug": a.slug,
-        "url": "",
-        "aliases": [],
-        "date": a.date,
-        "lastmod": dt.date.today().isoformat(),
-        "draft": False,
-        "authors": authors_list,
-        "layout": "single",
-        "weight": 0,
-        "categories": categories,
-        "tags": tags,
-        "keywords": keywords,
-        "markup": "goldmark",
-        "outputs": ["HTML", "RSS"],
-        "meta": meta,
+    frontmatter: dict[str, Any] = {
         "ai_generated": (not is_personal),
+        "authors": authors_list,
+        "categories": categories,
+        "date": date,
+        "description": FoldedStr(description),
+        "draft": False,
+        "keywords": keywords,
+        "lastmod": lastmod,
+        "layout": "single",
+        "linkTitle": clean_title if len(clean_title) <= 60 else clean_title[:57].rstrip() + "…",
+        "markup": "goldmark",
+        "meta": meta_filtered,
+        "outputs": ["HTML", "RSS"],
+        "slug": slug,
+        "summary": FoldedStr(summary),
+        "tags": tags,
+        "title": clean_title,
     }
+
+    aliases = meta_source.get("aliases")
+    if isinstance(aliases, list):
+        clean_aliases = [str(a).strip() for a in aliases if str(a).strip()]
+        if clean_aliases:
+            frontmatter["aliases"] = clean_aliases
+
+    expiry = clean_scalar_text(meta_source.get("expiryDate"))
+    if expiry:
+        frontmatter["expiryDate"] = expiry
+
+    url = clean_scalar_text(meta_source.get("url"))
+    if url:
+        frontmatter["url"] = url
+
+    weight = meta_source.get("weight")
+    if isinstance(weight, int) and weight != 0:
+        frontmatter["weight"] = weight
+
+    return sort_deep(frontmatter)
+
+
+def hugo_frontmatter_from_article(a: Article) -> dict[str, Any]:
+    meta_source = dict(a.meta)
+    summary = str(meta_source.get("summary") or meta_source.get("abstract") or a.abstract)
+    return build_standard_frontmatter(
+        slug=a.slug,
+        title=a.title,
+        date=a.date,
+        description=str(meta_source.get("description") or a.description),
+        summary=summary,
+        meta_source=meta_source,
+        lastmod=dt.date.today().isoformat(),
+        is_personal=(a.slug in PERSONAL_SLUGS),
+        paragraph_fallback=first_paragraph(a.md_text) or "",
+    )
 
 
 def write_post(a: Article, *, dry_run: bool) -> tuple[Path, bool]:
@@ -929,105 +1287,87 @@ def fix_posts_authorship(*, dry_run: bool) -> int:
 def ensure_rich_meta_for_post(frontmatter: dict[str, Any], body: str) -> dict[str, Any]:
     fm = dict(frontmatter)
     meta_in = fm.get("meta")
-    if isinstance(meta_in, dict):
-        meta = dict(meta_in)
-    else:
-        meta = {}
+    meta_source = dict(meta_in) if isinstance(meta_in, dict) else {}
 
     slug = fm.get("slug")
     if not isinstance(slug, str) or not slug.strip():
         slug = ""
     slug = slug.strip()
 
-    title = fm.get("title")
-    if not isinstance(title, str):
-        title = ""
-    title = strip_markdown(title).strip()
+    title = clean_scalar_text(fm.get("title"))
+    if not title:
+        title = clean_scalar_text(meta_source.get("title")) or humanize_slug(slug or "untitled")
 
-    description = fm.get("description")
-    if isinstance(description, str) and description.strip():
-        desc = strip_markdown(description).strip()
-    else:
-        desc = ""
+    desc = clean_scalar_text(fm.get("description"))
+    if not desc:
+        desc = clean_scalar_text(meta_source.get("description")) or clean_summary_text(first_paragraph(body) or title, max_len=240)
 
-    abstract = meta.get("abstract")
-    if not isinstance(abstract, str) or not abstract.strip():
-        candidate = desc or (fm.get("summary") if isinstance(fm.get("summary"), str) else "") or first_paragraph(body) or title
-        abstract = shorten(str(candidate), max_len=800)
-    else:
-        abstract = strip_markdown(abstract).strip()
+    summary = clean_scalar_text(fm.get("summary"))
+    if not summary:
+        summary = clean_scalar_text(meta_source.get("abstract")) or clean_scalar_text(meta_source.get("summary"))
+    if not summary:
+        summary = clean_summary_text(first_paragraph(body) or desc or title, max_len=800)
 
-    def fill(key: str, value: Any) -> None:
-        cur = meta.get(key)
-        if cur is None or cur == "" or cur == []:
-            meta[key] = value
+    date = clean_scalar_text(fm.get("date")) or clean_scalar_text(meta_source.get("date")) or dt.date.today().isoformat()
+    lastmod = clean_scalar_text(fm.get("lastmod")) or clean_scalar_text(meta_source.get("lastmod")) or dt.date.today().isoformat()
+    is_personal = slug in PERSONAL_SLUGS
 
-    fill("creator", "Salvador Guzman")
-    fill("publisher", "Marginalia")
-    fill("license", "CC0-1.0")
-    fill("rights", "CC0-1.0")
-    fill("language", "en")
-    fill("lang", "en")
-    if slug:
-        fill("identifier", slug)
-    fill("status", "published")
-    fill("type", "article")
-    meta["abstract"] = abstract
+    # Let existing post metadata fill source gaps for posts not regenerated from tmp.
+    for key in ("categories", "tags", "keywords", "aliases", "url", "expiryDate", "weight"):
+        if key not in meta_source and key in fm:
+            meta_source[key] = fm.get(key)
+    for key in (
+        "title",
+        "subtitle",
+        "description",
+        "abstract",
+        "summary",
+        "identifier",
+        "dataset_id",
+        "lang",
+        "language",
+        "license",
+        "publisher",
+        "rights",
+        "reference-section-title",
+        "revision",
+        "edition",
+        "format",
+        "library_of_congress_classification",
+        "report",
+        "subject",
+        "subjects",
+        "creator",
+        "toc",
+        "toc-depth",
+        "toc-title",
+        "number-sections",
+        "status",
+        "type",
+        "cover-image",
+        "cover_image",
+        "epub-cover-image",
+        "epub_cover_image",
+        "epub-title-page",
+        "epub-chapter-level",
+        "slug",
+        "date",
+        "plate_id",
+    ):
+        if key not in meta_source and key in fm:
+            meta_source[key] = fm.get(key)
 
-    # Enrich from taxonomies when available.
-    categories = list(fm.get("categories")) if isinstance(fm.get("categories"), list) else []
-    tags = list(fm.get("tags")) if isinstance(fm.get("tags"), list) else []
-    subjects = list(meta.get("subjects")) if isinstance(meta.get("subjects"), list) else []
-    if not subjects:
-        # Prefer existing meta.subject (singular) if present.
-        subj_singular = meta.get("subject")
-        if isinstance(subj_singular, list):
-            subjects = [str(x) for x in subj_singular if str(x).strip()]
-        elif isinstance(subj_singular, str) and subj_singular.strip():
-            subjects = [subj_singular.strip()]
-
-    if not subjects:
-        subjects = [str(x) for x in (categories + tags) if str(x).strip()]
-
-    if not subjects:
-        keywords = fm.get("keywords") if isinstance(fm.get("keywords"), list) else []
-        subjects = [str(x) for x in keywords if str(x).strip()][:24]
-
-    if not subjects and title:
-        stop = {
-            "the",
-            "and",
-            "or",
-            "of",
-            "in",
-            "to",
-            "a",
-            "an",
-            "as",
-            "for",
-            "on",
-            "with",
-            "from",
-            "vs",
-            "by",
-        }
-        tokens = [
-            t
-            for t in re.split(r"[^a-z0-9]+", title.lower())
-            if len(t) >= 4 and t not in stop
-        ]
-        subjects = tokens[:12]
-
-    # Always set subjects (even empty) so metadata is consistent.
-    meta["subjects"] = subjects[:24]
-
-    fm["meta"] = meta
-    # Keep cleaned title in frontmatter.
-    if title:
-        fm["title"] = title
-        if isinstance(fm.get("linkTitle"), str) and fm.get("linkTitle"):
-            fm["linkTitle"] = strip_markdown(str(fm["linkTitle"])).strip()
-    return fm
+    return build_standard_frontmatter(
+        slug=slug,
+        title=title,
+        date=date,
+        description=desc,
+        summary=summary,
+        meta_source=meta_source,
+        lastmod=lastmod,
+        is_personal=is_personal,
+        paragraph_fallback=first_paragraph(body) or "",
+    )
 
 
 def fix_posts_content_and_metadata(*, dry_run: bool) -> int:

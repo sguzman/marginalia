@@ -1,86 +1,127 @@
 ---
-title: Fake Populism And Neil Young
-linkTitle: Fake Populism And Neil Young
-description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
-summary: 'Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997(https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys(https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric a…'
-slug: fake-populism-and-neil-young
-url: ''
-aliases: []
-date: '2026-03-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Culture
+  - Media Studies
+date: '2026-03-04'
+description: >-
+  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+draft: false
+keywords:
+  - Fake Populism and Neil Young
+  - Culture
+  - Media Studies
+  - Literature and media studies
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Fake Populism and Neil Young
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997(https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys(https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric a…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+  categories:
+    - Culture
+    - Media Studies
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: fake-populism-and-neil-young
-  keywords: *id002
+  identifier: urn:marginalia:fake-populism-and-neil-young
+  keywords:
+    - Fake Populism and Neil Young
+    - Culture
+    - Media Studies
+    - Literature and media studies
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: fake-populism-and-neil-young.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:fake-populism-and-neil-young
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Fake Populism and Neil Young
+    notes: ''
+    number: '061'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Fake Populism and Neil Young
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: fake-populism-and-neil-young
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Culture
+    - Media studies
   subjects:
-    - fake
-    - populism
-    - neil
-    - young
+    - Culture
+    - Media studies
   subtitle: ''
-  tags: *id003
-  title: Fake Populism And Neil Young
+  tags:
+    - fake-populism-and-neil-young
+    - culture
+    - media-studies
+  title: Fake Populism and Neil Young
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: fake-populism-and-neil-young
+summary: >-
+  Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona co…
+tags:
+  - fake-populism-and-neil-young
+  - culture
+  - media-studies
+title: Fake Populism and Neil Young
 ---
 
 Neil Young’s career has long been framed around a “common man” authenticity – as a solitary troubadour recording rough-and-ready folk-rock while championing farmers, the working poor and environmental causes. Yet this cultivated persona coexists with deep ties to mainstream institutions: multiple Rock & Roll Hall of Fame inductions (solo in 1995 and with Buffalo Springfield in 1997[\[1\]](https://rockhall.com/inductees/neil-young/#:~:text=Through%20every%20shunt%2C%20turn%2C%20sidetrack%2C,%E2%80%93%20and%20us%20with%20him)), numerous awards (including a MusiCares “Person of the Year” honor and multiple Grammys[\[2\]](https://www.grammy.com/artists/neil-young/8101#:~:text=,Angry%20World)), and leadership roles in charity concerts (co‑founding Farm Aid). Our analysis shows that Young’s public rhetoric and aesthetic (raw sound, “eclectic” performances, plainspoken lyrics) project anti-establishment sincerity, but critics note that such authenticity often functions as a performance that simplifies complex issues. Young’s strategy – rapid-release “commentary” albums, anti‑sponsorship stances (“I ain’t singing for Pepsi… this note’s for you”[\[3\]](https://www.wsws.org/en/articles/2020/07/04/neil-j04.html#:~:text=Ain%E2%80%99t%20singing%20for%20Pepsi%20Ain%E2%80%99t,joke%20This%20note%E2%80%99s%20for%20you)), denial of corporate ties[\[4\]](https://www.grammy.com/artists/neil-young/8101#:~:text=won%20Best%20Rock%20Song%20for,Angry%20World) – reinforces his image. Yet scholars argue that this very *devotion* to authenticity can become a myth demanding “extreme simplification” and narrow life-narratives[\[5\]](https://www.popmatters.com/springsteen-the-working-class-and-authenticity-2495457186.html#:~:text=authenticity%20resulted%20from%20his%20ability,teams%2C%20let%20me%20offer%20the). In other words, authenticity itself is mediated and marketed, generating symbolic capital (artistic credibility) even as Young benefits from institutional recognition.

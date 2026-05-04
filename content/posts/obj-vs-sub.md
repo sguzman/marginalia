@@ -1,37 +1,19 @@
 ---
-title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
-linkTitle: 'Objectivity vs. Subjectivity: Philosophical Debate and Im…'
-description: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
-summary: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
-slug: obj-vs-sub
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - philosophy
   - epistemology
   - philosophy of science
   - media studies
   - technology ethics
-tags: &id003
-  - epistemology
-  - philosophy
-  - science
-  - journalism
-  - law
-  - ai
-  - bias
-  - relativism
-  - intersubjectivity
-  - post-truth
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective…
+draft: false
+keywords:
   - objectivity
   - subjectivity
   - intersubjectivity
@@ -51,50 +33,103 @@ keywords: &id002
   - AI ethics
   - post-truth
   - expert authority
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Objectivity vs. Subjectivity: Philosophical Debate and Im…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective procedures as the real engine of reliable knowledge.
+  categories:
+    - philosophy
+    - epistemology
+    - philosophy of science
+    - media studies
+    - technology ethics
   creator:
     - Salvador Guzman
   dataset_id: gva.objectivity-vs-subjectivity.2026-02-12
   date: '2026-02-12'
-  description: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
-  draft: false
+  description: A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective…
   edition: '1'
   epub-chapter-level: 2
-  epub-cover-image: ''
   epub-title-page: true
-  epub_cover_image: ''
   format: markdown
   identifier: gva:objectivity-vs-subjectivity:2026-02-12
-  keywords: *id002
+  keywords:
+    - objectivity
+    - subjectivity
+    - intersubjectivity
+    - relativism
+    - scientific objectivity
+    - replication crisis
+    - peer review
+    - standpoint epistemology
+    - Lorraine Daston
+    - Peter Galison
+    - Thomas Kuhn
+    - Karl Popper
+    - Donna Haraway
+    - journalistic objectivity
+    - view from nowhere
+    - algorithmic bias
+    - AI ethics
+    - post-truth
+    - expert authority
   lang: en
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: B
+    description: Philosophy, theory, epistemology, and conceptual criticism.
+    label: Philosophy
   license: CC0-1.0
   number-sections: true
   plate_id: gva-objsubj-2026-02-12
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
-  report: {}
-  report-no: GVA-REPORT-2026-OBJ-SUBJ
-  report-number: OBJ-SUBJ
-  report-year: '2026'
-  report_no: 0
-  report_year: 2026
+  report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: philosophy
+    domain: philosophy
+    emphasis: ''
+    focus: ''
+    id: gva:objectivity-vs-subjectivity:2026-02-12
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+    notes: ''
+    number: '043'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: From Plato to AI, and why intersubjective methods matter
+    scope_years: ''
+    series: philosophy-reports
+    stance: ''
+    structure: ''
+    subdiscipline: social and political philosophy
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
+    type: report
+    version: r1
+    year: 2026
   revision: r1
   rights: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
-  series: philosophy-reports
-  series-number: 0
-  series-title: Philosophy Reports
   slug: obj-vs-sub
   status: complete
   subject:
@@ -114,13 +149,40 @@ meta:
     - Legal philosophy
     - Technology ethics
   subtitle: From Plato to AI, and why intersubjective methods matter
-  tags: *id003
+  tags:
+    - epistemology
+    - philosophy
+    - science
+    - journalism
+    - law
+    - ai
+    - bias
+    - relativism
+    - intersubjectivity
+    - post-truth
   title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: obj-vs-sub
+summary: >-
+  A long-form report mapping the philosophical and practical tensions between objectivity and subjectivity—historically and across disciplines (science, social science, journalism, law, aesthetics, and AI)—with an emphasis on intersubjective procedures as the real engine of reliable knowledge.
+tags:
+  - epistemology
+  - philosophy
+  - science
+  - journalism
+  - law
+  - ai
+  - bias
+  - relativism
+  - intersubjectivity
+  - post-truth
+title: 'Objectivity vs. Subjectivity: Philosophical Debate and Implications'
 ---
 
 ## Executive Summary

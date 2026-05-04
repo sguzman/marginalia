@@ -1,74 +1,16 @@
 ---
-title: What Is in a Book?
-linkTitle: What Is in a Book?
-description: An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
-summary: An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
-slug: what-is-in-a-book
-url: ''
-aliases: []
-date: '2023-02-18'
-publishDate: '2026-02-11'
-lastmod: '2026-04-20T15:45:00Z'
-expiryDate: ''
-draft: false
+ai_generated: false
 authors:
   - Salvador Guzman
-meta:
-  abstract: This essay explores the ontological identity of "the book," arguing that books are fungible at the level of their verbal content. The author proposes a formal model of book identity using typed tuples—author, title, and edition—while suggesting that the "verbal book" transcends its physical or linguistic manifestation. Drawing on Foucault and formal semantics, the piece deconstructs the relationship between authorial intention and the written word, ultimately aiming for a "commutative algebra of truth" where the semantic weight of a text is agnostic to the provincial constraints of syntax and order.
-  creator: Salvador Guzman
-  dataset_id: book-ontology-2023
-  identifier: phil-2023-004
-  language: en-US
-  library_of_congress_classification:
-    primary: PN45
-    area: Philosophy of Language; Literature
-    note: Ontological study of books, intention, and semantic identity.
-  license: CC0-1.0
-  publisher: Marginalia
-  report:
-    kind: philosophical-formalism-essay
-    domain: philosophy-of-language
-    topic: book-identity-and-semantics
-    scope: theoretical-and-mathematical
-    audience: scholars-and-logicians
-  revision: 1.1.0
-  rights: © 2023 Salvador Guzman
-  status: final
-  subject: philosophy of language
-  subjects:
-    - books
-    - semantics
-    - formalism
-    - epistemology
-    - identity
-    - ontological classification
-  subtitle: Ontology, Tuples, and the Algebra of Truth
-  toc: true
-  type: article
-  lang: en
-layout: single
-weight: 0
 categories:
   - philosophy of language
   - epistemology
   - philosophy of books
   - semantics
-tags:
-  - books
-  - written word
-  - fungibility
-  - authorial intention
-  - verbal book
-  - identity
-  - tuple
-  - formalism
-  - semantics
-  - ambiguity
-  - epistemology
-  - commutative algebra
-  - truth
-  - lexicon
-  - syntax
+date: '2023-02-18'
+description: >-
+  An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
+draft: false
 keywords:
   - book identity
   - typed tuple
@@ -90,24 +32,155 @@ keywords:
   - objective truth
   - lexical items
   - syntactic groups
+lastmod: '2026-04-20T15:45:00Z'
+layout: single
+linkTitle: What Is in a Book?
 markup: goldmark
+meta:
+  abstract: An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
+  categories:
+    - philosophy of language
+    - epistemology
+    - philosophy of books
+    - semantics
+  creator:
+    - Salvador Guzman
+  dataset_id: book-ontology-2023
+  date: '2023-02-18'
+  description: An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
+  edition: ''
+  format: markdown
+  identifier: phil-2023-004
+  keywords:
+    - book identity
+    - typed tuple
+    - author intention
+    - semantics
+    - ambiguity theory
+    - truth as algebra
+    - commutativity
+    - lexemes
+    - ontological fungibility
+    - verbal book
+    - Foucault
+    - formal semantics
+    - semantic space
+    - algebra of truth
+    - Cartesian product
+    - vector space
+    - authorial deconstruction
+    - objective truth
+    - lexical items
+    - syntactic groups
+  lang: en
+  language: en-US
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: scholars-and-logicians
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: philosophy-of-language
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: philosophical-formalism-essay
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: theoretical-and-mathematical
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: book-identity-and-semantics
+    type: ''
+    version: ''
+    year: 0
+  revision: 1.1.0
+  rights: © 2023 Salvador Guzman
+  slug: what-is-in-a-book
+  status: final
+  subject:
+    - philosophy of language
+  subjects:
+    - books
+    - semantics
+    - formalism
+    - epistemology
+    - identity
+    - ontological classification
+  subtitle: Ontology, Tuples, and the Algebra of Truth
+  tags:
+    - books
+    - written word
+    - fungibility
+    - authorial intention
+    - verbal book
+    - identity
+    - tuple
+    - formalism
+    - semantics
+    - ambiguity
+    - epistemology
+    - commutative algebra
+    - truth
+    - lexicon
+    - syntax
+  title: What Is in a Book?
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
 outputs:
   - HTML
   - RSS
-headless: false
-isCJKLanguage: false
-translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: -1
-  filename: sitemap.xml
-ai_generated: false
+slug: what-is-in-a-book
+summary: >-
+  An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint.
+tags:
+  - books
+  - written word
+  - fungibility
+  - authorial intention
+  - verbal book
+  - identity
+  - tuple
+  - formalism
+  - semantics
+  - ambiguity
+  - epistemology
+  - commutative algebra
+  - truth
+  - lexicon
+  - syntax
+title: What Is in a Book?
 ---
 
 # Introduction

@@ -1,39 +1,19 @@
 ---
-title: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
-linkTitle: 'Marx and Engels: Scientific Socialism and the Communist M…'
-description: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between "socialism" and "communism," positioning their own doctrine as scientific socialism. Prior to 1848, "socialism" was often associa…'
-summary: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between "socialism" and "communism," positioning their own doctrine as scientific socialism. Prior to 1848, "socialism" was often associated with utopian or middle-class reformers, whereas "communism" signified the radical, working-class movement(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=Germany,act%20of%20the%20working%20class). In the Communist Manifesto (Feb 1848), Marx and Engels deliberately chose the term "Communist" to distinguish their program from what they saw as sentimental, utopian schemes(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=match%20at%20L429%20that%20of,%E2%80%9Cthe%20emancipat…'
-slug: marx-engels
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Political theory
   - Intellectual history
   - Marxism
   - Socialism and communism
   - 19th century Europe
-tags: &id003
-  - marx
-  - engels
-  - communist-manifesto
-  - scientific-socialism
-  - utopian-socialism
-  - historical-materialism
-  - class-struggle
-  - bourgeoisie
-  - proletariat
-  - press-history
-  - '1848'
-  - intellectual-history
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between "socialism" and "communism," positioning their own doctrine as scientific socialism. Prior to 1848, "socialism" was often associa…
+draft: false
+keywords:
   - Karl Marx
   - Friedrich Engels
   - scientific socialism
@@ -48,15 +28,18 @@ keywords: &id002
   - First International
   - press reception
   - textual analysis
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Marx and Engels: Scientific Socialism and the Communist M…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between "socialism" and "communism," positioning their own doctrine as scientific socialism. Prior to 1848, "socialism" was often associated with utopian or middle-class reformers, whereas "communism" signified the radical, working-class movement(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=Germany,act%20of%20the%20working%20class). In the Communist Manifesto (Feb 1848), Marx and Engels deliberately chose the term "Communist" to distinguish their program from what they saw as sentimental, utopian schemes(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=match%20at%20L429%20that%20of,%E2%80%9Cthe%20emancipat…'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: How Marx and Engels distinguished "scientific socialism" from utopian and reformist socialisms, using the Communist Manifesto, early correspondence, and mid-19th-century press reception.
+  categories:
+    - Political theory
+    - Intellectual history
+    - Marxism
+    - Socialism and communism
+    - 19th century Europe
   cover-image: cover.png
   cover_image: cover.png
   creator:
@@ -64,7 +47,6 @@ meta:
   dataset_id: marx-engels-scientific-socialism
   date: '2026-02-12'
   description: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between "socialism" and "communism," positioning their own doctrine as scientific socialism. Prior to 1848, "socialism" was often associa…'
-  draft: false
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -72,39 +54,81 @@ meta:
   epub_cover_image: cover.png
   format: text/markdown
   identifier: gva:marx-engels-scientific-socialism
-  keywords: *id002
+  keywords:
+    - Karl Marx
+    - Friedrich Engels
+    - scientific socialism
+    - utopian socialism
+    - historical materialism
+    - class struggle
+    - bourgeoisie
+    - proletariat
+    - Communist Manifesto
+    - 1848 revolutions
+    - Cologne Communist Trial
+    - First International
+    - press reception
+    - textual analysis
   lang: en
   language: English
   library_of_congress_classification:
     class: HX
-    topic: Socialism. Communism. Marxism
-    note: Broad topical classification for shelving/metadata; not an official LoC assignment.
+    description: Socialism, communism, anarchism, and related intellectual history.
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: true
   plate_id: marx-engels-0001
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: Bibliography
   report:
-    kind: research-essay
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political theory
     domain: political theory
+    emphasis: ''
+    focus: ''
+    id: gva:marx-engels-scientific-socialism
+    intent: ''
+    is_report: true
+    kind: research-essay
+    level: ''
+    method: ''
     methods:
       - close reading
       - timeline synthesis
       - textual frequency/co-occurrence scan
+    name: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
+    notes: ''
+    number: '036'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
     primary_texts:
       - Manifesto of the Communist Party (1848)
       - Selected Marx-Engels correspondence (1846-1852)
+    region: ''
+    region_focus: ''
+    scope: Scientific socialism, terminology, and early reception around the Communist Manifesto
+    scope_years: ''
+    series: Gold, Velvet and Ashes Essays
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
     time_scope: 1846-1860 (with later prefaces for context)
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+    time_span: ''
+    topic: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
+    type: research-essay
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series: Gold, Velvet and Ashes Essays
-  series-number: 0
-  series-title: Gold, Velvet and Ashes Essays
   slug: marx-engels
   status: complete
   subject:
@@ -120,13 +144,44 @@ meta:
     - Political ideology
     - 19th century intellectual history
   subtitle: Scientific socialism, terminology, and early reception around the Communist Manifesto
-  tags: *id003
+  tags:
+    - marx
+    - engels
+    - communist-manifesto
+    - scientific-socialism
+    - utopian-socialism
+    - historical-materialism
+    - class-struggle
+    - bourgeoisie
+    - proletariat
+    - press-history
+    - '1848'
+    - intellectual-history
   title: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: research-essay
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: marx-engels
+summary: >-
+  How Marx and Engels distinguished "scientific socialism" from utopian and reformist socialisms, using the Communist Manifesto, early correspondence, and mid-19th-century press reception.
+tags:
+  - marx
+  - engels
+  - communist-manifesto
+  - scientific-socialism
+  - utopian-socialism
+  - historical-materialism
+  - class-struggle
+  - bourgeoisie
+  - proletariat
+  - press-history
+  - '1848'
+  - intellectual-history
+title: 'Marx and Engels: Scientific Socialism and the Communist Manifesto'
 ---
 
 **Executive Summary**\

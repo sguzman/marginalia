@@ -1,9 +1,5 @@
 ---
-title: Comprehensive Marxist Literature (1840--2025)
-subtitle: An Annotated Bibliography and Research Guide
-date: '2026-02-12'
-draft: false
-slug: marx-bibliography
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
@@ -13,36 +9,87 @@ categories:
   - political-theory
   - intellectual-history
   - research-guide
-tags:
-  - marx
-  - engels
-  - marxism
-  - bibliography
-  - reading-list
-  - critical-theory
-  - socialism
-  - communism
-library_of_congress_classification:
-  primary: HX
-  area: ''
-  note: ''
+date: '2026-02-12'
+description: >-
+  A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across regions, ideological currents, media, and…
+draft: false
+keywords: []
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Comprehensive Marxist Literature (1840--2025)
+markup: goldmark
 meta:
   abstract: A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across regions, ideological currents, media, and major scholarly languages, and includes methodology notes designed for transparent, reproducible updating.
+  categories:
+    - marxism
+    - bibliography
+    - political-theory
+    - intellectual-history
+    - research-guide
   creator:
     - Salvador Guzman
   dataset_id: gva-marx-bibliography-2026-02-12
-  report:
-    kind: annotated bibliography
-    scope_years: 1840-2025
-    organization: chronological + thematic
-    intent: research guide
-  publisher: Marginalia
-  license: CC0-1.0
-  rights: CC0-1.0
-  language: en
+  date: '2026-02-12'
+  description: A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across regions, ideological currents, media, and…
+  edition: ''
+  format: markdown
   identifier: marx-bibliography
+  lang: en
+  language: en
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: ''
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: ''
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: research guide
+    is_report: true
+    kind: annotated bibliography
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: chronological + thematic
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: 1840-2025
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: ''
+    type: ''
+    version: ''
+    year: 0
+  revision: ''
+  rights: CC0-1.0
+  slug: marx-bibliography
   status: published
-  type: article
+  subject: []
   subjects:
     - marxism
     - bibliography
@@ -57,8 +104,37 @@ meta:
     - critical-theory
     - socialism
     - communism
-  lang: en
-ai_generated: true
+  subtitle: An Annotated Bibliography and Research Guide
+  tags:
+    - marx
+    - engels
+    - marxism
+    - bibliography
+    - reading-list
+    - critical-theory
+    - socialism
+    - communism
+  title: Comprehensive Marxist Literature (1840--2025)
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+  - HTML
+  - RSS
+slug: marx-bibliography
+summary: >-
+  A comprehensive, annotated, and hierarchically structured bibliography of Marxist literature from the 1840s through 2025. Organized chronologically and thematically, it aims to be exhaustive across regions, ideological currents, media, and major scholarly languages, and includes methodology notes designed for transparent, reproducible updating.
+tags:
+  - marx
+  - engels
+  - marxism
+  - bibliography
+  - reading-list
+  - critical-theory
+  - socialism
+  - communism
+title: Comprehensive Marxist Literature (1840--2025)
 ---
 
 # Comprehensive Marxist Literature (1840--2025)

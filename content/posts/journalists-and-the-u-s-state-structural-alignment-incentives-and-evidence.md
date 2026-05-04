@@ -1,88 +1,133 @@
 ---
-title: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
-linkTitle: 'Journalists and the U.S. State: Structural Alignment, Inc…'
-description: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
-summary: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
-slug: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
-url: ''
-aliases: []
-date: '2026-03-21'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-03-21'
+description: >-
+  Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+draft: false
+keywords:
+  - Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Journalists and the U.S. State: Structural Alignment, Inc…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
-  description: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
-  draft: false
-  edition: ''
+  description: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
-  keywords: *id002
+  identifier: urn:marginalia:journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+  keywords:
+    - Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence.docx
+      tool: pandoc 3.6
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+    notes: ''
+    number: '071'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - journalists
-    - state
-    - structural
-    - alignment
-    - incentives
-    - evidence
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
+  tags:
+    - journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+    - politics
+    - history
+    - political-theory
   title: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+summary: >-
+  Journalists and the U.S. State Structural Alignment, Incentives, and Evidence
+tags:
+  - journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence
+  - politics
+  - history
+  - political-theory
+title: 'Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence'
 ---
 
 ## Executive summary

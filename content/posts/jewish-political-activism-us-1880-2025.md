@@ -1,9 +1,5 @@
 ---
-title: Jewish Political Activism in the United States
-subtitle: 1880–2025
-date: '2026-02-12'
-draft: false
-slug: jewish-political-activism-us-1880-2025
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
@@ -13,45 +9,87 @@ categories:
   - united-states
   - judaism
   - activism
-tags:
-  - labor
-  - unions
-  - civil-rights
-  - coalition-politics
-  - diaspora
-  - antisemitism
-  - lobbying
-  - aipac
-  - adL
-  - ajc
-  - neoconservatism
-  - campus-activism
-  - bds
-  - social-media
-  - u.s.-israel
-library_of_congress_classification:
-  primary: E
-  area: ''
-  note: ''
+date: '2026-02-12'
+description: >-
+  Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…
+draft: false
+keywords: []
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Jewish Political Activism in the United States
+markup: goldmark
 meta:
   abstract: A long-run survey of Jewish political activism in the United States from 1880 to 2025, tracking shifts from immigrant labor organizing to civil-rights coalition politics, pro- and anti-communist foreign-policy networks, and contemporary campus/digital-era polarization. Emphasizes mechanisms of influence (votes, unions, litigation, philanthropy, lobbying, media) while separating documented influence from conspiratorial tropes.
+  categories:
+    - history
+    - politics
+    - united-states
+    - judaism
+    - activism
   creator:
     - Salvador Guzman
   dataset_id: jewish-political-activism-us-1880-2025
-  report:
-    kind: historical survey
-    region: United States
-    period: 1880-2025
-    topic: Jewish political activism
-    series: Gold, Velvet and Ashes Reports
-    id: GVA-2026-001
-  publisher: Marginalia
-  license: CC0-1.0
-  rights: CC0-1.0
-  language: en
+  date: '2026-02-12'
+  description: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…'
+  edition: ''
+  format: markdown
   identifier: jewish-political-activism-us-1880-2025
+  lang: en
+  language: en
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: ''
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: ''
+    emphasis: ''
+    focus: ''
+    id: GVA-2026-001
+    intent: ''
+    is_report: true
+    kind: historical survey
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: 1880-2025
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: United States
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Gold, Velvet and Ashes Reports
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Jewish political activism
+    type: ''
+    version: ''
+    year: 0
+  revision: ''
+  rights: CC0-1.0
+  slug: jewish-political-activism-us-1880-2025
   status: published
-  type: article
+  subject: []
   subjects:
     - history
     - politics
@@ -73,8 +111,51 @@ meta:
     - bds
     - social-media
     - u.s.-israel
-  lang: en
-ai_generated: true
+  subtitle: 1880–2025
+  tags:
+    - labor
+    - unions
+    - civil-rights
+    - coalition-politics
+    - diaspora
+    - antisemitism
+    - lobbying
+    - aipac
+    - adL
+    - ajc
+    - neoconservatism
+    - campus-activism
+    - bds
+    - social-media
+    - u.s.-israel
+  title: Jewish Political Activism in the United States
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+  - HTML
+  - RSS
+slug: jewish-political-activism-us-1880-2025
+summary: >-
+  A long-run survey of Jewish political activism in the United States from 1880 to 2025, tracking shifts from immigrant labor organizing to civil-rights coalition politics, pro- and anti-communist foreign-policy networks, and contemporary campus/digital-era polarization. Emphasizes mechanisms of influence (votes, unions, litigation, philanthropy, lobbying, media) while separating documented influence from conspiratorial tropes.
+tags:
+  - labor
+  - unions
+  - civil-rights
+  - coalition-politics
+  - diaspora
+  - antisemitism
+  - lobbying
+  - aipac
+  - adL
+  - ajc
+  - neoconservatism
+  - campus-activism
+  - bds
+  - social-media
+  - u.s.-israel
+title: Jewish Political Activism in the United States
 ---
 
 # Jewish Political Activism in the United States

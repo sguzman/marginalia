@@ -1,38 +1,91 @@
 ---
-title: Chartists & Radical Republicans, 1840-1865
-subtitle: Franchise, Socialism, and the Limits of Alliance
-date: 2026-02-12
-creator: Salvador Guzman
+ai_generated: true
+authors:
+  - Salvador Guzman
+  - ChatGPT
 categories:
   - history
   - political-theory
   - socialism
-tags:
-  - chartism
-  - radical-republicans
-  - franchise
-  - reconstruction
-  - abolitionism
-  - land-reform
-  - labor
-  - cooperatives
-  - british-history
-  - us-history
-library_of_congress_classification:
-  class: DA
-  area: Great Britain — 19th century politics and reform movements; United States — Civil War era and Reconstruction
+date: '2026-05-04'
+description: >-
+  Chartism in Britain (1838--1850s) and Radical Republicanism in Britain and the U.S. (1840s--1860s) both agitated for expanded democratic rights, yet their relationship to "socialism" was complex. In Britain, Chartists demanded universal ma…
+draft: false
+keywords: []
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Chartists & Radical Republicans, 1840-1865
+markup: goldmark
 meta:
   abstract: A comparative study of British Chartism (1838–1850s) and Radical Republicanism in Britain and the United States (1840s–1860s), focusing on how demands for expanded franchise intersected (and often failed to align) with “socialist” economic aims.
-  report_no: GVA-INV-04
-  report_year: 2026
+  categories:
+    - history
+    - political-theory
+    - socialism
+  creator:
+    - Salvador Guzman
   dataset_id: inventing-socialism.chartism-1840-1865
-  creator: Salvador Guzman
-  publisher: Marginalia
-  license: CC0-1.0
-  rights: CC0-1.0
+  date: '2026-05-04'
+  description: Chartism in Britain (1838--1850s) and Radical Republicanism in Britain and the U.S. (1840s--1860s) both agitated for expanded democratic rights, yet their relationship to "socialism" was complex. In Britain, Chartists demanded universal ma…
+  edition: ''
+  format: markdown
+  identifier: chartists-radical-republicans-1840-1865
+  lang: en
   language: en
+  library_of_congress_classification:
+    class: DA
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: ''
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: ''
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: ''
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: ''
+    type: ''
+    version: ''
+    year: 0
+  revision: ''
+  rights: CC0-1.0
+  slug: chartists-radical-republicans-1840-1865
   status: published
-  type: article
+  subject: []
   subjects:
     - history
     - political-theory
@@ -47,13 +100,41 @@ meta:
     - cooperatives
     - british-history
     - us-history
-  identifier: chartists-radical-republicans-1840-1865
-  lang: en
-authors:
-  - Salvador Guzman
-  - ChatGPT
-ai_generated: true
+  subtitle: Franchise, Socialism, and the Limits of Alliance
+  tags:
+    - chartism
+    - radical-republicans
+    - franchise
+    - reconstruction
+    - abolitionism
+    - land-reform
+    - labor
+    - cooperatives
+    - british-history
+    - us-history
+  title: Chartists & Radical Republicans, 1840-1865
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+  - HTML
+  - RSS
 slug: chartists-radical-republicans-1840-1865
+summary: >-
+  A comparative study of British Chartism (1838–1850s) and Radical Republicanism in Britain and the United States (1840s–1860s), focusing on how demands for expanded franchise intersected (and often failed to align) with “socialist” economic aims.
+tags:
+  - chartism
+  - radical-republicans
+  - franchise
+  - reconstruction
+  - abolitionism
+  - land-reform
+  - labor
+  - cooperatives
+  - british-history
+  - us-history
+title: Chartists & Radical Republicans, 1840-1865
 ---
 
 # Executive Summary

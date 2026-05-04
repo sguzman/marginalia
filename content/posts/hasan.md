@@ -1,37 +1,17 @@
 ---
-title: HasanAbi as a Platform-Native Political Brand
-linkTitle: HasanAbi as a Platform-Native Political Brand
-description: '1. Executive Summary: Hasan "HasanAbi" Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch''s interactive platform to cultivate a massive following and influence online political…'
-summary: '1. Executive Summary: Hasan "HasanAbi" Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch''s interactive platform to cultivate a massive following and influence online political discourse. This report examines the origins of Piker''s popularity, the mechanics sustaining his community engagement, and the challenges and ethical questions surrounding his content from 2015 to the present. Piker''s career trajectory illustrates a savvy blend of traditional political commentary and new-media tactics. After early years producing left-leaning news content for The Young Turks (TYT) on Facebook and YouTube, Piker transitioned to Twitch in 2018 to reach younger audiences(https://en.wikipedia.org/wiki/HasanPiker#:~:text=Twitch). By 2020, he…'
-slug: hasan
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Politics
   - Media Studies
   - Internet Culture
-tags: &id003
-  - hasanabi
-  - hasan-piker
-  - twitch
-  - livestreaming
-  - political-commentary
-  - influencers
-  - internet-culture
-  - platform-moderation
-  - algorithms
-  - parasociality
-  - left-politics
-  - new-media
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  1. Executive Summary: Hasan "HasanAbi" Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch's interactive platform to cultivate a massive following and influence online political…
+draft: false
+keywords:
   - Hasan Piker
   - HasanAbi
   - Twitch
@@ -44,53 +24,93 @@ keywords: &id002
   - online political communication
   - internet culture
   - audience community formation
+lastmod: '2026-05-04'
+layout: single
+linkTitle: HasanAbi as a Platform-Native Political Brand
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: '1. Executive Summary: Hasan "HasanAbi" Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch''s interactive platform to cultivate a massive following and influence online political discourse. This report examines the origins of Piker''s popularity, the mechanics sustaining his community engagement, and the challenges and ethical questions surrounding his content from 2015 to the present. Piker''s career trajectory illustrates a savvy blend of traditional political commentary and new-media tactics. After early years producing left-leaning news content for The Young Turks (TYT) on Facebook and YouTube, Piker transitioned to Twitch in 2018 to reach younger audiences(https://en.wikipedia.org/wiki/HasanPiker#:~:text=Twitch). By 2020, he…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 'A mixed-method profile of Hasan "HasanAbi" Piker: career arc, popularity mechanics, audience formation, controversy/moderation dynamics, and forward-looking platform risk.'
+  categories:
+    - Politics
+    - Media Studies
+    - Internet Culture
   creator:
     - Salvador Guzman
   dataset_id: gva-hasan-piker-profile-report
   date: '2026-02-12'
   description: '1. Executive Summary: Hasan "HasanAbi" Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch''s interactive platform to cultivate a massive following and influence online political…'
-  draft: false
   edition: '1.0'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
   identifier: gva-hasan-piker-2026-02-12
-  keywords: *id002
+  keywords:
+    - Hasan Piker
+    - HasanAbi
+    - Twitch
+    - political livestreaming
+    - political influencer
+    - platform governance
+    - content moderation
+    - algorithmic visibility
+    - parasocial relationships
+    - online political communication
+    - internet culture
+    - audience community formation
   lang: en-US
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
-    kind: profile
-    subject: Hasan "HasanAbi" Piker
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
     focus: platform-native political influence
-  report-no: '001'
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    id: gva-hasan-piker-2026-02-12
+    intent: ''
+    is_report: true
+    kind: profile
+    level: ''
+    method: ''
+    methods: []
+    name: HasanAbi as a Platform-Native Political Brand
+    notes: ''
+    number: '026'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Career narrative, popularity mechanics, controversy, and platform risk in Twitch-era politics
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: Hasan "HasanAbi" Piker
+    time_scope: ''
+    time_span: ''
+    topic: HasanAbi as a Platform-Native Political Brand
+    type: report
+    version: '2026-02-12'
+    year: 2026
   revision: '2026-02-12'
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: hasan
   status: draft
   subject:
@@ -108,13 +128,44 @@ meta:
     - Platform governance
     - Content moderation
   subtitle: Career narrative, popularity mechanics, controversy, and platform risk in Twitch-era politics
-  tags: *id003
+  tags:
+    - hasanabi
+    - hasan-piker
+    - twitch
+    - livestreaming
+    - political-commentary
+    - influencers
+    - internet-culture
+    - platform-moderation
+    - algorithms
+    - parasociality
+    - left-politics
+    - new-media
   title: HasanAbi as a Platform-Native Political Brand
   toc: false
   toc-depth: 0
-  toc-title: ''
+  toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: hasan
+summary: >-
+  A mixed-method profile of Hasan "HasanAbi" Piker: career arc, popularity mechanics, audience formation, controversy/moderation dynamics, and forward-looking platform risk.
+tags:
+  - hasanabi
+  - hasan-piker
+  - twitch
+  - livestreaming
+  - political-commentary
+  - influencers
+  - internet-culture
+  - platform-moderation
+  - algorithms
+  - parasociality
+  - left-politics
+  - new-media
+title: HasanAbi as a Platform-Native Political Brand
 ---
 
 1.  **Executive Summary**\

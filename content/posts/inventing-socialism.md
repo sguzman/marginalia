@@ -1,31 +1,89 @@
 ---
-title: 'Inventing Socialism: How a Name Emerged in Britain and France (1820-1840)'
-date: 2026-02-12
-creator: Salvador Guzman
+ai_generated: true
+authors:
+  - Salvador Guzman
+  - ChatGPT
 categories:
   - History of Ideas
   - Political Thought
-tags:
-  - Socialism
-  - Utopianism
-  - 19th Century
-  - Political Theory
-library_of_congress_classification:
-  class: HX71
-  area: Socialism
-  note: History of the emergence of the term "socialism" in Britain and France.
+date: '2026-05-04'
+description: >-
+  Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen's co-op…
+draft: false
+keywords: []
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Inventing Socialism: How a Name Emerged in Britain and Fr…'
+markup: goldmark
 meta:
   abstract: A source-driven overview of how “socialism” and “socialist” entered English and French usage (1820-1840), tracing early Owenite, Saint-Simonian, Fourierist, and Icarian meanings and the competing doctrinal emphases that shaped the term’s first public life.
-  report_no: 1
-  report_year: 2026
+  categories:
+    - History of Ideas
+    - Political Thought
+  creator:
+    - Salvador Guzman
   dataset_id: gva-inventing-socialism
-  creator: Salvador Guzman
-  publisher: Marginalia
-  license: CC0-1.0
-  rights: CC0-1.0
+  date: '2026-05-04'
+  description: 'Between 1820 and 1840 the term "socialism" was coined and reshaped by utopian thinkers in Britain and France. Robert Owen and his followers in Britain were first: in 1827 the Co-operative Magazine used "Socialists" to describe Owen''s co-op…'
+  edition: ''
+  format: markdown
+  identifier: inventing-socialism
+  lang: en
   language: en
+  library_of_congress_classification:
+    class: HX71
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: ''
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: ''
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: ''
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: ''
+    type: ''
+    version: ''
+    year: 0
+  revision: ''
+  rights: CC0-1.0
+  slug: inventing-socialism
   status: published
-  type: article
+  subject: []
   subjects:
     - History of Ideas
     - Political Thought
@@ -33,13 +91,29 @@ meta:
     - Utopianism
     - 19th Century
     - Political Theory
-  identifier: inventing-socialism
-  lang: en
-authors:
-  - Salvador Guzman
-  - ChatGPT
-ai_generated: true
+  subtitle: ''
+  tags:
+    - Socialism
+    - Utopianism
+    - 19th Century
+    - Political Theory
+  title: 'Inventing Socialism: How a Name Emerged in Britain and France (1820-1840)'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+  - HTML
+  - RSS
 slug: inventing-socialism
+summary: >-
+  A source-driven overview of how “socialism” and “socialist” entered English and French usage (1820-1840), tracing early Owenite, Saint-Simonian, Fourierist, and Icarian meanings and the competing doctrinal emphases that shaped the term’s first public life.
+tags:
+  - Socialism
+  - Utopianism
+  - 19th Century
+  - Political Theory
+title: 'Inventing Socialism: How a Name Emerged in Britain and France (1820-1840)'
 ---
 
 # Executive Summary

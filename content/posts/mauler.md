@@ -1,32 +1,18 @@
 ---
-title: Ad Hoc "Maulerian School of Film Criticism"
-linkTitle: Ad Hoc "Maulerian School of Film Criticism"
-description: Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is th…
-summary: 'Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer''s extensive reviews (2016--present). The core thesis of the Maulerian school is that internal narrative consistency and logical integrity are the primary determinants of a film''s objective quality, distinct from subjective enjoyment. Long-form YouTube analyses are shown to contribute a rigorous, evidence-driven approach: MauLer''s critiques emphasize cause-and-effect coherence, character and canonical consistency, and scrupulous payoff/setup fulfillment as foundational axioms. The Maulerian analytic toolkit combines detailed plot deconstruction with formal logic (if/then syllogisms and reductio ad absurdum arguments) to evaluate films…'
-slug: mauler
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Media criticism
   - Film theory
   - Internet culture
   - YouTube essays
-tags: &id003
-  - mauler
-  - efap
-  - video-essays
-  - film-theory
-  - objectivity
-  - narrative-logic
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is th…
+draft: false
+keywords:
   - MauLer
   - EFAP
   - Every Frame A Pause
@@ -40,52 +26,95 @@ keywords: &id002
   - canon
   - formalism
   - argumentation
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Ad Hoc "Maulerian School of Film Criticism"
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer''s extensive reviews (2016--present). The core thesis of the Maulerian school is that internal narrative consistency and logical integrity are the primary determinants of a film''s objective quality, distinct from subjective enjoyment. Long-form YouTube analyses are shown to contribute a rigorous, evidence-driven approach: MauLer''s critiques emphasize cause-and-effect coherence, character and canonical consistency, and scrupulous payoff/setup fulfillment as foundational axioms. The Maulerian analytic toolkit combines detailed plot deconstruction with formal logic (if/then syllogisms and reductio ad absurdum arguments) to evaluate films…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: A structured, neutral reconstruction of MauLer’s implicit critical framework—an “ad hoc Maulerian School”—centered on internal narrative logic, canon consistency, and evidence-first argumentation in long-form YouTube criticism.
+  categories:
+    - Media criticism
+    - Film theory
+    - Internet culture
+    - YouTube essays
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
   description: Abstract -- This paper formulates an ad hoc "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is th…
-  draft: false
   edition: '1'
   epub-chapter-level: 2
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: text/markdown
   identifier: urn:gva:essay:maulerian-school-of-film-criticism:v1
-  keywords: *id002
+  keywords:
+    - MauLer
+    - EFAP
+    - Every Frame A Pause
+    - film criticism
+    - video essays
+    - objectivity
+    - subjectivity
+    - plot holes
+    - narrative coherence
+    - internal consistency
+    - canon
+    - formalism
+    - argumentation
   lang: en
   language: English
   library_of_congress_classification:
-    primary: PN1995.9.C7
+    class: PN
     description: Motion pictures—Criticism
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: true
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: Works Cited
-  report: {}
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+  report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: urn:gva:essay:maulerian-school-of-film-criticism:v1
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Ad Hoc "Maulerian School of Film Criticism"
+    notes: ''
+    number: '040'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Toward an ad hoc formalist revival in long-form YouTube critique
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Ad Hoc "Maulerian School of Film Criticism"
+    type: article
+    version: 1.0.0
+    year: 2026
   revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: mauler
   status: published
   subject:
@@ -99,13 +128,32 @@ meta:
     - Online culture
     - YouTube
   subtitle: Toward an ad hoc formalist revival in long-form YouTube critique
-  tags: *id003
+  tags:
+    - mauler
+    - efap
+    - video-essays
+    - film-theory
+    - objectivity
+    - narrative-logic
   title: Ad Hoc "Maulerian School of Film Criticism"
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: mauler
+summary: >-
+  A structured, neutral reconstruction of MauLer’s implicit critical framework—an “ad hoc Maulerian School”—centered on internal narrative logic, canon consistency, and evidence-first argumentation in long-form YouTube criticism.
+tags:
+  - mauler
+  - efap
+  - video-essays
+  - film-theory
+  - objectivity
+  - narrative-logic
+title: Ad Hoc "Maulerian School of Film Criticism"
 ---
 
 *Abstract* -- This paper formulates an *ad hoc* "Maulerian School" of film criticism, distilling the implicit theoretical framework behind YouTube critic MauLer's extensive reviews (2016--present). The core thesis of the Maulerian school is that **internal narrative consistency and logical integrity are the primary determinants of a film's objective quality**, distinct from subjective enjoyment. Long-form YouTube analyses are shown to contribute a rigorous, evidence-driven approach: MauLer's critiques emphasize *cause-and-effect coherence*, *character and canonical consistency*, and *scrupulous payoff/setup fulfillment* as foundational axioms. The Maulerian analytic toolkit combines detailed plot deconstruction with formal logic (if/then syllogisms and reductio ad absurdum arguments) to evaluate films against their own narrative promises. We situate this framework relative to classical film formalism and cognitive theory (e.g. Bordwell's focus on causality), New Critical tenets (e.g. bracketing authorial intent), and contemporary video essayist paradigms (contrasting, for instance, Patrick Willems' theme-first stance). Case studies of *Star Wars: The Last Jedi*, *Doctor Strange in the Multiverse of Madness*, and *Arcane* illustrate the Maulerian axioms in action, while a final evaluation addresses critiques (e.g. alleged overemphasis on plot logic or excessive review length) and outlines potential evolutions of the model. The Maulerian school, while emerging from online fan discourse, offers a novel formalist revival in popular criticism and sparks renewed debate on objectivity in art analysis.

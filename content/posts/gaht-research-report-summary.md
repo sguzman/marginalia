@@ -1,86 +1,127 @@
 ---
-title: GAHT Research Report Summary
-linkTitle: GAHT Research Report Summary
-description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-summary: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
-slug: gaht-research-report-summary
-url: ''
-aliases: []
-date: '2026-01-31'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Health
+  - Public Health
+date: '2026-01-31'
+description: >-
+  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+draft: false
+keywords:
+  - GAHT Research Report Summary
+  - Health
+  - Public Health
+  - Public aspects of medicine
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: GAHT Research Report Summary
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+  categories:
+    - Health
+    - Public Health
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-01-31'
   description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: gaht-research-report-summary
-  keywords: *id002
+  identifier: urn:marginalia:gaht-research-report-summary
+  keywords:
+    - GAHT Research Report Summary
+    - Health
+    - Public Health
+    - Public aspects of medicine
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: RA
+    description: Public health, health policy, epidemiology, and medicine in society.
+    label: Public aspects of medicine
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general policy-oriented reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: GAHT Research Report Summary.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: public health
+    domain: health
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:gaht-research-report-summary
+    intent: ''
+    is_report: true
+    kind: executive summary
+    level: ''
+    method: ''
+    methods: []
+    name: GAHT Research Report Summary
+    notes: ''
+    number: '010'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: health policy and epidemiology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: GAHT Research Report Summary
+    type: summary
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: gaht-research-report-summary
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Public health
+    - Health policy
   subjects:
-    - gaht
-    - research
-    - report
-    - summary
+    - Public health
+    - Health policy
   subtitle: ''
-  tags: *id003
+  tags:
+    - gaht-research-report-summary
+    - health
+    - public-health
   title: GAHT Research Report Summary
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: summary
+outputs:
+  - HTML
+  - RSS
+slug: gaht-research-report-summary
+summary: >-
+  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+tags:
+  - gaht-research-report-summary
+  - health
+  - public-health
+title: GAHT Research Report Summary
 ---
 
 I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.

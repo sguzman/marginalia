@@ -1,85 +1,133 @@
 ---
-title: Piketty Liberal Pmc Critique
-linkTitle: Piketty Liberal Pmc Critique
-description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
-summary: 'Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty documents that in the U.S. roughly 60–70% of incomes in the top 0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes(https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that). He attributes this to corporate governance failures: today’s top executives effectively set their own pay. “These top managers by and large have the power to set their own remuneration, in some cases without limit,” Piketty observes, of…'
-slug: piketty-liberal-pmc-critique
-url: ''
-aliases: []
-date: '2026-03-22'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-03-22'
+description: >-
+  Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
+draft: false
+keywords:
+  - 'Piketty and the Liberal PMC: A Critique'
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Piketty and the Liberal PMC: A Critique'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty documents that in the U.S. roughly 60–70% of incomes in the top 0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes(https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that). He attributes this to corporate governance failures: today’s top executives effectively set their own pay. “These top managers by and large have the power to set their own remuneration, in some cases without limit,” Piketty observes, of…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty…
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-22'
   description: Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty docum…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: piketty-liberal-pmc-critique
-  keywords: *id002
+  identifier: urn:marginalia:piketty-liberal-pmc-critique
+  keywords:
+    - 'Piketty and the Liberal PMC: A Critique'
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: piketty-liberal-pmc-critique.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:piketty-liberal-pmc-critique
+    intent: ''
+    is_report: true
+    kind: critical analysis
+    level: ''
+    method: ''
+    methods: []
+    name: 'Piketty and the Liberal PMC: A Critique'
+    notes: ''
+    number: '077'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: 'Piketty and the Liberal PMC: A Critique'
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: piketty-liberal-pmc-critique
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - piketty
-    - liberal
-    - critique
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
-  title: Piketty Liberal Pmc Critique
+  tags:
+    - piketty-liberal-pmc-critique
+    - politics
+    - history
+    - political-theory
+  title: 'Piketty and the Liberal PMC: A Critique'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: piketty-liberal-pmc-critique
+summary: >-
+  Thomas Piketty’s Capital in the Twenty-First Century emphasizes that the explosion of inequality in recent decades has been driven not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings. Piketty…
+tags:
+  - piketty-liberal-pmc-critique
+  - politics
+  - history
+  - political-theory
+title: 'Piketty and the Liberal PMC: A Critique'
 ---
 
 Thomas Piketty’s *Capital in the Twenty-First Century* emphasizes that the explosion of inequality in recent decades has been driven **not by impersonal market forces alone but by an unprecedented surge in top managers’ earnings**. Piketty documents that in the U.S. roughly 60–70% of incomes in the top 0.1% (2000–2010) came from “supermanagers,” far outpacing the share from entertainers or athletes[\[1\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=chooses%29%20of%20the%20top%200,of%20%E2%80%9Csupermanagers%E2%80%9D%20than%20with%20that). He attributes this to corporate governance failures: today’s top executives effectively **set their own pay**. “These top managers by and large have the power to set their own remuneration, in some cases without limit,” Piketty observes, often with little relation to productivity[\[2\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=I%20will%20show%20that%20this,managers%20of%20large%20firms%20from)[\[3\]](https://dowbor.org/wp-content/uploads/2014/06/14Thomas-Piketty.pdf#:~:text=managers%20by%20and%20large%20have,The%20tendency%20is%20less). In other words, much of the “gap” driving high-end inequality is **rent extracted by managerial elites**.

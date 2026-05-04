@@ -1,85 +1,133 @@
 ---
-title: Proudhon Mutualism Report
-linkTitle: Proudhon Mutualism Report
-description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…'
-summary: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to “abolish” property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that on…'
-slug: proudhon-mutualism-report
-url: ''
-aliases: []
-date: '2026-01-25'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Political Theory
+  - History
+  - Socialism
+date: '2026-01-25'
+description: >-
+  Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…
+draft: false
+keywords:
+  - Proudhon Mutualism Report
+  - Political Theory
+  - History
+  - Socialism
+  - Socialism. Communism. Anarchism
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Proudhon Mutualism Report
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to “abolish” property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that on…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Executive Summary Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20w…
+  categories:
+    - Political Theory
+    - History
+    - Socialism
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: 'Executive Summary: Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20bo…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: proudhon-mutualism-report
-  keywords: *id002
+  identifier: urn:marginalia:proudhon-mutualism-report
+  keywords:
+    - Proudhon Mutualism Report
+    - Political Theory
+    - History
+    - Socialism
+    - Socialism. Communism. Anarchism
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: HX
+    description: Socialism, communism, anarchism, and related intellectual history.
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Proudhon Mutualism Report.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: political theory
+    domain: political theory
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:proudhon-mutualism-report
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Proudhon Mutualism Report
+    notes: ''
+    number: 008
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Proudhon Mutualism Report
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: proudhon-mutualism-report
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Political theory
+    - Socialism
   subjects:
-    - proudhon
-    - mutualism
-    - report
+    - Political theory
+    - Socialism
   subtitle: ''
-  tags: *id003
+  tags:
+    - proudhon-mutualism-report
+    - political-theory
+    - history
+    - socialism
   title: Proudhon Mutualism Report
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: proudhon-mutualism-report
+summary: >-
+  Executive Summary Pierre‐Joseph Proudhon (1809–1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan “property is theft!”(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20w…
+tags:
+  - proudhon-mutualism-report
+  - political-theory
+  - history
+  - socialism
+title: Proudhon Mutualism Report
 ---
 
 **Executive Summary**  

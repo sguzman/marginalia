@@ -1,90 +1,127 @@
 ---
-title: Critical Review of Major Official Financial-Crisis Inquiry Reports
-linkTitle: Critical Review of Major Official Financial-Crisis Inquir…
-description: Critical Review of Major Official Financial-Crisis Inquiry Reports
-summary: Critical Review of Major Official Financial-Crisis Inquiry Reports
-slug: critical-review-of-major-official-financial-crisis-inquiry-reports
-url: ''
-aliases: []
-date: '2026-03-21'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Public Finance
+  - Economics
+date: '2026-03-21'
+description: >-
+  Critical Review of Major Official Financial-Crisis Inquiry Reports
+draft: false
+keywords:
+  - Critical Review of Major Official Financial-Crisis Inquiry Reports
+  - Public Finance
+  - Economics
+  - Public finance
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Critical Review of Major Official Financial-Crisis Inquir…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
   abstract: Critical Review of Major Official Financial-Crisis Inquiry Reports
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  categories:
+    - Public Finance
+    - Economics
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: Critical Review of Major Official Financial-Crisis Inquiry Reports
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: critical-review-of-major-official-financial-crisis-inquiry-reports
-  keywords: *id002
+  identifier: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
+  keywords:
+    - Critical Review of Major Official Financial-Crisis Inquiry Reports
+    - Public Finance
+    - Economics
+    - Public finance
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: HJ
+    description: Public finance, taxation, and fiscal policy.
+    label: Public finance
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: policy-oriented general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Critical Review of Major Official Financial-Crisis Inquiry Reports.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: economics
+    domain: public finance
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:critical-review-of-major-official-financial-crisis-inquiry-reports
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Critical Review of Major Official Financial-Crisis Inquiry Reports
+    notes: ''
+    number: 069
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: public finance
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Critical Review of Major Official Financial-Crisis Inquiry Reports
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: critical-review-of-major-official-financial-crisis-inquiry-reports
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Public finance
+    - Fiscal policy
   subjects:
-    - critical
-    - review
-    - major
-    - official
-    - financial
-    - crisis
-    - inquiry
-    - reports
+    - Public finance
+    - Fiscal policy
   subtitle: ''
-  tags: *id003
+  tags:
+    - critical-review-of-major-official-financial-crisis-inquiry-reports
+    - public-finance
+    - economics
   title: Critical Review of Major Official Financial-Crisis Inquiry Reports
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: critical-review-of-major-official-financial-crisis-inquiry-reports
+summary: >-
+  Critical Review of Major Official Financial-Crisis Inquiry Reports
+tags:
+  - critical-review-of-major-official-financial-crisis-inquiry-reports
+  - public-finance
+  - economics
+title: Critical Review of Major Official Financial-Crisis Inquiry Reports
 ---
 
 ## Executive summary

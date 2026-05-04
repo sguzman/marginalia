@@ -1,85 +1,133 @@
 ---
-title: Marxism Research Clarifications
-linkTitle: Marxism Research Clarifications
-description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…'
-summary: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/How…'
-slug: marxism-research-clarifications
-url: ''
-aliases: []
-date: '2026-01-25'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Political Theory
+  - History
+  - Socialism
+date: '2026-01-25'
+description: >-
+  Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…
+draft: false
+keywords:
+  - Marxism Research Clarifications
+  - Political Theory
+  - History
+  - Socialism
+  - Socialism. Communism. Anarchism
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Marxism Research Clarifications
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases – from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin’s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/How…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 'Executive Summary - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.c…'
+  categories:
+    - Political Theory
+    - History
+    - Socialism
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: 'Executive Summary: - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/co…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: marxism-research-clarifications
-  keywords: *id002
+  identifier: urn:marginalia:marxism-research-clarifications
+  keywords:
+    - Marxism Research Clarifications
+    - Political Theory
+    - History
+    - Socialism
+    - Socialism. Communism. Anarchism
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: HX
+    description: Socialism, communism, anarchism, and related intellectual history.
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Marxism Research Clarifications.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: political theory
+    domain: political theory
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:marxism-research-clarifications
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Marxism Research Clarifications
+    notes: ''
+    number: '007'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Marxism Research Clarifications
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: marxism-research-clarifications
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Political theory
+    - Socialism
   subjects:
-    - marxism
-    - research
-    - clarifications
+    - Political theory
+    - Socialism
   subtitle: ''
-  tags: *id003
+  tags:
+    - marxism-research-clarifications
+    - political-theory
+    - history
+    - socialism
   title: Marxism Research Clarifications
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: marxism-research-clarifications
+summary: >-
+  Executive Summary - Evolution of Marxism (1840s–2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.c…
+tags:
+  - marxism-research-clarifications
+  - political-theory
+  - history
+  - socialism
+title: Marxism Research Clarifications
 ---
 
 **Executive Summary**  

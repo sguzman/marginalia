@@ -1,42 +1,19 @@
 ---
-title: Jewish Political Activism in the United States (1880--2025)
-linkTitle: Jewish Political Activism in the United States (1880--2025)
-description: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…'
-summary: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions, advocacy groups, litigation, and media. Waves of Eastern European immigrants (1880--1924) built strong garment and labor unions and helped found organizations like the American Jewish Committee and Anti-Defamation League to combat discrimination. In the New Deal era, Jewish union leaders and political activists (often Democrats) joined Roosevelt''s coalition, while wartime and postwar activism centered on rescue efforts, civil rights, and support for Israel. During the Cold War and beyond, Jews were prominent in civil-rights coalitions (helping to found…'
-slug: jewish-political-activism
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - history
   - politics
   - united-states
   - judaism
   - activism
-tags: &id003
-  - labor
-  - unions
-  - civil-rights
-  - coalition-politics
-  - diaspora
-  - antisemitism
-  - lobbying
-  - aipac
-  - adL
-  - ajc
-  - neoconservatism
-  - campus-activism
-  - bds
-  - social-media
-  - u.s.-israel
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…
+draft: false
+keywords:
   - Jewish Americans
   - political activism
   - labor unions
@@ -55,15 +32,18 @@ keywords: &id002
   - campus politics
   - diaspora politics
   - U.S.–Israel relations
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Jewish Political Activism in the United States (1880--2025)
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions, advocacy groups, litigation, and media. Waves of Eastern European immigrants (1880--1924) built strong garment and labor unions and helped found organizations like the American Jewish Committee and Anti-Defamation League to combat discrimination. In the New Deal era, Jewish union leaders and political activists (often Democrats) joined Roosevelt''s coalition, while wartime and postwar activism centered on rescue efforts, civil rights, and support for Israel. During the Cold War and beyond, Jews were prominent in civil-rights coalitions (helping to found…'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: 'Historical synthesis of Jewish American political activism (1880–2025): labor unions, civil rights, foreign policy and Israel debates, organizational density, and modern digital-era advocacy—plus how myths of “Jewish influence” diverge from measurable channels.'
+  categories:
+    - history
+    - politics
+    - united-states
+    - judaism
+    - activism
   cover-image: cover.png
   cover_image: cover.png
   creator:
@@ -71,7 +51,6 @@ meta:
   dataset_id: jewish-political-activism-us-1880-2025
   date: '2026-02-12'
   description: 'Executive Summary: Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions…'
-  draft: false
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -79,36 +58,79 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva:jewish-political-activism-us-1880-2025
-  keywords: *id002
+  keywords:
+    - Jewish Americans
+    - political activism
+    - labor unions
+    - ILGWU
+    - Amalgamated Clothing Workers
+    - New Deal coalition
+    - civil rights
+    - NAACP
+    - antisemitism
+    - ADL
+    - American Jewish Committee
+    - AIPAC
+    - neoconservatism
+    - Soviet Jewry
+    - BDS
+    - campus politics
+    - diaspora politics
+    - U.S.–Israel relations
   lang: en
   language: English
   library_of_congress_classification:
     class: E
-    number: E184.3
-    caption: United States — Elements in the population — Jews
-    notes: Broad placement for U.S. Jews; specific cutters/decimals can be added per library practice.
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: true
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: gva:jewish-political-activism-us-1880-2025
+    intent: ''
+    is_report: true
     kind: historical survey
-    region: United States
+    level: ''
+    method: ''
+    methods: []
+    name: Jewish Political Activism in the United States
+    notes: ''
+    number: '032'
+    organization: Marginalia
     period: 1880-2025
-    topic: Jewish political activism
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: United States
+    region_focus: ''
+    scope: 1880–2025
+    scope_years: ''
     series: Gold, Velvet and Ashes Reports
-    id: GVA-2026-001
-  report-no: GVA-2026-001
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Jewish Political Activism in the United States
+    type: report
+    version: 1.0.0
+    year: 2026
   revision: 1.0.0
   rights: Released under CC0-1.0; no rights reserved.
-  series: Gold, Velvet and Ashes Reports
-  series-number: 1
-  series-title: Minority Politics and Power in the United States
   slug: jewish-political-activism
   status: published
   subject:
@@ -128,13 +150,50 @@ meta:
     - Labor unions -- United States
     - Israel -- Foreign relations -- United States
   subtitle: 1880–2025
-  tags: *id003
+  tags:
+    - labor
+    - unions
+    - civil-rights
+    - coalition-politics
+    - diaspora
+    - antisemitism
+    - lobbying
+    - aipac
+    - adL
+    - ajc
+    - neoconservatism
+    - campus-activism
+    - bds
+    - social-media
+    - u.s.-israel
   title: Jewish Political Activism in the United States (1880--2025)
   toc: true
   toc-depth: 2
   toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: jewish-political-activism
+summary: >-
+  Historical synthesis of Jewish American political activism (1880–2025): labor unions, civil rights, foreign policy and Israel debates, organizational density, and modern digital-era advocacy—plus how myths of “Jewish influence” diverge from measurable channels.
+tags:
+  - labor
+  - unions
+  - civil-rights
+  - coalition-politics
+  - diaspora
+  - antisemitism
+  - lobbying
+  - aipac
+  - adL
+  - ajc
+  - neoconservatism
+  - campus-activism
+  - bds
+  - social-media
+  - u.s.-israel
+title: Jewish Political Activism in the United States (1880--2025)
 ---
 
 **Executive Summary:** Over nearly a century and a half, American Jews have been active across the political spectrum -- from socialist labor organizers to conservative foreign-policy hawks -- pursuing communal and broader goals through unions, advocacy groups, litigation, and media. Waves of Eastern European immigrants (1880--1924) built strong garment and labor unions and helped found organizations like the American Jewish Committee and Anti-Defamation League to combat discrimination. In the New Deal era, Jewish union leaders and political activists (often Democrats) joined Roosevelt's coalition, while wartime and postwar activism centered on rescue efforts, civil rights, and support for Israel. During the Cold War and beyond, Jews were prominent in civil-rights coalitions (helping to found the NAACP and sit on its leadership[\[1\]](https://www.gilderlehrman.org/history-resources/essays/role-jewish-americans-civil-rights-movement#:~:text=Outside%20the%20left%2C%20individuals%20from,%E2%80%9D)) and in anti-communist foreign-policy circles (later evolving into the neoconservative movement). Since 1990, new issues -- from Soviet Jewry to campus BDS protests -- have spurred activist responses, and digital media have amplified both Jewish advocacy and antisemitic backlash. Quantitative data show Jewish Americans largely leaning Democratic (roughly three-quarters in recent elections) and supporting causes like social justice at higher rates than their population share would predict[\[2\]](https://www.gilderlehrman.org/history-resources/essays/role-jewish-americans-civil-rights-movement#:~:text=played%20an%20outsized%20role%20in,was%20an%20African%20American%20Jew). However, persistent tropes of a "Jewish lobby" exaggerate influence: for example, the largest Jewish group (AIPAC) spent only about \$3.3 million on lobbying in 2024, a small fraction of U.S. interest-group spending, while grassroots membership and philanthropy remain primary levers of influence. Key findings include the importance of labor/social justice roots (especially 1880--1930), the enduring alliance (and occasional strain) with Black civil-rights movements, and the rise of polarized Jewish activism on campus and social media in the 21st century. Policy implications stress supporting pluralistic, evidence-based understanding of "Jewish influence" and vigilance against antisemitic conspiracies.

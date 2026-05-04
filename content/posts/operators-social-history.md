@@ -1,47 +1,20 @@
 ---
-title: A Social History of "Operators" in Mathematics
-linkTitle: A Social History of "Operators" in Mathematics
-description: A Social History of "Operators" in Mathematics
-summary: A Social History of "Operators" in Mathematics
-slug: operators-social-history
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - mathematics
   - history of mathematics
   - functional analysis
   - mathematical physics
   - notation and pedagogy
   - intellectual history
-tags: &id003
-  - operators
-  - D operator
-  - operational calculus
-  - finite differences
-  - Laplace transform
-  - matrices
-  - linear algebra
-  - Cayley
-  - Hamilton
-  - Gibbs
-  - Heaviside
-  - Fredholm
-  - Hilbert
-  - Riesz
-  - spectrum
-  - notation
-  - pedagogy
-  - disciplinary conflict
-  - mathematical physics
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A social history of the mathematical “operator”: how actions like differentiation became objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary disputes, and the demands of physics and e…
+draft: false
+keywords:
   - operators
   - operational calculus
   - calculus of operations
@@ -62,50 +35,108 @@ keywords: &id002
   - mathematics education
   - history of science
   - mathematical physics
+lastmod: '2026-05-04'
+layout: single
+linkTitle: A Social History of "Operators" in Mathematics
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: A Social History of "Operators" in Mathematics
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: 'A social history of the mathematical “operator”: how actions like differentiation became objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary disputes, and the demands of physics and engineering.'
+  categories:
+    - mathematics
+    - history of mathematics
+    - functional analysis
+    - mathematical physics
+    - notation and pedagogy
+    - intellectual history
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
-  description: A Social History of "Operators" in Mathematics
-  draft: false
-  edition: ''
+  description: 'A social history of the mathematical “operator”: how actions like differentiation became objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary disputes, and the demands of physics and e…'
+  edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
   epub-title-page: false
   epub_cover_image: cover.png
   format: markdown
   identifier: gva:operator-social-history-mathematics
-  keywords: *id002
+  keywords:
+    - operators
+    - operational calculus
+    - calculus of operations
+    - differential operator
+    - integral operator
+    - finite difference
+    - matrix theory
+    - linear transformation
+    - eigenvalues
+    - spectrum
+    - functional analysis
+    - Hilbert space
+    - Fredholm theory
+    - Heaviside operational calculus
+    - vector analysis
+    - quaternions
+    - notation
+    - mathematics education
+    - history of science
+    - mathematical physics
   lang: en-US
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: true
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
-  report: {}
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+  report:
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: gva:operator-social-history-mathematics
+    intent: ''
+    is_report: true
+    kind: historical survey
+    level: ''
+    method: ''
+    methods: []
+    name: A Social History of "Operators" in Mathematics
+    notes: ''
+    number: '044'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: How actions became objects
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: A Social History of "Operators" in Mathematics
+    type: article
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0 1.0 Universal (CC0-1.0) - Public Domain Dedication
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: operators-social-history
   status: published
   subject:
@@ -123,13 +154,58 @@ meta:
     - Scientific notation
     - Engineering mathematics
   subtitle: How actions became objects
-  tags: *id003
+  tags:
+    - operators
+    - D operator
+    - operational calculus
+    - finite differences
+    - Laplace transform
+    - matrices
+    - linear algebra
+    - Cayley
+    - Hamilton
+    - Gibbs
+    - Heaviside
+    - Fredholm
+    - Hilbert
+    - Riesz
+    - spectrum
+    - notation
+    - pedagogy
+    - disciplinary conflict
+    - mathematical physics
   title: A Social History of "Operators" in Mathematics
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: operators-social-history
+summary: >-
+  A social history of the mathematical “operator”: how actions like differentiation became objects you can manipulate, classify, and build theories around—shaped by notation, education, disciplinary disputes, and the demands of physics and engineering.
+tags:
+  - operators
+  - D operator
+  - operational calculus
+  - finite differences
+  - Laplace transform
+  - matrices
+  - linear algebra
+  - Cayley
+  - Hamilton
+  - Gibbs
+  - Heaviside
+  - Fredholm
+  - Hilbert
+  - Riesz
+  - spectrum
+  - notation
+  - pedagogy
+  - disciplinary conflict
+  - mathematical physics
+title: A Social History of "Operators" in Mathematics
 ---
 
 ## Introduction

@@ -1,28 +1,89 @@
 ---
-title: 'The Yankee Left: Managerial Elites and Moralizing Rule'
-date: 2026-03-04
-creator: Salvador Guzman
+ai_generated: true
+authors:
+  - Salvador Guzman
+  - ChatGPT
 categories:
   - Political Science
   - Sociology
-tags:
-  - Yankee Left
-  - Managerialism
-  - Cultural Hegemony
-  - Elite Theory
-library_of_congress_classification:
-  class: HN90.E4
-  area: Social history - United States - Elite
-  note: Analysis of Northeastern U.S. liberal elites as a managerial ruling formation.
+date: '2026-05-04'
+description: >-
+  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+draft: false
+keywords: []
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'The Yankee Left: Managerial Elites and Moralizing Rule'
+markup: goldmark
 meta:
   abstract: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. It argues that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse.
-  creator: Salvador Guzman
-  publisher: Marginalia
-  license: CC0-1.0
-  rights: CC0-1.0
+  categories:
+    - Political Science
+    - Sociology
+  creator:
+    - Salvador Guzman
+  dataset_id: ''
+  date: '2026-05-04'
+  description: This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. We argue that a class of highly educated professionals and bureauc…
+  edition: ''
+  format: markdown
+  identifier: the-yankee-left
+  lang: en
   language: en
+  library_of_congress_classification:
+    class: HN90.E4
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: ''
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: ''
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: ''
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: ''
+    type: ''
+    version: ''
+    year: 0
+  revision: ''
+  rights: CC0-1.0
+  slug: the-yankee-left
   status: published
-  type: article
+  subject: []
   subjects:
     - Political Science
     - Sociology
@@ -30,13 +91,29 @@ meta:
     - Managerialism
     - Cultural Hegemony
     - Elite Theory
-  identifier: the-yankee-left
-  lang: en
-authors:
-  - Salvador Guzman
-  - ChatGPT
-ai_generated: true
+  subtitle: ''
+  tags:
+    - Yankee Left
+    - Managerialism
+    - Cultural Hegemony
+    - Elite Theory
+  title: 'The Yankee Left: Managerial Elites and Moralizing Rule'
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+  - HTML
+  - RSS
 slug: the-yankee-left
+summary: >-
+  This report examines the so-called “Yankee-left” – broadly identified with Northeastern U.S. liberal elites – as a managerial, prestige-driven, moralizing ruling formation. It argues that a class of highly educated professionals and bureaucrats has come to dominate culture and politics through technocratic expertise, symbolic status rituals, and a moralistic discourse.
+tags:
+  - Yankee Left
+  - Managerialism
+  - Cultural Hegemony
+  - Elite Theory
+title: 'The Yankee Left: Managerial Elites and Moralizing Rule'
 ---
 
 # Executive Summary

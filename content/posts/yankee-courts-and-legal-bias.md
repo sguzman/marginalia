@@ -1,86 +1,127 @@
 ---
-title: Yankee Courts And Legal Bias
-linkTitle: Yankee Courts And Legal Bias
-description: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
-summary: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate business, property, and government powers at the expense of labor, individuals, or progressive aims. For example, early cases like Dartmouth College v. Woodward (1819) and Lochner v. New York (1905) protected corporate charters and struck down labor regulations(https://supreme.justia.com/cases/federal/us/17/518/#:~:text=The%20charter%20granted%20by%20the,not%20dissolved%20by%20the%20Revolution)(https://constitutioncenter.org/the-constitution/supreme-court-case-library/lochner-v-new-york#:~:text=vis,legitimate%20health%20or%20safety%20objective), while m…
-slug: yankee-courts-and-legal-bias
-url: ''
-aliases: []
-date: '2026-03-21'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Law
+  - United States Law
+date: '2026-03-21'
+description: >-
+  A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+draft: false
+keywords:
+  - Yankee Courts and Legal Bias
+  - Law
+  - United States Law
+  - Law of the United States
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Yankee Courts and Legal Bias
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate business, property, and government powers at the expense of labor, individuals, or progressive aims. For example, early cases like Dartmouth College v. Woodward (1819) and Lochner v. New York (1905) protected corporate charters and struck down labor regulations(https://supreme.justia.com/cases/federal/us/17/518/#:~:text=The%20charter%20granted%20by%20the,not%20dissolved%20by%20the%20Revolution)(https://constitutioncenter.org/the-constitution/supreme-court-case-library/lochner-v-new-york#:~:text=vis,legitimate%20health%20or%20safety%20objective), while m…
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+  categories:
+    - Law
+    - United States Law
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: yankee-courts-and-legal-bias
-  keywords: *id002
+  identifier: urn:marginalia:yankee-courts-and-legal-bias
+  keywords:
+    - Yankee Courts and Legal Bias
+    - Law
+    - United States Law
+    - Law of the United States
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: KF
+    description: United States law, courts, legal doctrine, and legal institutions.
+    label: Law of the United States
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general legal reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: yankee-courts-and-legal-bias.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: law
+    domain: law
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:yankee-courts-and-legal-bias
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Yankee Courts and Legal Bias
+    notes: ''
+    number: '076'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: united states law
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Yankee Courts and Legal Bias
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: yankee-courts-and-legal-bias
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Law
+    - United States law
   subjects:
-    - yankee
-    - courts
-    - legal
-    - bias
+    - Law
+    - United States law
   subtitle: ''
-  tags: *id003
-  title: Yankee Courts And Legal Bias
+  tags:
+    - yankee-courts-and-legal-bias
+    - law
+    - united-states-law
+  title: Yankee Courts and Legal Bias
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: yankee-courts-and-legal-bias
+summary: >-
+  A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate…
+tags:
+  - yankee-courts-and-legal-bias
+  - law
+  - united-states-law
+title: Yankee Courts and Legal Bias
 ---
 
 A growing body of evidence suggests that judicial outcomes often favor entrenched or elite interests (the “establishment” or “pro-yankee” side) over underdog challengers. Landmark U.S. Supreme Court cases across history routinely vindicate business, property, and government powers at the expense of labor, individuals, or progressive aims. For example, early cases like *Dartmouth College v. Woodward* (1819) and *Lochner v. New York* (1905) protected corporate charters and struck down labor regulations[\[1\]](https://supreme.justia.com/cases/federal/us/17/518/#:~:text=The%20charter%20granted%20by%20the,not%20dissolved%20by%20the%20Revolution)[\[2\]](https://constitutioncenter.org/the-constitution/supreme-court-case-library/lochner-v-new-york#:~:text=vis,legitimate%20health%20or%20safety%20objective), while more recent decisions like *Citizens United v. FEC* (2010) and *Burwell v. Hobby Lobby* (2014) expanded corporate speech and religious rights, respectively[\[3\]](https://supreme.justia.com/cases/federal/us/558/310/#:~:text=Primary%20Holding)[\[4\]](https://harvardlawreview.org/print/vol-135/the-supreme-court-and-the-pro-business-paradox/#:~:text=expenditures,35%20In%20both%20cases%2C%20the). Studies show the Roberts Court is notably “pro-business”: one analysis finds the U.S. Chamber of Commerce won ~70% of its cases in the Roberts era versus 43–56% under prior Courts[\[5\]](https://www.levernews.com/the-supreme-court-is-a-corporate/#:~:text=This%20is%20part%20of%20a,%E2%80%9D)[\[6\]](https://www.ussc.edu.au/the-supreme-courts-bad-business-bias#:~:text=friendly%E2%80%9D%20is%20measured%20in%20terms,70%20percent%20of%20the%20time). Empirical research coding 1,700+ cases from 1953–2022 likewise finds Republican-appointed justices cast “pro-rich” votes ~70% of the time (Democratic appointees ~35%)[\[7\]](https://cepr.org/voxeu/columns/ruling-rich-evidence-pro-wealthy-bias-us-supreme-court#:~:text=both%20sided%20with%20the%20wealthy,resources%20and%20for%20economic%20inequality). Courts’ formal doctrines (like the *business judgment* rule) and behavioral tendencies (status-quo bias) further tilt outcomes toward established entities. Scholarly and media commentary decry a “star chamber” or century-high pro-corporate tilt[\[8\]](https://www.levernews.com/the-supreme-court-is-a-corporate/#:~:text=Once%20again%2C%20the%20high%20court,defending%20corporations%20and%20the%20wealthy)[\[9\]](https://news.bloomberglaw.com/us-law-week/pro-business-supreme-court-to-be-tested-in-regulatory-showdown#:~:text=A%20pair%20of%20cases%20that,business%20court%20in%20a%20century). Comparative examples (e.g. UK and Canadian courts sometimes backing employers over gig workers) suggest this pattern is not unique to the U.S. Counterexamples exist (e.g. *Brown v. Board*, pro-consumer rulings), but are relatively rare.

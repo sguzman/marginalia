@@ -1,33 +1,18 @@
 ---
-title: 'The Matrix as Cultural Technology: A Mythical & Social History'
-linkTitle: 'The Matrix as Cultural Technology: A Mythical & Social Hi…'
-description: 'The Matrix as Cultural Technology: A Mythical & Social History'
-summary: 'The Matrix as Cultural Technology: A Mythical & Social History'
-slug: matrix-culture
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Mathematics
   - Technology
   - History
   - Culture
-tags: &id003
-  - matrix-culture
-  - linear-algebra
-  - history-of-math
-  - technology
-  - culture
-  - computing
-  - ai
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A mythical and social history of matrices as a cultural technology—how matrix thinking scaled science, industry, and computation, and why “the Matrix” became a modern metaphor for control, networks, and simulation.
+draft: false
+keywords:
   - matrix
   - matrices
   - linear algebra
@@ -44,23 +29,24 @@ keywords: &id002
   - metaphor
   - simulation
   - networks
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'The Matrix as Cultural Technology: A Mythical & Social Hi…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'The Matrix as Cultural Technology: A Mythical & Social History'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: A mythical and social history of matrices as a cultural technology—how matrix thinking scaled science, industry, and computation, and why “the Matrix” became a modern metaphor for control, networks, and simulation.
+  categories:
+    - Mathematics
+    - Technology
+    - History
+    - Culture
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: matrix-culture.v1
   date: '2026-02-12'
-  description: 'The Matrix as Cultural Technology: A Mythical & Social History'
-  draft: false
+  description: A mythical and social history of matrices as a cultural technology—how matrix thinking scaled science, industry, and computation, and why “the Matrix” became a modern metaphor for control, networks, and simulation.
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -68,26 +54,78 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva.matrix-culture.2026-02-12
-  keywords: *id002
+  keywords:
+    - matrix
+    - matrices
+    - linear algebra
+    - Gaussian elimination
+    - determinants
+    - cultural technology
+    - history of mathematics
+    - scientific institutions
+    - computing
+    - data centers
+    - machine learning
+    - matrix multiplication
+    - myth
+    - metaphor
+    - simulation
+    - networks
   lang: en
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: true
   plate_id: matrix-culture
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: Further Reading
-  report: {}
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+  report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: gva.matrix-culture.2026-02-12
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: The Matrix as Cultural Technology
+    notes: ''
+    number: 039
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: A Mythical & Social History
+    scope_years: ''
+    series: essays
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: The Matrix as Cultural Technology
+    type: essay
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series: essays
-  series-number: 0
-  series-title: Gold, Velvet and Ashes
   slug: matrix-culture
   status: stable
   subject:
@@ -101,13 +139,34 @@ meta:
     - 'Matrix mythology: mother, grid, network, simulation'
     - Computing, data centers, and AI as matrix engines
   subtitle: A Mythical & Social History
-  tags: *id003
+  tags:
+    - matrix-culture
+    - linear-algebra
+    - history-of-math
+    - technology
+    - culture
+    - computing
+    - ai
   title: 'The Matrix as Cultural Technology: A Mythical & Social History'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: essay
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: matrix-culture
+summary: >-
+  A mythical and social history of matrices as a cultural technology—how matrix thinking scaled science, industry, and computation, and why “the Matrix” became a modern metaphor for control, networks, and simulation.
+tags:
+  - matrix-culture
+  - linear-algebra
+  - history-of-math
+  - technology
+  - culture
+  - computing
+  - ai
+title: 'The Matrix as Cultural Technology: A Mythical & Social History'
 ---
 
 ## Introduction -- Power Over Complexity

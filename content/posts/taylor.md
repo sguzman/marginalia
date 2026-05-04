@@ -1,33 +1,18 @@
 ---
-title: Taylor
-linkTitle: Taylor
-description: Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
-summary: 'Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz''s career from 2010 to the present, emphasizing contentious episodes that raise questions about journalistic norms such as doxxing (revealing personal identities), participatory reporting (when journalists become part of the story), and perceived ethical breaches. Key findings include:'
-slug: taylor
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Media
   - Journalism
   - Internet Culture
   - Online Harassment
-tags: &id003
-  - taylor-lorenz
-  - journalism
-  - ethics
-  - doxxing
-  - harassment
-  - media
-  - internet-culture
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
+draft: false
+keywords:
   - Taylor Lorenz
   - internet culture
   - journalism ethics
@@ -36,50 +21,91 @@ keywords: &id002
   - media trust
   - newsroom standards
   - platform politics
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bi…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz''s career from 2010 to the present, emphasizing contentious episodes that raise questions about journalistic norms such as doxxing (revealing personal identities), participatory reporting (when journalists become part of the story), and perceived ethical breaches. Key findings include:'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Source list and reading trail focused on Taylor Lorenz and disputes about internet-culture reporting, doxxing/identification ethics, newsroom corrections, platform dynamics, and public trust in media.
+  categories:
+    - Media
+    - Journalism
+    - Internet Culture
+    - Online Harassment
   creator:
     - Salvador Guzman
   dataset_id: gva-taylor-lorenz-bibliography
   date: '2026-02-12'
   description: Taylor Lorenz is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz'…
-  draft: false
   edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: text/markdown
   identifier: gva:taylor-lorenz-bibliography:2026-02-12
-  keywords: *id002
+  keywords:
+    - Taylor Lorenz
+    - internet culture
+    - journalism ethics
+    - doxxing
+    - online harassment
+    - media trust
+    - newsroom standards
+    - platform politics
   lang: en
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: false
   plate_id: plate-taylor-lorenz-bibliography
-  publisher: Salvador Guzman
+  publisher: Marginalia
   reference-section-title: References
-  report: {}
-  report-no: GVA-REPORT-2026-001
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+  report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: gva:taylor-lorenz-bibliography:2026-02-12
+    intent: ''
+    is_report: true
+    kind: annotated bibliography
+    level: ''
+    method: ''
+    methods: []
+    name: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
+    notes: ''
+    number: '045'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Sources on controversy, ethics, and internet-era reporting
+    scope_years: ''
+    series: internet-culture-bibliographies
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
+    type: bibliography
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0 1.0 Universal (CC0-1.0)
-  series: internet-culture-bibliographies
-  series-number: 1
-  series-title: Internet Culture Bibliographies
   slug: taylor
   status: complete
   subject:
@@ -91,13 +117,34 @@ meta:
     - Media ethics
     - Internet culture
   subtitle: Sources on controversy, ethics, and internet-era reporting
-  tags: *id003
-  title: Taylor
+  tags:
+    - taylor-lorenz
+    - journalism
+    - ethics
+    - doxxing
+    - harassment
+    - media
+    - internet-culture
+  title: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
   toc: false
   toc-depth: 0
-  toc-title: ''
+  toc-title: Contents
   type: bibliography
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: taylor
+summary: >-
+  Source list and reading trail focused on Taylor Lorenz and disputes about internet-culture reporting, doxxing/identification ethics, newsroom corrections, platform dynamics, and public trust in media.
+tags:
+  - taylor-lorenz
+  - journalism
+  - ethics
+  - doxxing
+  - harassment
+  - media
+  - internet-culture
+title: 'Taylor Lorenz: Controversy and Media Ethics (Annotated Bibliography)'
 ---
 
 **Taylor Lorenz** is a prominent American technology-culture journalist whose reporting on internet culture, influencers, and online trends has both elevated her profile and embroiled her in heated controversies. This report chronicles Lorenz's career from 2010 to the present, emphasizing contentious episodes that raise questions about journalistic norms such as **doxxing** (revealing personal identities), **participatory reporting** (when journalists become part of the story), and perceived ethical breaches. Key findings include:

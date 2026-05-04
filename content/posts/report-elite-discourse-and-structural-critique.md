@@ -1,87 +1,133 @@
 ---
-title: 'Report: Elite Discourse and Structural Critique'
-linkTitle: 'Report: Elite Discourse and Structural Critique'
-description: 'Report: Elite Discourse and Structural Critique'
-summary: 'Report: Elite Discourse and Structural Critique'
-slug: report-elite-discourse-and-structural-critique
-url: ''
-aliases: []
-date: '2026-02-27'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-02-27'
+description: >-
+  Report Elite Discourse and Structural Critique
+draft: false
+keywords:
+  - Elite Discourse and Structural Critique
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Report: Elite Discourse and Structural Critique'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Report: Elite Discourse and Structural Critique'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Report Elite Discourse and Structural Critique
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-02-27'
-  description: 'Report: Elite Discourse and Structural Critique'
-  draft: false
-  edition: ''
+  description: Report Elite Discourse and Structural Critique
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: report-elite-discourse-and-structural-critique
-  keywords: *id002
+  identifier: urn:marginalia:elite-discourse-and-structural-critique
+  keywords:
+    - Elite Discourse and Structural Critique
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Report_ Elite Discourse and Structural Critique.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Report Elite Discourse and Structural Critique.docx
+      tool: pandoc 3.6
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:elite-discourse-and-structural-critique
+    intent: ''
+    is_report: true
+    kind: critical analysis
+    level: ''
+    method: ''
+    methods: []
+    name: Elite Discourse and Structural Critique
+    notes: ''
+    number: '053'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Elite Discourse and Structural Critique
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: report-elite-discourse-and-structural-critique
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - report
-    - elite
-    - discourse
-    - structural
-    - critique
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
+  tags:
+    - elite-discourse-and-structural-critique
+    - politics
+    - history
+    - political-theory
   title: 'Report: Elite Discourse and Structural Critique'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: report-elite-discourse-and-structural-critique
+summary: >-
+  Report Elite Discourse and Structural Critique
+tags:
+  - elite-discourse-and-structural-critique
+  - politics
+  - history
+  - political-theory
+title: 'Report: Elite Discourse and Structural Critique'
 ---
 
 ## Executive Summary

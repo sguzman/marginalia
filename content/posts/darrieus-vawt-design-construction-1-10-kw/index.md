@@ -1,86 +1,125 @@
 ---
-title: Darrieus VAWT Design & Construction (1–10 kW)
-linkTitle: Darrieus VAWT Design & Construction (1–10 kW)
-description: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…'
-summary: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, power coefficient, dynamic stall, cyclic loads), common rotor geometries (curved “egg-beater,” straight H-/Giromill, helical), airfoil choices and blade sizing, structural design (materials, fatigue, struts, bearings, tower), starting methods (Savonius hybrid, motor assist, passive twist), drivetrain and generators (direct-drive PM vs. geared induction, power electronics), mechanical subsystems (shaft, torque smoothing, no yaw needed), manufacturing methods, instrumentation/testing, safety/maintenance, modeling/simulation (CFD, blade-element), a build plan…'
-slug: darrieus-vawt-design-construction-1-10-kw
-url: ''
-aliases: []
-date: '2026-04-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Engineering
+  - Technology
+date: '2026-04-04'
+description: >-
+  Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…
+draft: false
+keywords:
+  - Darrieus VAWT Design & Construction (1–10 kW)
+  - Engineering
+  - Technology
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Darrieus VAWT Design & Construction (1–10 kW)
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, power coefficient, dynamic stall, cyclic loads), common rotor geometries (curved “egg-beater,” straight H-/Giromill, helical), airfoil choices and blade sizing, structural design (materials, fatigue, struts, bearings, tower), starting methods (Savonius hybrid, motor assist, passive twist), drivetrain and generators (direct-drive PM vs. geared induction, power electronics), mechanical subsystems (shaft, torque smoothing, no yaw needed), manufacturing methods, instrumentation/testing, safety/maintenance, modeling/simulation (CFD, blade-element), a build plan…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,…'
+  categories:
+    - Engineering
+    - Technology
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: 'Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, pow…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: darrieus-vawt-design-construction-1-10-kw
-  keywords: *id002
+  identifier: urn:marginalia:darrieus-vawt-design-construction-1-10-kw
+  keywords:
+    - Darrieus VAWT Design & Construction (1–10 kW)
+    - Engineering
+    - Technology
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: TA
+    description: Engineering, applied technology, infrastructure, and industrial design.
+    label: Engineering
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: technically curious general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Darrieus VAWT Design & Construction (1–10 kW).docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: engineering
+    domain: engineering
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:darrieus-vawt-design-construction-1-10-kw
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Darrieus VAWT Design & Construction (1–10 kW)
+    notes: ''
+    number: 080
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: applied design and technology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Darrieus VAWT Design & Construction (1–10 kW)
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: darrieus-vawt-design-construction-1-10-kw
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Engineering
+    - Technology
   subjects:
-    - darrieus
-    - vawt
-    - design
-    - construction
+    - Engineering
+    - Technology
   subtitle: ''
-  tags: *id003
+  tags:
+    - darrieus-vawt-design-construction-1-10-kw
+    - engineering
+    - technology
   title: Darrieus VAWT Design & Construction (1–10 kW)
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: darrieus-vawt-design-construction-1-10-kw
+summary: >-
+  Executive Summary: This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio,…
+tags:
+  - darrieus-vawt-design-construction-1-10-kw
+  - engineering
+  - technology
+title: Darrieus VAWT Design & Construction (1–10 kW)
 ---
 
 **Executive Summary:** This report reviews the principles and practical steps for designing, building, and operating a small (1–10 kW) Darrieus vertical-axis wind turbine (VAWT). We cover aerodynamic theory (lift vs. drag, tip-speed ratio, power coefficient, dynamic stall, cyclic loads), common rotor geometries (curved “egg-beater,” straight H-/Giromill, helical), airfoil choices and blade sizing, structural design (materials, fatigue, struts, bearings, tower), starting methods (Savonius hybrid, motor assist, passive twist), drivetrain and generators (direct-drive PM vs. geared induction, power electronics), mechanical subsystems (shaft, torque smoothing, no yaw needed), manufacturing methods, instrumentation/testing, safety/maintenance, modeling/simulation (CFD, blade-element), a build plan with BOM and cost estimates, and site/grid considerations. Key findings include: straight vs. helical blades trade self-start vs. peak Cp[\[1\]](https://www.sciencedirect.com/science/article/abs/pii/S0196890423007513#:~:text=In%20contrast%2C%20helical%20VAWTs%20are,Karimian%20and%20Abdolahifar); thick symmetric foils (NACA00xx, S8xx series) yield Cp≈0.3–0.4[\[2\]](https://link.springer.com/article/10.1186/s44147-026-00968-x#:~:text=the%20blade%20profile,rotor%20with%20Cp%2C%20max) but stall, while cambered/high-lift foils improve low-speed torque[\[2\]](https://link.springer.com/article/10.1186/s44147-026-00968-x#:~:text=the%20blade%20profile,rotor%20with%20Cp%2C%20max); peak Darrieus power occurs at TSR≈4–6 (versus TSR≈1 for drag-based Savonius)[\[3\]](https://www.mdpi.com/2311-5521/10/3/63#:~:text=integrates%20with%20the%20capability%20of,the%20DR%20for%20higher)[\[4\]](https://www.mdpi.com/2311-5521/10/3/63#:~:text=This%20study%20highlights%20the%20significance,plots%20also%20demonstrated%20vortex%20dynamics); Savonius–Darrieus hybrids cover a wider wind range[\[3\]](https://www.mdpi.com/2311-5521/10/3/63#:~:text=integrates%20with%20the%20capability%20of,the%20DR%20for%20higher); direct-drive PM generators give high efficiency and reliability but need large rotors[\[5\]](https://www.windustry.com/direct-drive-wind-turbine-vs-geared-drive-wind-turbine.htm#:~:text=,cost%20solution)[\[6\]](https://www.ornl.gov/technology/202305420#:~:text=); design options are summarized in tables below. Primary sources and recent studies are cited throughout.

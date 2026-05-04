@@ -1,89 +1,127 @@
 ---
-title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
-linkTitle: 'Meme Culture and “Borderer-Right” Style: A Research Report'
-description: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
-summary: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, performative aggression, status inversion). This report reviews academic and journalistic research on political memes, analyzes meme features across platforms, and maps them to borderer-right traits. We find that memes often employ: concise, shocking humor; ridicule of elites and “establishment”; in-group bonding through shared symbols; and “digital carnivalesque” (festive mockery of the serious)(https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)(https:/…'
-slug: meme-culture-and-borderer-right-style-a-research-report
-url: ''
-aliases: []
-date: '2026-03-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Culture
+  - Media Studies
+date: '2026-03-04'
+description: >-
+  Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…
+draft: false
+keywords:
+  - Meme Culture and “Borderer-Right” Style_ A Research Report
+  - Culture
+  - Media Studies
+  - Literature and media studies
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Meme Culture and “Borderer-Right” Style: A Research Report'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, performative aggression, status inversion). This report reviews academic and journalistic research on political memes, analyzes meme features across platforms, and maps them to borderer-right traits. We find that memes often employ: concise, shocking humor; ridicule of elites and “establishment”; in-group bonding through shared symbols; and “digital carnivalesque” (festive mockery of the serious)(https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)(https:/…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, per…'
+  categories:
+    - Culture
+    - Media Studies
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: 'Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, perform…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: meme-culture-and-borderer-right-style-a-research-report
-  keywords: *id002
+  identifier: urn:marginalia:meme-culture-and-borderer-right-style-a-research-report
+  keywords:
+    - Meme Culture and “Borderer-Right” Style_ A Research Report
+    - Culture
+    - Media Studies
+    - Literature and media studies
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Meme Culture and “Borderer-Right” Style_ A Research Report.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Meme Culture and “Borderer-Right” Style A Research Report.docx
+      tool: pandoc 3.6
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:meme-culture-and-borderer-right-style-a-research-report
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Meme Culture and “Borderer-Right” Style A Research Report
+    notes: ''
+    number: '065'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Meme Culture and “Borderer-Right” Style A Research Report
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: meme-culture-and-borderer-right-style-a-research-report
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Culture
+    - Media studies
   subjects:
-    - meme
-    - culture
-    - borderer
-    - right
-    - style
-    - research
-    - report
+    - Culture
+    - Media studies
   subtitle: ''
-  tags: *id003
+  tags:
+    - meme-culture-and-borderer-right-style-a-research-report
+    - culture
+    - media-studies
   title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: meme-culture-and-borderer-right-style-a-research-report
+summary: >-
+  Executive Summary: Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, per…
+tags:
+  - meme-culture-and-borderer-right-style-a-research-report
+  - culture
+  - media-studies
+title: 'Meme Culture and “Borderer-Right” Style: A Research Report'
 ---
 
 **Executive Summary:** Internet meme culture is characterized by irreverence, mockery, and transgressive humor – traits that closely align with what we define as a “borderer-right” style (anti‐elite, honor/taunt culture, low deference, performative aggression, status inversion). This report reviews academic and journalistic research on political memes, analyzes meme features across platforms, and maps them to borderer-right traits. We find that memes often employ: concise, shocking humor; ridicule of elites and “establishment”; in-group bonding through shared symbols; and “digital carnivalesque” (festive mockery of the serious)[\[1\]](https://www.uoc.edu/en/news/2024/memes-affect-political-ideas#:~:text=are%20generally%20photomontages%20with%20limited,of%20irony%20to%20online%20interactions)[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.). These stylistic features amplify contempt for authority and a celebratory aggression that fuels polarization. Empirical studies show far-right groups exploit memes’ humor to mainstream extremist ideas (masking ideology with jokes)[\[3\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=online%20spaces%20for%20extremist%20ideology,would%20otherwise%20be%20less%20appealing)[\[2\]](https://www.researchgate.net/publication/355820214_Sharing_the_hate_Memes_and_transnationality_in_the_far_right's_digital_visual_culture#:~:text=,%28Perez%2C%202022%29.), but left and centrist activists also use meme forms (often with different targets or tones)[\[4\]](https://www.wired.com/story/left-wing-memes/#:~:text=the%202016%20presidential%20election%20%E2%80%93,being%20the%20most%20obvious%20example)[\[5\]](https://www.researchgate.net/publication/344602601_Internet_memes_as_multilayered_re-contextualization_vehicles_in_lay-political_online_discourse#:~:text=engagement%2C%20and%20sentiment%2C%20this%20study,The%20findings%20suggest%20that%20memes). We review methods (corpus analysis, content coding, network/virality metrics, discourse analysis) and provide examples linking specific meme features to borderer traits. Platform differences are highlighted (4chan anonymity vs. Twitter’s brevity vs. TikTok video dynamics) in a comparative table. Historical context (from early internet memes to TikTok era) is sketched via a timeline. Finally, we discuss implications (emotional persuasion, echo chambers, trust erosion) and recommend further research, platform strategies, and civic education. Throughout, we cite primary research on meme politics[\[6\]](https://www.researchgate.net/publication/379742467_Memes_humor_and_the_far_right's_strategic_mainstreaming#:~:text=The%20far%20right%20is%20increasingly,related%20factors%20to%20analyze%20their)[\[7\]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8290493/#:~:text=content%20on%20seven%20online%20platforms%3A,and%20sinks) and note when assumptions (e.g. corpus size) are made.

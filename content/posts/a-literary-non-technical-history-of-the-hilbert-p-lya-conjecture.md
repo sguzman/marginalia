@@ -1,87 +1,125 @@
 ---
-title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-linkTitle: A Literary, Non-Technical History of the Hilbert–Pólya Co…
-description: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-summary: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
-url: ''
-aliases: []
-date: '2026-01-25'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Mathematics
+  - History of Mathematics
+date: '2026-01-25'
+description: >-
+  A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+draft: false
+keywords:
+  - A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+  - Mathematics
+  - History of Mathematics
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: A Literary, Non-Technical History of the Hilbert–Pólya Co…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
   abstract: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  categories:
+    - Mathematics
+    - History of Mathematics
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
-  keywords: *id002
+  identifier: urn:marginalia:a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+  keywords:
+    - A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+    - Mathematics
+    - History of Mathematics
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+    intent: ''
+    is_report: true
+    kind: historical survey
+    level: ''
+    method: ''
+    methods: []
+    name: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+    notes: ''
+    number: '001'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Mathematics
+    - History of mathematics
   subjects:
-    - literary
-    - technical
-    - history
-    - hilbert
-    - conjecture
+    - Mathematics
+    - History of mathematics
   subtitle: ''
-  tags: *id003
+  tags:
+    - a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+    - mathematics
+    - history-of-mathematics
   title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+summary: >-
+  A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
+tags:
+  - a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture
+  - mathematics
+  - history-of-mathematics
+title: A Literary, Non-Technical History of the Hilbert–Pólya Conjecture
 ---
 
 ## 1. Opening scene: “The Sound of Zeros”

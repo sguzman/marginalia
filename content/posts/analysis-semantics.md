@@ -1,37 +1,17 @@
 ---
-title: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
-linkTitle: The Semantics of "Analysis" in Mathematics (Newton → Pres…
-description: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
-summary: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
-slug: analysis-semantics
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Mathematics
   - History of Mathematics
   - Mathematical Analysis
-tags: &id003
-  - analysis
-  - semantics
-  - history
-  - calculus
-  - rigor
-  - continuum
-  - limits
-  - Newton
-  - Leibniz
-  - Euler
-  - Cauchy
-  - Weierstrass
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A long-form historical account of the changing meaning of "analysis" in mathematics—from analysis vs. synthesis to calculus, rigor, and the modern theory of continuous phenomena.
+draft: false
+keywords:
   - analysis
   - mathematical analysis
   - analysis vs synthesis
@@ -58,23 +38,23 @@ keywords: &id002
   - Weierstrass
   - Hilbert
   - Bourbaki
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The Semantics of "Analysis" in Mathematics (Newton → Pres…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: A long-form historical account of the changing meaning of "analysis" in mathematics—from analysis vs. synthesis to calculus, rigor, and the modern theory of continuous phenomena.
+  categories:
+    - Mathematics
+    - History of Mathematics
+    - Mathematical Analysis
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
-  description: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
-  draft: false
+  description: A long-form historical account of the changing meaning of "analysis" in mathematics—from analysis vs. synthesis to calculus, rigor, and the modern theory of continuous phenomena.
   edition: '1'
   epub-chapter-level: 0
   epub-cover-image: cover.png
@@ -82,27 +62,87 @@ meta:
   epub_cover_image: cover.png
   format: text/markdown
   identifier: analysis-semantics
-  keywords: *id002
+  keywords:
+    - analysis
+    - mathematical analysis
+    - analysis vs synthesis
+    - calculus
+    - infinitesimals
+    - limits
+    - continuity
+    - convergence
+    - rigor
+    - epsilon-delta
+    - function
+    - differential equations
+    - power series
+    - real analysis
+    - complex analysis
+    - Fourier analysis
+    - measure theory
+    - functional analysis
+    - topology
+    - Newton
+    - Leibniz
+    - Euler
+    - Cauchy
+    - Weierstrass
+    - Hilbert
+    - Bourbaki
   lang: en
   language: English
   library_of_congress_classification:
-    primary: QA300
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: true
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
-  report: {}
-  report-no: GVA-ANALYSIS-SEMANTICS-2026-01
-  report-number: GVA-ANALYSIS-SEMANTICS-2026-01
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+  report:
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: analysis-semantics
+    intent: ''
+    is_report: true
+    kind: analytical report
+    level: ''
+    method: ''
+    methods: []
+    name: The Semantics of "Analysis" in Mathematics
+    notes: ''
+    number: '016'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Newton → Present (Europe & the United States)
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: The Semantics of "Analysis" in Mathematics
+    type: article
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: analysis-semantics
   status: published
   subject:
@@ -116,13 +156,44 @@ meta:
     - Mathematical Analysis
     - Foundations and Rigor
   subtitle: Newton → Present (Europe & the United States)
-  tags: *id003
+  tags:
+    - analysis
+    - semantics
+    - history
+    - calculus
+    - rigor
+    - continuum
+    - limits
+    - Newton
+    - Leibniz
+    - Euler
+    - Cauchy
+    - Weierstrass
   title: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
   toc: true
   toc-depth: 3
   toc-title: Table of Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: analysis-semantics
+summary: >-
+  A long-form historical account of the changing meaning of "analysis" in mathematics—from analysis vs. synthesis to calculus, rigor, and the modern theory of continuous phenomena.
+tags:
+  - analysis
+  - semantics
+  - history
+  - calculus
+  - rigor
+  - continuum
+  - limits
+  - Newton
+  - Leibniz
+  - Euler
+  - Cauchy
+  - Weierstrass
+title: The Semantics of "Analysis" in Mathematics (Newton → Present, Europe & the United States)
 ---
 
 ## Executive Summary

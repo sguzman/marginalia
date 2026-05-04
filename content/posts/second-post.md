@@ -1,26 +1,16 @@
 ---
-title: Foundations of the Digital Bazaar
-linkTitle: Foundations of the Digital Bazaar
-description: An exploration of the stylistic and formatting conventions that underpin the Marginalia research series.
-summary: The Marginalia project is defined not only by its content but by its architecture. This post establishes the stylistic and formatting conventions used across the site—from LaTeX integration for mathematics to the rich YAML metadata that ensures semantic discoverability. It serves as a testbed for the site's rendering capabilities and a statement of our technical philosophy.
-slug: foundations-and-philosophy
-date: '2026-02-11T13:18:00-06:00'
-lastmod: '2026-04-20T15:45:00Z'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
 categories:
   - about
   - meta
   - technology
-tags:
-  - formatting
-  - hugo
-  - latex
-  - rich-metadata
-  - semantic-web
+date: '2026-02-11T13:18:00-06:00'
+description: >-
+  An exploration of the stylistic and formatting conventions that underpin the Marginalia research series.
+draft: false
 keywords:
   - hugo
   - markdown
@@ -42,43 +32,132 @@ keywords:
   - canonical urls
   - version control
   - iterative design
+lastmod: '2026-04-20T15:45:00Z'
+layout: single
+linkTitle: Foundations of the Digital Bazaar
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: The Marginalia project is defined not only by its content but by its architecture. This post establishes the stylistic and formatting conventions used across the site—from LaTeX integration for mathematics to the rich YAML metadata that ensures semantic discoverability. It serves as a testbed for the site's rendering capabilities and a statement of our technical philosophy regarding the preservation and presentation of high-resolution inquiry.
+  abstract: The Marginalia project is defined not only by its content but by its architecture. This post establishes the stylistic and formatting conventions used across the site—from LaTeX integration for mathematics to the rich YAML metadata that ensures semantic discoverability. It serves as a testbed for the site's rendering capabilities and a statement of our technical philosophy.
+  categories:
+    - about
+    - meta
+    - technology
   creator:
     - Salvador Guzman
     - ChatGPT
   dataset_id: marginalia-style-2026
+  date: '2026-02-11T13:18:00-06:00'
+  description: An exploration of the stylistic and formatting conventions that underpin the Marginalia research series.
+  edition: ''
+  format: markdown
   identifier: meta-2026-001
+  keywords:
+    - hugo
+    - markdown
+    - goldmark
+    - latex integration
+    - katex
+    - yaml frontmatter
+    - semantic discovery
+    - web architecture
+    - digital scriptorium
+    - typography
+    - css styling
+    - accessibility
+    - seo optimization
+    - structured data
+    - pedagogical objects
+    - markup standards
+    - rss feeds
+    - canonical urls
+    - version control
+    - iterative design
+  lang: en
   language: en-US
   library_of_congress_classification:
-    primary: AC1
-    area: General collections
-    note: Stylistic and formatting conventions for the Marginalia research series.
+    class: ''
+    description: ''
+    label: ''
   license: CC0-1.0
   publisher: Marginalia
+  reference-section-title: ''
   report:
-    kind: technical-specification
-    domain: web-engineering
-    topic: stylistic-conventions
-    scope: formatting-standards
     audience: developers-and-scholars
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: web-engineering
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: technical-specification
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: formatting-standards
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: stylistic-conventions
+    type: ''
+    version: ''
+    year: 0
   revision: 1.1.0
   rights: © 2026 Salvador Guzman
+  slug: foundations-and-philosophy
   status: final
-  subject: meta
+  subject:
+    - meta
   subjects:
     - formatting
     - site-architecture
     - metadata-standards
   subtitle: Architecture for a Transparent Society
+  tags:
+    - formatting
+    - hugo
+    - latex
+    - rich-metadata
+    - semantic-web
+  title: Foundations of the Digital Bazaar
   toc: true
+  toc-depth: 3
+  toc-title: Contents
   type: article
-  lang: en
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: foundations-and-philosophy
+summary: >-
+  The Marginalia project is defined not only by its content but by its architecture. This post establishes the stylistic and formatting conventions used across the site—from LaTeX integration for mathematics to the rich YAML metadata that ensures semantic discoverability. It serves as a testbed for the site's rendering capabilities and a statement of our technical philosophy.
+tags:
+  - formatting
+  - hugo
+  - latex
+  - rich-metadata
+  - semantic-web
+title: Foundations of the Digital Bazaar
 ---
 
 # Foundations of the Digital Bazaar

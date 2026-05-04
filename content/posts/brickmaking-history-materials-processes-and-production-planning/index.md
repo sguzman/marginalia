@@ -1,88 +1,125 @@
 ---
-title: 'Brickmaking: History, Materials, Processes, and Production Planning'
-linkTitle: 'Brickmaking: History, Materials, Processes, and Productio…'
-description: 'Brickmaking: History, Materials, Processes, and Production Planning'
-summary: 'Brickmaking: History, Materials, Processes, and Production Planning'
-slug: brickmaking-history-materials-processes-and-production-planning
-url: ''
-aliases: []
-date: '2026-04-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Engineering
+  - Technology
+date: '2026-04-04'
+description: >-
+  Brickmaking History, Materials, Processes, and Production Planning
+draft: false
+keywords:
+  - Brickmaking_ History, Materials, Processes, and Production Planning
+  - Engineering
+  - Technology
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Brickmaking: History, Materials, Processes, and Productio…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Brickmaking: History, Materials, Processes, and Production Planning'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Brickmaking History, Materials, Processes, and Production Planning
+  categories:
+    - Engineering
+    - Technology
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
-  description: 'Brickmaking: History, Materials, Processes, and Production Planning'
-  draft: false
-  edition: ''
+  description: Brickmaking History, Materials, Processes, and Production Planning
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: brickmaking-history-materials-processes-and-production-planning
-  keywords: *id002
+  identifier: urn:marginalia:brickmaking-history-materials-processes-and-production-planning
+  keywords:
+    - Brickmaking_ History, Materials, Processes, and Production Planning
+    - Engineering
+    - Technology
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: TA
+    description: Engineering, applied technology, infrastructure, and industrial design.
+    label: Engineering
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: technically curious general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Brickmaking_ History, Materials, Processes, and Production Planning.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Brickmaking History, Materials, Processes, and Production Planning.docx
+      tool: pandoc 3.6
+    discipline: engineering
+    domain: engineering
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:brickmaking-history-materials-processes-and-production-planning
+    intent: ''
+    is_report: true
+    kind: historical survey
+    level: ''
+    method: ''
+    methods: []
+    name: Brickmaking History, Materials, Processes, and Production Planning
+    notes: ''
+    number: 079
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: applied design and technology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Brickmaking History, Materials, Processes, and Production Planning
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: brickmaking-history-materials-processes-and-production-planning
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Engineering
+    - Technology
   subjects:
-    - brickmaking
-    - history
-    - materials
-    - processes
-    - production
-    - planning
+    - Engineering
+    - Technology
   subtitle: ''
-  tags: *id003
+  tags:
+    - brickmaking-history-materials-processes-and-production-planning
+    - engineering
+    - technology
   title: 'Brickmaking: History, Materials, Processes, and Production Planning'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: brickmaking-history-materials-processes-and-production-planning
+summary: >-
+  Brickmaking History, Materials, Processes, and Production Planning
+tags:
+  - brickmaking-history-materials-processes-and-production-planning
+  - engineering
+  - technology
+title: 'Brickmaking: History, Materials, Processes, and Production Planning'
 ---
 
 ## Executive Summary

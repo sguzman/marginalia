@@ -1,90 +1,127 @@
 ---
-title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
-linkTitle: 'Global Population Dynamics: Peaks in Population Level and…'
-description: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
-summary: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
-slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
-url: ''
-aliases: []
-date: '2026-03-21'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Health
+  - Public Health
+date: '2026-03-21'
+description: >-
+  Global Population Dynamics Peaks in Population Level and Growth Rates
+draft: false
+keywords:
+  - Global Population Dynamics_ Peaks in Population Level and Growth Rates
+  - Health
+  - Public Health
+  - Public aspects of medicine
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Global Population Dynamics: Peaks in Population Level and…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Global Population Dynamics Peaks in Population Level and Growth Rates
+  categories:
+    - Health
+    - Public Health
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
-  description: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
-  draft: false
-  edition: ''
+  description: Global Population Dynamics Peaks in Population Level and Growth Rates
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: global-population-dynamics-peaks-in-population-level-and-growth-rates
-  keywords: *id002
+  identifier: urn:marginalia:global-population-dynamics-peaks-in-population-level-and-growth-rates
+  keywords:
+    - Global Population Dynamics_ Peaks in Population Level and Growth Rates
+    - Health
+    - Public Health
+    - Public aspects of medicine
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: RA
+    description: Public health, health policy, epidemiology, and medicine in society.
+    label: Public aspects of medicine
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general policy-oriented reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Global Population Dynamics_ Peaks in Population Level and Growth Rates.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Global Population Dynamics Peaks in Population Level and Growth Rates.docx
+      tool: pandoc 3.6
+    discipline: public health
+    domain: health
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:global-population-dynamics-peaks-in-population-level-and-growth-rates
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Global Population Dynamics Peaks in Population Level and Growth Rates
+    notes: ''
+    number: '070'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: health policy and epidemiology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Global Population Dynamics Peaks in Population Level and Growth Rates
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Public health
+    - Health policy
   subjects:
-    - global
-    - population
-    - dynamics
-    - peaks
-    - population
-    - level
-    - growth
-    - rates
+    - Public health
+    - Health policy
   subtitle: ''
-  tags: *id003
+  tags:
+    - global-population-dynamics-peaks-in-population-level-and-growth-rates
+    - health
+    - public-health
   title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
+summary: >-
+  Global Population Dynamics Peaks in Population Level and Growth Rates
+tags:
+  - global-population-dynamics-peaks-in-population-level-and-growth-rates
+  - health
+  - public-health
+title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
 ---
 
 ## Executive summary

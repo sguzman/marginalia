@@ -1,94 +1,133 @@
 ---
-title: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
-linkTitle: Labor Competition and Intergroup Tension Between African…
-description: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
-summary: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
-slug: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
-url: ''
-aliases: []
-date: '2026-02-15'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-02-15'
+description: >-
+  Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+draft: false
+keywords:
+  - Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Labor Competition and Intergroup Tension Between African…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
-  description: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
-  draft: false
-  edition: ''
+  description: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
-  keywords: *id002
+  identifier: urn:marginalia:labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
+  keywords:
+    - Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+    notes: ''
+    number: 049
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - labor
-    - competition
-    - intergroup
-    - tension
-    - between
-    - african
-    - americans
-    - mexican
-    - latino
-    - workers
-    - labor
-    - markets
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
+  tags:
+    - labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
+    - politics
+    - history
+    - political-theory
   title: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
+summary: >-
+  Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in
+tags:
+  - labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in
+  - politics
+  - history
+  - political-theory
+title: Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets
 ---
 
 ## Executive summary

@@ -1,33 +1,18 @@
 ---
-title: A Comprehensive History of Type Theory (1900s--Present)
-linkTitle: A Comprehensive History of Type Theory (1900s--Present)
-description: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
-summary: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent self-referential paradoxes in naïve set theory(https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping). Russell's ramified types (1908; Principia Mathematica 1910--13) stratified mathematical objects into levels so that no set could contain itself. Building on Russell, Alonzo Church's Simple Theory of Types (1940) recast types using the λ-calculus. Church's system treated types as primitive and allowed function types between any types, making a simpler, more general formulation than Russ…
-slug: type-theory-history
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - mathematics
   - computer science
   - logic
   - history of ideas
-tags: &id003
-  - type-theory
-  - logic
-  - foundations
-  - programming-languages
-  - formal-verification
-  - proof-assistants
-  - history
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
+draft: false
+keywords:
   - type theory
   - typed lambda calculus
   - Curry-Howard correspondence
@@ -40,15 +25,17 @@ keywords: &id002
   - formal verification
   - Homotopy Type Theory
   - programming languages
+lastmod: '2026-05-04'
+layout: single
+linkTitle: A Comprehensive History of Type Theory (1900s--Present)
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent self-referential paradoxes in naïve set theory(https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping). Russell's ramified types (1908; Principia Mathematica 1910--13) stratified mathematical objects into levels so that no set could contain itself. Building on Russell, Alonzo Church's Simple Theory of Types (1940) recast types using the λ-calculus. Church's system treated types as primitive and allowed function types between any types, making a simpler, more general formulation than Russ…
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: A comprehensive history of type theory (1900s to the present), tracing its mathematical origins, its integration into programming languages, and its modern role in proof assistants and verified software/hardware.
+  categories:
+    - mathematics
+    - computer science
+    - logic
+    - history of ideas
   cover-image: cover.png
   cover_image: cover.png
   creator:
@@ -56,7 +43,6 @@ meta:
   dataset_id: ''
   date: '2026-02-12'
   description: Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of types to prevent…
-  draft: false
   edition: '1.0'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -64,26 +50,73 @@ meta:
   epub_cover_image: cover.png
   format: text/markdown
   identifier: gva-type-theory-history-1900s-present
-  keywords: *id002
+  keywords:
+    - type theory
+    - typed lambda calculus
+    - Curry-Howard correspondence
+    - dependent types
+    - polymorphism
+    - type inference
+    - Martin-Lof type theory
+    - System F
+    - proof assistants
+    - formal verification
+    - Homotopy Type Theory
+    - programming languages
   lang: en
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: QA76
+    description: Computer science, software, web standards, and computing history.
+    label: Computer science
   license: CC0-1.0
   number-sections: true
-  plate_id: ''
-  publisher: Salvador Guzman
+  publisher: Marginalia
   reference-section-title: References
-  report: {}
-  report-no: ''
-  report-number: ''
-  report-year: '2026'
-  report_no: 0
-  report_year: 2026
+  report:
+    audience: general technically literate reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: computer science
+    domain: computing
+    emphasis: ''
+    focus: ''
+    id: gva-type-theory-history-1900s-present
+    intent: ''
+    is_report: true
+    kind: historical survey
+    level: ''
+    method: ''
+    methods: []
+    name: A Comprehensive History of Type Theory (1900s--Present)
+    notes: ''
+    number: '047'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: computing history and software systems
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: A Comprehensive History of Type Theory (1900s--Present)
+    type: article
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: type-theory-history
   status: draft
   subject:
@@ -103,13 +136,34 @@ meta:
     - Software and systems verification
     - Homotopy Type Theory
   subtitle: ''
-  tags: *id003
+  tags:
+    - type-theory
+    - logic
+    - foundations
+    - programming-languages
+    - formal-verification
+    - proof-assistants
+    - history
   title: A Comprehensive History of Type Theory (1900s--Present)
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: type-theory-history
+summary: >-
+  A comprehensive history of type theory (1900s to the present), tracing its mathematical origins, its integration into programming languages, and its modern role in proof assistants and verified software/hardware.
+tags:
+  - type-theory
+  - logic
+  - foundations
+  - programming-languages
+  - formal-verification
+  - proof-assistants
+  - history
+title: A Comprehensive History of Type Theory (1900s--Present)
 ---
 
 Type theory arose as a foundational response to contradictions in early set theory and evolved into a unifying language for logic, mathematics, and programming. In the early 1900s Bertrand Russell introduced a hierarchy of *types* to prevent self-referential paradoxes in naïve set theory[\[1\]](https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping). Russell's *ramified* types (1908; *Principia Mathematica* 1910--13) stratified mathematical objects into levels so that no set could contain itself. Building on Russell, Alonzo Church's **Simple Theory of Types** (1940) recast types using the λ-calculus. Church's system treated types as primitive and allowed function types between any types, making a simpler, more general formulation than Russell's (reusing λ-notation as the only binding)[\[2\]](https://plato.stanford.edu/entries/type-theory-church/#:~:text=Church%E2%80%99s%20type%20theory%20is%20a,in%20a%20way%20so%20that). This "Church-style" theory eliminated paradoxes by construction: a term of one type can never be interpreted as belonging to an unrelated type. In effect, type theory blocks the classic paradoxes by forbidding illicit self-reference[\[1\]](https://plato.stanford.edu/entries/type-theory/#:~:text=The%20theory%20of%20types%20was,of%20Cantor%20that%20no%20mapping).

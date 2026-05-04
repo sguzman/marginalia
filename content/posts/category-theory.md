@@ -1,31 +1,17 @@
 ---
-title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
-linkTitle: 'Category Theory: Origins, Invention, and Early Reception…'
-description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
-summary: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper "General Theory of Natural Equivalences"(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
-slug: category-theory
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Mathematics
   - History of Mathematics
   - Foundations
-tags: &id003
-  - math
-  - category-theory
-  - history
-  - foundations
-  - algebraic-topology
-  - structuralism
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
+draft: false
+keywords:
   - category theory
   - functor
   - natural transformation
@@ -38,59 +24,93 @@ keywords: &id002
   - Lawvere
   - history of mathematics
   - 1935-1965
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Category Theory: Origins, Invention, and Early Reception…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably the 1945 paper "General Theory of Natural Equivalences"(https://plato.stanford.edu/entries/category-theory/#:~:text=Categories%2C%20functors%2C%20natural%20transformations%2C%20limits,Peirce%2C%20but%20redefining%20it)(https://people.math.osu.edu/cogdell.1/6112-Eilenberg&MacLane-www.pdf#:~:text=19451%20GENERAL%20THEORY%20OF%20NATURAL,defined%20in%20the%20next%20chapter). Category theory provided a new language centered on objects and morphisms (structure-preserving maps) instead of set membership, allowing mathematicians to identify deep similarities acr…
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: A historically grounded overview of category theory’s origins (1935–1965), from the foundations crisis and structuralism to Eilenberg–Mac Lane’s definitions and later expansion via Grothendieck and Lawvere.
+  categories:
+    - Mathematics
+    - History of Mathematics
+    - Foundations
   creator:
     - Salvador Guzman
   dataset_id: gva-category-theory-origins-1935-1965
   date: '2026-02-12'
   description: 1. Executive Summary Category theory emerged in the 1940s as a revolutionary framework to unify and abstract mathematical structures. It was introduced by Samuel Eilenberg and Saunders Mac Lane in their work on algebraic topology, notably…
-  draft: false
   edition: '1'
   epub-chapter-level: 2
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: article
   identifier: gva:category-theory-origins-1935-1965:v1
-  keywords: *id002
+  keywords:
+    - category theory
+    - functor
+    - natural transformation
+    - algebraic topology
+    - structuralism
+    - foundations of mathematics
+    - Eilenberg
+    - Mac Lane
+    - Grothendieck
+    - Lawvere
+    - history of mathematics
+    - 1935-1965
   lang: en
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: true
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: Bibliography
   report:
-    kind: historical survey
-    scope_years: 1935-1965
-    focus:
-      - intellectual precursors (structuralism, foundations debates)
-      - founding definitions (categories, functors, natural transformations)
-      - early reception and spread
-      - mid-century consolidation (Grothendieck, Lawvere)
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
     discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: gva:category-theory-origins-1935-1965:v1
+    intent: ''
+    is_report: true
+    kind: historical survey
+    level: ''
+    method: ''
+    methods: []
+    name: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
+    notes: ''
+    number: '017'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Origins, invention, and early reception (1935-1965)
+    scope_years: 1935-1965
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
     subdiscipline: category theory
-  report-no: GVA-CT-2026-001
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
+    type: article
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: category-theory
   status: complete
   subject:
@@ -103,13 +123,32 @@ meta:
     - Algebraic topology -- History
     - Structuralism (Philosophy of mathematics)
   subtitle: Origins, invention, and early reception (1935-1965)
-  tags: *id003
+  tags:
+    - math
+    - category-theory
+    - history
+    - foundations
+    - algebraic-topology
+    - structuralism
   title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: category-theory
+summary: >-
+  A historically grounded overview of category theory’s origins (1935–1965), from the foundations crisis and structuralism to Eilenberg–Mac Lane’s definitions and later expansion via Grothendieck and Lawvere.
+tags:
+  - math
+  - category-theory
+  - history
+  - foundations
+  - algebraic-topology
+  - structuralism
+title: 'Category Theory: Origins, Invention, and Early Reception (1935-1965)'
 ---
 
 **1. Executive Summary**\

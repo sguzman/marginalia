@@ -1,34 +1,17 @@
 ---
-title: 'Mutualism: Markets Without Capitalism'
-linkTitle: 'Mutualism: Markets Without Capitalism'
-description: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20b…'
-summary: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to "abolish" property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that o…'
-slug: 3mutualism
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Political economy
   - History of socialism
   - Anarchism
-tags: &id003
-  - mutualism
-  - proudhon
-  - anarchism
-  - socialism
-  - market socialism
-  - mutual banking
-  - cooperatives
-  - 19th century
-  - france
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A historical and conceptual study of Proudhon's mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.
+draft: false
+keywords:
   - mutualism
   - Pierre-Joseph Proudhon
   - mutual banking
@@ -39,23 +22,23 @@ keywords: &id002
   - market socialism
   - libertarian socialism
   - cooperative movement
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Mutualism: Markets Without Capitalism'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20born%20in,Their%20friendship) yet refusing to "abolish" property by decree(https://www.marxists.org/reference/subject/economics/proudhon/1927/the-solution-of-the-social-problem-excerpts.html#:~:text=I%20protest%20that%20in%20criticizing,rent%20and%20interest%20on%20capital). He distinguished property (exploitative, absentee ownership) from possession (personal use‐rights)(https://openlibrary.org/works/OL960281W/Qu%27est-cequelapropri%C3%A9t%C3%A9#:~:text=In%20this%20treatise%2C%20Proudhon%20contrasts,based%20on%20free%20market%20exchanges), arguing that o…'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.'
+  categories:
+    - Political economy
+    - History of socialism
+    - Anarchism
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: ideology-studies
   date: '2026-02-12'
-  description: 'Executive Summary: Pierre‐Joseph Proudhon (1809--1865) reconceived socialism as anti‑state and market‐friendly, coining the slogan "property is theft!"(https://en.wikipedia.org/wiki/Pierre-JosephProudhon#:~:text=Proudhon%2C%20who%20was%20b…'
-  draft: false
+  description: 'A historical and conceptual study of Proudhon''s mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.'
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -63,30 +46,72 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva-mutualism-2026-001
-  keywords: *id002
+  keywords:
+    - mutualism
+    - Pierre-Joseph Proudhon
+    - mutual banking
+    - People's Bank
+    - property is theft
+    - possession
+    - reciprocity
+    - market socialism
+    - libertarian socialism
+    - cooperative movement
   lang: en
   language: English
   library_of_congress_classification:
     class: HX
     description: Socialism. Communism. Anarchism
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: true
   plate_id: gva-ideology-mutualism
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political theory
+    domain: political theory
+    emphasis: ''
+    focus: ''
+    id: gva-mutualism-2026-001
+    intent: ''
+    is_report: true
     kind: ideology-study
+    level: ''
+    method: ''
+    methods: []
+    name: 'Mutualism: Markets Without Capitalism'
+    notes: ''
+    number: '013'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Proudhon's anti-state market socialism and mutual credit
+    scope_years: ''
     series: Ideology Studies
-  report-no: GVA-2026-001
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: 'Mutualism: Markets Without Capitalism'
+    type: article
+    version: 1.0.0
+    year: 2026
   revision: 1.0.0
   rights: CC0-1.0
-  series: Ideology Studies
-  series-number: 1
-  series-title: Ideology Studies
   slug: 3mutualism
   status: published
   subject:
@@ -102,13 +127,38 @@ meta:
     - Socialism
     - Mutual credit
   subtitle: Proudhon's anti-state market socialism and mutual credit
-  tags: *id003
+  tags:
+    - mutualism
+    - proudhon
+    - anarchism
+    - socialism
+    - market socialism
+    - mutual banking
+    - cooperatives
+    - 19th century
+    - france
   title: 'Mutualism: Markets Without Capitalism'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: 3mutualism
+summary: >-
+  A historical and conceptual study of Proudhon's mutualism: property vs possession, the cost principle, mutual banking, and its relationship to cooperative experiments.
+tags:
+  - mutualism
+  - proudhon
+  - anarchism
+  - socialism
+  - market socialism
+  - mutual banking
+  - cooperatives
+  - 19th century
+  - france
+title: 'Mutualism: Markets Without Capitalism'
 ---
 
 **Executive Summary**\

@@ -1,86 +1,133 @@
 ---
-title: Nations Right Wing Critique
-linkTitle: Nations Right Wing Critique
-description: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…'
-summary: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country(https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)(https://williameasterly.files.wordpress.com/2010/08/59easterlyalesinamatuszeskiartificialstatesprp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for loca…'
-slug: nations-right-wing-critique
-url: ''
-aliases: []
-date: '2026-04-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-04-04'
+description: >-
+  - Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…
+draft: false
+keywords:
+  - Nation's Right-Wing Critique
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Nation's Right-Wing Critique
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country(https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)(https://williameasterly.files.wordpress.com/2010/08/59easterlyalesinamatuszeskiartificialstatesprp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for loca…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that spl…'
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: '- Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split e…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: nations-right-wing-critique
-  keywords: *id002
+  identifier: urn:marginalia:nations-right-wing-critique
+  keywords:
+    - Nation's Right-Wing Critique
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: nations-right-wing-critique.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:nations-right-wing-critique
+    intent: ''
+    is_report: true
+    kind: critical analysis
+    level: ''
+    method: ''
+    methods: []
+    name: Nation's Right-Wing Critique
+    notes: ''
+    number: 085
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Nation's Right-Wing Critique
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: nations-right-wing-critique
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - nations
-    - right
-    - wing
-    - critique
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
-  title: Nations Right Wing Critique
+  tags:
+    - nations-right-wing-critique
+    - politics
+    - history
+    - political-theory
+  title: Nation's Right-Wing Critique
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: nations-right-wing-critique
+summary: >-
+  - Nations as Imposed Constructs: Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that spl…
+tags:
+  - nations-right-wing-critique
+  - politics
+  - history
+  - political-theory
+title: Nation's Right-Wing Critique
 ---
 
 - **Nations as Imposed Constructs:** Many modern nation-states were defined top-down by colonizers, conquerors or bureaucrats, not by the people who lived there. Colonial powers drew artificial borders—often straight lines on maps—that split ethnic groups or forced unlike peoples into one country[\[1\]](https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities)[\[2\]](https://williameasterly.files.wordpress.com/2010/08/59_easterly_alesina_matuszeski_artificialstates_prp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and). For example, Africa’s 19th-century partition kept 80% of borders along latitude/longitude lines with little regard for local identities[\[2\]](https://williameasterly.files.wordpress.com/2010/08/59_easterly_alesina_matuszeski_artificialstates_prp.pdf#:~:text=percent%20of%20African%20borders%20follow,dal%20Bo%2C%20Ashley%20Lester%20and)[\[1\]](https://www.wilsoncenter.org/blog-post/colonial-borders-in-africa-improper-design-and-its-impact-on-african-borderland-communities#:~:text=the%20Anglo,the%20land%20and%20local%20communities). In the Middle East, Sykes–Picot carved the Ottoman provinces into French and British zones, laying the groundwork for enduring sectarian conflict[\[3\]](https://quillette.com/2016/05/14/the-sykes-picot-agreement-and-the-making-of-the-modern-middle-east/#:~:text=Empire%E2%80%99s%20Arab%20provinces%20,the%20Arabian%20Peninsula)[\[4\]](https://quillette.com/2016/05/14/the-sykes-picot-agreement-and-the-making-of-the-modern-middle-east/#:~:text=The%20cause%20of%20many%20of,Picot%20Agreement). When Britain partitioned India in 1947, it uprooted 14+ million people and caused an unprecedented refugee crisis[\[5\]](https://www.neh.gov/article/story-1947-partition-told-people-who-were-there#:~:text=Few%20Americans%20know%20the%20story,bankrupted%20by%20World%20War%20II).

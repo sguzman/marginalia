@@ -1,86 +1,125 @@
 ---
-title: Desalination Plant Design and Construction
-linkTitle: Desalination Plant Design and Construction
-description: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
-summary: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity(https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging tre…'
-slug: desalination-plant-design-and-construction
-url: ''
-aliases: []
-date: '2026-04-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Engineering
+  - Technology
+date: '2026-04-04'
+description: >-
+  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…
+draft: false
+keywords:
+  - Desalination Plant Design and Construction
+  - Engineering
+  - Technology
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Desalination Plant Design and Construction
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity(https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging tre…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global cap…'
+  categories:
+    - Engineering
+    - Technology
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: 'Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global capacity…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: desalination-plant-design-and-construction
-  keywords: *id002
+  identifier: urn:marginalia:desalination-plant-design-and-construction
+  keywords:
+    - Desalination Plant Design and Construction
+    - Engineering
+    - Technology
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: TA
+    description: Engineering, applied technology, infrastructure, and industrial design.
+    label: Engineering
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: technically curious general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Desalination Plant Design and Construction.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: engineering
+    domain: engineering
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:desalination-plant-design-and-construction
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Desalination Plant Design and Construction
+    notes: ''
+    number: 081
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: applied design and technology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Desalination Plant Design and Construction
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: desalination-plant-design-and-construction
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Engineering
+    - Technology
   subjects:
-    - desalination
-    - plant
-    - design
-    - construction
+    - Engineering
+    - Technology
   subtitle: ''
-  tags: *id003
+  tags:
+    - desalination-plant-design-and-construction
+    - engineering
+    - technology
   title: Desalination Plant Design and Construction
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: desalination-plant-design-and-construction
+summary: >-
+  Executive Summary: Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for >80% of global cap…
+tags:
+  - desalination-plant-design-and-construction
+  - engineering
+  - technology
+title: Desalination Plant Design and Construction
 ---
 
 **Executive Summary:** Desalination is rapidly growing to meet freshwater shortages, especially in arid regions. Modern desalination is dominated by membrane processes (chiefly reverse osmosis, RO) which now account for \>80% of global capacity[\[1\]](https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=The%20last%20major%20new%20thermal,consumption%20for%20desalination%20since%202010), though thermal methods (MSF/MED) remain important in integrated power–water plants. This report presents a comprehensive guide for a desalination plant builder, covering historical development, physical principles, technologies, design components, example calculations, environmental and regulatory considerations, procurement and costing, operations, and emerging trends. Desalination uses either heat or pressure to overcome the osmotic pressure of saline feedwater. For example, SWRO typically requires 40–80 bar feed pressure (∼6,000–8,000 kPa) to overcome ~26 bar osmotic pressure, using modern membranes and energy recovery to achieve ~2.5–6 kWh/m³ energy use[\[2\]](https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination#:~:text=Thermal%20plants%20are%20highly%20energy,full%20car%20tank%20of%20gas)[\[3\]](https://www.desware.net/energy-requirements-desalination-processes.aspx#:~:text=100%20,to%207%20with%20Boron%20treatment). Thermal processes (MSF/MED) require large heat input (e.g. ~11–28 kWh/m³ equivalent[\[3\]](https://www.desware.net/energy-requirements-desalination-processes.aspx#:~:text=100%20,to%207%20with%20Boron%20treatment), roughly an order of magnitude more than RO) and are used where waste heat or low-cost steam is available.

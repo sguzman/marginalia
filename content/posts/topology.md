@@ -1,33 +1,17 @@
 ---
-title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
-linkTitle: 'Topology: From 18th-Century Precursors to Present-Day Fro…'
-description: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
-summary: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
-slug: topology
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Mathematics
   - History of Mathematics
   - Topology
-tags: &id003
-  - topology
-  - math-history
-  - algebraic-topology
-  - point-set-topology
-  - manifolds
-  - knot-theory
-  - tda
-  - persistent-homology
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
+draft: false
+keywords:
   - topology
   - history of topology
   - point-set topology
@@ -48,23 +32,23 @@ keywords: &id002
   - Jones polynomial
   - persistent homology
   - topological data analysis
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Topology: From 18th-Century Precursors to Present-Day Fro…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
+  categories:
+    - Mathematics
+    - History of Mathematics
+    - Topology
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: gva-essay-topology-2026-02-12
   date: '2026-02-12'
-  description: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
-  draft: false
+  description: A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -72,33 +56,81 @@ meta:
   epub_cover_image: cover.png
   format: text/markdown
   identifier: gva:article:topology:2026-02-12
-  keywords: *id002
+  keywords:
+    - topology
+    - history of topology
+    - point-set topology
+    - topological space
+    - open sets
+    - continuity
+    - homeomorphism
+    - algebraic topology
+    - fundamental group
+    - homology
+    - cohomology
+    - homotopy
+    - manifolds
+    - knot theory
+    - low-dimensional topology
+    - geometric topology
+    - differential topology
+    - Jones polynomial
+    - persistent homology
+    - topological data analysis
   lang: en
   language: English
   library_of_congress_classification:
     class: QA611
+    description: Mathematics, mathematical history, and mathematical methods.
     label: Topology
   license: CC0-1.0
   number-sections: true
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
-    kind: longform research essay
-    domain: mathematics
-    topic: topology
-    scope: history + core concepts + subfields + applications
     audience: general mathematically literate reader
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: gva:article:topology:2026-02-12
+    intent: ''
+    is_report: true
+    kind: longform research essay
+    level: ''
+    method: ''
+    methods: []
+    name: Topology
+    notes: ''
+    number: '046'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: history + core concepts + subfields + applications
+    scope_years: ''
+    series: gold-velvet-and-ashes
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Topology
+    type: article
+    version: 1.0.0
+    year: 2026
   revision: 1.0.0
   rights: CC0-1.0
-  series: gold-velvet-and-ashes
-  series-number: 0
-  series-title: Gold, Velvet and Ashes
   slug: topology
   status: complete
   subject:
@@ -110,13 +142,36 @@ meta:
     - Topology
     - History of Mathematics
   subtitle: From 18th-Century Precursors to Present-Day Frontiers
-  tags: *id003
+  tags:
+    - topology
+    - math-history
+    - algebraic-topology
+    - point-set-topology
+    - manifolds
+    - knot-theory
+    - tda
+    - persistent-homology
   title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: topology
+summary: >-
+  A longform history-and-concepts guide to topology, from Euler and Poincare to modern manifold theory and topological data analysis.
+tags:
+  - topology
+  - math-history
+  - algebraic-topology
+  - point-set-topology
+  - manifolds
+  - knot-theory
+  - tda
+  - persistent-homology
+title: 'Topology: From 18th-Century Precursors to Present-Day Frontiers'
 ---
 
 ## 1. Executive Summary

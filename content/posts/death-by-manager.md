@@ -1,68 +1,16 @@
 ---
-title: Death by Manager
-linkTitle: Death by Manager
-description: A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
-summary: A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
-slug: death-by-manager
-url: ''
-aliases: []
-date: '2023-02-24'
-publishDate: '2026-02-11'
-lastmod: '2023-02-24'
-expiryDate: ''
-draft: false
+ai_generated: false
 authors:
   - Salvador Guzman
-meta:
-  abstract: This polemical essay examines the rise and pervasive influence of the managerial class across capitalism, communism, and fascism. The author argues that the separation of ownership and control has birthed a parasitic elite whose power is derived from the ambiguity of their roles and the monopoly of industrial knowledge. By dismantling the profit motive and subverting both labor and capital, the managerial class has become an apex predator of modern organizational life. The paper proposes a technological and pedagogical alternative—inspired by open-source governance and "transparent society" ideals—to decentralize management and restore individual agency.
-  creator: Salvador Guzman
-  dataset_id: managerial-studies-2023
-  identifier: politics-2023-001
-  language: en-US
-  library_of_congress_classification:
-    primary: HD31
-    area: Management; Political Science
-    note: Critique of the managerial class and organizational power structures.
-  license: CC0-1.0
-  publisher: Marginalia
-  reference-section-title: References
-  report:
-    kind: polemic-essay
-    domain: political-theory
-    topic: managerialism
-    scope: critique-and-proposal
-    audience: intellectual
-  revision: 1.1.0
-  rights: © 2023 Salvador Guzman
-  status: final
-  subject: politics
-  subjects:
-    - managerial class
-    - political theory
-    - organizational design
-    - labor relations
-    - industrial sociology
-    - power dynamics
-  subtitle: The Manager as the Apex Corporate Predator
-  toc: true
-  type: article
-  lang: en
-layout: single
-weight: 0
 categories:
   - politics
   - political theory
   - management
   - labor
-tags:
-  - managerial class
-  - managerialism
-  - power
-  - organizational design
-  - open source
-  - capitalism
-  - communism
-  - fascism
+date: '2023-02-24'
+description: >-
+  A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
+draft: false
 keywords:
   - managerial class
   - managerial discretion
@@ -85,24 +33,142 @@ keywords:
   - bazaar vs cathedral
   - decentralized governance
   - industrial knowledge monopoly
+lastmod: '2023-02-24'
+layout: single
+linkTitle: Death by Manager
 markup: goldmark
+meta:
+  abstract: A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
+  categories:
+    - politics
+    - political theory
+    - management
+    - labor
+  creator:
+    - Salvador Guzman
+  dataset_id: managerial-studies-2023
+  date: '2023-02-24'
+  description: A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
+  edition: ''
+  format: markdown
+  identifier: politics-2023-001
+  keywords:
+    - managerial class
+    - managerial discretion
+    - power capture
+    - open source governance
+    - anti-violence
+    - separation of ownership and control
+    - James Burnham
+    - managerial revolution
+    - technocracy
+    - bureaucracy
+    - organizational theory
+    - labor exploitation
+    - capitalist hollowing
+    - profit motive
+    - job security
+    - pedagogical objects
+    - transparent society
+    - Karl Popper
+    - bazaar vs cathedral
+    - decentralized governance
+    - industrial knowledge monopoly
+  lang: en
+  language: en-US
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: References
+  report:
+    audience: intellectual
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: political-theory
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: polemic-essay
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: critique-and-proposal
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: managerialism
+    type: ''
+    version: ''
+    year: 0
+  revision: 1.1.0
+  rights: © 2023 Salvador Guzman
+  slug: death-by-manager
+  status: final
+  subject:
+    - politics
+  subjects:
+    - managerial class
+    - political theory
+    - organizational design
+    - labor relations
+    - industrial sociology
+    - power dynamics
+  subtitle: The Manager as the Apex Corporate Predator
+  tags:
+    - managerial class
+    - managerialism
+    - power
+    - organizational design
+    - open source
+    - capitalism
+    - communism
+    - fascism
+  title: Death by Manager
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
 outputs:
   - HTML
   - RSS
-headless: false
-isCJKLanguage: false
-translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: -1
-  filename: sitemap.xml
-ai_generated: false
+slug: death-by-manager
+summary: >-
+  A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives.
+tags:
+  - managerial class
+  - managerialism
+  - power
+  - organizational design
+  - open source
+  - capitalism
+  - communism
+  - fascism
+title: Death by Manager
 ---
 
 # The Manager as the Apex Corporate Predator

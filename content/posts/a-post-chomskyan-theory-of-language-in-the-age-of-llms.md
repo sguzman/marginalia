@@ -1,87 +1,127 @@
 ---
-title: A Post-Chomskyan Theory of Language in the Age of LLMs
-linkTitle: A Post-Chomskyan Theory of Language in the Age of LLMs
-description: A Post-Chomskyan Theory of Language in the Age of LLMs
-summary: A Post-Chomskyan Theory of Language in the Age of LLMs
-slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
-url: ''
-aliases: []
-date: '2026-03-03'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Computing
+  - Technology
+date: '2026-03-03'
+description: >-
+  A Post-Chomskyan Theory of Language in the Age of LLMs
+draft: false
+keywords:
+  - A Post-Chomskyan Theory of Language in the Age of LLMs
+  - Computing
+  - Technology
+  - Computer science
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: A Post-Chomskyan Theory of Language in the Age of LLMs
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
   abstract: A Post-Chomskyan Theory of Language in the Age of LLMs
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  categories:
+    - Computing
+    - Technology
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-03'
   description: A Post-Chomskyan Theory of Language in the Age of LLMs
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: a-post-chomskyan-theory-of-language-in-the-age-of-llms
-  keywords: *id002
+  identifier: urn:marginalia:a-post-chomskyan-theory-of-language-in-the-age-of-llms
+  keywords:
+    - A Post-Chomskyan Theory of Language in the Age of LLMs
+    - Computing
+    - Technology
+    - Computer science
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: QA76
+    description: Computer science, software, web standards, and computing history.
+    label: Computer science
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general technically literate reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: A Post-Chomskyan Theory of Language in the Age of LLMs.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: computer science
+    domain: computing
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:a-post-chomskyan-theory-of-language-in-the-age-of-llms
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: A Post-Chomskyan Theory of Language in the Age of LLMs
+    notes: ''
+    number: '055'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: computing history and software systems
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: A Post-Chomskyan Theory of Language in the Age of LLMs
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Computer science
+    - Technology
   subjects:
-    - post
-    - chomskyan
-    - theory
-    - language
-    - llms
+    - Computer science
+    - Technology
   subtitle: ''
-  tags: *id003
+  tags:
+    - a-post-chomskyan-theory-of-language-in-the-age-of-llms
+    - computing
+    - technology
   title: A Post-Chomskyan Theory of Language in the Age of LLMs
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: a-post-chomskyan-theory-of-language-in-the-age-of-llms
+summary: >-
+  A Post-Chomskyan Theory of Language in the Age of LLMs
+tags:
+  - a-post-chomskyan-theory-of-language-in-the-age-of-llms
+  - computing
+  - technology
+title: A Post-Chomskyan Theory of Language in the Age of LLMs
 ---
 
 ## Executive Summary

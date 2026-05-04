@@ -1,88 +1,125 @@
 ---
-title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
-linkTitle: Savonius Wind Turbines – Comprehensive Design & DIY Guide
-description: 'Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)(http…'
-summary: 'Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)(https://hackaday.com/2018/08/14/diy-wind-turbine-for-where-the-sun-doesnt-shine/#:~:text=The%20wind%20turbine%20that%20,Finnish%20engineer%20Sigurd%20Johannes%20Savonius). They spin with simple “S”-shaped or semi-cylindrical scoops that catch wind on the concave side and rotate (Fig. 1). Their chief virtues are simplicity, ruggedness, and omni-directionality – no yaw mechanism is needed, and they self-start at very low wind speeds(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=to%20rotate%20in%20the%20direction,wind%20turbines%20against%20the%20wind)(https…'
-slug: savonius-wind-turbines-comprehensive-design-diy-guide
-url: ''
-aliases: []
-date: '2026-04-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Engineering
+  - Technology
+date: '2026-04-04'
+description: >-
+  Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)(http…
+draft: false
+keywords:
+  - Savonius Wind Turbines – Comprehensive Design & DIY Guide
+  - Engineering
+  - Technology
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Savonius Wind Turbines – Comprehensive Design & DIY Guide
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)(https://hackaday.com/2018/08/14/diy-wind-turbine-for-where-the-sun-doesnt-shine/#:~:text=The%20wind%20turbine%20that%20,Finnish%20engineer%20Sigurd%20Johannes%20Savonius). They spin with simple “S”-shaped or semi-cylindrical scoops that catch wind on the concave side and rotate (Fig. 1). Their chief virtues are simplicity, ruggedness, and omni-directionality – no yaw mechanism is needed, and they self-start at very low wind speeds(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=to%20rotate%20in%20the%20direction,wind%20turbines%20against%20the%20wind)(https…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 'Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%…'
+  categories:
+    - Engineering
+    - Technology
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
   description: 'Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)(http…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: savonius-wind-turbines-comprehensive-design-diy-guide
-  keywords: *id002
+  identifier: urn:marginalia:savonius-wind-turbines-comprehensive-design-diy-guide
+  keywords:
+    - Savonius Wind Turbines – Comprehensive Design & DIY Guide
+    - Engineering
+    - Technology
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: TA
+    description: Engineering, applied technology, infrastructure, and industrial design.
+    label: Engineering
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: technically curious general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Savonius Wind Turbines – Comprehensive Design & DIY Guide.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: engineering
+    domain: engineering
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:savonius-wind-turbines-comprehensive-design-diy-guide
+    intent: ''
+    is_report: true
+    kind: practical guide
+    level: ''
+    method: ''
+    methods: []
+    name: Savonius Wind Turbines – Comprehensive Design & DIY Guide
+    notes: ''
+    number: 086
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: applied design and technology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Savonius Wind Turbines – Comprehensive Design & DIY Guide
+    type: guide
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: savonius-wind-turbines-comprehensive-design-diy-guide
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Engineering
+    - Technology
   subjects:
-    - savonius
-    - wind
-    - turbines
-    - comprehensive
-    - design
-    - guide
+    - Engineering
+    - Technology
   subtitle: ''
-  tags: *id003
+  tags:
+    - savonius-wind-turbines-comprehensive-design-diy-guide
+    - engineering
+    - technology
   title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: guide
+outputs:
+  - HTML
+  - RSS
+slug: savonius-wind-turbines-comprehensive-design-diy-guide
+summary: >-
+  Executive Summary: Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)(https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%…
+tags:
+  - savonius-wind-turbines-comprehensive-design-diy-guide
+  - engineering
+  - technology
+title: Savonius Wind Turbines – Comprehensive Design & DIY Guide
 ---
 
 **Executive Summary:** Savonius rotors are vertical-axis, drag-type wind turbines named for Sigurd J. Savonius (1920s)[\[1\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=Savonius%20wind%20turbines%20have%20a,Since%20the%20torque%20on%20the)[\[2\]](https://hackaday.com/2018/08/14/diy-wind-turbine-for-where-the-sun-doesnt-shine/#:~:text=The%20wind%20turbine%20that%20,Finnish%20engineer%20Sigurd%20Johannes%20Savonius). They spin with simple “S”-shaped or semi-cylindrical scoops that catch wind on the concave side and rotate (Fig. 1). Their chief virtues are **simplicity, ruggedness, and omni-directionality** – no yaw mechanism is needed, and they self-start at very low wind speeds[\[3\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=to%20rotate%20in%20the%20direction,wind%20turbines%20against%20the%20wind)[\[4\]](https://www.mdpi.com/1996-1073/17/15/3708#:~:text=3). However, this comes at the cost of low aerodynamic efficiency: typical power coefficients (Cp) for a plain two-blade Savonius are only ~0.10–0.25[\[5\]](https://www.mdpi.com/2227-9717/11/5/1473#:~:text=determined%20that%20the%20power%20coefficient,Thus%2C%20within%20the)[\[6\]](https://www.mdpi.com/1996-1073/17/15/3708#:~:text=focused%20on%20the%20optimization%20of,7), well below the Betz limit (0.59) for lift-based turbines[\[7\]](https://kirkwood.pressbooks.pub/windenergy/chapter/chapter-4-power-from-wind/#:~:text=,593)[\[8\]](https://www.mdpi.com/1996-1073/17/15/3708#:~:text=of%20zero%20when%20the%20TSR,wind%20velocity). In practice, Savonius designs excel at generating **high torque at low RPM** and working in turbulent, changeable winds (urban/rural), making them useful for small-scale pumping, battery charging, and on-site applications[\[4\]](https://www.mdpi.com/1996-1073/17/15/3708#:~:text=3)[\[9\]](https://www.mdpi.com/1996-1073/17/15/3708#:~:text=than%20the%20free).

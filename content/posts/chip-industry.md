@@ -1,41 +1,19 @@
 ---
-title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
-linkTitle: The Worldwide Computer Chip Industry -- A Non-Technical F…
-description: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
-summary: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
-slug: chip-industry
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Technology
   - Semiconductors
   - Industry
   - Supply Chains
   - Geopolitics
-tags: &id003
-  - chips
-  - semiconductors
-  - tsmc
-  - intel
-  - nvidia
-  - amd
-  - asml
-  - eda
-  - fabs
-  - packaging
-  - hbm
-  - supply-chain
-  - export-controls
-  - chips-act
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.
+draft: false
+keywords:
   - semiconductors
   - computer chips
   - chip industry
@@ -55,23 +33,25 @@ keywords: &id002
   - export controls
   - CHIPS Act
   - geopolitics
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The Worldwide Computer Chip Industry -- A Non-Technical F…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
+  categories:
+    - Technology
+    - Semiconductors
+    - Industry
+    - Supply Chains
+    - Geopolitics
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: gva-chip-industry-field-guide
   date: '2026-02-12'
-  description: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
-  draft: false
+  description: 'A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.'
   edition: '1.0'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -79,33 +59,81 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva-chip-industry-field-guide-2026-02-12
-  keywords: *id002
+  keywords:
+    - semiconductors
+    - computer chips
+    - chip industry
+    - semiconductor supply chain
+    - fabless
+    - foundry
+    - IDM
+    - EDA
+    - photolithography
+    - process nodes
+    - advanced packaging
+    - HBM
+    - CoWoS
+    - OSAT
+    - GPUs
+    - AI accelerators
+    - export controls
+    - CHIPS Act
+    - geopolitics
   lang: en
   language: English
   library_of_congress_classification:
-    assigned: false
-    note: Unclassified; set if you want LoC/LC call numbers.
+    class: QA76
+    description: Computer science, software, web standards, and computing history.
+    label: Computer science
   license: CC0-1.0
   number-sections: true
   plate_id: gva-chip-industry-field-guide
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
-    kind: field guide
     audience: non-technical
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: computer science
     domain: semiconductor industry
+    emphasis: ''
+    focus: ''
+    id: gva-chip-industry-field-guide-2026-02-12
+    intent: ''
+    is_report: true
+    kind: field guide
+    level: ''
+    method: ''
+    methods: []
+    name: The Worldwide Computer Chip Industry
+    notes: ''
+    number: 018
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
     scope: global
-    version: '1.0'
-  report-no: GVA-TFG-0001
-  report-number: '0001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    scope_years: ''
+    series: technology-field-guides
+    stance: ''
+    structure: ''
+    subdiscipline: computing history and software systems
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: The Worldwide Computer Chip Industry
+    type: report
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series: technology-field-guides
-  series-number: 1
-  series-title: Technology Field Guides
   slug: chip-industry
   status: published
   subject:
@@ -119,13 +147,48 @@ meta:
     - Industrial organization
     - Geopolitics
   subtitle: A Non-Technical Field Guide
-  tags: *id003
+  tags:
+    - chips
+    - semiconductors
+    - tsmc
+    - intel
+    - nvidia
+    - amd
+    - asml
+    - eda
+    - fabs
+    - packaging
+    - hbm
+    - supply-chain
+    - export-controls
+    - chips-act
   title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: chip-industry
+summary: >-
+  A non-technical field guide to how the worldwide chip industry works: design, fabs, packaging/test, market structure, cycles, bottlenecks, and geopolitics.
+tags:
+  - chips
+  - semiconductors
+  - tsmc
+  - intel
+  - nvidia
+  - amd
+  - asml
+  - eda
+  - fabs
+  - packaging
+  - hbm
+  - supply-chain
+  - export-controls
+  - chips-act
+title: The Worldwide Computer Chip Industry -- A Non-Technical Field Guide
 ---
 
 ## Executive Summary

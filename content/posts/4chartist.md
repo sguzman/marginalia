@@ -1,35 +1,17 @@
 ---
-title: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
-linkTitle: 'Chartists & Radical Republicans, 1840‑1865: Franchise, So…'
-description: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
-summary: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
-slug: 4chartist
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - history
   - political-theory
   - socialism
-tags: &id003
-  - chartism
-  - radical-republicans
-  - franchise
-  - reconstruction
-  - abolitionism
-  - land-reform
-  - labor
-  - cooperatives
-  - british-history
-  - us-history
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  Chartism and Radical Republicanism compared: franchise politics, land reform, religion, and the contested boundary between democratic reform and “socialism” in the mid-19th-century Atlantic world.
+draft: false
+keywords:
   - Chartism
   - People's Charter
   - Radical Republicanism
@@ -43,23 +25,23 @@ keywords: &id002
   - political economy
   - abolitionism
   - Corn Laws
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Chartists & Radical Republicans, 1840‑1865: Franchise, So…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: 'Chartism and Radical Republicanism compared: franchise politics, land reform, religion, and the contested boundary between democratic reform and “socialism” in the mid-19th-century Atlantic world.'
+  categories:
+    - history
+    - political-theory
+    - socialism
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: inventing-socialism.chartism-1840-1865
   date: '2026-02-12'
-  description: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
-  draft: false
+  description: 'Chartism and Radical Republicanism compared: franchise politics, land reform, religion, and the contested boundary between democratic reform and “socialism” in the mid-19th-century Atlantic world.'
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -67,32 +49,75 @@ meta:
   epub_cover_image: cover.png
   format: article
   identifier: gva-inventing-socialism-04-chartist-1840-1865
-  keywords: *id002
+  keywords:
+    - Chartism
+    - People's Charter
+    - Radical Republicanism
+    - Reconstruction
+    - franchise reform
+    - universal male suffrage
+    - land reform
+    - labor movement
+    - cooperatives
+    - Red Republicanism
+    - political economy
+    - abolitionism
+    - Corn Laws
   lang: en
   language: English
   library_of_congress_classification:
-    primary:
-      class: DA
-      note: Great Britain — 19th century politics and reform movements
-    secondary:
-      class: E
-      note: United States — Civil War era and Reconstruction; political movements
+    class: HX
+    description: Socialism, communism, anarchism, and related intellectual history.
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: true
   plate_id: plate.inventing-socialism.0004
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
-  report: {}
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+  report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political theory
+    domain: political theory
+    emphasis: ''
+    focus: ''
+    id: gva-inventing-socialism-04-chartist-1840-1865
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Chartists & Radical Republicans, 1840-1865
+    notes: ''
+    number: '014'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Franchise, Socialism, and the Limits of Alliance
+    scope_years: ''
+    series: inventing-socialism
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Chartists & Radical Republicans, 1840-1865
+    type: research-essay
+    version: 0.1.0
+    year: 2026
   revision: 0.1.0
   rights: CC0-1.0
-  series: inventing-socialism
-  series-number: 4
-  series-title: Inventing Socialism
   slug: 4chartist
   status: draft
   subject:
@@ -110,13 +135,40 @@ meta:
     - Reconstruction (U.S. history, 1865-1877)
     - Socialism -- History -- 19th century
   subtitle: Franchise, Socialism, and the Limits of Alliance
-  tags: *id003
+  tags:
+    - chartism
+    - radical-republicans
+    - franchise
+    - reconstruction
+    - abolitionism
+    - land-reform
+    - labor
+    - cooperatives
+    - british-history
+    - us-history
   title: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: research-essay
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: 4chartist
+summary: >-
+  Chartism and Radical Republicanism compared: franchise politics, land reform, religion, and the contested boundary between democratic reform and “socialism” in the mid-19th-century Atlantic world.
+tags:
+  - chartism
+  - radical-republicans
+  - franchise
+  - reconstruction
+  - abolitionism
+  - land-reform
+  - labor
+  - cooperatives
+  - british-history
+  - us-history
+title: 'Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance'
 ---
 
 ## Executive Summary

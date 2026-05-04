@@ -1,39 +1,19 @@
 ---
-title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
-linkTitle: Land-Rooted Regional Ethnocultures, Elite Cultural Standa…
-description: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
-summary: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
-slug: land-rooted-ethno
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - politics
   - sociology
   - political psychology
   - culture
   - regionalism
-tags: &id003
-  - appalachia
-  - rural
-  - identity
-  - status-threat
-  - resentment
-  - institutions
-  - pmc
-  - culture-war
-  - populism
-  - dissidence
-  - operationalization
-  - falsifiable-claims
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A theory-driven synthesis on land-rooted rural ethnocultures and the rise of persistent right dissidence under elite cultural standardization, with operational definitions, competing frameworks, and testable implications.
+draft: false
+keywords:
   - ethnoculture
   - regional identity
   - Appalachia
@@ -53,23 +33,25 @@ keywords: &id002
   - radicalization
   - culture war
   - social movement theory
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Land-Rooted Regional Ethnocultures, Elite Cultural Standa…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: A theory-driven synthesis on land-rooted rural ethnocultures and the rise of persistent right dissidence under elite cultural standardization, with operational definitions, competing frameworks, and testable implications.
+  categories:
+    - politics
+    - sociology
+    - political psychology
+    - culture
+    - regionalism
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: land-rooted-ethnos
   date: '2026-02-12'
-  description: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
-  draft: false
+  description: A theory-driven synthesis on land-rooted rural ethnocultures and the rise of persistent right dissidence under elite cultural standardization, with operational definitions, competing frameworks, and testable implications.
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -77,35 +59,81 @@ meta:
   epub_cover_image: cover.png
   format: article
   identifier: land-rooted-ethnos
-  keywords: *id002
+  keywords:
+    - ethnoculture
+    - regional identity
+    - Appalachia
+    - Upland South
+    - rural sociology
+    - culture of honor
+    - kinship networks
+    - evangelicalism
+    - elite institutions
+    - professional-managerial class
+    - cultural standardization
+    - status threat
+    - rural consciousness
+    - institutional distrust
+    - populism
+    - right-wing dissidence
+    - radicalization
+    - culture war
+    - social movement theory
   lang: en
   language: English
   library_of_congress_classification:
-    primary: HN
-    secondary:
-      - JK
-      - E
-    notes: Provisional classification for an interdisciplinary essay on U.S. rural political culture, status politics, and institutional conflict.
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: true
   plate_id: gva.land-rooted-ethnos.2026-02-12
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: land-rooted-ethnos
+    intent: ''
     is_report: false
-    series: ''
-    number: ''
-    year: ''
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
+    notes: ''
+    number: '034'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Place-based identity, prestige norms, and the mechanisms of recurring right backlash
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
+    type: research-essay
+    version: r1
+    year: 2026
   revision: r1
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: land-rooted-ethno
   status: published
   subject:
@@ -122,13 +150,44 @@ meta:
     - political resentment
     - culture war dynamics
   subtitle: Place-based identity, prestige norms, and the mechanisms of recurring right backlash
-  tags: *id003
+  tags:
+    - appalachia
+    - rural
+    - identity
+    - status-threat
+    - resentment
+    - institutions
+    - pmc
+    - culture-war
+    - populism
+    - dissidence
+    - operationalization
+    - falsifiable-claims
   title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: research-essay
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: land-rooted-ethno
+summary: >-
+  A theory-driven synthesis on land-rooted rural ethnocultures and the rise of persistent right dissidence under elite cultural standardization, with operational definitions, competing frameworks, and testable implications.
+tags:
+  - appalachia
+  - rural
+  - identity
+  - status-threat
+  - resentment
+  - institutions
+  - pmc
+  - culture-war
+  - populism
+  - dissidence
+  - operationalization
+  - falsifiable-claims
+title: Land-Rooted Regional Ethnocultures, Elite Cultural Standardization, and Persistent Right Dissidence
 ---
 
 ## Executive Summary

@@ -1,68 +1,16 @@
 ---
-title: The Tragedy of Formalism
-linkTitle: The Tragedy of Formalism
-description: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
-summary: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
-slug: iterated-function-algebra
-url: ''
-aliases: []
-date: '2023-04-16'
-publishDate: '2026-02-11'
-lastmod: '2026-04-20T15:45:00Z'
-expiryDate: ''
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-meta:
-  abstract: This paper explores the intersection of mathematical formalism, computation, and symbolic syntax. Framing the "death" of the Hilbert program as a necessary tragedy that birthed modern computation, the author proposes a novel "Iterated Function Algebra." By encoding algebraic operations (addition, multiplication, exponentiation) as rank-ordered syntactic primitives, the work attempts to reduce the closed-form computation of iterated polynomials to pure function composition. The essay bridges historical philosophical debates—between formalism and intuitionism—with practical syntactic methods for model reduction to arithmetic.
-  creator: Salvador Guzman
-  dataset_id: iterated-algebra-2023
-  identifier: math-2023-001
-  language: en-US
-  library_of_congress_classification:
-    primary: QA155
-    area: Algebra; Logic; Computation
-    note: Theoretical foundations of iterated functions and formal systems.
-  license: CC0-1.0
-  publisher: Marginalia
-  reference-section-title: References
-  report:
-    kind: theoretical-mathematics-report
-    domain: algebra-and-logic
-    topic: iterated-functions
-    scope: theoretical-and-computational
-    audience: academic
-  revision: 1.1.0
-  rights: © 2023 Salvador Guzman
-  status: final
-  subject: mathematics
-  subjects:
-    - mathematics
-    - algebra
-    - formalism
-    - computation
-    - iterated functions
-    - symbolic logic
-    - polynomial dynamics
-  subtitle: Syntax as the Poetry of Computation
-  toc: true
-  type: article
-  lang: en
-layout: single
-weight: 0
 categories:
   - Mathematics
   - Philosophy of Mathematics
   - Computation
-tags:
-  - formalism
-  - syntax
-  - computation
-  - polynomials
-  - iteration
-  - type signatures
-  - operators
+date: '2023-04-16'
+description: >-
+  Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.
+draft: false
 keywords:
   - formalism
   - Hilbert program
@@ -84,24 +32,139 @@ keywords:
   - arithmetic reduction
   - computational poetry
   - symbolic syntax
+lastmod: '2026-04-20T15:45:00Z'
+layout: single
+linkTitle: The Tragedy of Formalism
 markup: goldmark
+meta:
+  abstract: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
+  categories:
+    - Mathematics
+    - Philosophy of Mathematics
+    - Computation
+  creator:
+    - Salvador Guzman
+  dataset_id: iterated-algebra-2023
+  date: '2023-04-16'
+  description: 'Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.'
+  edition: ''
+  format: markdown
+  identifier: math-2023-001
+  keywords:
+    - formalism
+    - Hilbert program
+    - intuitionism
+    - syntax
+    - provability
+    - lambda calculus
+    - combinatory logic
+    - type theory
+    - polynomials
+    - iteration
+    - closed form
+    - operator theory
+    - Godel numbering
+    - iterated function algebra
+    - syntactic primitives
+    - function composition
+    - model reduction
+    - arithmetic reduction
+    - computational poetry
+    - symbolic syntax
+  lang: en
+  language: en-US
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: References
+  report:
+    audience: academic
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: algebra-and-logic
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: theoretical-mathematics-report
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: theoretical-and-computational
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: iterated-functions
+    type: ''
+    version: ''
+    year: 0
+  revision: 1.1.0
+  rights: © 2023 Salvador Guzman
+  slug: iterated-function-algebra
+  status: final
+  subject:
+    - mathematics
+  subjects:
+    - mathematics
+    - algebra
+    - formalism
+    - computation
+    - iterated functions
+    - symbolic logic
+    - polynomial dynamics
+  subtitle: Syntax as the Poetry of Computation
+  tags:
+    - formalism
+    - syntax
+    - computation
+    - polynomials
+    - iteration
+    - type signatures
+    - operators
+  title: The Tragedy of Formalism
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
 outputs:
   - HTML
   - RSS
-headless: false
-isCJKLanguage: false
-translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: -1
-  filename: sitemap.xml
-ai_generated: true
+slug: iterated-function-algebra
+summary: >-
+  Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding.
+tags:
+  - formalism
+  - syntax
+  - computation
+  - polynomials
+  - iteration
+  - type signatures
+  - operators
+title: The Tragedy of Formalism
 ---
 
 # The Tragedy of Formalism

@@ -1,69 +1,16 @@
 ---
-title: Truth as Process
-linkTitle: Truth as Process
-description: 'An essay arguing that the halting problem''s paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict.'
-summary: 'An essay arguing that the halting problem''s paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict.'
-slug: truth-as-process
-url: ''
-aliases: []
-date: '2021-11-22'
-publishDate: '2026-02-11'
-lastmod: '2026-04-20T15:45:00Z'
-expiryDate: ''
-draft: false
+ai_generated: false
 authors:
   - Salvador Guzman
-meta:
-  abstract: This essay challenges the traditional framing of the Halting Problem as an absolute logical paradox. The author argues that the perceived intractability of the problem arises from a mismatch in topology—demanding a static "point" answer for a dynamic "line-shaped" process. Drawing on critiques of Platonism and tool-worship in mathematics, the paper proposes a shift towards "truth as process," where veracity is conferred iteratively. This perspective is aligned with concepts from distributed systems (CAP theorem) and suggests that logical axioms should be treated as negotiable tools rather than divine constraints.
-  creator: Salvador Guzman
-  dataset_id: truth-process-2021
-  identifier: logic-2021-002
-  language: en-US
-  library_of_congress_classification:
-    primary: QA9.59
-    area: Logic; Philosophy of Science
-    note: Epistemological critique of computability and formal logic.
-  license: CC0-1.0
-  publisher: Marginalia
-  report:
-    kind: philosophical-logic-essay
-    domain: philosophy-of-computation
-    topic: halting-problem-reinterpretation
-    scope: theoretical-and-epistemological
-    audience: general-intellectual
-  revision: 1.2.0
-  rights: © 2021 Salvador Guzman
-  status: final
-  subject: philosophy of computation
-  subjects:
-    - computation
-    - logic
-    - halting problem
-    - epistemology
-    - topology
-    - mathematical structuralism
-  subtitle: Reimagining the Halting Problem through Topological Parity
-  toc: true
-  type: article
-  lang: en
-layout: single
-weight: 0
 categories:
   - philosophy of computation
   - logic
   - philosophy of mathematics
   - epistemology
-tags:
-  - halting problem
-  - computability
-  - paradox
-  - axioms
-  - platonism
-  - tool-worship
-  - truth as process
-  - topology
-  - distributed systems
-  - CAP theorem
+date: '2021-11-22'
+description: >-
+  An essay arguing that the halting problem's paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a…
+draft: false
 keywords:
   - halting problem
   - computability
@@ -85,24 +32,145 @@ keywords:
   - computational topology
   - logical deconstruction
   - philosophy of technology
+lastmod: '2026-04-20T15:45:00Z'
+layout: single
+linkTitle: Truth as Process
 markup: goldmark
+meta:
+  abstract: 'An essay arguing that the halting problem''s paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict.'
+  categories:
+    - philosophy of computation
+    - logic
+    - philosophy of mathematics
+    - epistemology
+  creator:
+    - Salvador Guzman
+  dataset_id: truth-process-2021
+  date: '2021-11-22'
+  description: 'An essay arguing that the halting problem''s paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a…'
+  edition: ''
+  format: markdown
+  identifier: logic-2021-002
+  keywords:
+    - halting problem
+    - computability
+    - paradox
+    - platonism
+    - axioms
+    - truth
+    - topology
+    - CAP theorem
+    - eventual consistency
+    - distributed logic
+    - topological parity
+    - Alan Turing
+    - Kurt Gödel
+    - pragmatism
+    - mathematical tools
+    - axiomatic negotiation
+    - epistemic humility
+    - computational topology
+    - logical deconstruction
+    - philosophy of technology
+  lang: en
+  language: en-US
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: general-intellectual
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: philosophy-of-computation
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: philosophical-logic-essay
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: theoretical-and-epistemological
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: halting-problem-reinterpretation
+    type: ''
+    version: ''
+    year: 0
+  revision: 1.2.0
+  rights: © 2021 Salvador Guzman
+  slug: truth-as-process
+  status: final
+  subject:
+    - philosophy of computation
+  subjects:
+    - computation
+    - logic
+    - halting problem
+    - epistemology
+    - topology
+    - mathematical structuralism
+  subtitle: Reimagining the Halting Problem through Topological Parity
+  tags:
+    - halting problem
+    - computability
+    - paradox
+    - axioms
+    - platonism
+    - tool-worship
+    - truth as process
+    - topology
+    - distributed systems
+    - CAP theorem
+  title: Truth as Process
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
 outputs:
   - HTML
   - RSS
-headless: false
-isCJKLanguage: false
-translationKey: ''
-resources: []
-build:
-  list: always
-  render: always
-  publishResources: true
-cascade: {}
-sitemap:
-  changefreq: ''
-  priority: -1
-  filename: sitemap.xml
-ai_generated: false
+slug: truth-as-process
+summary: >-
+  An essay arguing that the halting problem's paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict.
+tags:
+  - halting problem
+  - computability
+  - paradox
+  - axioms
+  - platonism
+  - tool-worship
+  - truth as process
+  - topology
+  - distributed systems
+  - CAP theorem
+title: Truth as Process
 ---
 
 # Introduction

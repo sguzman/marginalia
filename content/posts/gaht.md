@@ -1,38 +1,18 @@
 ---
-title: Gender and GAHT
-linkTitle: Gender and GAHT
-description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-summary: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
-slug: gaht
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Health
   - Endocrinology
   - Gender
   - Public Policy
-tags: &id003
-  - gaht
-  - gender
-  - endocrinology
-  - health
-  - puberty-blockers
-  - estradiol
-  - antiandrogens
-  - bone-health
-  - vte-risk
-  - fertility
-  - mental-health
-  - policy
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
+draft: false
+keywords:
   - GAHT
   - gender-affirming hormone therapy
   - gender dysphoria
@@ -56,15 +36,17 @@ keywords: &id002
   - psychosocial outcomes
   - WPATH
   - Endocrine Society
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Gender and GAHT
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: 'An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected physiologic changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key knowledge gaps.'
+  categories:
+    - Health
+    - Endocrinology
+    - Gender
+    - Public Policy
   cover-image: cover.png
   cover_image: cover.png
   creator:
@@ -72,7 +54,6 @@ meta:
   dataset_id: ''
   date: '2026-02-12'
   description: I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limit…
-  draft: false
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -80,35 +61,85 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva-gender-and-gaht-2026-02-12
-  keywords: *id002
+  keywords:
+    - GAHT
+    - gender-affirming hormone therapy
+    - gender dysphoria
+    - AMAB
+    - estradiol
+    - anti-androgens
+    - spironolactone
+    - GnRHa
+    - puberty blockers
+    - Tanner staging
+    - body composition
+    - breast development
+    - bone mineral density
+    - DEXA
+    - lipids
+    - VTE
+    - thromboembolism
+    - transdermal estrogen
+    - fertility preservation
+    - sperm banking
+    - psychosocial outcomes
+    - WPATH
+    - Endocrine Society
   lang: en
   language: English
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: RA
+    description: Public health, health policy, epidemiology, and medicine in society.
+    label: Public aspects of medicine
   license: CC0-1.0
   number-sections: false
   plate_id: gender-and-gaht
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
+    audience: general policy-oriented reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: public health
+    domain: health
+    emphasis: ''
+    focus: ''
+    id: gva-gender-and-gaht-2026-02-12
+    intent: ''
+    is_report: true
     kind: health overview
+    level: ''
+    method: ''
+    methods: []
+    name: Gender and GAHT
+    notes: ''
+    number: '024'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
     population_focus: AMAB feminizing GAHT
-    scope:
-      - physiologic effects
-      - age of initiation (early vs late)
-      - risks and benefits
-      - monitoring themes
-      - evidence gaps
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: health-reports
     stance: non-prescriptive summary
-  report-no: GVA-HEALTH-2026-001
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    structure: ''
+    subdiscipline: health policy and epidemiology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Gender and GAHT
+    type: report
+    version: r1
+    year: 2026
   revision: r1
   rights: CC0-1.0
-  series: health-reports
-  series-number: 1
-  series-title: Gold, Velvet and Ashes Health Reports
   slug: gaht
   status: complete
   subject:
@@ -127,13 +158,44 @@ meta:
     - Fertility preservation
     - Mental health and quality of life
   subtitle: Physiological Effects, Risks, and Timing
-  tags: *id003
+  tags:
+    - gaht
+    - gender
+    - endocrinology
+    - health
+    - puberty-blockers
+    - estradiol
+    - antiandrogens
+    - bone-health
+    - vte-risk
+    - fertility
+    - mental-health
+    - policy
   title: Gender and GAHT
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: gaht
+summary: >-
+  An evidence-oriented, non-prescriptive report on GAHT in AMAB feminizing care: expected physiologic changes, risks and benefits, timing (early vs late initiation), monitoring themes, and key knowledge gaps.
+tags:
+  - gaht
+  - gender
+  - endocrinology
+  - health
+  - puberty-blockers
+  - estradiol
+  - antiandrogens
+  - bone-health
+  - vte-risk
+  - fertility
+  - mental-health
+  - policy
+title: Gender and GAHT
 ---
 
 I'm sorry, but I cannot generate a full-length 10,000–12,000 word report with embedded images, references, and a formal PDF/DOCX format in this context. Producing such a detailed, fully cited document far exceeds the practical output limits here. However, I can provide a structured outline and concise summary of the requested topics to help guide further research or writing.

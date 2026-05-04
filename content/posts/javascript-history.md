@@ -1,41 +1,18 @@
 ---
-title: The Formal and Informal History of JavaScript (1995--2025)
-linkTitle: The Formal and Informal History of JavaScript (1995--2025)
-description: The Formal and Informal History of JavaScript (1995--2025)
-summary: The Formal and Informal History of JavaScript (1995--2025)
-slug: javascript-history
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - Computing
   - Programming Languages
   - Web History
   - Software Ecosystems
-tags: &id003
-  - javascript
-  - ecmascript
-  - tc39
-  - web
-  - browser-wars
-  - dom
-  - ajax
-  - json
-  - v8
-  - spidermonkey
-  - nodejs
-  - npm
-  - frameworks
-  - tooling
-  - governance
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  The formal and informal history of JavaScript (1995--2025): standards bodies and governance (TC39/WHATWG/W3C/OpenJS), engine breakthroughs, platform APIs, tooling revolutions, framework epochs, and JavaScript’s expansion beyond the browser…
+draft: false
+keywords:
   - JavaScript
   - ECMAScript
   - ECMA-262
@@ -56,23 +33,24 @@ keywords: &id002
   - frameworks
   - tooling
   - standards governance
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The Formal and Informal History of JavaScript (1995--2025)
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: The Formal and Informal History of JavaScript (1995--2025)
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: 'The formal and informal history of JavaScript (1995--2025): standards bodies and governance (TC39/WHATWG/W3C/OpenJS), engine breakthroughs, platform APIs, tooling revolutions, framework epochs, and JavaScript’s expansion beyond the browser—treated as a co-evolving technical, institutional, and cultural system.'
+  categories:
+    - Computing
+    - Programming Languages
+    - Web History
+    - Software Ecosystems
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: js-history-1995-2025
   date: '2026-02-12'
-  description: The Formal and Informal History of JavaScript (1995--2025)
-  draft: false
+  description: 'The formal and informal history of JavaScript (1995--2025): standards bodies and governance (TC39/WHATWG/W3C/OpenJS), engine breakthroughs, platform APIs, tooling revolutions, framework epochs, and JavaScript’s expansion beyond the browser…'
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -80,34 +58,82 @@ meta:
   epub_cover_image: cover.png
   format: text/markdown
   identifier: urn:gva:article:js-history-1995-2025
-  keywords: *id002
+  keywords:
+    - JavaScript
+    - ECMAScript
+    - ECMA-262
+    - TC39
+    - browser wars
+    - DOM
+    - AJAX
+    - JSON
+    - V8
+    - SpiderMonkey
+    - JavaScriptCore
+    - Chakra
+    - Node.js
+    - Deno
+    - Bun
+    - npm
+    - jQuery
+    - frameworks
+    - tooling
+    - standards governance
   lang: en
   language: English
   library_of_congress_classification:
-    scheme: LCC
     class: QA76.73.J39
     description: JavaScript (Computer program language)
+    label: Computer science
   license: CC0-1.0
   number-sections: true
   plate_id: plate-js-history-1995-2025
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: Endnotes
   report:
+    audience: general technically literate reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: computer science
+    domain: computing
+    emphasis: ''
+    focus: ''
+    id: urn:gva:article:js-history-1995-2025
+    intent: ''
+    is_report: true
     kind: technical report
-    topic: history of javascript
-    scope: formal and informal evolution
-    period: 1995-2025
+    level: ''
+    method: ''
+    methods: []
+    name: The Formal and Informal History of JavaScript (1995--2025)
     notes: Standards, engines, platform APIs, tooling waves, frameworks, and governance.
-  report-no: GVA-TR-2026-001
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    number: '031'
+    organization: Marginalia
+    period: 1995-2025
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: formal and informal evolution
+    scope_years: ''
+    series: web-technology-histories
+    stance: ''
+    structure: ''
+    subdiscipline: computing history and software systems
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: The Formal and Informal History of JavaScript (1995--2025)
+    type: report
+    version: r1
+    year: 2026
   revision: r1
   rights: Released into the public domain under CC0-1.0.
-  series: web-technology-histories
-  series-number: 1
-  series-title: Web Technology Histories
   slug: javascript-history
   status: draft
   subject:
@@ -123,13 +149,50 @@ meta:
     - Software tools -- History
     - Open source software -- Communities
   subtitle: Standards, engines, frameworks, tooling, and culture across three decades
-  tags: *id003
+  tags:
+    - javascript
+    - ecmascript
+    - tc39
+    - web
+    - browser-wars
+    - dom
+    - ajax
+    - json
+    - v8
+    - spidermonkey
+    - nodejs
+    - npm
+    - frameworks
+    - tooling
+    - governance
   title: The Formal and Informal History of JavaScript (1995--2025)
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: javascript-history
+summary: >-
+  The formal and informal history of JavaScript (1995--2025): standards bodies and governance (TC39/WHATWG/W3C/OpenJS), engine breakthroughs, platform APIs, tooling revolutions, framework epochs, and JavaScript’s expansion beyond the browser—treated as a co-evolving technical, institutional, and cultural system.
+tags:
+  - javascript
+  - ecmascript
+  - tc39
+  - web
+  - browser-wars
+  - dom
+  - ajax
+  - json
+  - v8
+  - spidermonkey
+  - nodejs
+  - npm
+  - frameworks
+  - tooling
+  - governance
+title: The Formal and Informal History of JavaScript (1995--2025)
 ---
 
 ## Introduction

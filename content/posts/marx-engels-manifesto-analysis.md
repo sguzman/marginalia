@@ -1,86 +1,125 @@
 ---
-title: Marx Engels Manifesto Analysis
-linkTitle: Marx Engels Manifesto Analysis
-description: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often associa…'
-summary: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often associated with utopian or middle-class reformers, whereas “communism” signified the radical, working-class movement(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=Germany,act%20of%20the%20working%20class). In the Communist Manifesto (Feb 1848), Marx and Engels deliberately chose the term “Communist” to distinguish their program from what they saw as sentimental, utopian schemes(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=match%20at%20L429%20that%20of,%E2%80%9Cthe%20emancipat…'
-slug: marx-engels-manifesto-analysis
-url: ''
-aliases: []
-date: '2026-01-25'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Mathematics
+  - History of Mathematics
+date: '2026-01-25'
+description: >-
+  Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often associa…
+draft: false
+keywords:
+  - Marx Engels Manifesto Analysis
+  - Mathematics
+  - History of Mathematics
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Marx Engels Manifesto Analysis
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often associated with utopian or middle-class reformers, whereas “communism” signified the radical, working-class movement(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=Germany,act%20of%20the%20working%20class). In the Communist Manifesto (Feb 1848), Marx and Engels deliberately chose the term “Communist” to distinguish their program from what they saw as sentimental, utopian schemes(https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm#:~:text=match%20at%20L429%20that%20of,%E2%80%9Cthe%20emancipat…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Executive Summary In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often as…
+  categories:
+    - Mathematics
+    - History of Mathematics
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: 'Executive Summary: In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often associa…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: marx-engels-manifesto-analysis
-  keywords: *id002
+  identifier: urn:marginalia:marx-engels-manifesto-analysis
+  keywords:
+    - Marx Engels Manifesto Analysis
+    - Mathematics
+    - History of Mathematics
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: Marx Engels Manifesto Analysis.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:marx-engels-manifesto-analysis
+    intent: ''
+    is_report: true
+    kind: analytical report
+    level: ''
+    method: ''
+    methods: []
+    name: Marx Engels Manifesto Analysis
+    notes: ''
+    number: '006'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Marx Engels Manifesto Analysis
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: marx-engels-manifesto-analysis
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Mathematics
+    - History of mathematics
   subjects:
-    - marx
-    - engels
-    - manifesto
-    - analysis
+    - Mathematics
+    - History of mathematics
   subtitle: ''
-  tags: *id003
+  tags:
+    - marx-engels-manifesto-analysis
+    - mathematics
+    - history-of-mathematics
   title: Marx Engels Manifesto Analysis
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: marx-engels-manifesto-analysis
+summary: >-
+  Executive Summary In the mid-19th century, Karl Marx and Friedrich Engels redefined the relationship between “socialism” and “communism,” positioning their own doctrine as scientific socialism. Prior to 1848, “socialism” was often as…
+tags:
+  - marx-engels-manifesto-analysis
+  - mathematics
+  - history-of-mathematics
+title: Marx Engels Manifesto Analysis
 ---
 
 **Executive Summary**  

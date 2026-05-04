@@ -1,92 +1,133 @@
 ---
-title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
-linkTitle: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Ma…'
-description: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
-summary: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
-slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
-url: ''
-aliases: []
-date: '2026-02-15'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-02-15'
+description: >-
+  Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+draft: false
+keywords:
+  - Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Ma…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-02-15'
-  description: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
-  draft: false
-  edition: ''
+  description: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
-  keywords: *id002
+  identifier: urn:marginalia:rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+  keywords:
+    - Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti.docx
+      tool: pandoc 3.6
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+    notes: ''
+    number: '050'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - rebel
-    - paradox
-    - symbolic
-    - rebellion
-    - professional
-    - managerial
-    - embeddedness
-    - left
-    - liberal
-    - institutions
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
+  tags:
+    - rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+    - politics
+    - history
+    - political-theory
   title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+summary: >-
+  Rebel-PMC Paradox Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti
+tags:
+  - rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti
+  - politics
+  - history
+  - political-theory
+title: 'Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions'
 ---
 
 ## Executive summary

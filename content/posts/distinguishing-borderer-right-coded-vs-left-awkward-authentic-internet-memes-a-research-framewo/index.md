@@ -1,93 +1,127 @@
 ---
-title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
-linkTitle: Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Au…
-description: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
-summary: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
-slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-url: ''
-aliases: []
-date: '2026-03-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Culture
+  - Media Studies
+date: '2026-03-04'
+description: >-
+  Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+draft: false
+keywords:
+  - Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo
+  - Culture
+  - Media Studies
+  - Literature and media studies
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Au…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+  categories:
+    - Culture
+    - Media Studies
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
-  draft: false
-  edition: ''
+  description: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-  keywords: *id002
+  identifier: urn:marginalia:distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+  keywords:
+    - Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo
+    - Culture
+    - Media Studies
+    - Literature and media studies
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo.docx
+      tool: pandoc 3.6
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+    notes: ''
+    number: 059
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Culture
+    - Media studies
   subjects:
-    - distinguishing
-    - borderer
-    - right
-    - coded
-    - left
-    - awkward
-    - authentic
-    - internet
-    - memes
-    - research
-    - framework
+    - Culture
+    - Media studies
   subtitle: ''
-  tags: *id003
+  tags:
+    - distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+    - culture
+    - media-studies
   title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+summary: >-
+  Distinguishing “BordererRight‑coded” vs “LeftAwkward‑Authentic” Internet Memes A Research Framewo
+tags:
+  - distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo
+  - culture
+  - media-studies
+title: 'Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework'
 ---
 
 ## Executive Summary

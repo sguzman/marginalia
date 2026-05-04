@@ -1,9 +1,9 @@
-generated_at = "2026-05-04T17:02:59.043271+00:00"
+generated_at = "2026-05-04T20:11:07.692510+00:00"
 source_root = "tmp/ai-research-reports/data/md"
 crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
 total_documents = 97
-added_documents = 91
-pending_documents = 6
+added_documents = 96
+pending_documents = 1
 
 [[documents]]
 source_slug = "1inventing-socialism"
@@ -31,7 +31,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "2christian-socialism"
 blog_path = "content/posts/2christian-socialism.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "3mutualism"
@@ -45,11 +45,11 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "3mutualism"
 blog_path = "content/posts/3mutualism/index.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "4chartist"
-title = "Chartists & Radical Republicans, 1840-1865"
+title = "Chartists & Radical Republicans, 1840‑1865: Franchise, Socialism, and the Limits of Alliance"
 source_date = "2026-02-12"
 docx_file = "Chartists & Radical Republicans, 1840‑1865_ Franchise, Socialism, and the Limits of Alliance.docx"
 source_kind = "docx"
@@ -70,9 +70,9 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/a-history-of-functional-analysis/main.md"
 meta_path = "tmp/ai-research-reports/data/md/a-history-of-functional-analysis/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = false
-blog_slug = ""
-blog_path = ""
+added = true
+blog_slug = "a-history-of-functional-analysis"
+blog_path = "content/posts/a-history-of-functional-analysis.md"
 note = ""
 
 [[documents]]
@@ -105,7 +105,7 @@ note = ""
 
 [[documents]]
 source_slug = "algebra-evolution"
-title = "The Evolution and Frontiers of Algebra"
+title = "The Evolution and Frontiers of Algebra: A Comprehensive Historical and Conceptual Analysis"
 source_date = "2026-02-12"
 docx_file = "The Evolution and Frontiers of Algebra_ A Comprehensive Historical and Conceptual Analysis.docx"
 source_kind = "docx"
@@ -119,21 +119,21 @@ note = ""
 
 [[documents]]
 source_slug = "american-judicial-process"
-title = "Judges in the Judicial Process of the United States"
+title = "Judges in the Judicial Process of the United States(https: //www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges)"
 source_date = "2026-04-30"
 docx_file = "american-judicial-process.docx"
 source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/american-judicial-process/main.md"
 meta_path = "tmp/ai-research-reports/data/md/american-judicial-process/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = false
-blog_slug = ""
-blog_path = ""
+added = true
+blog_slug = "american-judicial-process"
+blog_path = "content/posts/american-judicial-process.md"
 note = ""
 
 [[documents]]
 source_slug = "analysis-semantics"
-title = "The Semantics of \"Analysis\" in Mathematics"
+title = "The Semantics of \"Analysis\" in Mathematics (Newton → Present, Europe & the United States)"
 source_date = "2026-02-12"
 docx_file = "The Semantics of “Analysis” in Mathematics (Newton → Present, Europe & the United States).docx"
 source_kind = "docx"
@@ -147,7 +147,7 @@ note = ""
 
 [[documents]]
 source_slug = "brickmaking-history-materials-processes-and-production-planning"
-title = "Brickmaking_ History, Materials, Processes, and Production Planning"
+title = "Brickmaking: History, Materials, Processes, and Production Planning"
 source_date = "2026-04-04"
 docx_file = "Brickmaking_ History, Materials, Processes, and Production Planning.docx"
 source_kind = "docx"
@@ -171,7 +171,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "category-theory"
 blog_path = "content/posts/category-theory.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "category-theory-research-scope"
@@ -189,7 +189,7 @@ note = ""
 
 [[documents]]
 source_slug = "chip-industry"
-title = "The Worldwide Computer Chip Industry"
+title = "The Worldwide Computer Chip Industry -- A Non-Technical Field Guide"
 source_date = "2026-02-12"
 docx_file = "The Worldwide Computer Chip Industry – A Non-Technical Field Guide.docx"
 source_kind = "docx"
@@ -217,7 +217,7 @@ note = ""
 
 [[documents]]
 source_slug = "civilizing-injustice-colonial-conquest-and-moral-pretexts"
-title = "Civilizing Injustice_ Colonial Conquest and Moral Pretexts"
+title = "Civilizing Injustice? Colonial Conquest and Moral Pretexts"
 source_date = "2026-03-04"
 docx_file = "Civilizing Injustice_ Colonial Conquest and Moral Pretexts.docx"
 source_kind = "docx"
@@ -231,7 +231,7 @@ note = ""
 
 [[documents]]
 source_slug = "co-opting-the-left"
-title = "Co-opting the Left"
+title = "Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)"
 source_date = "2026-02-12"
 docx_file = "__Co-opting the Left_ U.S. Liberal Institutions and Deradicalization (1945–Present)__.docx"
 source_kind = "docx"
@@ -245,7 +245,7 @@ note = ""
 
 [[documents]]
 source_slug = "complex-plane-canvas"
-title = "Complex Analysis as a Universal Canvas"
+title = "Complex Analysis as a Universal Canvas (Euler to Today): A Research Report"
 source_date = "2026-02-12"
 docx_file = "Complex Analysis as a Universal Canvas (Euler to Today)_ A Research Report.docx"
 source_kind = "docx"
@@ -259,7 +259,7 @@ note = ""
 
 [[documents]]
 source_slug = "complex-plane-culture"
-title = "Imagining the Imaginary"
+title = "Imagining the Imaginary: A Cultural-Intellectual History of the Complex Plane (1748--2025)"
 source_date = "2026-02-12"
 docx_file = "Imagining the Imaginary_ A Cultural-Intellectual History of the Complex Plane (1748–2025).docx"
 source_kind = "docx"
@@ -315,7 +315,7 @@ note = ""
 
 [[documents]]
 source_slug = "css-history"
-title = "A Comprehensive History of CSS"
+title = "A Comprehensive History of CSS --- Institutions, Specs, and Practice"
 source_date = "2026-02-12"
 docx_file = "A Comprehensive History of CSS — Institutions, Specs, and Practice.docx"
 source_kind = "docx"
@@ -339,7 +339,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "culture-gothic"
 blog_path = "content/posts/culture-gothic.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "current-year-structure-of-taxes-in-the-united-states"
@@ -350,9 +350,9 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/current-year-structure-of-taxes-in-the-united-states/main.md"
 meta_path = "tmp/ai-research-reports/data/md/current-year-structure-of-taxes-in-the-united-states/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = false
-blog_slug = ""
-blog_path = ""
+added = true
+blog_slug = "current-year-structure-of-taxes-in-the-united-states"
+blog_path = "content/posts/current-year-structure-of-taxes-in-the-united-states.md"
 note = ""
 
 [[documents]]
@@ -385,7 +385,7 @@ note = ""
 
 [[documents]]
 source_slug = "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo"
-title = "Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo"
+title = "Distinguishing “Borderer/Right‑coded” vs “Left/Awkward‑Authentic” Internet Memes: A Research Framework"
 source_date = "2026-03-04"
 docx_file = "Distinguishing “Borderer_Right‑coded” vs “Left_Awkward‑Authentic” Internet Memes_ A Research Framewo.docx"
 source_kind = "docx"
@@ -399,7 +399,7 @@ note = ""
 
 [[documents]]
 source_slug = "electric-motor-design-principles-types-and-practices"
-title = "Electric Motor Design_ Principles, Types, and Practices"
+title = "Electric Motor Design: Principles, Types, and Practices"
 source_date = "2026-04-04"
 docx_file = "Electric Motor Design_ Principles, Types, and Practices.docx"
 source_kind = "docx"
@@ -479,7 +479,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "gaht"
 blog_path = "content/posts/gaht.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "gaht-research-report-summary"
@@ -497,7 +497,7 @@ note = ""
 
 [[documents]]
 source_slug = "geometry-semantics"
-title = "The Semantics of \"Geometry\" from Euler to Today"
+title = "The Semantics of \"Geometry\" from Euler to Today (Europe & the United States)"
 source_date = "2026-02-12"
 docx_file = "The Semantics of “Geometry” from Euler to Today (Europe & the United States).docx"
 source_kind = "docx"
@@ -511,7 +511,7 @@ note = ""
 
 [[documents]]
 source_slug = "global-population-dynamics-peaks-in-population-level-and-growth-rates"
-title = "Global Population Dynamics_ Peaks in Population Level and Growth Rates"
+title = "Global Population Dynamics: Peaks in Population Level and Growth Rates"
 source_date = "2026-03-21"
 docx_file = "Global Population Dynamics_ Peaks in Population Level and Growth Rates.docx"
 source_kind = "docx"
@@ -549,7 +549,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "hasan"
 blog_path = "content/posts/hasan.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "hasanabi-popularity-analysis"
@@ -581,7 +581,7 @@ note = ""
 
 [[documents]]
 source_slug = "highway-engineering"
-title = "From Dirt Track to Durable Highway"
+title = "From Dirt Track to Durable Highway -- Engineering, Material Science & Historic Precedent"
 source_date = "2026-02-12"
 docx_file = "From Dirt Track to Durable Highway – Engineering, Material Science & Historic Precedent.docx"
 source_kind = "docx"
@@ -623,7 +623,7 @@ note = ""
 
 [[documents]]
 source_slug = "how-llms-challenge-chomskyan-assumptions-analytical-report"
-title = "How LLMs Challenge Chomskyan Assumptions_ Analytical Report"
+title = "How LLMs Challenge Chomskyan Assumptions: Analytical Report"
 source_date = "2026-03-03"
 docx_file = "How LLMs Challenge Chomskyan Assumptions_ Analytical Report.docx"
 source_kind = "docx"
@@ -679,7 +679,7 @@ note = ""
 
 [[documents]]
 source_slug = "jewish-political-activism"
-title = "Jewish Political Activism in the United States"
+title = "Jewish Political Activism in the United States (1880--2025)"
 source_date = "2026-02-12"
 docx_file = "Jewish Political Activism in the United States (1880–2025).docx"
 source_kind = "docx"
@@ -693,7 +693,7 @@ note = ""
 
 [[documents]]
 source_slug = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
-title = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence"
+title = "Journalists and the U.S. State: Structural Alignment, Incentives, and Evidence"
 source_date = "2026-03-21"
 docx_file = "Journalists and the U.S. State_ Structural Alignment, Incentives, and Evidence.docx"
 source_kind = "docx"
@@ -707,7 +707,7 @@ note = ""
 
 [[documents]]
 source_slug = "judges-in-the-judicial-process-of-the-united-states"
-title = "Judges in the Judicial Process of the United States"
+title = "Judges in the Judicial Process of the United States(https: //www.uscourts.gov/about-federal-courts/about-federal-judges/types-federal-judges/faqs-federal-judges)"
 source_date = "2026-05-03"
 docx_file = "Judges in the Judicial Process of the entity[_country_,_United States_,_north america_].docx"
 source_kind = "docx"
@@ -717,7 +717,7 @@ crosswalk_match_basis = "article_yaml_source_docx"
 added = false
 blog_slug = ""
 blog_path = ""
-note = ""
+note = "Source document is a duplicate; canonical blog post uses slug `american-judicial-process`."
 
 [[documents]]
 source_slug = "kern-weed"
@@ -735,7 +735,7 @@ note = "Source md project maps to a renamed blog slug."
 
 [[documents]]
 source_slug = "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in"
-title = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in"
+title = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in US Labor Markets"
 source_date = "2026-02-15"
 docx_file = "Labor Competition and Intergroup Tension Between African Americans and Mexican and Latino Workers in.docx"
 source_kind = "docx"
@@ -777,7 +777,7 @@ note = ""
 
 [[documents]]
 source_slug = "liberal-gothic-an-analytical-report"
-title = "Liberal Gothic_ An Analytical Report"
+title = "Liberal Gothic: An Analytical Report"
 source_date = "2026-04-13"
 docx_file = "Liberal Gothic_ An Analytical Report.docx"
 source_kind = "docx"
@@ -812,9 +812,9 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/linear-algebra-history-report/main.md"
 meta_path = "tmp/ai-research-reports/data/md/linear-algebra-history-report/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = false
-blog_slug = ""
-blog_path = ""
+added = true
+blog_slug = "linear-algebra-history-report"
+blog_path = "content/posts/linear-algebra-history-report.md"
 note = ""
 
 [[documents]]
@@ -829,7 +829,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "male-suicide"
 blog_path = "content/posts/male-suicide/index.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "male-suicide-research-outline"
@@ -857,7 +857,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "marx-engels"
 blog_path = "content/posts/marx-engels.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "marx-engels-manifesto-analysis"
@@ -875,7 +875,7 @@ note = ""
 
 [[documents]]
 source_slug = "marxism-bibliography"
-title = "Comprehensive Marxist Literature (1840--2025)"
+title = "Comprehensive Marxist Literature (1840--2025): An Annotated Bibliography and Research Guide"
 source_date = "2026-02-12"
 docx_file = "__Comprehensive Marxist Literature (1840–2025)_ An Annotated Bibliography and Research Guide__.docx"
 source_kind = "docx"
@@ -899,7 +899,7 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "marxism-evolution"
 blog_path = "content/posts/marxism-evolution.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "marxism-research-clarifications"
@@ -917,7 +917,7 @@ note = ""
 
 [[documents]]
 source_slug = "matrix-culture"
-title = "The Matrix as Cultural Technology"
+title = "The Matrix as Cultural Technology: A Mythical & Social History"
 source_date = "2026-02-12"
 docx_file = "The Matrix as Cultural Technology_ A Mythical & Social History.docx"
 source_kind = "docx"
@@ -945,7 +945,7 @@ note = ""
 
 [[documents]]
 source_slug = "maxwells-equations-a-human-centered-historical-and-scientific-analysis"
-title = "Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis"
+title = "Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis"
 source_date = "2026-03-04"
 docx_file = "Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis.docx"
 source_kind = "docx"
@@ -959,7 +959,7 @@ note = ""
 
 [[documents]]
 source_slug = "meme-culture-and-borderer-right-style-a-research-report"
-title = "Meme Culture and “Borderer-Right” Style_ A Research Report"
+title = "Meme Culture and “Borderer-Right” Style: A Research Report"
 source_date = "2026-03-04"
 docx_file = "Meme Culture and “Borderer-Right” Style_ A Research Report.docx"
 source_kind = "docx"
@@ -1025,11 +1025,11 @@ crosswalk_match_basis = ""
 added = true
 blog_slug = "nietzche-math-critique"
 blog_path = "content/posts/nietzche-math-critique.md"
-note = "No linked docx entry in upstream crosswalk."
+note = ""
 
 [[documents]]
 source_slug = "number-theory-from-euler"
-title = "Number Theory from Euler to Today"
+title = "Number Theory from Euler to Today (Europe & the United States): A Research Report"
 source_date = "2026-02-12"
 docx_file = "Number Theory from Euler to Today (Europe & the United States)_ A Research Report.docx"
 source_kind = "docx"
@@ -1113,7 +1113,7 @@ note = ""
 
 [[documents]]
 source_slug = "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti"
-title = "Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti"
+title = "Rebel-PMC Paradox: Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Institutions"
 source_date = "2026-02-15"
 docx_file = "Rebel-PMC Paradox_ Symbolic Rebellion and Professional-Managerial Embeddedness in Left‑Liberal Insti.docx"
 source_kind = "docx"
@@ -1127,7 +1127,7 @@ note = ""
 
 [[documents]]
 source_slug = "report-elite-discourse-and-structural-critique"
-title = "Elite Discourse and Structural Critique"
+title = "Report: Elite Discourse and Structural Critique"
 source_date = "2026-02-27"
 docx_file = "Report_ Elite Discourse and Structural Critique.docx"
 source_kind = "docx"
@@ -1190,9 +1190,9 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/structure-and-sources-of-american-law/main.md"
 meta_path = "tmp/ai-research-reports/data/md/structure-and-sources-of-american-law/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = false
-blog_slug = ""
-blog_path = ""
+added = true
+blog_slug = "structure-and-sources-of-american-law"
+blog_path = "content/posts/structure-and-sources-of-american-law.md"
 note = ""
 
 [[documents]]
@@ -1253,7 +1253,7 @@ note = ""
 
 [[documents]]
 source_slug = "topology"
-title = "Topology"
+title = "Topology: From 18th-Century Precursors to Present-Day Frontiers"
 source_date = "2026-02-12"
 docx_file = "Topology_ From 18th-Century Precursors to Present-Day Frontiers.docx"
 source_kind = "docx"

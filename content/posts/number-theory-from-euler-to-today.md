@@ -1,39 +1,16 @@
 ---
-title: Number Theory from Euler to Today
-linkTitle: Number Theory from Euler to Today
-description: A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem through modern cryptography-adjacent and “structure vs randomness” perspectives.
-summary: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric, probabilistic, and computational methods, with a focus on Europe and the United States and on major landmark results and milestones.
-slug: number-theory-from-euler-to-today
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-02-12'
-expiryDate: ''
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
 categories:
   - Mathematics
   - Number theory
   - History of mathematics
-tags:
-  - euler
-  - gauss
-  - dirichlet
-  - riemann
-  - primes
-  - zeta-function
-  - l-functions
-  - reciprocity
-  - class-field-theory
-  - elliptic-curves
-  - langlands
-  - probability
-  - algorithms
-  - cryptography
+date: '2026-02-12'
+description: >-
+  A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem…
+draft: false
 keywords:
   - number theory
   - history of number theory
@@ -51,17 +28,23 @@ keywords:
   - probabilistic number theory
   - computational number theory
   - cryptography
+lastmod: '2026-02-12'
+layout: single
+linkTitle: Number Theory from Euler to Today
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
   abstract: A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric, probabilistic, and computational methods, with a focus on Europe and the United States and on major landmark results and milestones.
+  categories:
+    - Mathematics
+    - Number theory
+    - History of mathematics
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: rr-number-theory-euler-to-today
+  date: '2026-02-12'
+  description: A research-report style history of number theory from Euler to the present, tracing the interplay of algebra, analysis, geometry, probability, and computation, and highlighting key results from quadratic reciprocity and Dirichlet’s theorem…
   edition: '1.0'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -69,29 +52,78 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva:rr:number-theory-from-euler-to-today:2026-02-12
+  keywords:
+    - number theory
+    - history of number theory
+    - Euler
+    - Gauss
+    - Dirichlet
+    - Riemann zeta function
+    - prime number theorem
+    - L-functions
+    - quadratic reciprocity
+    - algebraic number theory
+    - class field theory
+    - elliptic curves
+    - Langlands program
+    - probabilistic number theory
+    - computational number theory
+    - cryptography
+  lang: en
   language: English
   library_of_congress_classification:
     class: QA241
-    caption: Number theory
+    description: ''
+    label: ''
   license: CC0-1.0
   number-sections: true
   publisher: Marginalia
   reference-section-title: References and Further Reading
   report:
+    audience: ''
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: ''
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
     kind: research report
-    topic: number theory
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
     scope: Europe & the United States
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
     time_span: late 18th century to present
-    emphasis:
-      - analytic, algebraic, geometric, probabilistic, and computational themes
-      - major milestones and landmark results
-  report-no: NT-2026-001
-  report-number: '001'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    topic: number theory
+    type: ''
+    version: ''
+    year: 0
   revision: '1'
   rights: CC0 1.0 Universal (CC0-1.0)
+  slug: number-theory-from-euler-to-today
   status: published
   subject:
     - Mathematics
@@ -102,16 +134,48 @@ meta:
     - Number theory
     - History of mathematics
   subtitle: 'Europe & the United States: A Research Report'
+  tags:
+    - euler
+    - gauss
+    - dirichlet
+    - riemann
+    - primes
+    - zeta-function
+    - l-functions
+    - reciprocity
+    - class-field-theory
+    - elliptic-curves
+    - langlands
+    - probability
+    - algorithms
+    - cryptography
+  title: Number Theory from Euler to Today
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-  report_series: research-reports
-  report_series_title: Research Reports
-  report_series_number: 0
-  lang: en
-series: []
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: number-theory-from-euler-to-today
+summary: >-
+  A historical and thematic survey of number theory from Euler’s late-18th-century breakthroughs through modern developments, emphasizing the field’s expansion across analytic, algebraic, geometric, probabilistic, and computational methods, with a focus on Europe and the United States and on major landmark results and milestones.
+tags:
+  - euler
+  - gauss
+  - dirichlet
+  - riemann
+  - primes
+  - zeta-function
+  - l-functions
+  - reciprocity
+  - class-field-theory
+  - elliptic-curves
+  - langlands
+  - probability
+  - algorithms
+  - cryptography
+title: Number Theory from Euler to Today
 ---
 
 ## Executive Overview

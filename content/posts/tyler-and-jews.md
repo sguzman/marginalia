@@ -1,84 +1,133 @@
 ---
-title: Tyler And Jews
-linkTitle: Tyler And Jews
-description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
-summary: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views), triggering hundreds of complaints and being widely condemned(https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)(https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public). Independent fact-checks find some isolated welfare‑fraud cases in Lakewood (e.g. seven couples indicted for ~$2M fraud(https://abc7ny.com/post/mugshots-more-nj-couples-char…
-slug: tyler-and-jews
-url: ''
-aliases: []
-date: '2026-03-03'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-03-03'
+description: >-
+  Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+draft: false
+keywords:
+  - Tyler and Jews
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Tyler and Jews
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views), triggering hundreds of complaints and being widely condemned(https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)(https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public). Independent fact-checks find some isolated welfare‑fraud cases in Lakewood (e.g. seven couples indicted for ~$2M fraud(https://abc7ny.com/post/mugshots-more-nj-couples-char…
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-03'
   description: Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: tyler-and-jews
-  keywords: *id002
+  identifier: urn:marginalia:tyler-and-jews
+  keywords:
+    - Tyler and Jews
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: tyler-and-jews.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:tyler-and-jews
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Tyler and Jews
+    notes: ''
+    number: '057'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Tyler and Jews
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: tyler-and-jews
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - tyler
-    - jews
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
-  title: Tyler And Jews
+  tags:
+    - tyler-and-jews
+    - politics
+    - history
+    - political-theory
+  title: Tyler and Jews
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: tyler-and-jews
+summary: >-
+  Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views),…
+tags:
+  - tyler-and-jews
+  - politics
+  - history
+  - political-theory
+title: Tyler and Jews
 ---
 
 Tyler Oliveira’s recent video on Lakewood, NJ blends genuine local issues (rapid Orthodox population growth and school budgeting) with overt antisemitic framing. Local reporting shows the video (“Jewish Invasion”) went viral (2.2M+ views), triggering hundreds of complaints and being widely condemned[\[1\]](https://www.shorenewsnetwork.com/the-takeover-of-jackson-and-lakewood-featured-in-latest-tyler-oliveira-documentary/#:~:text=The%20video%20is%20being%20criticized,%E2%80%9D)[\[2\]](https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public). Independent fact-checks find *some* isolated welfare‑fraud cases in Lakewood (e.g. seven couples indicted for ~\$2M fraud[\[3\]](https://abc7ny.com/post/mugshots-more-nj-couples-charged-with-welfare-fraud/2159354/#:~:text=LAKEWOOD%2C%20New%20Jersey%20,which%20they%20were%20not%20entitled)), but **no evidence of systemic corruption or secret “invasion.”** Serious issues like state intervention in Lakewood schools stem from predictable fiscal pressures (only 6,000 of 50,000 children in public schools[\[4\]](https://www.jns.org/new-jersey-cites-fiscal-concerns-in-move-to-take-over-lakewood-school-district/#:~:text=Lakewood%E2%80%99s%20population%20is%20largely%20made,growing%20municipalities)), not hidden schemes. The video relies on loaded rhetoric (“invasion,” “welfare‑addicted Jews”) and selective editing[\[2\]](https://www.jpost.com/diaspora/antisemitism/article-888194#:~:text=That%E2%80%99s%20when%20he%20uploaded%20his,as%20fraudulent%20drains%20on%20public)[\[5\]](https://forward.com/news/antisemitism-decoded/808060/tyler-oliveira-kiryas-joel-lakewood/#:~:text=Oliveira%20repeatedly%20seeks%20to%20connect,kosher%20grocery%20and%20similar%20tales).

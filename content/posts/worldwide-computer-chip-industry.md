@@ -1,9 +1,5 @@
 ---
-title: The Worldwide Computer Chip Industry
-subtitle: A Non-Technical Field Guide
-date: '2026-02-12'
-draft: false
-slug: worldwide-computer-chip-industry
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
@@ -13,43 +9,87 @@ categories:
   - Industry
   - Supply Chains
   - Geopolitics
-tags:
-  - chips
-  - semiconductors
-  - tsmc
-  - intel
-  - nvidia
-  - amd
-  - asml
-  - eda
-  - fabs
-  - packaging
-  - hbm
-  - supply-chain
-  - export-controls
-  - chips-act
-library_of_congress_classification:
-  primary: ''
-  area: ''
-  note: Unclassified; set if you want LoC/LC call numbers.
+date: '2026-02-12'
+description: >-
+  A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA tools, reus…
+draft: false
+keywords: []
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The Worldwide Computer Chip Industry
+markup: goldmark
 meta:
   abstract: A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA tools, reusable IP), and the manufacturing flow (fabs, lithography, nodes, yield economics). Explains packaging and test, industry structure (fabless vs foundry vs IDM), market segmentation, pricing and cyclicality, current supply-chain bottlenecks for AI-era chips, and the geopolitics and policy environment shaping the industry.
+  categories:
+    - Technology
+    - Semiconductors
+    - Industry
+    - Supply Chains
+    - Geopolitics
   creator:
     - Salvador Guzman
   dataset_id: gva-chip-industry-field-guide
-  report:
-    kind: field guide
-    audience: non-technical
-    domain: semiconductor industry
-    scope: global
-    version: '1.0'
-  publisher: Marginalia
-  license: CC0-1.0
-  rights: CC0-1.0
-  language: en
+  date: '2026-02-12'
+  description: A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA tools, reus…
+  edition: ''
+  format: markdown
   identifier: worldwide-computer-chip-industry
+  lang: en
+  language: en
+  library_of_congress_classification:
+    class: ''
+    description: ''
+    label: ''
+  license: CC0-1.0
+  publisher: Marginalia
+  reference-section-title: ''
+  report:
+    audience: non-technical
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: ''
+    domain: semiconductor industry
+    emphasis: ''
+    focus: ''
+    id: ''
+    intent: ''
+    is_report: true
+    kind: field guide
+    level: ''
+    method: ''
+    methods: []
+    name: ''
+    notes: ''
+    number: ''
+    organization: ''
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: global
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: ''
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: ''
+    type: ''
+    version: '1.0'
+    year: 0
+  revision: ''
+  rights: CC0-1.0
+  slug: worldwide-computer-chip-industry
   status: published
-  type: article
+  subject: []
   subjects:
     - Technology
     - Semiconductors
@@ -70,8 +110,49 @@ meta:
     - supply-chain
     - export-controls
     - chips-act
-  lang: en
-ai_generated: true
+  subtitle: A Non-Technical Field Guide
+  tags:
+    - chips
+    - semiconductors
+    - tsmc
+    - intel
+    - nvidia
+    - amd
+    - asml
+    - eda
+    - fabs
+    - packaging
+    - hbm
+    - supply-chain
+    - export-controls
+    - chips-act
+  title: The Worldwide Computer Chip Industry
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: article
+outputs:
+  - HTML
+  - RSS
+slug: worldwide-computer-chip-industry
+summary: >-
+  A plain-language, end-to-end field guide to the global semiconductor (computer chip) industry. Covers what chips are, major chip types (CPUs, GPUs, AI accelerators, SoCs), the design flow (specs, architecture, verification, EDA tools, reusable IP), and the manufacturing flow (fabs, lithography, nodes, yield economics). Explains packaging and test, industry structure (fabless vs foundry vs IDM), market segmentation, pricing and cyclicality, current supply-chain bottlenecks for AI-era chips, and the geopolitics and policy environment shaping the industry.
+tags:
+  - chips
+  - semiconductors
+  - tsmc
+  - intel
+  - nvidia
+  - amd
+  - asml
+  - eda
+  - fabs
+  - packaging
+  - hbm
+  - supply-chain
+  - export-controls
+  - chips-act
+title: The Worldwide Computer Chip Industry
 ---
 
 # The Worldwide Computer Chip Industry

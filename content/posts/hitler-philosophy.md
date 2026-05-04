@@ -1,33 +1,19 @@
 ---
-title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-linkTitle: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-description: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-summary: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-slug: hitler-philosophy
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - history
   - political-ideology
   - fascism
   - nazism
   - germany
-tags: &id003
-  - hitler
-  - nazism
-  - fascism
-  - ideology
-  - germany
-  - wwii
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
+draft: false
+keywords:
   - Adolf Hitler
   - Nazism
   - National Socialism
@@ -38,23 +24,25 @@ keywords: &id002
   - Lebensraum
   - Weimar Republic
   - World War II
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
+  categories:
+    - history
+    - political-ideology
+    - fascism
+    - nazism
+    - germany
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: gva-hitlers-ideology-1907-1945
   date: '2026-02-12'
-  description: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
-  draft: false
+  description: An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -62,39 +50,76 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva:hitlers-ideology-1907-1945
-  keywords: *id002
+  keywords:
+    - Adolf Hitler
+    - Nazism
+    - National Socialism
+    - ideology
+    - antisemitism
+    - racial nationalism
+    - Führerprinzip
+    - Lebensraum
+    - Weimar Republic
+    - World War II
   lang: en
   language: English
   library_of_congress_classification:
     class: DD256.5
+    description: Politics, political history, social theory, and public debate.
     label: Germany -- history -- 1933-1945; national socialism
   license: CC0-1.0
   number-sections: false
   plate_id: gva-hitlers-ideology-1907-1945
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
-    kind: essay
+    audience: general reader
+    code: ''
     collection: Gold, Velvet and Ashes Essays
-    number: 1
-  report-no: gva-essay-0001
-  report-number: '0001'
-  report-year: '2026'
-  report_no: 1
-  report_number: 1
-  report_year: 2026
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: gva:hitlers-ideology-1907-1945
+    intent: ''
+    is_report: true
+    kind: essay
+    level: ''
+    method: ''
+    methods: []
+    name: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+    notes: ''
+    number: 028
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Continuity and tactical adaptation from Vienna to 1945
+    scope_years: ''
+    series: ''
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
+    type: article
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series:
-    title: Ideology Notes
-    number: 1
-  series-number: '1'
-  series-title: Ideology Notes
-  series_number: 1
-  series_title: Ideology Notes
   slug: hitler-philosophy
   status: published
-  subject: Hitler's ideology (1907--1945)
+  subject:
+    - Hitler's ideology (1907--1945)
   subjects:
     - Hitler, Adolf, 1889-1945 -- political and social views
     - National socialism -- ideology
@@ -102,13 +127,32 @@ meta:
     - Antisemitism -- Europe -- history -- 20th century
     - Fascism -- Germany
   subtitle: Continuity and tactical adaptation from Vienna to 1945
-  tags: *id003
+  tags:
+    - hitler
+    - nazism
+    - fascism
+    - ideology
+    - germany
+    - wwii
   title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: hitler-philosophy
+summary: >-
+  An analytical timeline-style essay on the formation, core components, and historical continuity of Adolf Hitler's ideology from 1907 to 1945.
+tags:
+  - hitler
+  - nazism
+  - fascism
+  - ideology
+  - germany
+  - wwii
+title: Adolf Hitler's Ideology from Origins to Demise (1907--1945)
 ---
 
 ## Formative Years (1907--1919)

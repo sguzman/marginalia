@@ -1,85 +1,125 @@
 ---
-title: HasanAbi Popularity Analysis
-linkTitle: HasanAbi Popularity Analysis
-description: '1. Executive Summary: Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online political…'
-summary: '1. Executive Summary: Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online political discourse. This report examines the origins of Piker’s popularity, the mechanics sustaining his community engagement, and the challenges and ethical questions surrounding his content from 2015 to the present. Piker’s career trajectory illustrates a savvy blend of traditional political commentary and new-media tactics. After early years producing left-leaning news content for The Young Turks (TYT) on Facebook and YouTube, Piker transitioned to Twitch in 2018 to reach younger audiences(https://en.wikipedia.org/wiki/HasanPiker#:~:text=Twitch). By 2020, he…'
-slug: hasanabi-popularity-analysis
-url: ''
-aliases: []
-date: '2026-01-25'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Mathematics
+  - History of Mathematics
+date: '2026-01-25'
+description: >-
+  1. Executive Summary: Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online political…
+draft: false
+keywords:
+  - HasanAbi Popularity Analysis
+  - Mathematics
+  - History of Mathematics
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: HasanAbi Popularity Analysis
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: '1. Executive Summary: Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online political discourse. This report examines the origins of Piker’s popularity, the mechanics sustaining his community engagement, and the challenges and ethical questions surrounding his content from 2015 to the present. Piker’s career trajectory illustrates a savvy blend of traditional political commentary and new-media tactics. After early years producing left-leaning news content for The Young Turks (TYT) on Facebook and YouTube, Piker transitioned to Twitch in 2018 to reach younger audiences(https://en.wikipedia.org/wiki/HasanPiker#:~:text=Twitch). By 2020, he…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 1. Executive Summary Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online politi…
+  categories:
+    - Mathematics
+    - History of Mathematics
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-01-25'
   description: '1. Executive Summary: Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online political…'
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: hasanabi-popularity-analysis
-  keywords: *id002
+  identifier: urn:marginalia:hasanabi-popularity-analysis
+  keywords:
+    - HasanAbi Popularity Analysis
+    - Mathematics
+    - History of Mathematics
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: HasanAbi Popularity Analysis.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:hasanabi-popularity-analysis
+    intent: ''
+    is_report: true
+    kind: analytical report
+    level: ''
+    method: ''
+    methods: []
+    name: HasanAbi Popularity Analysis
+    notes: ''
+    number: '004'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: HasanAbi Popularity Analysis
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: hasanabi-popularity-analysis
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Mathematics
+    - History of mathematics
   subjects:
-    - hasanabi
-    - popularity
-    - analysis
+    - Mathematics
+    - History of mathematics
   subtitle: ''
-  tags: *id003
+  tags:
+    - hasanabi-popularity-analysis
+    - mathematics
+    - history-of-mathematics
   title: HasanAbi Popularity Analysis
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: hasanabi-popularity-analysis
+summary: >-
+  1. Executive Summary Hasan “HasanAbi” Piker has emerged as one of the most prominent political commentators in the livestreaming era, leveraging Twitch’s interactive platform to cultivate a massive following and influence online politi…
+tags:
+  - hasanabi-popularity-analysis
+  - mathematics
+  - history-of-mathematics
+title: HasanAbi Popularity Analysis
 ---
 
 1.  **Executive Summary**  

@@ -1,86 +1,125 @@
 ---
-title: Dead Symbols and their Worship
-linkTitle: Dead Symbols and their Worship
-description: Dead Symbols and their Worship
-summary: Dead Symbols and their Worship
-slug: nietzche-math-critique
-url: ''
-aliases: []
-date: '2026-04-20'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Philosophy
+  - Theory
+date: '2026-04-20'
+description: >-
+  Dead Symbols and their Worship
+draft: false
+keywords:
+  - Dead Symbols and their Worship
+  - Philosophy
+  - Theory
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Dead Symbols and their Worship
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
   abstract: Dead Symbols and their Worship
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  categories:
+    - Philosophy
+    - Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-20'
   description: Dead Symbols and their Worship
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: nietzche-math-critique
-  keywords: *id002
+  identifier: urn:marginalia:nietzche-math-critique
+  keywords:
+    - Dead Symbols and their Worship
+    - Philosophy
+    - Theory
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: B
+    description: Philosophy, theory, epistemology, and conceptual criticism.
+    label: Philosophy
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: (standalone-md)
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: philosophy
+    domain: philosophy
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:nietzche-math-critique
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Dead Symbols and their Worship
+    notes: ''
+    number: 091
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: social and political philosophy
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Dead Symbols and their Worship
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: nietzche-math-critique
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Philosophy
+    - Theory
   subjects:
-    - dead
-    - symbols
-    - their
-    - worship
+    - Philosophy
+    - Theory
   subtitle: ''
-  tags: *id003
+  tags:
+    - nietzche-math-critique
+    - philosophy
+    - theory
   title: Dead Symbols and their Worship
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: nietzche-math-critique
+summary: >-
+  Dead Symbols and their Worship
+tags:
+  - nietzche-math-critique
+  - philosophy
+  - theory
+title: Dead Symbols and their Worship
 ---
 
 ## Introduction

@@ -1,86 +1,127 @@
 ---
-title: 'Liberal Gothic: An Analytical Report'
-linkTitle: 'Liberal Gothic: An Analytical Report'
-description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
-summary: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis on supernatural terror and architecture(https://en.wikipedia.org/wiki/Gothicfiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1)) or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy(https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)), liberal gothic narratives use ordinary liminal spaces (e.g. forests, empty homes) and realistic dialogue to stage emotional confessionals. Plot…
-slug: liberal-gothic-an-analytical-report
-url: ''
-aliases: []
-date: '2026-04-13'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Culture
+  - Media Studies
+date: '2026-04-13'
+description: >-
+  Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
+draft: false
+keywords:
+  - Liberal Gothic_ An Analytical Report
+  - Culture
+  - Media Studies
+  - Literature and media studies
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Liberal Gothic: An Analytical Report'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis on supernatural terror and architecture(https://en.wikipedia.org/wiki/Gothicfiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1)) or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy(https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)), liberal gothic narratives use ordinary liminal spaces (e.g. forests, empty homes) and realistic dialogue to stage emotional confessionals. Plot…
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic…
+  categories:
+    - Culture
+    - Media Studies
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-13'
   description: Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: liberal-gothic-an-analytical-report
-  keywords: *id002
+  identifier: urn:marginalia:liberal-gothic-an-analytical-report
+  keywords:
+    - Liberal Gothic_ An Analytical Report
+    - Culture
+    - Media Studies
+    - Literature and media studies
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: PN
+    description: Literature, media studies, criticism, and cultural analysis.
+    label: Literature and media studies
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Liberal Gothic_ An Analytical Report.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Liberal Gothic An Analytical Report.docx
+      tool: pandoc 3.6
+    discipline: media and cultural studies
+    domain: culture
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:liberal-gothic-an-analytical-report
+    intent: ''
+    is_report: true
+    kind: analytical report
+    level: ''
+    method: ''
+    methods: []
+    name: Liberal Gothic An Analytical Report
+    notes: ''
+    number: 088
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: criticism and interpretation
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Liberal Gothic An Analytical Report
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: liberal-gothic-an-analytical-report
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Culture
+    - Media studies
   subjects:
-    - liberal
-    - gothic
-    - analytical
-    - report
+    - Culture
+    - Media studies
   subtitle: ''
-  tags: *id003
+  tags:
+    - liberal-gothic-an-analytical-report
+    - culture
+    - media-studies
   title: 'Liberal Gothic: An Analytical Report'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: liberal-gothic-an-analytical-report
+summary: >-
+  Executive Summary. “Liberal gothic” is a proposed narrative mode marked by educated, often progressive protagonists who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic…
+tags:
+  - liberal-gothic-an-analytical-report
+  - culture
+  - media-studies
+title: 'Liberal Gothic: An Analytical Report'
 ---
 
 **Executive Summary.** *“Liberal gothic”* is a proposed narrative mode marked by **educated, often progressive protagonists** who foreground personal trauma and existential malaise in hushed, introspective settings. Unlike classical Gothic (emphasis on supernatural terror and architecture[\[1\]](https://en.wikipedia.org/wiki/Gothic_fiction#:~:text=Gothic%20fiction%2C%20often%20referred%20to,1)) or Southern Gothic (Mid-20th-century U.S. tales of decay and racial legacy[\[2\]](https://oaktrust.library.tamu.edu/server/api/core/bitstreams/3226b1e0-550f-4bb3-816f-0aec51a3addb/content#:~:text=When%20author%20Ellen%20Glasgow%20coined,from%20the%20South%E2%80%99s%20dark%20past)), liberal gothic narratives use *ordinary* liminal spaces (e.g. forests, empty homes) and realistic dialogue to stage emotional confessionals. Plots largely serve as pretexts for interior reflection (what one critic calls *“trauma dumping”*[\[3\]](https://www.noemamag.com/the-problem-with-trauma-culture/#:~:text=Trauma%20culture%20takes%20suffering%20at,stories%20with%20immediately%20recognizable%20meanings)), rather than delivering external thrills. This report rigorously defines the mode, compares it to related genres, and exemplifies it with 12 case studies (4 novels, 4 films/TV, 4 games). We examine protagonist profiles, tone, narrative function, aesthetics, and political valence, tabulate contrasts with Southern Gothic, classical Gothic, and “prestige indie” works, and discuss cultural implications (including critiques of “trauma culture”[\[3\]](https://www.noemamag.com/the-problem-with-trauma-culture/#:~:text=Trauma%20culture%20takes%20suffering%20at,stories%20with%20immediately%20recognizable%20meanings)). Citations are provided from academic and journalistic sources, reviews, and creators.

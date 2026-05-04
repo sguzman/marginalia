@@ -1,89 +1,125 @@
 ---
-title: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
-linkTitle: 'Maxwell’s Equations: A Human-Centered Historical and Scie…'
-description: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
-summary: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
-slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
-url: ''
-aliases: []
-date: '2026-03-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Mathematics
+  - History of Mathematics
+date: '2026-03-04'
+description: >-
+  Maxwell’s Equations A Human-Centered Historical and Scientific Analysis
+draft: false
+keywords:
+  - Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
+  - Mathematics
+  - History of Mathematics
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Maxwell’s Equations: A Human-Centered Historical and Scie…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Maxwell’s Equations A Human-Centered Historical and Scientific Analysis
+  categories:
+    - Mathematics
+    - History of Mathematics
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
-  draft: false
-  edition: ''
+  description: Maxwell’s Equations A Human-Centered Historical and Scientific Analysis
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: maxwells-equations-a-human-centered-historical-and-scientific-analysis
-  keywords: *id002
+  identifier: urn:marginalia:maxwells-equations-a-human-centered-historical-and-scientific-analysis
+  keywords:
+    - Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis
+    - Mathematics
+    - History of Mathematics
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Maxwell’s Equations_ A Human-Centered Historical and Scientific Analysis.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Maxwell’s Equations A Human-Centered Historical and Scientific Analysis.docx
+      tool: pandoc 3.6
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:maxwells-equations-a-human-centered-historical-and-scientific-analysis
+    intent: ''
+    is_report: true
+    kind: analytical report
+    level: ''
+    method: ''
+    methods: []
+    name: Maxwell’s Equations A Human-Centered Historical and Scientific Analysis
+    notes: ''
+    number: '064'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Maxwell’s Equations A Human-Centered Historical and Scientific Analysis
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Mathematics
+    - History of mathematics
   subjects:
-    - maxwell
-    - equations
-    - human
-    - centered
-    - historical
-    - scientific
-    - analysis
+    - Mathematics
+    - History of mathematics
   subtitle: ''
-  tags: *id003
+  tags:
+    - maxwells-equations-a-human-centered-historical-and-scientific-analysis
+    - mathematics
+    - history-of-mathematics
   title: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: maxwells-equations-a-human-centered-historical-and-scientific-analysis
+summary: >-
+  Maxwell’s Equations A Human-Centered Historical and Scientific Analysis
+tags:
+  - maxwells-equations-a-human-centered-historical-and-scientific-analysis
+  - mathematics
+  - history-of-mathematics
+title: 'Maxwell’s Equations: A Human-Centered Historical and Scientific Analysis'
 ---
 
 ## Executive Summary

@@ -1,34 +1,19 @@
 ---
-title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
-linkTitle: 'Co-opting the Left: U.S. Liberal Institutions and Deradic…'
-description: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
-summary: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
-slug: co-opting-the-left
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - politics
   - political theory
   - u.s. history
   - social movements
   - institutional analysis
-tags: &id003
-  - co-optation
-  - deradicalization
-  - institutions
-  - u.s. politics
-  - social movements
-  - occupy
-  - blm
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era…
+draft: false
+keywords:
   - co-optation
   - deradicalization
   - u.s. liberalism
@@ -44,23 +29,25 @@ keywords: &id002
   - black lives matter
   - labor movement
   - civil rights movement
+lastmod: '2026-05-04'
+layout: single
+linkTitle: 'Co-opting the Left: U.S. Liberal Institutions and Deradic…'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era case studies.
+  categories:
+    - politics
+    - political theory
+    - u.s. history
+    - social movements
+    - institutional analysis
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: gva-co-opting-the-left-1945-present
   date: '2026-02-12'
-  description: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
-  draft: false
+  description: How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era…
   edition: 1st
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -68,35 +55,77 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva:co-opting-the-left
-  keywords: *id002
+  keywords:
+    - co-optation
+    - deradicalization
+    - u.s. liberalism
+    - democratic party
+    - nonprofit industrial complex
+    - philanthropy
+    - movement professionalization
+    - media framing
+    - selective repression
+    - selective inclusion
+    - political incorporation
+    - occupy wall street
+    - black lives matter
+    - labor movement
+    - civil rights movement
   lang: en
   language: English
   library_of_congress_classification:
-    primary: HN90
-    secondary:
-      - JK
-      - HD
-    note: U.S. social conditions/social reform (HN); U.S. political institutions (JK); labor/economic history context (HD).
+    class: HX
+    description: Socialism, communism, anarchism, and related intellectual history.
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: true
   plate_id: gva-plate-co-opting-the-left
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
-    type: research report
-    scope: United States
-    period: 1945-present
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political theory
+    domain: political theory
+    emphasis: ''
+    focus: ''
+    id: gva:co-opting-the-left
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
     method: historical synthesis with mechanism taxonomy and illustrative case studies
-  report-no: GVA-REP-0001
-  report-number: GVA-REP-0001
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    methods: []
+    name: Co-opting the Left
+    notes: ''
+    number: 019
+    organization: Marginalia
+    period: 1945-present
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: United States
+    scope_years: ''
+    series: gva-reports
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Co-opting the Left
+    type: research report
+    version: 1.0.0
+    year: 2026
   revision: 1.0.0
   rights: CC0-1.0 Universal
-  series: gva-reports
-  series-number: 1
-  series-title: Gold, Velvet and Ashes Reports
   slug: co-opting-the-left
   status: final-draft
   subject:
@@ -110,13 +139,34 @@ meta:
     - NGOs and philanthropy
     - Media and narrative framing
   subtitle: U.S. Liberal Institutions and Deradicalization (1945--Present)
-  tags: *id003
+  tags:
+    - co-optation
+    - deradicalization
+    - institutions
+    - u.s. politics
+    - social movements
+    - occupy
+    - blm
   title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
   toc: true
   toc-depth: 2
   toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: co-opting-the-left
+summary: >-
+  How U.S. liberal institutions have repeatedly absorbed and deradicalized left-wing movements since 1945—through concessions, professionalization, narrative control, and selective inclusion paired with repression—illustrated with cross-era case studies.
+tags:
+  - co-optation
+  - deradicalization
+  - institutions
+  - u.s. politics
+  - social movements
+  - occupy
+  - blm
+title: 'Co-opting the Left: U.S. Liberal Institutions and Deradicalization (1945--Present)'
 ---
 
 ## **Executive Summary**

@@ -1,39 +1,17 @@
 ---
-title: Evolution of Marxism
-linkTitle: Evolution of Marxism
-description: 'Executive Summary: - Evolution of Marxism (1840s--2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/c…'
-summary: 'Executive Summary: - Evolution of Marxism (1840s--2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases -- from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin''s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/H…'
-slug: marxism-evolution
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - political-theory
   - intellectual-history
   - modern-history
-tags: &id003
-  - marxism
-  - marx
-  - engels
-  - lenin
-  - stalin
-  - trotsky
-  - mao
-  - comintern
-  - eurocommunism
-  - western-marxism
-  - social-democracy
-  - cold-war
-  - political-theory
-  - timeline
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
+draft: false
+keywords:
   - Marxism
   - Karl Marx
   - Friedrich Engels
@@ -55,23 +33,23 @@ keywords: &id002
   - market reforms
   - 2008 financial crisis
   - political history
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Evolution of Marxism
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: - Evolution of Marxism (1840s--2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/communism-timeline#:~:text=%E2%80%A2%C2%A0February%2021%2C%201848%3A%20German%20economist,quickly%20became%20a%20rallying%20cry). Over nearly two centuries it has evolved through various phases -- from classical Marxism in the 19th century, through Leninism and 20th-century communism, to diverse contemporary currents. Marxism changed over time in response to historical conditions: e.g. Lenin''s adaptation of Marxism to a less-developed, wartime Russia (introducing the vanguard party and emphasizing peasant revolutions)(https://www.britannica.com/question/H…'
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
+  categories:
+    - political-theory
+    - intellectual-history
+    - modern-history
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: gva.marx-evolution
   date: '2026-02-12'
-  description: 'Executive Summary: - Evolution of Marxism (1840s--2020s): Marxism originated in the 1840s as the theory and program of Karl Marx and Friedrich Engels, calling for proletarian revolution against capitalism(https://www.history.com/articles/c…'
-  draft: false
+  description: How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
   edition: '1'
   epub-chapter-level: 0
   epub-cover-image: cover.png
@@ -79,27 +57,83 @@ meta:
   epub_cover_image: cover.png
   format: article
   identifier: gva:article:marx-evolution:2026-02-12
-  keywords: *id002
+  keywords:
+    - Marxism
+    - Karl Marx
+    - Friedrich Engels
+    - communism
+    - socialism
+    - Leninism
+    - Bolsheviks
+    - Soviet Union
+    - Stalinism
+    - Trotskyism
+    - Maoism
+    - Western Marxism
+    - Frankfurt School
+    - Gramsci
+    - Eurocommunism
+    - social democracy
+    - Cold War
+    - planned economy
+    - market reforms
+    - 2008 financial crisis
+    - political history
   lang: en
   language: English
   library_of_congress_classification:
-    primary: HX
+    class: HX
+    description: Socialism, communism, anarchism, and related intellectual history.
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: false
   plate_id: plate.marx-evolution
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
-  report: {}
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
+  report:
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political theory
+    domain: political theory
+    emphasis: ''
+    focus: ''
+    id: gva:article:marx-evolution:2026-02-12
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Evolution of Marxism
+    notes: ''
+    number: 038
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: A timeline and conceptual map (1840s–2026)
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Evolution of Marxism
+    type: essay
+    version: '1'
+    year: 2026
   revision: '1'
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: marxism-evolution
   status: published
   subject:
@@ -113,13 +147,48 @@ meta:
     - Communist movements
     - Political ideologies
   subtitle: A timeline and conceptual map (1840s–2026)
-  tags: *id003
+  tags:
+    - marxism
+    - marx
+    - engels
+    - lenin
+    - stalin
+    - trotsky
+    - mao
+    - comintern
+    - eurocommunism
+    - western-marxism
+    - social-democracy
+    - cold-war
+    - political-theory
+    - timeline
   title: Evolution of Marxism
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: essay
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: marxism-evolution
+summary: >-
+  How Marxism changed from Marx and Engels through Lenin, Stalin, Mao, Western Marxism, Eurocommunism, and post-1989 revivals—plus a timeline from 1848 to 2026.
+tags:
+  - marxism
+  - marx
+  - engels
+  - lenin
+  - stalin
+  - trotsky
+  - mao
+  - comintern
+  - eurocommunism
+  - western-marxism
+  - social-democracy
+  - cold-war
+  - political-theory
+  - timeline
+title: Evolution of Marxism
 ---
 
 **Executive Summary**\

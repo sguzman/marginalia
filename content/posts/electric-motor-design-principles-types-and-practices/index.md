@@ -1,88 +1,127 @@
 ---
-title: 'Electric Motor Design: Principles, Types, and Practices'
-linkTitle: 'Electric Motor Design: Principles, Types, and Practices'
-description: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://national…'
-summary: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/faraday-motor-1821/#:~:text=Self,current%20produces%20a%20magnetic%20field) through Tesla’s 1888 AC induction motor patents(https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor#:~:text=It%20fell%20to%20Edison%E2%80%99s%20former,the%20requisite%20AC%20transformers%20and) to today’s high-efficiency drives. Designing a custom motor requires understanding electromagnetic fundamentals, machine types, performance trade-offs, materials, control electronics, and manufactur…'
-slug: electric-motor-design-principles-types-and-practices
-url: ''
-aliases: []
-date: '2026-04-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Engineering
+  - Technology
+date: '2026-04-04'
+description: >-
+  Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…
+draft: false
+keywords:
+  - Electric Motor Design_ Principles, Types, and Practices
+  - Engineering
+  - Technology
+  - Electrical engineering
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: 'Electric Motor Design: Principles, Types, and Practices'
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/faraday-motor-1821/#:~:text=Self,current%20produces%20a%20magnetic%20field) through Tesla’s 1888 AC induction motor patents(https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor#:~:text=It%20fell%20to%20Edison%E2%80%99s%20former,the%20requisite%20AC%20transformers%20and) to today’s high-efficiency drives. Designing a custom motor requires understanding electromagnetic fundamentals, machine types, performance trade-offs, materials, control electronics, and manufactur…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
+  categories:
+    - Engineering
+    - Technology
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-04-04'
-  description: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https://national…'
-  draft: false
-  edition: ''
+  description: 'Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…'
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: electric-motor-design-principles-types-and-practices
-  keywords: *id002
+  identifier: urn:marginalia:electric-motor-design-principles-types-and-practices
+  keywords:
+    - Electric Motor Design_ Principles, Types, and Practices
+    - Engineering
+    - Technology
+    - Electrical engineering
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: TK
+    description: Electrical engineering, motors, electromagnetism, and power systems.
+    label: Electrical engineering
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: technically curious general reader
+    code: ''
+    collection: ''
     conversion:
-      source_docx: Electric Motor Design_ Principles, Types, and Practices.docx
-      tool: pandoc 3.6
       date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+      source_docx: Electric Motor Design Principles, Types, and Practices.docx
+      tool: pandoc 3.6
+    discipline: engineering
+    domain: engineering
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:electric-motor-design-principles-types-and-practices
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Electric Motor Design Principles, Types, and Practices
+    notes: ''
+    number: 082
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: applied design and technology
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Electric Motor Design Principles, Types, and Practices
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: electric-motor-design-principles-types-and-practices
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Engineering
+    - Technology
   subjects:
-    - electric
-    - motor
-    - design
-    - principles
-    - types
-    - practices
+    - Engineering
+    - Technology
   subtitle: ''
-  tags: *id003
+  tags:
+    - electric-motor-design-principles-types-and-practices
+    - engineering
+    - technology
   title: 'Electric Motor Design: Principles, Types, and Practices'
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: electric-motor-design-principles-types-and-practices
+summary: >-
+  Executive Summary: Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation(https…
+tags:
+  - electric-motor-design-principles-types-and-practices
+  - engineering
+  - technology
+title: 'Electric Motor Design: Principles, Types, and Practices'
 ---
 
 **Executive Summary:** Electric motors – devices that convert electrical energy to mechanical torque – are ubiquitous in modern engineering. Their history stretches from Faraday’s 1821 demonstration of electromagnetic rotation[\[1\]](https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/faraday-motor-1821/#:~:text=Self,current%20produces%20a%20magnetic%20field) through Tesla’s 1888 AC induction motor patents[\[2\]](https://spectrum.ieee.org/may-1888-tesla-files-his-patents-for-electric-motor#:~:text=It%20fell%20to%20Edison%E2%80%99s%20former,the%20requisite%20AC%20transformers%20and) to today’s high-efficiency drives. Designing a custom motor requires understanding electromagnetic fundamentals, machine types, performance trade-offs, materials, control electronics, and manufacturing. This guide reviews motor history and key inventors; explains Lorentz-force torque production and torque–speed–power relations (e.g. $`P = T\omega`$, \$T=9550\\P\_{\rm kW}/n\$[\[3\]](https://www.engineeringtoolbox.com/electrical-motors-torques-d_651.html#:~:text=In%20metric%20units%20the%20rated,torque%20can%20be%20expressed%20as)); and surveys motor categories (DC brushed, BLDC/PMSM, induction/asynchronous, synchronous reluctance, switched reluctance, stepper, linear, homopolar, axial-flux, etc.). We examine losses (copper $`I^{2}R`$, iron (hysteresis/eddy), mechanical, stray)[\[4\]](https://industrialmonitordirect.com/blogs/knowledgebase/three-phase-induction-motor-loss-distribution-and-analysis?srsltid=AfmBOopvtIApj3kuoUKHAHmqMJKL6IJ1r3FLde19RhXSpYFLrkYFNLMd#:~:text=Three,speed%20rating%2C%20and%20operating%20point) and efficiency (modern large motors often exceed 90–95%, enabling global standards IE1–IE4[\[5\]](https://library.e.abb.com/public/db64d153e3c346938e18916e66fb1d0d/9AKK107319%20EN%2005-2018_20848_ABB_Technical_note_IEC_60034_30_1.pdf#:~:text=The%20standard%20defines%20four%20IE,efficiency%20IE2%20Standard%20efficiency%20IE1)[\[6\]](https://new.abb.com/news/detail/70167/nema-vs-iec-efficiencies#:~:text=IEC%20efficiency%20standards%20Standard%20IEC%2FEN,apply%20to%20synchronous%20and%20permanent)). Key materials (Cu windings, steel laminations, rare-earth magnets) and winding/slot topologies are covered, along with analytical vs. FEA design methods. Mechanical aspects (bearings, shafts, housing), manufacturing processes (lamination stamping, winding, assembly), prototyping and test methods, and instrumentation (torque sensors, thermography) are discussed. Control electronics (PWM inverters, vector/FOC drives, sensorless control) and sensors (optical encoders, resolvers, Hall) are described. Emerging trends (additive manufacturing, wide-bandgap GaN/SiC drives[\[7\]](https://www.ti.com/lit/pdf/slyt801#:~:text=instance%2C%20GaN%20offers%20a%20gate,%E2%84%A6)[\[8\]](https://www.newark.com/technical-resources/articles/enhancing-industrial-energy-efficiency-with-sic-and-gan-technology#:~:text=Benefits%20of%20high%20GaN%20efficiency,lower%20electricity%20usage%20with%20GaN), integrated motors, magnet-free SynRM motors[\[9\]](https://www.abb.com/global/en/areas/motion/motors-generators/low-voltage-motors/iec-low-voltage-motors/synchronous-reluctance-motors#:~:text=Energy%20efficiency)) are summarized. A step-by-step design workflow and a worked example for sizing a motor are provided, along with key formulas and a bill-of-materials template. Comparison tables summarize motor types by attributes (efficiency, cost, torque density, speed range, control complexity, typical uses). References to major texts, IEEE/NEMA/IEC standards, and manufacturer notes underpin the discussion.

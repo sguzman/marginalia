@@ -1,34 +1,18 @@
 ---
-title: Christian Socialism in Mid-Victorian Britain
-linkTitle: Christian Socialism in Mid-Victorian Britain
-description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity''s core doctr…'
-summary: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity''s core doctrines---especially the Fatherhood of God and the resulting Brotherhood of Man---demanded social reform in industrial society(https://archive.org/download/lordsprayernine00maur/lordsprayernine00maur.pdf#:~:text=they%20hope%20for%20a%20brotherhood,is%20right%2C%20this%20is%20be)(https://spartacus-educational.com/REsocialism.htm#:~:text=other%20trades%2C%20averaging%2024s%20per,operation%2C%20joint%20ownership%20and%20with). Maurice, a theologian at King''s College London, maintained that true social brotherhood was impossible without first acknowledging God…'
-slug: 2christian-socialism
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - History
   - Political Thought
   - Religion
   - Victorian Britain
-tags: &id003
-  - christian-socialism
-  - anglicanism
-  - victorian-britain
-  - maurice
-  - kingsley
-  - chartism
-  - cooperatives
-  - working-mens-college
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity's core doctr…
+draft: false
+keywords:
   - Christian Socialism
   - Frederick Denison Maurice
   - Charles Kingsley
@@ -39,15 +23,17 @@ keywords: &id002
   - Working Men's College
   - social reform
   - political theology
+lastmod: '2026-05-04'
+layout: single
+linkTitle: Christian Socialism in Mid-Victorian Britain
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity''s core doctrines---especially the Fatherhood of God and the resulting Brotherhood of Man---demanded social reform in industrial society(https://archive.org/download/lordsprayernine00maur/lordsprayernine00maur.pdf#:~:text=they%20hope%20for%20a%20brotherhood,is%20right%2C%20this%20is%20be)(https://spartacus-educational.com/REsocialism.htm#:~:text=other%20trades%2C%20averaging%2024s%20per,operation%2C%20joint%20ownership%20and%20with). Maurice, a theologian at King''s College London, maintained that true social brotherhood was impossible without first acknowledging God…'
-  author:
-    - Salvador Guzmán
-  categories: *id001
+  abstract: A research note on mid-Victorian Anglican “Christian Socialism,” focusing on F. D. Maurice and Charles Kingsley, their theological rationale, key texts, and practical experiments in co-operation and adult education.
+  categories:
+    - History
+    - Political Thought
+    - Religion
+    - Victorian Britain
   cover-image: cover.png
   cover_image: cover.png
   creator:
@@ -55,7 +41,6 @@ meta:
   dataset_id: gva.christian-socialism
   date: '2026-02-12'
   description: 'Executive Summary: In mid‑Victorian Britain, Anglican priests Frederick Denison Maurice and Charles Kingsley pioneered a movement known as "Christian Socialism." Confronting the upheavals of 1848, they argued that Christianity''s core doctr…'
-  draft: false
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -63,32 +48,72 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva:christian-socialism
-  keywords: *id002
+  keywords:
+    - Christian Socialism
+    - Frederick Denison Maurice
+    - Charles Kingsley
+    - Anglicanism
+    - Victorian Britain
+    - Chartism
+    - co-operatives
+    - Working Men's College
+    - social reform
+    - political theology
   lang: en
   language: English
   library_of_congress_classification:
     class: BR115.S6
-    note: Christianity and social problems / social justice (closest LoC fit for this topic)
+    description: Socialism, communism, anarchism, and related intellectual history.
+    label: Socialism. Communism. Anarchism
   license: CC0-1.0
   number-sections: true
   plate_id: gva-plate-christian-socialism
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: Bibliography
   report:
-    false: GVA-RN-2026-CS-01
-    number: 1
-    year: 2026
+    audience: general reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: political theory
+    domain: political theory
+    emphasis: ''
+    focus: ''
+    id: gva:christian-socialism
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Christian Socialism in Mid-Victorian Britain
+    notes: ''
+    number: '012'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)
+    scope_years: ''
+    series: political-theology-notes
+    stance: ''
+    structure: ''
+    subdiscipline: socialist and radical thought
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Christian Socialism in Mid-Victorian Britain
     type: Research Note
-  report-no: GVA-RN-2026-CS-01
-  report-number: '01'
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    version: r1
+    year: 2026
   revision: r1
   rights: CC0-1.0 (public domain dedication)
-  series: political-theology-notes
-  series-number: 1
-  series-title: Political Theology Notes
   slug: 2christian-socialism
   status: published
   subject:
@@ -102,13 +127,36 @@ meta:
     - Social reform
     - Victorian era
   subtitle: Maurice, Kingsley, and the Anglican Roots of Social Reform (1848–1865)
-  tags: *id003
+  tags:
+    - christian-socialism
+    - anglicanism
+    - victorian-britain
+    - maurice
+    - kingsley
+    - chartism
+    - cooperatives
+    - working-mens-college
   title: Christian Socialism in Mid-Victorian Britain
   toc: true
   toc-depth: 2
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: 2christian-socialism
+summary: >-
+  A research note on mid-Victorian Anglican “Christian Socialism,” focusing on F. D. Maurice and Charles Kingsley, their theological rationale, key texts, and practical experiments in co-operation and adult education.
+tags:
+  - christian-socialism
+  - anglicanism
+  - victorian-britain
+  - maurice
+  - kingsley
+  - chartism
+  - cooperatives
+  - working-mens-college
+title: Christian Socialism in Mid-Victorian Britain
 ---
 
 **Executive Summary**\

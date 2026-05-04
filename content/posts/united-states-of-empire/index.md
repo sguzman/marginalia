@@ -1,85 +1,133 @@
 ---
-title: United States Of Empire
-linkTitle: United States Of Empire
-description: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
-summary: 'The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether the U.S. central government and its elites systematically manage regional folkways (local cultures and customs) in an imperial fashion, and how this contrasts with genuine pluralistic federalism. We ask: Does U.S. governance lean toward central domination or pluralistic accommodation of local diversity? Historical analysis (from colonial folkways to 20th‑century civil rights) and political theory (definitions of federation vs. empire and pluralism) are used to frame the issue. We then identify mechanisms of control (culture/media, education, policy, law, p…'
-slug: united-states-of-empire
-url: ''
-aliases: []
-date: '2026-03-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-03-04'
+description: >-
+  The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+draft: false
+keywords:
+  - The United States of Empire
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: The United States of Empire
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: 'The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether the U.S. central government and its elites systematically manage regional folkways (local cultures and customs) in an imperial fashion, and how this contrasts with genuine pluralistic federalism. We ask: Does U.S. governance lean toward central domination or pluralistic accommodation of local diversity? Historical analysis (from colonial folkways to 20th‑century civil rights) and political theory (definitions of federation vs. empire and pluralism) are used to frame the issue. We then identify mechanisms of control (culture/media, education, policy, law, p…'
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+  categories:
+    - Politics
+    - History
+    - Political Theory
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: united-states-of-empire
-  keywords: *id002
+  identifier: urn:marginalia:the-united-states-of-empire
+  keywords:
+    - The United States of Empire
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: JA
+    description: Politics, political history, social theory, and public debate.
+    label: Political science (General)
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: united-states-of-empire.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: political science
+    domain: politics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:the-united-states-of-empire
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: The United States of Empire
+    notes: ''
+    number: '067'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: history and social analysis
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: The United States of Empire
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: united-states-of-empire
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Politics
+    - History
   subjects:
-    - united
-    - states
-    - empire
+    - Politics
+    - History
   subtitle: ''
-  tags: *id003
-  title: United States Of Empire
+  tags:
+    - the-united-states-of-empire
+    - politics
+    - history
+    - political-theory
+  title: The United States of Empire
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: united-states-of-empire
+summary: >-
+  The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether th…
+tags:
+  - the-united-states-of-empire
+  - politics
+  - history
+  - political-theory
+title: The United States of Empire
 ---
 
 The United States formally operates as a constitutional federation, but many scholars and critics argue it often behaves like an empire – a powerful center imposing a uniform vision over diverse regions. This report investigates whether the U.S. central government and its elites systematically manage **regional folkways** (local cultures and customs) in an imperial fashion, and how this contrasts with genuine pluralistic federalism. We ask: *Does U.S. governance lean toward central domination or pluralistic accommodation of local diversity?* Historical analysis (from colonial folkways to 20th‑century civil rights) and political theory (definitions of federation vs. empire and pluralism) are used to frame the issue. We then identify mechanisms of control (culture/media, education, policy, law, patronage, symbolism) and present 20th–21st century case studies where local autonomy clashed with federal power (e.g. school desegregation). Comparative lessons are drawn from highly decentralized federations (Switzerland, Canada, Spain, India). We conclude that U.S. federalism today has strong centralizing elements that sometimes curb local pluralism, but also retains checks (States’ rights, local civil society). Finally, we assess the trade‑offs of greater autonomy versus national coordination and propose policy steps (legal, institutional, cultural) to bolster true pluralism. Key findings: U.S. regions keep distinct folk identities, but federal spending, laws, and media foster cultural homogenization and political control; stronger local autonomy (as seen in Swiss or Canadian models) might enhance pluralism without fragmenting the union.

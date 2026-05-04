@@ -1,35 +1,19 @@
 ---
-title: The History and Impact of Homological Algebra
-linkTitle: The History and Impact of Homological Algebra
-description: The History and Impact of Homological Algebra
-summary: The History and Impact of Homological Algebra
-slug: homological-algebra
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - mathematics
   - history-of-mathematics
   - algebra
   - topology
   - algebraic-geometry
-tags: &id003
-  - math
-  - history
-  - homology
-  - cohomology
-  - derived
-  - categories
-  - spectral-sequences
-  - grothendieck
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
+draft: false
+keywords:
   - homological algebra
   - chain complexes
   - homology
@@ -51,23 +35,25 @@ keywords: &id002
   - Cartan
   - Noether
   - Poincaré
+lastmod: '2026-05-04'
+layout: single
+linkTitle: The History and Impact of Homological Algebra
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: The History and Impact of Homological Algebra
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
+  categories:
+    - mathematics
+    - history-of-mathematics
+    - algebra
+    - topology
+    - algebraic-geometry
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: gva.article.homological-algebra
   date: '2026-02-12'
-  description: The History and Impact of Homological Algebra
-  draft: false
+  description: A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -75,40 +61,83 @@ meta:
   epub_cover_image: cover.png
   format: article
   identifier: gva:article:homological-algebra:2026-02-12
-  keywords: *id002
+  keywords:
+    - homological algebra
+    - chain complexes
+    - homology
+    - cohomology
+    - exact sequences
+    - derived functors
+    - Ext
+    - Tor
+    - spectral sequences
+    - abelian categories
+    - derived categories
+    - triangulated categories
+    - dg-categories
+    - infinity-categories
+    - derived algebraic geometry
+    - Grothendieck
+    - Eilenberg
+    - Mac Lane
+    - Cartan
+    - Noether
+    - Poincaré
   lang: en-US
   language: English
   library_of_congress_classification:
-    primary: QA612.3
-    area: Mathematics
-    note: Homological algebra / algebraic topology classification (best-effort)
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: true
   plate_id: gva-plate-homological-algebra-0001
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: References
   report:
-    kind: historical-technical-report
-    scope: field survey
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: mathematics
     domain: mathematics
-    topic: homological algebra
-    structure:
-      - Executive Summary
-      - Narrative History
-      - Milestone Timeline
-      - Outcomes / Impact
-      - Methodological Shifts
-      - Conclusion
-  report-no: '1'
-  report-number: GVA-HA-0001
-  report-year: '2026'
-  report_no: 1
-  report_year: 2026
+    emphasis: ''
+    focus: ''
+    id: gva:article:homological-algebra:2026-02-12
+    intent: ''
+    is_report: true
+    kind: historical-technical-report
+    level: ''
+    method: ''
+    methods: []
+    name: The History and Impact of Homological Algebra
+    notes: ''
+    number: 029
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: field survey
+    scope_years: ''
+    series: gva-math-histories
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: The History and Impact of Homological Algebra
+    type: report
+    version: 1.0.0
+    year: 2026
   revision: 1.0.0
   rights: CC0-1.0
-  series: gva-math-histories
-  series-number: 1
-  series-title: 'Gold, Velvet and Ashes: Mathematical Histories'
   slug: homological-algebra
   status: published
   subject:
@@ -128,13 +157,36 @@ meta:
     - spectral-sequences
     - derived-categories
   subtitle: From Betti Numbers to Infinity-Categories
-  tags: *id003
+  tags:
+    - math
+    - history
+    - homology
+    - cohomology
+    - derived
+    - categories
+    - spectral-sequences
+    - grothendieck
   title: The History and Impact of Homological Algebra
   toc: true
   toc-depth: 3
   toc-title: Contents
   type: report
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: homological-algebra
+summary: >-
+  A narrative history of homological algebra and why its tools (complexes, exact sequences, derived functors, spectral sequences, and derived categories) became foundational across topology, algebra, geometry, and number theory.
+tags:
+  - math
+  - history
+  - homology
+  - cohomology
+  - derived
+  - categories
+  - spectral-sequences
+  - grothendieck
+title: The History and Impact of Homological Algebra
 ---
 
 ## Executive Summary

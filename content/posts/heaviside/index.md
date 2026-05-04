@@ -1,83 +1,125 @@
 ---
-title: heaviside
-linkTitle: heaviside
-description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
-summary: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and field problems. He started as a telegraph operator and, after deafness forced him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk Maxwell’s cumbersome 20-equation system into the four-vector equations used today(https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables), introduced the “operational calculus” (treating $d/dt$ as an algebraic symbol) to analyze circuits(https://mathshistory.st-andrews.ac.uk/Biogra…
-slug: heaviside
-url: ''
-aliases: []
-date: '2026-03-04'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
+categories:
+  - Mathematics
+  - History of Mathematics
+date: '2026-03-04'
+description: >-
+  Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
+draft: false
+keywords:
+  - Oliver Heaviside
+  - Mathematics
+  - History of Mathematics
+lastmod: '2026-05-04'
 layout: single
-weight: 0
-categories: &id001 []
-tags: &id003 []
-keywords: &id002 []
+linkTitle: Oliver Heaviside
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and field problems. He started as a telegraph operator and, after deafness forced him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk Maxwell’s cumbersome 20-equation system into the four-vector equations used today(https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables), introduced the “operational calculus” (treating $d/dt$ as an algebraic symbol) to analyze circuits(https://mathshistory.st-andrews.ac.uk/Biogra…
-  author:
-    - Salvador Guzman
-  categories: *id001
-  cover-image: ''
-  cover_image: ''
+  abstract: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
+  categories:
+    - Mathematics
+    - History of Mathematics
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
   description: Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
-  draft: false
-  edition: ''
+  edition: '1'
   epub-chapter-level: 0
-  epub-cover-image: ''
   epub-title-page: false
-  epub_cover_image: ''
   format: markdown
-  identifier: heaviside
-  keywords: *id002
+  identifier: urn:marginalia:oliver-heaviside
+  keywords:
+    - Oliver Heaviside
+    - Mathematics
+    - History of Mathematics
   lang: en
-  language: en
-  library_of_congress_classification: {}
+  language: English
+  library_of_congress_classification:
+    class: QA
+    description: Mathematics, mathematical history, and mathematical methods.
+    label: Mathematics
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
   publisher: Marginalia
-  reference-section-title: ''
+  reference-section-title: References
   report:
+    audience: general mathematically literate reader
+    code: ''
+    collection: ''
     conversion:
+      date: '2026-04-20'
       source_docx: heaviside.docx
       tool: pandoc 3.6
-      date: '2026-04-20'
-  report-no: ''
-  report-number: ''
-  report-year: ''
-  report_no: 0
-  report_year: 0
-  revision: ''
+    discipline: mathematics
+    domain: mathematics
+    emphasis: ''
+    focus: ''
+    id: urn:marginalia:oliver-heaviside
+    intent: ''
+    is_report: true
+    kind: research report
+    level: ''
+    method: ''
+    methods: []
+    name: Oliver Heaviside
+    notes: ''
+    number: '063'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: ''
+    scope_years: ''
+    series: Marginalia Reports
+    stance: ''
+    structure: ''
+    subdiscipline: mathematical history and theory
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: Oliver Heaviside
+    type: report
+    version: 1.0.0
+    year: 2026
+  revision: 1.0.0
   rights: CC0-1.0
-  series: ''
-  series-number: 0
-  series-title: ''
   slug: heaviside
-  status: published
-  subject: []
+  status: complete
+  subject:
+    - Mathematics
+    - History of mathematics
   subjects:
-    - heaviside
+    - Mathematics
+    - History of mathematics
   subtitle: ''
-  tags: *id003
-  title: heaviside
+  tags:
+    - oliver-heaviside
+    - mathematics
+    - history-of-mathematics
+  title: Oliver Heaviside
   toc: false
   toc-depth: 0
-  toc-title: ''
-  type: article
-ai_generated: true
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: heaviside
+summary: >-
+  Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and fiel…
+tags:
+  - oliver-heaviside
+  - mathematics
+  - history-of-mathematics
+title: Oliver Heaviside
 ---
 
 Oliver Heaviside (1850–1925) was a largely self-educated British engineer and mathematical physicist who transformed Maxwell’s electromagnetic theory into a usable form and invented powerful symbolic techniques for solving circuit and field problems. He started as a telegraph operator and, after deafness forced him to retire in 1874, devoted himself to electricity and mathematics. Heaviside reorganized James Clerk Maxwell’s cumbersome 20-equation system into the four-vector equations used today[\[1\]](https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=Summary%20Oliver%20Heaviside%20proved%20important,4%20equations%20in%202%20variables), introduced the “operational calculus” (treating \$d/dt\$ as an algebraic symbol) to analyze circuits[\[2\]](https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=caused%20much%20controversy%20however,proved%20until%20%2013%27s%20work), and formulated transmission-line equations for telegraphy[\[3\]](https://www.theiet.org/membership/library-and-archives/the-iet-archives/biographies/oliver-heaviside-1850-1925#:~:text=He%20had%20long%20and%20famous,remained%20a%20lifelong%20friend%20of). He also predicted the ionosphere (the “Kennelly–Heaviside layer”)[\[4\]](https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/#:~:text=In%201902%20Heaviside%20predicted%20that,the%20reflecting%20layer%20were%20received) and anticipated relativistic mass increase in his *Electromagnetic Theory*[\[5\]](https://www.britannica.com/biography/Oliver-Heaviside#:~:text=webster,prediction%20was%20made%20in%201902).

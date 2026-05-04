@@ -1,38 +1,19 @@
 ---
-title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
-linkTitle: A Comprehensive History of CSS --- Institutions, Specs, a…
-description: A Comprehensive History of CSS --- Institutions, Specs, and Practice
-summary: A Comprehensive History of CSS --- Institutions, Specs, and Practice
-slug: css-history
-url: ''
-aliases: []
-date: '2026-02-12'
-lastmod: '2026-04-26'
-draft: false
+ai_generated: true
 authors:
   - Salvador Guzman
   - ChatGPT
-layout: single
-weight: 0
-categories: &id001
+categories:
   - web
   - css
   - web-standards
   - software-history
   - front-end
-tags: &id003
-  - css
-  - web
-  - w3c
-  - standards
-  - front-end
-  - history
-  - browsers
-  - responsive-design
-  - flexbox
-  - grid
-  - css-architecture
-keywords: &id002
+date: '2026-02-12'
+description: >-
+  A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS archite…
+draft: false
+keywords:
   - CSS
   - Cascading Style Sheets
   - W3C
@@ -52,23 +33,25 @@ keywords: &id002
   - OOCSS
   - SMACSS
   - CSS Zen Garden
+lastmod: '2026-05-04'
+layout: single
+linkTitle: A Comprehensive History of CSS --- Institutions, Specs, a…
 markup: goldmark
-outputs:
-  - HTML
-  - RSS
 meta:
-  abstract: A Comprehensive History of CSS --- Institutions, Specs, and Practice
-  author:
-    - Salvador Guzman
-  categories: *id001
+  abstract: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS architecture).
+  categories:
+    - web
+    - css
+    - web-standards
+    - software-history
+    - front-end
   cover-image: cover.png
   cover_image: cover.png
   creator:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-02-12'
-  description: A Comprehensive History of CSS --- Institutions, Specs, and Practice
-  draft: false
+  description: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS archite…
   edition: '1'
   epub-chapter-level: 2
   epub-cover-image: cover.png
@@ -76,28 +59,80 @@ meta:
   epub_cover_image: cover.png
   format: markdown
   identifier: gva-history-of-css-2026-02-12
-  keywords: *id002
+  keywords:
+    - CSS
+    - Cascading Style Sheets
+    - W3C
+    - CSS Working Group
+    - web standards
+    - browser interoperability
+    - CSS1
+    - CSS2
+    - CSS2.1
+    - CSS3 modules
+    - Flexbox
+    - Grid
+    - media queries
+    - responsive design
+    - CSS architecture
+    - BEM
+    - OOCSS
+    - SMACSS
+    - CSS Zen Garden
   lang: en
   language: en
-  library_of_congress_classification: {}
+  library_of_congress_classification:
+    class: QA76
+    description: Computer science, software, web standards, and computing history.
+    label: Computer science
   license: CC0-1.0
   number-sections: false
-  plate_id: ''
-  publisher: Gold, Velvet and Ashes
+  publisher: Marginalia
   reference-section-title: Annotated Bibliography and Further Reading
   report:
-    false: 0
+    audience: general technically literate reader
+    code: ''
+    collection: ''
+    conversion:
+      date: ''
+      source_docx: ''
+      tool: ''
+    discipline: computer science
+    domain: computing
+    emphasis: ''
+    focus: ''
+    id: gva-history-of-css-2026-02-12
+    intent: ''
+    is_report: true
+    kind: historical survey
+    level: ''
+    method: ''
+    methods: []
+    name: A Comprehensive History of CSS
+    notes: ''
+    number: '023'
+    organization: Marginalia
+    period: ''
+    period_covered: ''
+    population_focus: ''
+    primary_texts: []
+    region: ''
+    region_focus: ''
+    scope: Institutions, Specs, and Practice
+    scope_years: ''
+    series: Gold, Velvet and Ashes
+    stance: ''
+    structure: ''
+    subdiscipline: computing history and software systems
+    subject: ''
+    time_scope: ''
+    time_span: ''
+    topic: A Comprehensive History of CSS
+    type: article
+    version: r1
     year: 2026
-  report-no: '0'
-  report-number: '0'
-  report-year: '2026'
-  report_no: 0
-  report_year: 2026
   revision: r1
   rights: CC0-1.0
-  series: Gold, Velvet and Ashes
-  series-number: 0
-  series-title: Gold, Velvet and Ashes
   slug: css-history
   status: complete
   subject:
@@ -113,13 +148,42 @@ meta:
     - Web development practices
     - Design systems and CSS architecture
   subtitle: Institutions, Specs, and Practice
-  tags: *id003
+  tags:
+    - css
+    - web
+    - w3c
+    - standards
+    - front-end
+    - history
+    - browsers
+    - responsive-design
+    - flexbox
+    - grid
+    - css-architecture
   title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
   toc: true
   toc-depth: 2
   toc-title: Contents
   type: article
-ai_generated: true
+outputs:
+  - HTML
+  - RSS
+slug: css-history
+summary: >-
+  A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS architecture).
+tags:
+  - css
+  - web
+  - w3c
+  - standards
+  - front-end
+  - history
+  - browsers
+  - responsive-design
+  - flexbox
+  - grid
+  - css-architecture
+title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
 ---
 
 ## Executive Summary
