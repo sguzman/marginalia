@@ -172,31 +172,141 @@ What linear algebra finally achieved was a unification. Systems of equations, de
 
 The earliest recoverable layer of the story is intensely practical. In The Nine Chapters on the Mathematical Art, compiled over centuries and canonized in ancient China, chapter 8 treated problems that amount to simultaneous linear equations arising from trade, taxation, engineering, and measurement. The method used counting rods on a counting board and, in modern language, performs elimination: one combines rows so that a variable disappears, then repeats until the system is simplified. This is why the history of linear algebra starts not with abstraction but with bureaucracy, infrastructure, and commerce.
 
-A tiny modern example shows the essence of that old procedure. Consider \[ \begin{bmatrix} 2 & 1\\ 1 & -1 \end{bmatrix} \begin{bmatrix} x\\ y \end{bmatrix}
+A tiny modern example shows the essence of that old procedure. Consider
 
-\begin{bmatrix} 5\\ 1 \end{bmatrix}. \] Replace the first row by “row 1 minus twice row 2.” The system becomes \[ \begin{bmatrix} 0 & 3\\ 1 & -1 \end{bmatrix} \begin{bmatrix} x\\ y \end{bmatrix}
+<div class="math-block">\[
+\begin{bmatrix}
+2 & 1 \\
+1 & -1
+\end{bmatrix}
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}
+=
+\begin{bmatrix}
+5 \\
+1
+\end{bmatrix}.
+\]</div>
 
-\begin{bmatrix} 3\\ 1 \end{bmatrix}, \] so (y=1), and then (x=2). The point is not the arithmetic. It is the principle that carefully chosen row operations preserve the solution set while making the structure more visible. That principle is the beating heart of elimination, from ancient counting rods to modern Gaussian elimination.
+Replace the first row by “row 1 minus twice row 2.” The system becomes
+
+<div class="math-block">\[
+\begin{bmatrix}
+0 & 3 \\
+1 & -1
+\end{bmatrix}
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}
+=
+\begin{bmatrix}
+3 \\
+1
+\end{bmatrix},
+\]</div>
+
+so \(y = 1\), and then \(x = 2\). The point is not the arithmetic. It is the principle that carefully chosen row operations preserve the solution set while making the structure more visible. That principle is the beating heart of elimination, from ancient counting rods to modern Gaussian elimination.
 
 A second line of development came from formulas for solvability. Gottfried Wilhelm Leibniz, in a 1693 letter, effectively wrote down a determinant condition for a system to have a solution; later, Gabriel Cramer published the rule that now bears his name. A determinant can be explained in plain language as a summary number attached to a square matrix. Geometrically, it measures signed area in two dimensions, signed volume in three, and higher-dimensional volume scaling in general. Algebraically, if the determinant is zero, the transformation crushes space in some direction and cannot be inverted; if it is nonzero, independent directions stay independent. That is why determinants became the earliest general test for whether a linear system has a unique solution.
 
-The great nineteenth-century shock came when scientists had more observations than unknowns. Astronomers were no longer solving perfectly consistent equations; they were reconciling noisy data. The method of least squares answered a new question: not “Which exact solution satisfies all equations?” but “Which approximate solution makes the total error as small as possible?” The historical drama was immediate. Legendre published the method in 1805; Gauss, publishing in 1809, claimed he had used it since 1795; Legendre complained in private, and the priority dispute has been discussed ever since. The underlying technical step is beautiful: minimizing the sum of squared residuals leads to the normal equations (A^{T}A\beta=A^{T}b), which convert approximation into another linear system.
+The great nineteenth-century shock came when scientists had more observations than unknowns. Astronomers were no longer solving perfectly consistent equations; they were reconciling noisy data. The method of least squares answered a new question: not “Which exact solution satisfies all equations?” but “Which approximate solution makes the total error as small as possible?” The historical drama was immediate. Legendre published the method in 1805; Gauss, publishing in 1809, claimed he had used it since 1795; Legendre complained in private, and the priority dispute has been discussed ever since. The underlying technical step is beautiful: minimizing the sum of squared residuals leads to the normal equations \(A^{T}A\beta = A^{T}b\), which convert approximation into another linear system.
 
-A worked least-squares example makes the idea concrete. Suppose we want the line (y\approx a+bx) that best fits the three points ((0,1)), ((1,2)), and ((2,2)). Then \[ A= \begin{bmatrix} 1&0\\ 1&1\\ 1&2 \end{bmatrix}, \qquad \beta= \begin{bmatrix} a\\ b \end{bmatrix}, \qquad b= \begin{bmatrix} 1\\ 2\\ 2 \end{bmatrix}. \] The least-squares problem minimizes (\|A\beta-b\|^2). Setting derivatives to zero yields \[ A^TA,\beta=A^Tb \quad\Longrightarrow\quad \begin{bmatrix} 3&3\\ 3&5 \end{bmatrix} \begin{bmatrix} a\\ b \end{bmatrix}
+A worked least-squares example makes the idea concrete. Suppose we want the line \(y \approx a + bx\) that best fits the three points \((0,1)\), \((1,2)\), and \((2,2)\). Then
 
-\begin{bmatrix} 5\\ 6 \end{bmatrix}, \] so (a=\tfrac23) and (b=1). The best-fit line is therefore (y=\tfrac23+x). It misses all three points slightly, but in the most balanced way. The key geometric fact is that the residual vector is orthogonal to the column space of (A): optimal approximation is characterized by perpendicularity. That one insight links data fitting, projection, orthogonality, and matrix equations in a single conceptual package.
+<div class="math-block">\[
+A=
+\begin{bmatrix}
+1 & 0 \\
+1 & 1 \\
+1 & 2
+\end{bmatrix},
+\qquad
+\beta=
+\begin{bmatrix}
+a \\
+b
+\end{bmatrix},
+\qquad
+b=
+\begin{bmatrix}
+1 \\
+2 \\
+2
+\end{bmatrix}.
+\]</div>
+
+The least-squares problem minimizes \(\|A\beta-b\|^2\). Setting derivatives to zero yields
+
+<div class="math-block">\[
+A^T A \beta = A^T b
+\quad \Longrightarrow \quad
+\begin{bmatrix}
+3 & 3 \\
+3 & 5
+\end{bmatrix}
+\begin{bmatrix}
+a \\
+b
+\end{bmatrix}
+=
+\begin{bmatrix}
+5 \\
+6
+\end{bmatrix},
+\]</div>
+
+so \(a = \tfrac{2}{3}\) and \(b = 1\). The best-fit line is therefore \(y = \tfrac{2}{3} + x\). It misses all three points slightly, but in the most balanced way. The key geometric fact is that the residual vector is orthogonal to the column space of \(A\): optimal approximation is characterized by perpendicularity. That one insight links data fitting, projection, orthogonality, and matrix equations in a single conceptual package.
 
 # When Arrays Became Objects
 
 The next decisive step was conceptual. Augustin-Louis Cauchy, trained at the École Polytechnique and the engineering school École des Ponts et Chaussées, entered mathematics through mechanics, celestial theory, and quadratic forms. In the 1820s he used coefficient “tableaux,” studied what later became characteristic equations, gave diagonalization results for symmetric matrices, and introduced the core idea behind similarity. His motivating question was not abstract matrix theory for its own sake. It was how to rewrite a complicated quadratic form as a sum of independent squares, so that oscillations, energies, and stability properties could be read off directly.
 
-An eigenvector is the simplest way to see what Cauchy had uncovered. It is a direction that a linear transformation stretches or compresses without turning. For \[ A= \begin{bmatrix} 2&1\\ 1&2 \end{bmatrix}, \] we have \[ A\begin{bmatrix}1\1\end{bmatrix}
+An eigenvector is the simplest way to see what Cauchy had uncovered. It is a direction that a linear transformation stretches or compresses without turning. For
 
-\begin{bmatrix}3\3\end{bmatrix}
+<div class="math-block">\[
+A=
+\begin{bmatrix}
+2 & 1 \\
+1 & 2
+\end{bmatrix},
+\]</div>
 
-3\begin{bmatrix}1\1\end{bmatrix}, \qquad A\begin{bmatrix}1\\1\end{bmatrix}
+we have
 
-\begin{bmatrix}1\\1\end{bmatrix}. \] So the directions ((1,1)) and ((1,-1)) are special: one is stretched by a factor of 3, the other by a factor of 1. In the basis formed by those two vectors, the matrix becomes diagonal. A messy coupled system in ordinary coordinates becomes two uncoupled one-dimensional actions. That is the finite-dimensional seed of spectral theory.
+<div class="math-block">\[
+A
+\begin{bmatrix}
+1 \\
+1
+\end{bmatrix}
+=
+\begin{bmatrix}
+3 \\
+3
+\end{bmatrix}
+=
+3
+\begin{bmatrix}
+1 \\
+1
+\end{bmatrix},
+\qquad
+A
+\begin{bmatrix}
+1 \\
+-1
+\end{bmatrix}
+=
+\begin{bmatrix}
+1 \\
+-1
+\end{bmatrix}.
+\]</div>
+
+So the directions \((1,1)\) and \((1,-1)\) are special: one is stretched by a factor of 3, the other by a factor of 1. In the basis formed by those two vectors, the matrix becomes diagonal. A messy coupled system in ordinary coordinates becomes two uncoupled one-dimensional actions. That is the finite-dimensional seed of spectral theory.
 
 Sylvester gave the new subject much of its language, and Cayley gave it much of its architecture. Sylvester introduced the word “matrix” in 1850 for an oblong arrangement from which one could extract determinants, and later coined “latent roots” for what are now eigenvalues. Nicholas Higham’s historical essay, drawing on the biographies, emphasizes the contrast between the two friends: Sylvester was mercurial and temperamental, while Cayley was steadier and more systematically informed. The partnership mattered because Cayley recognized that the array itself, not just the determinants cut from it, deserved a theory. In his 1858 memoir he defined matrices as objects, connected them explicitly to systems of linear equations, defined matrix addition and multiplication, and announced the remarkable theorem that a matrix satisfies an algebraic equation of its own order.
 
@@ -226,7 +336,17 @@ The technical and human significance of this shift is hard to overstate. It allo
 
 Once the subject was centered on structure rather than on coordinates, the natural next question was classification. When do two different matrices represent the same linear action in different bases? Jordan’s answer was canonical form, but repeated eigenvalues made the problem unexpectedly subtle. Brechenmacher’s reconstruction of the 1874 Jordan–Kronecker controversy shows that the disagreement was not merely technical; it concerned what mathematics ought to value. Jordan favored a simplifying algebraic reduction process. Kronecker and the Weierstrass tradition emphasized invariant arithmetic data. From the standpoint of modern linear algebra, the two approaches were closely related, but historically they embodied different mathematical temperaments.
 
-Jordan form is best understood through failure. If a matrix has enough eigenvectors, it can be diagonalized and its action decomposes into independent one-dimensional pieces. But consider \[ N= \begin{bmatrix} 0&1\\ 0&0 \end{bmatrix}. \] Its only eigenvalue is (0), yet it does not have enough eigenvectors to be diagonalized. Jordan’s insight was that one should not treat this as mere pathology. The best simplified form is a block with a 1 just above the diagonal. That extra 1 records exactly how diagonalization fails: there is a vector that is not an eigenvector but is sent into one. Canonical form therefore does more than classify success. It classifies defect.
+Jordan form is best understood through failure. If a matrix has enough eigenvectors, it can be diagonalized and its action decomposes into independent one-dimensional pieces. But consider
+
+<div class="math-block">\[
+N=
+\begin{bmatrix}
+0 & 1 \\
+0 & 0
+\end{bmatrix}.
+\]</div>
+
+Its only eigenvalue is \(0\), yet it does not have enough eigenvectors to be diagonalized. Jordan’s insight was that one should not treat this as mere pathology. The best simplified form is a block with a 1 just above the diagonal. That extra 1 records exactly how diagonalization fails: there is a vector that is not an eigenvector but is sent into one. Canonical form therefore does more than classify success. It classifies defect.
 
 Ferdinand Georg Frobenius stabilized this terrain. The St Andrews chronology credits his 1878 memoir with major results on canonical matrices, the definition of rank, and the definition of orthogonal matrices, as well as the first general proof that a matrix satisfies its characteristic equation. This was not merely tidying up. Rank answers a fundamental structural question: how many truly independent output directions does a linear map produce? Orthogonality identifies transformations that preserve inner-product geometry. Frobenius helped transform a scattered collection of methods into something recognizably close to modern matrix theory.
 
@@ -242,7 +362,7 @@ The twentieth century forced a new reckoning. Exact linear algebra had become so
 
 This is where the emotional texture changes again. Turing came out of wartime cryptanalysis and early computer design into a world where arithmetic was no longer performed by hand but by machines with finite storage and unavoidable rounding. His postwar work at the National Physical Laboratory and then Manchester pushed him increasingly toward numerical analysis. Linear algebra mattered because it was where the machine met the scientific problem most directly: every simulation, fit, and discretized differential equation produced matrices. The battlefield was no longer only the blackboard proof; it was the stubborn mismatch between real numbers in theory and floating-point numbers in hardware.
 
-The technical response was to prefer algorithms that respect geometry. Forming the normal equations (A^TAx=A^Tb) in least squares is conceptually elegant, but it can magnify conditioning problems in computation. Orthogonal methods are safer because orthogonal transformations preserve lengths. Alston S. Householder’s 1958 triangularization used reflections to build such transformations; Gene H. Golub’s 1965 least-squares paper made QR methods central; and James H. Wilkinson developed backward error analysis, asking whether the computed answer is the exact answer to a nearby problem. That question became a moral standard for numerical linear algebra. It did not overthrow exact theory; it taught mathematicians which exact theories survive contact with machines.
+The technical response was to prefer algorithms that respect geometry. Forming the normal equations \(A^T A x = A^T b\) in least squares is conceptually elegant, but it can magnify conditioning problems in computation. Orthogonal methods are safer because orthogonal transformations preserve lengths. Alston S. Householder’s 1958 triangularization used reflections to build such transformations; Gene H. Golub’s 1965 least-squares paper made QR methods central; and James H. Wilkinson developed backward error analysis, asking whether the computed answer is the exact answer to a nearby problem. That question became a moral standard for numerical linear algebra. It did not overthrow exact theory; it taught mathematicians which exact theories survive contact with machines.
 
 By mid-century, then, linear algebra had become both purer and rougher. Purer, because the abstract language of spaces and operators reached astonishing generality. Rougher, because algorithms had to cope with rounding, ill-conditioning, and scale. That double life is still the field’s defining feature. A modern practitioner may move in one afternoon from Jordan form to QR factorization, from self-adjoint operators to least squares, from symmetry groups to singular values. Historically, that is not a coincidence. It is what the field became when structure and computation finally learned to inhabit the same house.
 
