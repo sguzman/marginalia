@@ -1,9 +1,10 @@
-generated_at = "2026-05-04T20:11:07.692510+00:00"
 source_root = "tmp/ai-research-reports/data/md"
 crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
 total_documents = 97
-added_documents = 96
-pending_documents = 1
+generated_at = "2026-05-04T21:30:27.374732+00:00"
+published_documents = 88
+suppressed_duplicate_documents = 9
+pending_documents = 0
 
 [[documents]]
 source_slug = "1inventing-socialism"
@@ -18,6 +19,7 @@ added = true
 blog_slug = "1inventing-socialism"
 blog_path = "content/posts/1inventing-socialism.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "2christian-socialism"
@@ -32,6 +34,7 @@ added = true
 blog_slug = "2christian-socialism"
 blog_path = "content/posts/2christian-socialism.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "3mutualism"
@@ -46,6 +49,7 @@ added = true
 blog_slug = "3mutualism"
 blog_path = "content/posts/3mutualism/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "4chartist"
@@ -60,6 +64,7 @@ added = true
 blog_slug = "4chartist"
 blog_path = "content/posts/4chartist.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "a-history-of-functional-analysis"
@@ -74,6 +79,7 @@ added = true
 blog_slug = "a-history-of-functional-analysis"
 blog_path = "content/posts/a-history-of-functional-analysis.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture"
@@ -88,6 +94,7 @@ added = true
 blog_slug = "a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture"
 blog_path = "content/posts/a-literary-non-technical-history-of-the-hilbert-p-lya-conjecture.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "a-post-chomskyan-theory-of-language-in-the-age-of-llms"
@@ -102,6 +109,7 @@ added = true
 blog_slug = "a-post-chomskyan-theory-of-language-in-the-age-of-llms"
 blog_path = "content/posts/a-post-chomskyan-theory-of-language-in-the-age-of-llms.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "algebra-evolution"
@@ -116,6 +124,7 @@ added = true
 blog_slug = "algebra-evolution"
 blog_path = "content/posts/algebra-evolution.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "american-judicial-process"
@@ -130,6 +139,7 @@ added = true
 blog_slug = "american-judicial-process"
 blog_path = "content/posts/american-judicial-process.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "analysis-semantics"
@@ -144,6 +154,7 @@ added = true
 blog_slug = "analysis-semantics"
 blog_path = "content/posts/analysis-semantics.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "brickmaking-history-materials-processes-and-production-planning"
@@ -158,6 +169,7 @@ added = true
 blog_slug = "brickmaking-history-materials-processes-and-production-planning"
 blog_path = "content/posts/brickmaking-history-materials-processes-and-production-planning/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "category-theory"
@@ -172,6 +184,7 @@ added = true
 blog_slug = "category-theory"
 blog_path = "content/posts/category-theory.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "category-theory-research-scope"
@@ -182,10 +195,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/category-theory-research-scope/main.md"
 meta_path = "tmp/ai-research-reports/data/md/category-theory-research-scope/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "category-theory-research-scope"
-blog_path = "content/posts/category-theory-research-scope.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is category-theory (content/posts/category-theory.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "chip-industry"
@@ -200,6 +214,7 @@ added = true
 blog_slug = "chip-industry"
 blog_path = "content/posts/chip-industry.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "christian-socialism-report-request"
@@ -214,6 +229,7 @@ added = true
 blog_slug = "christian-socialism-report-request"
 blog_path = "content/posts/christian-socialism-report-request.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "civilizing-injustice-colonial-conquest-and-moral-pretexts"
@@ -228,6 +244,7 @@ added = true
 blog_slug = "civilizing-injustice-colonial-conquest-and-moral-pretexts"
 blog_path = "content/posts/civilizing-injustice-colonial-conquest-and-moral-pretexts/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "co-opting-the-left"
@@ -242,6 +259,7 @@ added = true
 blog_slug = "co-opting-the-left"
 blog_path = "content/posts/co-opting-the-left.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "complex-plane-canvas"
@@ -256,6 +274,7 @@ added = true
 blog_slug = "complex-plane-canvas"
 blog_path = "content/posts/complex-plane-canvas.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "complex-plane-culture"
@@ -270,6 +289,7 @@ added = true
 blog_slug = "complex-plane-culture"
 blog_path = "content/posts/complex-plane-culture/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "conserving-radicalism"
@@ -284,6 +304,7 @@ added = true
 blog_slug = "conserving-radicalism"
 blog_path = "content/posts/conserving-radicalism.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "corporate-capital-and-progressive-cultural-politics"
@@ -298,6 +319,7 @@ added = true
 blog_slug = "corporate-capital-and-progressive-cultural-politics"
 blog_path = "content/posts/corporate-capital-and-progressive-cultural-politics.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "critical-review-of-major-official-financial-crisis-inquiry-reports"
@@ -312,6 +334,7 @@ added = true
 blog_slug = "critical-review-of-major-official-financial-crisis-inquiry-reports"
 blog_path = "content/posts/critical-review-of-major-official-financial-crisis-inquiry-reports.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "css-history"
@@ -326,6 +349,7 @@ added = true
 blog_slug = "css-history"
 blog_path = "content/posts/css-history.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "culture-gothic"
@@ -340,6 +364,7 @@ added = true
 blog_slug = "culture-gothic"
 blog_path = "content/posts/culture-gothic.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "current-year-structure-of-taxes-in-the-united-states"
@@ -354,6 +379,7 @@ added = true
 blog_slug = "current-year-structure-of-taxes-in-the-united-states"
 blog_path = "content/posts/current-year-structure-of-taxes-in-the-united-states.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "darrieus-vawt-design-construction-1-10-kw"
@@ -368,6 +394,7 @@ added = true
 blog_slug = "darrieus-vawt-design-construction-1-10-kw"
 blog_path = "content/posts/darrieus-vawt-design-construction-1-10-kw/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "desalination-plant-design-and-construction"
@@ -382,6 +409,7 @@ added = true
 blog_slug = "desalination-plant-design-and-construction"
 blog_path = "content/posts/desalination-plant-design-and-construction.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo"
@@ -396,6 +424,7 @@ added = true
 blog_slug = "distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo"
 blog_path = "content/posts/distinguishing-borderer-right-coded-vs-left-awkward-authentic-internet-memes-a-research-framewo/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "electric-motor-design-principles-types-and-practices"
@@ -410,6 +439,7 @@ added = true
 blog_slug = "electric-motor-design-principles-types-and-practices"
 blog_path = "content/posts/electric-motor-design-principles-types-and-practices/index.md"
 note = ""
+status = "published_authorized_duplicate"
 
 [[documents]]
 source_slug = "electric-motors-v2"
@@ -424,6 +454,7 @@ added = true
 blog_slug = "electric-motors-v2"
 blog_path = "content/posts/electric-motors-v2.md"
 note = ""
+status = "published_authorized_duplicate"
 
 [[documents]]
 source_slug = "emptiness-of-deleuze"
@@ -438,6 +469,7 @@ added = true
 blog_slug = "emptiness-of-deleuze"
 blog_path = "content/posts/emptiness-of-deleuze.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "fake-populism-and-neil-young"
@@ -452,6 +484,7 @@ added = true
 blog_slug = "fake-populism-and-neil-young"
 blog_path = "content/posts/fake-populism-and-neil-young.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "federal-legal-landscape"
@@ -462,10 +495,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/federal-legal-landscape/main.md"
 meta_path = "tmp/ai-research-reports/data/md/federal-legal-landscape/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "federal-legal-landscape"
-blog_path = "content/posts/federal-legal-landscape.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is kern-county-cannabis-legal-environment (content/posts/kern-county-cannabis-legal-environment.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "gaht"
@@ -480,6 +514,7 @@ added = true
 blog_slug = "gaht"
 blog_path = "content/posts/gaht.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "gaht-research-report-summary"
@@ -490,10 +525,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/gaht-research-report-summary/main.md"
 meta_path = "tmp/ai-research-reports/data/md/gaht-research-report-summary/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "gaht-research-report-summary"
-blog_path = "content/posts/gaht-research-report-summary.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is gaht (content/posts/gaht.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "geometry-semantics"
@@ -508,6 +544,7 @@ added = true
 blog_slug = "geometry-semantics"
 blog_path = "content/posts/geometry-semantics.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "global-population-dynamics-peaks-in-population-level-and-growth-rates"
@@ -522,6 +559,7 @@ added = true
 blog_slug = "global-population-dynamics-peaks-in-population-level-and-growth-rates"
 blog_path = "content/posts/global-population-dynamics-peaks-in-population-level-and-growth-rates.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "grrm-deconstructed"
@@ -536,6 +574,7 @@ added = true
 blog_slug = "grrm-deconstructed"
 blog_path = "content/posts/grrm-deconstructed.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "hasan"
@@ -550,6 +589,7 @@ added = true
 blog_slug = "hasan"
 blog_path = "content/posts/hasan.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "hasanabi-popularity-analysis"
@@ -560,10 +600,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/hasanabi-popularity-analysis/main.md"
 meta_path = "tmp/ai-research-reports/data/md/hasanabi-popularity-analysis/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "hasanabi-popularity-analysis"
-blog_path = "content/posts/hasanabi-popularity-analysis.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is hasan (content/posts/hasan.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "heaviside"
@@ -578,6 +619,7 @@ added = true
 blog_slug = "heaviside"
 blog_path = "content/posts/heaviside/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "highway-engineering"
@@ -592,6 +634,7 @@ added = true
 blog_slug = "highway-engineering"
 blog_path = "content/posts/highway-engineering/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "hitler-philosophy"
@@ -606,6 +649,7 @@ added = true
 blog_slug = "hitler-philosophy"
 blog_path = "content/posts/hitler-philosophy.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "homological-algebra"
@@ -620,6 +664,7 @@ added = true
 blog_slug = "homological-algebra"
 blog_path = "content/posts/homological-algebra.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "how-llms-challenge-chomskyan-assumptions-analytical-report"
@@ -630,10 +675,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/how-llms-challenge-chomskyan-assumptions-analytical-report/main.md"
 meta_path = "tmp/ai-research-reports/data/md/how-llms-challenge-chomskyan-assumptions-analytical-report/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "how-llms-challenge-chomskyan-assumptions-analytical-report"
-blog_path = "content/posts/how-llms-challenge-chomskyan-assumptions-analytical-report.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is llms-vs-chomsky (content/posts/llms-vs-chomsky.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "html-history"
@@ -648,6 +694,7 @@ added = true
 blog_slug = "html-history"
 blog_path = "content/posts/html-history.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "in-house-vertical-farms"
@@ -662,6 +709,7 @@ added = true
 blog_slug = "in-house-vertical-farms"
 blog_path = "content/posts/in-house-vertical-farms/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "javascript-history"
@@ -676,6 +724,7 @@ added = true
 blog_slug = "javascript-history"
 blog_path = "content/posts/javascript-history.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "jewish-political-activism"
@@ -690,6 +739,7 @@ added = true
 blog_slug = "jewish-political-activism"
 blog_path = "content/posts/jewish-political-activism.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
@@ -704,6 +754,7 @@ added = true
 blog_slug = "journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence"
 blog_path = "content/posts/journalists-and-the-u-s-state-structural-alignment-incentives-and-evidence.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "judges-in-the-judicial-process-of-the-united-states"
@@ -717,7 +768,8 @@ crosswalk_match_basis = "article_yaml_source_docx"
 added = false
 blog_slug = ""
 blog_path = ""
-note = "Source document is a duplicate; canonical blog post uses slug `american-judicial-process`."
+note = "suppressed duplicate; canonical article is american-judicial-process (content/posts/american-judicial-process.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "kern-weed"
@@ -732,6 +784,7 @@ added = true
 blog_slug = "kern-county-cannabis-legal-environment"
 blog_path = "content/posts/kern-county-cannabis-legal-environment.md"
 note = "Source md project maps to a renamed blog slug."
+status = "published"
 
 [[documents]]
 source_slug = "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in"
@@ -746,6 +799,7 @@ added = true
 blog_slug = "labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in"
 blog_path = "content/posts/labor-competition-and-intergroup-tension-between-african-americans-and-mexican-and-latino-workers-in.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "land-rooted-ethno"
@@ -760,6 +814,7 @@ added = true
 blog_slug = "land-rooted-ethno"
 blog_path = "content/posts/land-rooted-ethno.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens"
@@ -774,6 +829,7 @@ added = true
 blog_slug = "lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens"
 blog_path = "content/posts/lawyers-institutions-and-moral-order-in-the-yankee-nation-folkways-lens.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "liberal-gothic-an-analytical-report"
@@ -788,6 +844,7 @@ added = true
 blog_slug = "liberal-gothic-an-analytical-report"
 blog_path = "content/posts/liberal-gothic-an-analytical-report/index.md"
 note = ""
+status = "published_authorized_duplicate"
 
 [[documents]]
 source_slug = "liberal-gothic-quick-facts"
@@ -802,6 +859,7 @@ added = true
 blog_slug = "liberal-gothic-quick-facts"
 blog_path = "content/posts/liberal-gothic-quick-facts.md"
 note = ""
+status = "published_authorized_duplicate"
 
 [[documents]]
 source_slug = "linear-algebra-history-report"
@@ -816,6 +874,7 @@ added = true
 blog_slug = "linear-algebra-history-report"
 blog_path = "content/posts/linear-algebra-history-report.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "male-suicide"
@@ -830,6 +889,7 @@ added = true
 blog_slug = "male-suicide"
 blog_path = "content/posts/male-suicide/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "male-suicide-research-outline"
@@ -840,10 +900,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/male-suicide-research-outline/main.md"
 meta_path = "tmp/ai-research-reports/data/md/male-suicide-research-outline/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "male-suicide-research-outline"
-blog_path = "content/posts/male-suicide-research-outline/index.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is male-suicide (content/posts/male-suicide/index.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "marx-engels"
@@ -858,6 +919,7 @@ added = true
 blog_slug = "marx-engels"
 blog_path = "content/posts/marx-engels.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "marx-engels-manifesto-analysis"
@@ -872,6 +934,7 @@ added = true
 blog_slug = "marx-engels-manifesto-analysis"
 blog_path = "content/posts/marx-engels-manifesto-analysis.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "marxism-bibliography"
@@ -886,6 +949,7 @@ added = true
 blog_slug = "marxism-bibliography"
 blog_path = "content/posts/marxism-bibliography.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "marxism-evolution"
@@ -900,6 +964,7 @@ added = true
 blog_slug = "marxism-evolution"
 blog_path = "content/posts/marxism-evolution.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "marxism-research-clarifications"
@@ -910,10 +975,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/marxism-research-clarifications/main.md"
 meta_path = "tmp/ai-research-reports/data/md/marxism-research-clarifications/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "marxism-research-clarifications"
-blog_path = "content/posts/marxism-research-clarifications.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is marxism-evolution (content/posts/marxism-evolution.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "matrix-culture"
@@ -928,6 +994,7 @@ added = true
 blog_slug = "matrix-culture"
 blog_path = "content/posts/matrix-culture.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "mauler"
@@ -942,6 +1009,7 @@ added = true
 blog_slug = "mauler"
 blog_path = "content/posts/mauler.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "maxwells-equations-a-human-centered-historical-and-scientific-analysis"
@@ -956,6 +1024,7 @@ added = true
 blog_slug = "maxwells-equations-a-human-centered-historical-and-scientific-analysis"
 blog_path = "content/posts/maxwells-equations-a-human-centered-historical-and-scientific-analysis/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "meme-culture-and-borderer-right-style-a-research-report"
@@ -970,6 +1039,7 @@ added = true
 blog_slug = "meme-culture-and-borderer-right-style-a-research-report"
 blog_path = "content/posts/meme-culture-and-borderer-right-style-a-research-report/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "moby-dick-as-yankee-self-aggrandizement-and-self-indictment"
@@ -984,6 +1054,7 @@ added = true
 blog_slug = "moby-dick-as-yankee-self-aggrandizement-and-self-indictment"
 blog_path = "content/posts/moby-dick-as-yankee-self-aggrandizement-and-self-indictment.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "nations-right-wing-critique"
@@ -998,6 +1069,7 @@ added = true
 blog_slug = "nations-right-wing-critique"
 blog_path = "content/posts/nations-right-wing-critique/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "neural-networks"
@@ -1012,6 +1084,7 @@ added = true
 blog_slug = "neural-networks"
 blog_path = "content/posts/neural-networks.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "nietzche-math-critique"
@@ -1026,6 +1099,7 @@ added = true
 blog_slug = "nietzche-math-critique"
 blog_path = "content/posts/nietzche-math-critique.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "number-theory-from-euler"
@@ -1040,6 +1114,7 @@ added = true
 blog_slug = "number-theory-from-euler"
 blog_path = "content/posts/number-theory-from-euler.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "obj-vs-sub"
@@ -1054,6 +1129,7 @@ added = true
 blog_slug = "obj-vs-sub"
 blog_path = "content/posts/obj-vs-sub.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "operators-social-history"
@@ -1068,6 +1144,7 @@ added = true
 blog_slug = "operators-social-history"
 blog_path = "content/posts/operators-social-history.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "piketty-liberal-pmc-critique"
@@ -1082,6 +1159,7 @@ added = true
 blog_slug = "piketty-liberal-pmc-critique"
 blog_path = "content/posts/piketty-liberal-pmc-critique/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850"
@@ -1096,6 +1174,7 @@ added = true
 blog_slug = "prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850"
 blog_path = "content/posts/prestige-economy-of-knowledge-in-early-modern-europe-c-1100-c-1850.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "proudhon-mutualism-report"
@@ -1110,6 +1189,7 @@ added = true
 blog_slug = "proudhon-mutualism-report"
 blog_path = "content/posts/proudhon-mutualism-report/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti"
@@ -1124,6 +1204,7 @@ added = true
 blog_slug = "rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti"
 blog_path = "content/posts/rebel-pmc-paradox-symbolic-rebellion-and-professional-managerial-embeddedness-in-left-liberal-insti.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "report-elite-discourse-and-structural-critique"
@@ -1138,6 +1219,7 @@ added = true
 blog_slug = "report-elite-discourse-and-structural-critique"
 blog_path = "content/posts/report-elite-discourse-and-structural-critique.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "republican-administrations-as-the-enforcers-of-u-s-imperial-policy"
@@ -1152,6 +1234,7 @@ added = true
 blog_slug = "republican-administrations-as-the-enforcers-of-u-s-imperial-policy"
 blog_path = "content/posts/republican-administrations-as-the-enforcers-of-u-s-imperial-policy.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "savonius-wind-turbines-comprehensive-design-diy-guide"
@@ -1166,6 +1249,7 @@ added = true
 blog_slug = "savonius-wind-turbines-comprehensive-design-diy-guide"
 blog_path = "content/posts/savonius-wind-turbines-comprehensive-design-diy-guide/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "selective-freudian-explanations-in-political-and-media-discourse"
@@ -1180,6 +1264,7 @@ added = true
 blog_slug = "selective-freudian-explanations-in-political-and-media-discourse"
 blog_path = "content/posts/selective-freudian-explanations-in-political-and-media-discourse.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "structure-and-sources-of-american-law"
@@ -1194,6 +1279,7 @@ added = true
 blog_slug = "structure-and-sources-of-american-law"
 blog_path = "content/posts/structure-and-sources-of-american-law.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "symbolic-post-masculinity"
@@ -1208,6 +1294,7 @@ added = true
 blog_slug = "symbolic-post-masculinity"
 blog_path = "content/posts/symbolic-post-masculinity/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "taylor"
@@ -1222,6 +1309,7 @@ added = true
 blog_slug = "taylor"
 blog_path = "content/posts/taylor.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "the-carousel-of-right-wing-resistance-in-the-united-states"
@@ -1236,6 +1324,7 @@ added = true
 blog_slug = "the-carousel-of-right-wing-resistance-in-the-united-states"
 blog_path = "content/posts/the-carousel-of-right-wing-resistance-in-the-united-states.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "the-u-s-post-world-war-ii-boom-1945-1975"
@@ -1250,6 +1339,7 @@ added = true
 blog_slug = "the-u-s-post-world-war-ii-boom-1945-1975"
 blog_path = "content/posts/the-u-s-post-world-war-ii-boom-1945-1975.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "topology"
@@ -1264,6 +1354,7 @@ added = true
 blog_slug = "topology"
 blog_path = "content/posts/topology.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "tyler-and-jews"
@@ -1278,6 +1369,7 @@ added = true
 blog_slug = "tyler-and-jews"
 blog_path = "content/posts/tyler-and-jews.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "type-theory-history"
@@ -1292,6 +1384,7 @@ added = true
 blog_slug = "type-theory-history"
 blog_path = "content/posts/type-theory-history.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "united-states-of-empire"
@@ -1306,6 +1399,7 @@ added = true
 blog_slug = "united-states-of-empire"
 blog_path = "content/posts/united-states-of-empire/index.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "when-subverted-masculinity-boomerangs-into-underdog-masculinity"
@@ -1320,6 +1414,7 @@ added = true
 blog_slug = "when-subverted-masculinity-boomerangs-into-underdog-masculinity"
 blog_path = "content/posts/when-subverted-masculinity-boomerangs-into-underdog-masculinity.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "yankee-courts-and-legal-bias"
@@ -1334,6 +1429,7 @@ added = true
 blog_slug = "yankee-courts-and-legal-bias"
 blog_path = "content/posts/yankee-courts-and-legal-bias.md"
 note = ""
+status = "published"
 
 [[documents]]
 source_slug = "yankee-left"
@@ -1344,10 +1440,11 @@ source_kind = "docx"
 md_path = "tmp/ai-research-reports/data/md/yankee-left/main.md"
 meta_path = "tmp/ai-research-reports/data/md/yankee-left/article.yaml"
 crosswalk_match_basis = "article_yaml_source_docx"
-added = true
-blog_slug = "yankee-left"
-blog_path = "content/posts/yankee-left.md"
-note = ""
+added = false
+blog_slug = ""
+blog_path = ""
+note = "suppressed duplicate; canonical article is the-yankee-left (content/posts/the-yankee-left.md)"
+status = "suppressed_duplicate"
 
 [[documents]]
 source_slug = "yankee-white-supremacy"
@@ -1362,3 +1459,4 @@ added = true
 blog_slug = "yankee-white-supremacy"
 blog_path = "content/posts/yankee-white-supremacy.md"
 note = ""
+status = "published"
