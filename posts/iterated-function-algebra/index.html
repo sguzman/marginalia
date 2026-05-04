@@ -210,26 +210,26 @@ similar productivity. I believe it will but have no desire to prove it.
 That will take more quiet research on my part before I am ready to
 divulge any success in other areas.</p><h2 id=approach-proper>Approach Proper
 <a class=heading-link href=#approach-proper><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><p>Let the following definition be the starting point of our discussion.</p><p>$$f(x)=ax^2 + bx + c, \quad f: \mathbb{R} \rightarrow \mathbb{R} \land a,b,c \in \mathbb{R}$$</p><p>Supposed we wanted to find the closed form of $f(x)$ for $n$ iterations.
+<span class=sr-only>Link to heading</span></a></h2><p>Let the following definition be the starting point of our discussion.</p>$$f(x)=ax^2 + bx + c, \quad f: \mathbb{R} \rightarrow \mathbb{R} \land a,b,c \in \mathbb{R}$$<p>Supposed we wanted to find the closed form of $f(x)$ for $n$ iterations.
 That would be quite an ordeal. While easily expressible symbolically,
 $f(x,n)$ where $n \in \mathbb{N}$, the prospect of computing the closed
 form is of a degree more onerous. For that reason, we will start simpler
 monomials to represent the undertaking in a more accommodating context.
-Let the following three monomials guide our discourse.</p><p>$$f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$</p><p>$$f_2(x) = a_2 \cdot x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$</p><p>$$f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$</p><p>Monomials, by their simple structure, can easily yield a closed form
+Let the following three monomials guide our discourse.</p>$$f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$$$f_2(x) = a_2 \cdot x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$$$f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$<p>Monomials, by their simple structure, can easily yield a closed form
 through modest effort. The following are the closed forms of the
-monomials.</p><p>$$\begin{aligned}
-f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \
+monomials.</p>$$\begin{aligned}
+f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \\
 f_1(x,n) = a_1
-\end{aligned}$$</p><p>$$\begin{aligned}
-f_2(x) = a_2x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \
-f_2(x,n) = a_2 \cdot f_2(x,n-1) \
+\end{aligned}$$$$\begin{aligned}
+f_2(x) = a_2x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \\
+f_2(x,n) = a_2 \cdot f_2(x,n-1) \\
 f_2(x,n) = {a_2}^{n} \cdot x
-\end{aligned}$$</p><p>$$\begin{aligned}
-f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \
-f_3(x,n) = a_3 \cdot f_3(x,n-1) \
+\end{aligned}$$$$\begin{aligned}
+f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \\
+f_3(x,n) = a_3 \cdot f_3(x,n-1) \\
 f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}
 \label{eq:closed-form-3}
-\end{aligned}$$</p><p>Beauty is concise. And if polynomials behaved accordingly, closed forms
+\end{aligned}$$<p>Beauty is concise. And if polynomials behaved accordingly, closed forms
 would be easier to compute. But alas, polynomials are not monomials. We
 can still extract general tendencies by perusing the pattern of the
 closed forms. The coefficients for example become parameters in the
@@ -241,7 +241,7 @@ story.</p><p>Scaffolding ontop of the simple monomial substrate is the vexing
 existence of addition. I have much theory and philosophy to dissert on
 the nature of addition, for example how addition is semantic equivalent
 to append by way of a list; for now, we keep in mind that addition is
-not a number. Expressed formally, addition is,</p><p>$$+: \mathbb{P}^\alpha \times \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma \in {\alpha, \beta}$$</p><p>In this context, we are concerned with addition as a binary operation on
+not a number. Expressed formally, addition is,</p>$$+: \mathbb{P}^\alpha \times \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma \in \{\alpha, \beta\}$$<p>In this context, we are concerned with addition as a binary operation on
 monomials that returns another monomial. The degree of the monomial is
 the largest of the two operands.</p><p>Naturally, we would seek to find some isomorphism of addition to
 numbers. Set more informally, we would like to treat addition as
@@ -256,25 +256,25 @@ to add there is beauty in this approach.</p><p>What I want to accomplish is even
 spaces. I proclaim that there is a tendency of tracking the evolution of
 a binary operation across iterations in the same way that there is a
 tacit pattern for numbers. Let&rsquo;s think about this with solid examples.
-Let the following be our starting points.</p><p>$$n_1 \in \mathbb{N}$$</p><p>$$\lambda_1: \mathbb{N} \rightarrow \mathbb{N}$$</p><p>Given a simple equation like $\lambda_1$, application of this function
+Let the following be our starting points.</p>$$n_1 \in \mathbb{N}$$$$\lambda_1: \mathbb{N} \rightarrow \mathbb{N}$$<p>Given a simple equation like $\lambda_1$, application of this function
 $n_1$ can be symbolically expressed with $\lambda_1(n_1)$. Applying the
 inverse would like this: $\lambda_1^{-1}(\lambda_1(n_1))$. The inverse
 is the function that when applied to the result of $\lambda_1$ yields
 $n_1$. The inverse is $\lambda_1^{-1}$. The full syntax for applying the
-inverse is,</p><p>$$(\lambda_1^{-1} \circ \lambda_1) \quad n_1$$</p><p>Beautiful. This yields our original operand, $n_1$. Supposed we wanted
+inverse is,</p>$$(\lambda_1^{-1} \circ \lambda_1) \quad n_1$$<p>Beautiful. This yields our original operand, $n_1$. Supposed we wanted
 to analyze the type signature of the composed object. Nevermind that the
 composition of an inverse with the original would annihilate itself to
-the identity. Here it is.</p><p>$$(\lambda_1^{-1} \circ \lambda_1): \mathbb{N} \rightarrow \mathbb{N} \rightarrow \mathbb{N}
-\label{eq:comp}$$</p><p>I brought up the notion of type because by this point, its mention seems
+the identity. Here it is.</p>$$(\lambda_1^{-1} \circ \lambda_1): \mathbb{N} \rightarrow \mathbb{N} \rightarrow \mathbb{N}
+\label{eq:comp}$$<p>I brought up the notion of type because by this point, its mention seems
 more than proper. In building the type up from the ground, we must keep
 in mind that the inverse takes a function that already has its own type.
-What <a href=#eq:comp>[eq:comp]</a>{reference-type=&ldquo;ref&rdquo; reference=&ldquo;eq:comp&rdquo;}
+What <a href=#eq:comp>\[eq:comp\]</a>{reference-type=&ldquo;ref&rdquo; reference=&ldquo;eq:comp&rdquo;}
 demonstrates is that we can easily feed a function another function and
 retrieve a semantically coherent interpretation as a result. Perchance
 we can provide some similar resolution to the problem of addition.</p><p>The first thing we would do is curry the function. This is a common
 practice in functional programming to reduce a function of multiple
 arity to a series of functions of arity 1. The following is the curried
-form of addition.</p><p>$$+: \mathbb{P}^\alpha \rightarrow \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma \in {\alpha, \beta}$$</p><p>Again, let&rsquo;s take a moment to appreciate the beauty of this. There is an
+form of addition.</p>$$+: \mathbb{P}^\alpha \rightarrow \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma \in \{\alpha, \beta\}$$<p>Again, let&rsquo;s take a moment to appreciate the beauty of this. There is an
 intrinsic aesthetic quality to symbolically manipulating functions and
 objects in general. However, we must part ways somewhat with this
 enthusiastic talk of beauty. While we the symbols we have accumulated do
@@ -284,32 +284,32 @@ semantic capture with functional mechanism of achieving the
 computational result.</p><p>How can we leverage the curried form of addition to achieve our goal?
 Well, it helps think of mathematical expressions as a sequence of
 operations performed on some operand. Presented symbolically, we can
-express this as,</p><p>$$\phi: \Gamma_\alpha \rightarrow \Gamma_\omega$$</p><p>Think of $phi$ as a full-fledged program that a programmer would write
+express this as,</p>$$\phi: \Gamma_\alpha \rightarrow \Gamma_\omega$$<p>Think of $phi$ as a full-fledged program that a programmer would write
 up to achieve some task. The set $\Gamma_\alpha$ captures the input to
 the program and the set $\Gamma_\omega$ captures the output. Specifying
 the individual steps as a sequence of operations, the program can be
-expressed as,</p><p>$$\phi = \phi_1 \circ \phi_2 \circ \phi_3 \circ \dots \circ \phi_n$$</p><p>The type signature of the program is as follows,</p><p>$$\Gamma_\alpha = \Gamma_1$$</p><p>$$\Gamma_\omega = \Gamma_2$$</p><p>$$\phi_1: \Gamma_1 \rightarrow \Gamma_2$$</p><p>$$\phi_2: \Gamma_2 \rightarrow \Gamma_3$$</p><p>$$\phi_3: \Gamma_3 \rightarrow \Gamma_4$$</p><p>$$\phi_n: \Gamma_n \rightarrow \Gamma_{n+1}$$</p><p>$$\phi: \Gamma_1 \rightarrow \Gamma_2 \rightarrow \Gamma_3 \rightarrow \dots \rightarrow \Gamma_{n-2} \rightarrow \Gamma_{n-1} \rightarrow \Gamma_n$$</p><p>$$\phi: \Gamma_\alpha \rightarrow \Gamma_2 \rightarrow \Gamma_3 \rightarrow \dots \rightarrow \Gamma_{n-1} \rightarrow \Gamma_n \rightarrow \Gamma_\omega$$</p><p>The composition of functions is associative and computation can begin at
+expressed as,</p>$$\phi = \phi_1 \circ \phi_2 \circ \phi_3 \circ \dots \circ \phi_n$$<p>The type signature of the program is as follows,</p>$$\Gamma_\alpha = \Gamma_1$$$$\Gamma_\omega = \Gamma_2$$$$\phi_1: \Gamma_1 \rightarrow \Gamma_2$$$$\phi_2: \Gamma_2 \rightarrow \Gamma_3$$$$\phi_3: \Gamma_3 \rightarrow \Gamma_4$$$$\phi_n: \Gamma_n \rightarrow \Gamma_{n+1}$$$$\phi: \Gamma_1 \rightarrow \Gamma_2 \rightarrow \Gamma_3 \rightarrow \dots \rightarrow \Gamma_{n-2} \rightarrow \Gamma_{n-1} \rightarrow \Gamma_n$$$$\phi: \Gamma_\alpha \rightarrow \Gamma_2 \rightarrow \Gamma_3 \rightarrow \dots \rightarrow \Gamma_{n-1} \rightarrow \Gamma_n \rightarrow \Gamma_\omega$$<p>The composition of functions is associative and computation can begin at
 any point and spread outwards.</p><p>Gorgeous. A function as a sequence of types is useful for breaking down
 an operation to the metaphorical sum of its parts. We want to be able to
 do this to polynomials. Not just in their structured operational form
 but in their iterative dynamic one as well. Given
-<a href=#eq:closed-form-3>[eq:closed-form-3]</a>{reference-type=&ldquo;ref&rdquo;
+<a href=#eq:closed-form-3>\[eq:closed-form-3\]</a>{reference-type=&ldquo;ref&rdquo;
 reference=&ldquo;eq:closed-form-3&rdquo;}, we can express the iteration by following
 the type signature of the incremental iterations. Starting from
-<a href=#eq:closed-form-3>[eq:closed-form-3]</a>{reference-type=&ldquo;ref&rdquo;
-reference=&ldquo;eq:closed-form-3&rdquo;},</p><p>$$f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$</p><p>$$f_3(x,n) = a_3 \cdot f_3(x,n-1)$$</p><p>$$f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}$$</p><p>$$f_3(x,0) = x$$</p><p>$$f_3(x,1) = a_3 \cdot x^2$$</p><p>$$f_3(x,2) = a_3^3 \cdot x^4$$</p><p>$$f_3(x,3) = a_3^5 \cdot x^6$$</p><p>Let&rsquo;s take do proper accounting of the degree of the polynomial across
-iterations.</p><p>$$f_3 \in \mathbb{P}^2$$</p><p>$$f_3(x,1) = f_3$$</p><p>$$f_3(x,2) \in \mathbb{P}^4$$</p><p>$$f_3(x,3) \in \mathbb{P}^6$$</p><p>Expressed as a sequence of operations, the iteration of monomial
-becomes,</p><p>$$f_3(x,n) \in \mathbb{P}^{2n}$$</p><p>Let&rsquo;s define a helper type signature to aid in writing down the sequence
-type signature.</p><p>$$\Delta: \mathbb{T} \times \mathbb{N} \rightarrow \mathbb{T}^n$$</p><p>$\Delta$ is a type function that accepts some type, from the set of
+<a href=#eq:closed-form-3>\[eq:closed-form-3\]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;eq:closed-form-3&rdquo;},</p>$$f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$$$f_3(x,n) = a_3 \cdot f_3(x,n-1)$$$$f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}$$$$f_3(x,0) = x$$$$f_3(x,1) = a_3 \cdot x^2$$$$f_3(x,2) = a_3^3 \cdot x^4$$$$f_3(x,3) = a_3^5 \cdot x^6$$<p>Let&rsquo;s take do proper accounting of the degree of the polynomial across
+iterations.</p>$$f_3 \in \mathbb{P}^2$$$$f_3(x,1) = f_3$$$$f_3(x,2) \in \mathbb{P}^4$$$$f_3(x,3) \in \mathbb{P}^6$$<p>Expressed as a sequence of operations, the iteration of monomial
+becomes,</p>$$f_3(x,n) \in \mathbb{P}^{2n}$$<p>Let&rsquo;s define a helper type signature to aid in writing down the sequence
+type signature.</p>$$\Delta: \mathbb{T} \times \mathbb{N} \rightarrow \mathbb{T}^n$$<p>$\Delta$ is a type function that accepts some type, from the set of
 types $\mathbb{T}$, and a natural number. I will use this to produce the
-type of degree of the polynomial.</p><p>$$f_3(f_3,n): \Delta(\mathbb{P}, 2) \rightarrow \Delta(\mathbb{P}, 4) \rightarrow \dots \rightarrow \Delta(\mathbb{P}, 2n-2) \rightarrow \Delta(\mathbb{P}, 2n)$$</p><p>Note that the type signature of the polynomial holds even for
+type of degree of the polynomial.</p>$$f_3(f_3,n): \Delta(\mathbb{P}, 2) \rightarrow \Delta(\mathbb{P}, 4) \rightarrow \dots \rightarrow \Delta(\mathbb{P}, 2n-2) \rightarrow \Delta(\mathbb{P}, 2n)$$<p>Note that the type signature of the polynomial holds even for
 polynomials. While the example I used was for a simple $\mathbb{P}^2$
 monomial, the same type holds for any polynomial. This is because the
 degree of the polynomial is purely a function of the number of
 iterations and the highest degree of the polynomial. So it seems we made
 some progress. We can now express the type signature for a polynomial as
 a sequence of operations.</p><p>Thus, given some arbitrary polynomial of degree $n$, we can express the
-type signature as,</p><p>$$f_n(f_n,m): \Delta(\mathbb{P}, n) \rightarrow \Delta(\mathbb{P}, n^m)$$</p><p>Meditate on the symbolic elegance of such a statement. We have
+type signature as,</p>$$f_n(f_n,m): \Delta(\mathbb{P}, n) \rightarrow \Delta(\mathbb{P}, n^m)$$<p>Meditate on the symbolic elegance of such a statement. We have
 determined what the type of an iterated polynomial is by pure symbolic
 expression of its own degree and number of iterations. That is a
 beautiful thing to behold but we still do not have a way to express the
@@ -327,15 +327,15 @@ should not be confused with order of operations. While it is related, I
 care more about reducing the overhead of representing and computing each
 operation. I would like to reduce all three operations to pure symbolic
 function of computing a more primitive composite. Let the following
-definition be our guiding light.</p><p>$$\mathbb{O} = {+, \cdot, ^\circ}$$</p><p>$$\pi(0) = +$$</p><p>$$\pi(1) = \cdot$$</p><p>$$\pi(2) = ^\cdot$$</p><p>$$\pi(0,1) = +$$</p><p>$$\pi(0,2) = + \circ + = \pi(0) \circ \pi(0)$$</p><p>$$\pi(1,0) = +$$</p><p>$$\pi(1,1) = \cdot$$</p><p>$$\pi(1,2) = \cdot \circ + = \pi(1) \circ \pi(1)$$</p><p>$$\pi(1,n) = \pi_1(1) \circ \pi_2(1) \circ \dots \circ \pi_{n-1}(1) \circ \pi_n(1)$$</p><p>This is all fine and good. I have sequenced the operations in a given
+definition be our guiding light.</p>$$\mathbb{O} = \{+, \cdot, ^\circ\}$$$$\pi(0) = +$$$$\pi(1) = \cdot$$$$\pi(2) = ^\cdot$$$$\pi(0,1) = +$$$$\pi(0,2) = + \circ + = \pi(0) \circ \pi(0)$$$$\pi(1,0) = +$$$$\pi(1,1) = \cdot$$$$\pi(1,2) = \cdot \circ + = \pi(1) \circ \pi(1)$$$$\pi(1,n) = \pi_1(1) \circ \pi_2(1) \circ \dots \circ \pi_{n-1}(1) \circ \pi_n(1)$$<p>This is all fine and good. I have sequenced the operations in a given
 order. This particular should not require much justification. The
 "smaller" operation of addition is at the bottom and the "larger"
 operation of exponentiation is the biggest one. All I did is number them
 starting 0 and incrementing by 1. The function $\pi$ is a function that
 returns a function. Think of it has a convenient hash to store the
 operations in a given order. When we add $n$ as second operand to $\pi$,
-we are adding the ability to iterate our operation.</p><p>Now here comes the real magic. Here it is.</p><p>$$\pi(i) = \mathbb{O}_{i=0}^{n_i} \pi(i-1)
-\label{eq:pi-reduc}$$</p><p>This equation is my contribution. Let me explain the vague terms and
+we are adding the ability to iterate our operation.</p><p>Now here comes the real magic. Here it is.</p>$$\pi(i) = \mathbb{O}_{i=0}^{n_i} \pi(i-1)
+\label{eq:pi-reduc}$$<p>This equation is my contribution. Let me explain the vague terms and
 then I will continue to explain the equation.</p><ol><li><p>$\pi(i)$ is a function that returns a function.</p></li><li><p>$i$ is a natural number used to index $\pi$.</p></li><li><p>$\mathbb{O}$ is my ad hoc way of composing some set of operations.
 In this example, I am using to compose a function with itself</p></li><li><p>$n_i$ is the number of times to compose the function with itself.
 What $n_i$ is not important. It is a natural number that determines
@@ -351,13 +351,13 @@ the operation. Ultimately, we are the arbiter of our symbols. We assign
 at our discretion and compute at our leisure. A comfortable arrangement
 can similarly be made with any class of algebraic objects. Now lets
 apply our little trick. To a simple polynomial of degree 1. Let us play
-with the following definition.</p><p>$$g(x) = 2 \cdot x + 3$$</p><p>$$g(x) = \pi(0)(\pi(1)(2,x), 3)$$</p><p>$$g(x,0) = x$$</p><p>$$g(x,1) = g(x) = \pi(0)(\pi(1)(2,x), 3)$$</p><p>$$g(x,2) = g(g(x)) = \pi(0)(\pi(1)(2,x), 3) \circ \pi(0)(\pi(1)(2,x), 3)
-\label{eq:iter2}$$</p><p>Note that the general difficulty of this problem, the problem of finding
+with the following definition.</p>$$g(x) = 2 \cdot x + 3$$$$g(x) = \pi(0)(\pi(1)(2,x), 3)$$$$g(x,0) = x$$$$g(x,1) = g(x) = \pi(0)(\pi(1)(2,x), 3)$$$$g(x,2) = g(g(x)) = \pi(0)(\pi(1)(2,x), 3) \circ \pi(0)(\pi(1)(2,x), 3)
+\label{eq:iter2}$$<p>Note that the general difficulty of this problem, the problem of finding
 a closed-form for iterating polynomials, comes from the onerous
 requirement of having to treat a polynomial at one point as a noun and
 operand and simultaneously as a verb and operator. This is the crux of
 the problem.</p><p>We need to make another adjustment to be able to overcome a hurdle. You
-can see in <a href=#eq:iter2>[eq:iter2]</a>{reference-type=&ldquo;ref&rdquo;
+can see in <a href=#eq:iter2>\[eq:iter2\]</a>{reference-type=&ldquo;ref&rdquo;
 reference=&ldquo;eq:iter2&rdquo;} we almost have a streamlined account of pure
 function composition. If it weren&rsquo;t those pesky numbers, we would have a
 pure sequence. Well, for the context of what we are trying to
@@ -368,8 +368,8 @@ functions again, we will abstract away wherever we see a number. I
 justification for this is that numbers are terminal nodes in our
 computation tree. We follow the thread of execution until we reach a
 number; otherwise, we thread into another function to compute the
-subtree. So the new definition is,</p><p>$$g(x,2) = (g \circ g) x = ((\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1))) x
-\label{eq:iter3}$$</p><p>That is much simpler. We can see the general order of operations as they
+subtree. So the new definition is,</p>$$g(x,2) = (g \circ g) x = ((\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1))) x
+\label{eq:iter3}$$<p>That is much simpler. We can see the general order of operations as they
 are applied in the final expression. The expression when computed should
 yield what the original polynomial would yield, iterated once. Closer
 and closer do the symbols encroach on a more elegant basis for
@@ -386,14 +386,14 @@ algebra for composition allow for reordering? Given that we have
 constructed and manipulated our symbols at our pleasure, perhaps we can
 discover some rule that would permit judicious reordering so that like
 terms can combine. Here is the possible algebraic rule that provides a
-equitable denouement to our dilemma.</p><p>$$\pi(0) \circ \pi(1) = \pi(0) \circ \mathbb{O}_{i=0}^{n_i} \pi(0)$$</p><p>$$((\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1))) = \pi(0) \circ \mathbb{O}<em>{i=0}^{n_i} \pi(0) \circ \pi(0) \circ \mathbb{O}</em>{i=0}^{n_i} \pi(0)$$</p><p>$$m = 2 \cdot n_i + 2$$</p><p>$$\pi_1(0) \circ \pi_2(0) \circ \dots \circ \pi_{m-1}(0) \circ \pi_m(0)$$</p><p>Using subscript to properly index the function, they can be safely
+equitable denouement to our dilemma.</p>$$\pi(0) \circ \pi(1) = \pi(0) \circ \mathbb{O}_{i=0}^{n_i} \pi(0)$$$$((\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1))) = \pi(0) \circ \mathbb{O}_{i=0}^{n_i} \pi(0) \circ \pi(0) \circ \mathbb{O}_{i=0}^{n_i} \pi(0)$$$$m = 2 \cdot n_i + 2$$$$\pi_1(0) \circ \pi_2(0) \circ \dots \circ \pi_{m-1}(0) \circ \pi_m(0)$$<p>Using subscript to properly index the function, they can be safely
 ignored. What we have done is the final composition of a polynomial with
 multiplication and addition only. Even though we have only referenced
 two different types of functions, the technique we used to reduce a
 function of $\pi(1)$ to $\pi(0)$ can be applied to any function
 $\pi(i), \quad i \in \mathbb{N} \land i > 0$. Given a function $\pi(i)$,
 we can reduce it to $\pi(i-1)$ by
-<a href=#eq:pi-reduc>[eq:pi-reduc]</a>{reference-type=&ldquo;ref&rdquo;
+<a href=#eq:pi-reduc>\[eq:pi-reduc\]</a>{reference-type=&ldquo;ref&rdquo;
 reference=&ldquo;eq:pi-reduc&rdquo;}. Any function can be reduced to a function of
 $\pi(0)$.</p><p>That is quite a quaint development but I rather not have to convert all
 functions to $\pi(0)$ before I can compute the final expression. Much to
@@ -409,7 +409,7 @@ compute the "larger" $\pi(i)$ first and then the "smaller"
 $\pi(i-1)$, and so on. If we had the larger $\pi(2)$, corresponding to
 exponentiation, we would strive as result of manipulating our algebra to
 compute it and then passing the result to the smaller $\pi(1)$.
-Naturally this is what we get.</p><p>Let&rsquo;s say we had the following polynomial,</p><p>$$f(x) = 2 \cdot x^2 + 2 \cdot x + 1$$</p><p>The previous paragraph should narrowed down our perspective to
+Naturally this is what we get.</p><p>Let&rsquo;s say we had the following polynomial,</p>$$f(x) = 2 \cdot x^2 + 2 \cdot x + 1$$<p>The previous paragraph should narrowed down our perspective to
 polynomials as computation. More Specifically, we can think of
 polynomial as rank-ordered computation of $\pi(i) \quad i \in {0,1,2}$,
 and so on. The rank ordering This corresponds to computing all $\pi(2)$
@@ -436,21 +436,21 @@ opportunity. Some canonical objects that have studied are matrices,
 vectors, tensors, functions, operators and so on. The amorphous argument
 is then fed to conveyor belt of operations. While this is a deviation
 from our study, a satisfying symbolic sentence that more or less
-captures the essence of this intuition is the following.</p><p>$$z(x) = \alpha_0 \cdot \pi(0) + \alpha_1 \cdot \pi(1) + \alpha_2 \cdot \pi(2)$$</p><p>In a perfect world, all operators would be commutative and the forthwith
+captures the essence of this intuition is the following.</p>$$z(x) = \alpha_0 \cdot \pi(0) + \alpha_1 \cdot \pi(1) + \alpha_2 \cdot \pi(2)$$<p>In a perfect world, all operators would be commutative and the forthwith
 declarations of involved operators would be followed with a simple
 linear algebraic expression that impresses the vector space of
 computation. Alas, we do not reside in the perfect paradise quite yet.</p><p>Back to our polynomial operator. Ignoring the specific number of
 invocations for each of the $\pi(i)$ functions, we can write the
-following expression to specify the ordering of the computation.</p><p>$$f(x) = \pi(0) \circ \pi(1) \circ \pi(2)$$</p><p>Expressed using our composition summation notation, we can write the
-following</p><p>$$f(x) = \mathbb{O}_{i=2}^{0} \pi(i)$$</p><p>This expression terminates our study of the symbolic algebraic
+following expression to specify the ordering of the computation.</p>$$f(x) = \pi(0) \circ \pi(1) \circ \pi(2)$$<p>Expressed using our composition summation notation, we can write the
+following</p>$$f(x) = \mathbb{O}_{i=2}^{0} \pi(i)$$<p>This expression terminates our study of the symbolic algebraic
 expression. We must return to see how if we can derive further algebraic
 rules for computational primitives. Again, we want to combine like
-terms. Let&rsquo;s start with a simple polynomial.</p><p>$$f(x) = 2 \cdot x + 1$$</p><p>What would the iterative composition of this function look like. The
-following outlines computing the iteration of $f(x)$ for 1 times.</p><p>$$f(x) \circ f(x)$$</p><p>$$f(x) \circ (2 \cdot x + 1)$$</p><p>$$(2 \cdot x + 1) \circ (2 \cdot x + 1)$$</p><p>$$2 \cdot (2 \cdot x + 1) + 1$$</p><p>$$4 \cdot x + 3$$</p><p>A function as both noun and verb is indeed the site contention.
+terms. Let&rsquo;s start with a simple polynomial.</p>$$f(x) = 2 \cdot x + 1$$<p>What would the iterative composition of this function look like. The
+following outlines computing the iteration of $f(x)$ for 1 times.</p>$$f(x) \circ f(x)$$$$f(x) \circ (2 \cdot x + 1)$$$$(2 \cdot x + 1) \circ (2 \cdot x + 1)$$$$2 \cdot (2 \cdot x + 1) + 1$$$$4 \cdot x + 3$$<p>A function as both noun and verb is indeed the site contention.
 Thankfully, the simplicity of this polynomial allows us to derive a
 single iteration relative easy. Since there are no powers in this
 expression, any iteration is symbolically a function of addition and
-multiplication. What would 2 iterations produce?</p><p>$$f(x) \circ f(x) \circ f(x)$$</p><p>$$f(x) \circ (2 \cdot x + 1) \circ f(x)$$</p><p>$$(2 \cdot x + 1) \circ (2 \cdot x + 1) \circ f(x)$$</p><p>$$( 4 \cdot x + 3) \circ f(x)$$</p><p>$$( 4 \cdot x + 3) \circ (2 \cdot x + 1)$$</p><p>$$4 \cdot (2 \cdot x + 1) + 3$$</p><p>$$8 \cdot x + 7$$</p><p>While pursuing this example to its full logical conclusion is a bit
+multiplication. What would 2 iterations produce?</p>$$f(x) \circ f(x) \circ f(x)$$$$f(x) \circ (2 \cdot x + 1) \circ f(x)$$$$(2 \cdot x + 1) \circ (2 \cdot x + 1) \circ f(x)$$$$( 4 \cdot x + 3) \circ f(x)$$$$( 4 \cdot x + 3) \circ (2 \cdot x + 1)$$$$4 \cdot (2 \cdot x + 1) + 3$$$$8 \cdot x + 7$$<p>While pursuing this example to its full logical conclusion is a bit
 tedious, it is demonstrative of a simple pattern pertaining to our
 choice of polynomial. The coefficient for the leading term for the nth
 iteration is $2^n$. This makes sense since it leads the expansion of any
@@ -466,8 +466,8 @@ polynomial renders out the interpretation of the object as necessary.
 Iteration is the verb operator acting on the noun operator, wherein the
 verb and the noun are the same object. It is telling that the degree
 does not change for our example across iterations. The nth iteration is
-give by,</p><p>$$f_1(x) \circ \cdots \circ f_n(x) = 2^n \cdot x + (2^n - 1)$$</p><p>Now let&rsquo;s transmogrify our polynomial into a more general version of a
-first degree polynomial. Let&rsquo;s take,</p><p>$$\theta(x) = \alpha \cdot x + \beta$$</p><p>Using our older notation of two operands to indicate iteration, we have,</p><p>$$\theta(x,n) = \alpha^n \cdot x + \sum_{i=0}^{n-1} \alpha^i \cdot \beta$$</p><p>$$\theta(x,n) = \alpha^n \cdot x + \frac{\alpha^n-1}{\alpha-1} \cdot \beta$$</p><p>Search your feelings; you will know it to be true. This closed-form
+give by,</p>$$f_1(x) \circ \cdots \circ f_n(x) = 2^n \cdot x + (2^n - 1)$$<p>Now let&rsquo;s transmogrify our polynomial into a more general version of a
+first degree polynomial. Let&rsquo;s take,</p>$$\theta(x) = \alpha \cdot x + \beta$$<p>Using our older notation of two operands to indicate iteration, we have,</p>$$\theta(x,n) = \alpha^n \cdot x + \sum_{i=0}^{n-1} \alpha^i \cdot \beta$$$$\theta(x,n) = \alpha^n \cdot x + \frac{\alpha^n-1}{\alpha-1} \cdot \beta$$<p>Search your feelings; you will know it to be true. This closed-form
 contains much information, perhaps more than I know what to do with at
 the moment. What follows are some informal observations about the form.
 First, there are two terms. This is a consequence of the fact that we
@@ -481,20 +481,20 @@ and closer to the end state. For the monomial of degree 1, the change
 comes from the coefficient being exponentiated by itself. In terms of a
 recipe for computation, function as a verb, there is no "instruction"
 in the polynomial to change the degree of the polynomial.</p><p>Before we any more, we should compare this to a higher order monomial.
-Let us study the following.</p><p>$$\epsilon(x) = \beta \cdot x^\alpha$$</p><p>The iterated closed-form of n iterations is given by,</p><p>$$\epsilon(x,n) = \beta^{\frac{\alpha^n-1}{\alpha-1}} \cdot x^{\alpha^n}$$</p><p>Hmm. Our suspicions seem to be justified. There is some semblance of
+Let us study the following.</p>$$\epsilon(x) = \beta \cdot x^\alpha$$<p>The iterated closed-form of n iterations is given by,</p>$$\epsilon(x,n) = \beta^{\frac{\alpha^n-1}{\alpha-1}} \cdot x^{\alpha^n}$$<p>Hmm. Our suspicions seem to be justified. There is some semblance of
 equivalency that transcends the particular choice of polynomial. While
 the degree is affected for sure, the general relation in structure of
 application of operations is maintained. Let us manipulate symbolically
 the different polynomial to our stand $\pi$ notation and see if we can
-tease out any similarity.</p><p>$$\theta(x) = \pi(0)(\pi(1)(x, \alpha), \beta)$$</p><p>$$\theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{\alpha^n-1}{\alpha-1}))$$</p><p>And now the second.</p><p>$$\epsilon(x) = \pi(1)(\pi(2)(x, \alpha), \beta)$$</p><p>$$\epsilon(x,n) = \pi(1)(\pi(2)(x, \alpha^n), \pi(2)(\beta, \frac{\alpha^n-1}{\alpha-1}))$$</p><p>I chose to ignore some of the terms in my symbolic manipulation. I did
+tease out any similarity.</p>$$\theta(x) = \pi(0)(\pi(1)(x, \alpha), \beta)$$$$\theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{\alpha^n-1}{\alpha-1}))$$<p>And now the second.</p>$$\epsilon(x) = \pi(1)(\pi(2)(x, \alpha), \beta)$$$$\epsilon(x,n) = \pi(1)(\pi(2)(x, \alpha^n), \pi(2)(\beta, \frac{\alpha^n-1}{\alpha-1}))$$<p>I chose to ignore some of the terms in my symbolic manipulation. I did
 this in order to highlight the similarities between the two closed-forms
 of the iterations. I also moved terms around where the commutativity of
 the operator allows. The similarities should be shouting out for
 analysis. Let&rsquo;s now put them together to better understand the
-relationship between the two.</p><p>$$\begin{aligned}
-\theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{\alpha^n-1}{\alpha-1})) \
+relationship between the two.</p>$$\begin{aligned}
+\theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{\alpha^n-1}{\alpha-1})) \\
 \epsilon(x,n) = \pi(1)(\pi(2)(x, \alpha^n), \pi(2)(\beta, \frac{\alpha^n-1}{\alpha-1}))
-\end{aligned}$$</p><p>We even have the same terms being operated. The pattern seems to be
+\end{aligned}$$<p>We even have the same terms being operated. The pattern seems to be
 "upgrading" all of our operations. The key insight is that both
 $\theta$ and $\epsilon$ represent the same "type" of operation
 sequence. The only difference is that $\epsilon$ is an "upgraded"
@@ -506,7 +506,7 @@ polynomial.</p><p>While I will not go into further detail here, I believe this t
 fertile ground for future research. In solving the problem of iterated
 functions using my syntax, I have solved it for all thusly situated
 operations. The general form of the closed-form solution given the two
-cases I have presented here is as follows.</p><p>$$\zeta(x,n) = \pi(i)(\pi(i+1)(x, \alpha^n), \pi(i+1)(\beta, \frac{\alpha^n-1}{\alpha-1}))$$</p><p>I believe their to be general forms for polynomials of larger degree and
+cases I have presented here is as follows.</p>$$\zeta(x,n) = \pi(i)(\pi(i+1)(x, \alpha^n), \pi(i+1)(\beta, \frac{\alpha^n-1}{\alpha-1}))$$<p>I believe their to be general forms for polynomials of larger degree and
 of more complexity. What result yields is that iteration and discovering
 the closed-form for such functions is a matter of symbolic and syntactic
 analysis. There is no need to resort reasoning about the semantics of
@@ -520,7 +520,7 @@ foremost, God help you. Secondly, the following are some concerns that
 may be addressed in content by future endeavors.</p><ol><li><p>Is this a viable approach to the problem of iterated functions?</p></li><li><p>Is there any counter example which demonstrates that this approach
 does not work for polynomials?</p></li><li><p>Is there a way to generalize this approach to other types of
 functions?</p></li><li><p>Is there a way to generalize this approach to other types of
-algebraic objects?</p></li></ol></div><footer></footer></article><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css integrity=sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0 crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js integrity=sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4 crossorigin=anonymous></script><script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js integrity=sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05 crossorigin=anonymous></script><script defer>document.addEventListener("DOMContentLoaded",function(){if(typeof renderMathInElement!="function")return;const e=document.querySelector(".post-content")||document.body,t=e=>{const t=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,{acceptNode(e){return e.parentElement?e.parentElement.closest("code, pre, script, style, textarea, .katex, .highlight")?NodeFilter.FILTER_REJECT:e.nodeValue.includes("\\$")?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_SKIP:NodeFilter.FILTER_REJECT}}),n=[];for(;t.nextNode();)n.push(t.currentNode);n.forEach(e=>{e.nodeValue=e.nodeValue.replace(/\\\$(.+?)\\\$/g,"$$$1$")})};t(e),renderMathInElement(e,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"\\[",right:"\\]",display:!0},{left:"\\(",right:"\\)",display:!1},{left:"$",right:"$",display:!1}],ignoredClasses:["katex"],ignoredTags:["script","noscript","style","textarea","pre","code"],output:"htmlAndMathml",processEnvironments:!0,processEscapes:!0,strict:"ignore",throwOnError:!1})})</script></section></div><footer class=footer><section class=container>©
+algebraic objects?</p></li></ol></div><footer></footer></article><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css integrity=sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0 crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js integrity=sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4 crossorigin=anonymous></script><script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js integrity=sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05 crossorigin=anonymous></script><script defer>document.addEventListener("DOMContentLoaded",function(){if(typeof renderMathInElement!="function")return;const e=document.querySelector(".post-content")||document.body,t="__MARGINALIA_DOLLAR__",n=e=>{const t=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,{acceptNode(e){return e.parentElement?e.parentElement.closest("code, pre, script, style, textarea, .katex, .highlight")?NodeFilter.FILTER_REJECT:e.nodeValue.includes("\\$")?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_SKIP:NodeFilter.FILTER_REJECT}}),n=[];for(;t.nextNode();)n.push(t.currentNode);n.forEach(e=>{e.nodeValue=e.nodeValue.replace(/\\\$(?=[^$]*[\\^_=]|[^$]*\{)(.+?)\\\$/g,"$$$1$")})},s=e=>{const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,{acceptNode(e){return e.parentElement?e.parentElement.closest("code, pre, script, style, textarea, .katex, .highlight")?NodeFilter.FILTER_REJECT:e.nodeValue.includes("$")?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_SKIP:NodeFilter.FILTER_REJECT}}),s=[];for(;n.nextNode();)s.push(n.currentNode);s.forEach(e=>{e.nodeValue=e.nodeValue.replace(/(^|[\s([{"'~≈≤≥-])\$(?=\d)/g,`$1${t}`)})},o=e=>{const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,{acceptNode(e){return e.parentElement?e.parentElement.closest("script, style, textarea, .katex, .highlight")?NodeFilter.FILTER_REJECT:e.nodeValue.includes(t)?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_SKIP:NodeFilter.FILTER_REJECT}}),s=[];for(;n.nextNode();)s.push(n.currentNode);s.forEach(e=>{e.nodeValue=e.nodeValue.replaceAll(t,"$")})};n(e),s(e),renderMathInElement(e,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1},{left:"\\[",right:"\\]",display:!0},{left:"\\(",right:"\\)",display:!1}],ignoredClasses:["katex"],ignoredTags:["script","noscript","style","textarea","pre","code"],output:"htmlAndMathml",processEnvironments:!0,processEscapes:!0,strict:"ignore",throwOnError:!1}),o(e)})</script></section></div><footer class=footer><section class=container>©
 2026
 ·
 Powered by <a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/ target=_blank rel=noopener>Coder</a>.</section></footer></main><script src=/marginalia/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script></body></html>
