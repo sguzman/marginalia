@@ -5,6 +5,13 @@
       return;
     }
 
+    root.querySelectorAll("a").forEach((link) => {
+      const text = link.textContent.trim();
+      if (/^\\\[\d+\\\]$/.test(text)) {
+        link.textContent = text.replaceAll("\\", "");
+      }
+    });
+
     const normalizeHref = (value) => {
       try {
         const url = new URL(value, window.location.origin);
