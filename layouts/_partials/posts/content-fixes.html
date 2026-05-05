@@ -1,0 +1,124 @@
+<script defer>
+  document.addEventListener("DOMContentLoaded", function () {
+    const root = document.querySelector(".post-content");
+    if (!root) {
+      return;
+    }
+
+    const normalizeHref = (value) => {
+      try {
+        const url = new URL(value, window.location.origin);
+        return url.href.replace(/\/$/, "");
+      } catch {
+        return value.trim().replace(/\/$/, "");
+      }
+    };
+
+    const isBareUrlParagraph = (node) => {
+      if (!node || node.tagName !== "P") {
+        return false;
+      }
+
+      const links = Array.from(node.querySelectorAll("a"));
+      if (links.length !== 1) {
+        return false;
+      }
+
+      const text = node.textContent.trim();
+      const href = normalizeHref(links[0].href);
+      return normalizeHref(text) === href;
+    };
+
+    const getReferenceNodes = () => {
+      const heading = Array.from(root.querySelectorAll("h2, h3")).find((node) => {
+        const label = node.textContent.trim().toLowerCase();
+        return label === "references" || label === "sources";
+      });
+
+      if (heading) {
+        const first = heading.nextElementSibling;
+        if (first && (first.tagName === "UL" || first.tagName === "OL")) {
+          return [];
+        }
+
+        const nodes = [];
+        let current = first;
+        while (current && !/^H[1-6]$/.test(current.tagName)) {
+          nodes.push(current);
+          current = current.nextElementSibling;
+        }
+        return nodes;
+      }
+
+      const rules = root.querySelectorAll("hr");
+      const marker = rules[rules.length - 1];
+      if (!marker) {
+        return [];
+      }
+
+      const nodes = [];
+      let current = marker.nextElementSibling;
+      while (current) {
+        nodes.push(current);
+        current = current.nextElementSibling;
+      }
+      return nodes;
+    };
+
+    const nodes = getReferenceNodes();
+    if (nodes.length < 2) {
+      return;
+    }
+
+    const paragraphNodes = nodes.filter((node) => node.tagName === "P");
+    const bareUrlCount = paragraphNodes.filter(isBareUrlParagraph).length;
+    const citationCount = paragraphNodes.filter(
+      (node) => !isBareUrlParagraph(node) && node.querySelector("a.external-link")
+    ).length;
+
+    if (bareUrlCount === 0 || citationCount === 0) {
+      return;
+    }
+
+    const list = document.createElement("ul");
+    list.className = "references-list";
+
+    nodes.forEach((node) => {
+      if (node.tagName !== "P") {
+        return;
+      }
+      if (isBareUrlParagraph(node)) {
+        node.remove();
+        return;
+      }
+
+      const item = document.createElement("li");
+      item.innerHTML = node.innerHTML;
+      list.appendChild(item);
+      node.remove();
+    });
+
+    if (!list.children.length) {
+      return;
+    }
+
+    const anchor = nodes.find((node) => node.parentNode);
+    if (anchor) {
+      anchor.parentNode.insertBefore(list, anchor);
+    } else {
+      const heading = Array.from(root.querySelectorAll("h2, h3")).find((node) => {
+        const label = node.textContent.trim().toLowerCase();
+        return label === "references" || label === "sources";
+      });
+      if (heading) {
+        heading.insertAdjacentElement("afterend", list);
+      } else {
+        const rules = root.querySelectorAll("hr");
+        const marker = rules[rules.length - 1];
+        if (marker) {
+          marker.insertAdjacentElement("afterend", list);
+        }
+      }
+    }
+  });
+</script>
