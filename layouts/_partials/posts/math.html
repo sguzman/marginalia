@@ -26,6 +26,37 @@
       const root = document.querySelector(".post-content") || document.body;
       const currencyPlaceholder = "__MARGINALIA_DOLLAR__";
 
+      const unwrapCodeWrappedMath = (nodeRoot) => {
+        nodeRoot.querySelectorAll("code").forEach((codeNode) => {
+          if (
+            codeNode.closest(
+              "pre, script, style, textarea, .katex, .highlight"
+            )
+          ) {
+            return;
+          }
+
+          const prev = codeNode.previousSibling;
+          const next = codeNode.nextSibling;
+          if (
+            !prev ||
+            !next ||
+            prev.nodeType !== Node.TEXT_NODE ||
+            next.nodeType !== Node.TEXT_NODE
+          ) {
+            return;
+          }
+
+          const prevMatch = prev.nodeValue.match(/(\$\$|\$)\s*$/);
+          const nextMatch = next.nodeValue.match(/^\s*(\$\$|\$)/);
+          if (!prevMatch || !nextMatch || prevMatch[1] !== nextMatch[1]) {
+            return;
+          }
+
+          codeNode.replaceWith(document.createTextNode(codeNode.textContent));
+        });
+      };
+
       // Some imported math-heavy posts were converted with escaped dollar
       // delimiters like \$...\$, which KaTeX auto-render does not treat as
       // math boundaries out of the box.
@@ -137,6 +168,7 @@
         });
       };
 
+      unwrapCodeWrappedMath(root);
       normalizeEscapedDollarMath(root);
       protectCurrencyDollars(root);
 
