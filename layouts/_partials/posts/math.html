@@ -40,7 +40,7 @@
               }
               if (
                 node.parentElement.closest(
-                  "code, pre, script, style, textarea, .katex, .highlight"
+                  "a, code, pre, script, style, textarea, .katex, .highlight"
                 )
               ) {
                 return NodeFilter.FILTER_REJECT;
@@ -76,7 +76,7 @@
               }
               if (
                 node.parentElement.closest(
-                  "code, pre, script, style, textarea, .katex, .highlight"
+                  "a, code, pre, script, style, textarea, .katex, .highlight"
                 )
               ) {
                 return NodeFilter.FILTER_REJECT;
@@ -112,7 +112,7 @@
               }
               if (
                 node.parentElement.closest(
-                  "script, style, textarea, .katex, .highlight"
+                  "a, script, style, textarea, .katex, .highlight"
                 )
               ) {
                 return NodeFilter.FILTER_REJECT;
@@ -148,7 +148,7 @@
           { left: "\\(", right: "\\)", display: false }
         ],
         ignoredClasses: ["katex"],
-        ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"],
+        ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code", "a"],
         output: "htmlAndMathml",
         processEnvironments: true,
         processEscapes: true,
