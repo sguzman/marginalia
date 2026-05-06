@@ -1,8 +1,8 @@
 source_root = "tmp/ai-research-reports/data/md"
 crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
-generated_at = "2026-05-04T21:38:10.470056+00:00"
-total_documents = 101
-published_documents = 92
+generated_at = "2026-05-06T00:00:00+00:00"
+total_documents = 103
+published_documents = 94
 suppressed_duplicate_documents = 9
 pending_documents = 0
 
@@ -1514,5 +1514,35 @@ crosswalk_match_basis = "article_yaml_source_docx"
 added = true
 blog_slug = "the-economy-of-non-bitcoin-cryptocurrencies"
 blog_path = "content/posts/the-economy-of-non-bitcoin-cryptocurrencies.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "fallen-aristocracy"
+title = "Fallen Aristocracy"
+source_date = "2026-05-04"
+docx_file = "fallen-aristocracy.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/fallen-aristocracy/main.md"
+meta_path = "tmp/ai-research-reports/data/md/fallen-aristocracy/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "fallen-aristocracy"
+blog_path = "content/posts/fallen-aristocracy.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "history-of-business-accounting"
+title = "History of Business Accounting"
+source_date = "2026-05-04"
+docx_file = "History of Business Accounting – A Comprehensive Review.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/history-of-business-accounting/main.md"
+meta_path = "tmp/ai-research-reports/data/md/history-of-business-accounting/article.yaml"
+crosswalk_match_basis = "article_yaml_source_docx"
+added = true
+blog_slug = "history-of-business-accounting"
+blog_path = "content/posts/history-of-business-accounting.md"
 note = ""
 status = "published"
