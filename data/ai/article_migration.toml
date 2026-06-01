@@ -1,8 +1,8 @@
 source_root = "tmp/ai-research-reports/data/md"
 crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
 generated_at = "2026-05-06T00:00:00+00:00"
-total_documents = 103
-published_documents = 94
+total_documents = 105
+published_documents = 96
 suppressed_duplicate_documents = 9
 pending_documents = 0
 
@@ -1544,5 +1544,35 @@ crosswalk_match_basis = "article_yaml_source_docx"
 added = true
 blog_slug = "history-of-business-accounting"
 blog_path = "content/posts/history-of-business-accounting.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "american-conservatism"
+title = "American Conservatism and the Liberal-Revolutionary Founding"
+source_date = "2026-06-01"
+docx_file = "American Conservatism and the Liberal-Revolutionary Founding.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/american-conservatism/main.md"
+meta_path = "tmp/ai-research-reports/data/md/american-conservatism/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "american-conservatism"
+blog_path = "content/posts/american-conservatism/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "modern-progressive-marxism"
+title = "Formalizing the Connection Between Modern Progressive Politics and Marxism"
+source_date = "2026-06-01"
+docx_file = "Formalizing the Connection Between Modern Progressive Politics and Marxism.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/modern-progressive-marxism/main.md"
+meta_path = "tmp/ai-research-reports/data/md/modern-progressive-marxism/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "modern-progressive-marxism"
+blog_path = "content/posts/modern-progressive-marxism/index.md"
 note = ""
 status = "published"
