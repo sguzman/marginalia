@@ -312,7 +312,7 @@ The ideological flow is easiest to see as a layered inheritance rather
 than a single doctrine:
 
   -------------------------------------------------------------------------------------
-                               ![Rendered Mermaid diagram 1](media/rId34.png)
+![Rendered Mermaid diagram 1](media/rId34.png)
 
   -------------------------------------------------------------------------------------
 
