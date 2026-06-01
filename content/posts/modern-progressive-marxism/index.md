@@ -583,42 +583,12 @@ through which Marxist and socialist ideas were historically translated
 into mainstream progressive politics.
 [\[30\]](https://www.oecd.org/content/dam/oecd/en/data/datasets/oecd-aias-ictwss/Germany.pdf)
 
-  -----------------------------------------------------------------------
-  Country               Union density          Adjusted What the numbers
-                                             bargaining suggest
-                                               coverage 
-  ----------------- ----------------- ----------------- -----------------
-  Sweden                        65.9%               88% Progressive
-                                                        politics rests on
-                                                        dense
-                                                        labor-market
-                                                        institutions and
-                                                        sectoral
-                                                        bargaining.
-
-  United Kingdom                  22%             40.2% The labor link
-                                                        remains
-                                                        significant but
-                                                        far weaker than
-                                                        in classic Nordic
-                                                        social democracy.
-
-  Germany                       14.1%               49% Union membership
-                                                        is lower, but
-                                                        bargaining
-                                                        institutions
-                                                        still preserve a
-                                                        labor-social
-                                                        compromise.
-
-  United States                  9.9%             11.1% Progressive
-                                                        politics exists,
-                                                        but class
-                                                        organization is
-                                                        much thinner and
-                                                        more
-                                                        factionalized.
-  -----------------------------------------------------------------------
+| Country | Union density | Adjusted bargaining coverage | What the numbers suggest |
+|---|---|---|---|
+| Sweden | 65.9% | 88% | Progressive politics rests on dense labor-market institutions and sectoral bargaining. |
+| United Kingdom | 22% | 40.2% | The labor link remains significant but far weaker than in classic Nordic social democracy. |
+| Germany | 14.1% | 49% | Union membership is lower, but bargaining institutions still preserve a labor-social compromise. |
+| United States | 9.9% | 11.1% | Progressive politics exists, but class organization is much thinner and more factionalized. |
 
 **Source note:** OECD/AIAS ICTWSS 2024 country notes for Sweden, the UK,
 Germany, and the U.S.
