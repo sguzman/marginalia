@@ -388,9 +388,7 @@ socialist-feminist and Marxist categories.
 [\[16\]](https://plato.stanford.edu/entries/critical-theory/)
 
   ------------------------------------------------------------------------------------------
-                                  ![Rendered Mermaid diagram
-   1](media/rId32.png){width="5.833333333333333in"
-                                height="2.4305555555555554in"}
+                                  ![Rendered Mermaid diagram 1](media/rId32.png)
 
   ------------------------------------------------------------------------------------------
 
@@ -622,9 +620,7 @@ public-service-heavy, pro-people statecraft with measurable outcomes.
 [\[23\]](https://cpim.org/party-programme/)
 
   ------------------------------------------------------------------------------------------
-                                  ![Rendered Mermaid diagram
-   2](media/rId41.png){width="5.833333333333333in"
-                                height="1.8364195100612424in"}
+                                  ![Rendered Mermaid diagram 2](media/rId41.png)
 
   ------------------------------------------------------------------------------------------
 
