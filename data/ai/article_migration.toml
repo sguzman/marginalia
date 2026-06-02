@@ -1,8 +1,8 @@
 source_root = "tmp/ai-research-reports/data/md"
 crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
 generated_at = "2026-05-06T00:00:00+00:00"
-total_documents = 105
-published_documents = 96
+total_documents = 106
+published_documents = 97
 suppressed_duplicate_documents = 9
 pending_documents = 0
 
@@ -1574,5 +1574,20 @@ crosswalk_match_basis = "manual"
 added = true
 blog_slug = "modern-progressive-marxism"
 blog_path = "content/posts/modern-progressive-marxism/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "puritan-moral-psychology"
+title = "Puritan Moral Psychology and the Genealogy of American Progressivism"
+source_date = "2026-06-01"
+docx_file = "Puritan Moral Psychology and the Genealogy of American Progressivism.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/puritan-moral-psychology/main.md"
+meta_path = "tmp/ai-research-reports/data/md/puritan-moral-psychology/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "puritan-moral-psychology"
+blog_path = "content/posts/puritan-moral-psychology/index.md"
 note = ""
 status = "published"
