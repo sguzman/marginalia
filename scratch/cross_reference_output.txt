@@ -1,0 +1,10 @@
+Total projects in ai-research-reports: 112
+Total projects migrated in ledger: 106
+Total missing (unmigrated) projects: 6
+--------------------------------------------------
+intergenerational-extraction-in-liberal-democracies
+liberalism-as-political-domestication
+liberalism-equality-and-the-leftward-drift-thesis
+liberalism-social-disembedding-and-managed-dependency
+republicans-as-moderating-opposition-without-a-rival-order
+the-female-shadow

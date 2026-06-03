@@ -1,8 +1,8 @@
 source_root = "tmp/ai-research-reports/data/md"
 crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
 generated_at = "2026-05-06T00:00:00+00:00"
-total_documents = 106
-published_documents = 97
+total_documents = 112
+published_documents = 103
 suppressed_duplicate_documents = 9
 pending_documents = 0
 
@@ -1589,5 +1589,95 @@ crosswalk_match_basis = "manual"
 added = true
 blog_slug = "puritan-moral-psychology"
 blog_path = "content/posts/puritan-moral-psychology/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "intergenerational-extraction-in-liberal-democracies"
+title = "Intergenerational Extraction in Liberal Democracies"
+source_date = "2026-06-03"
+docx_file = "Intergenerational Extraction in Liberal Democracies.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/intergenerational-extraction-in-liberal-democracies/main.md"
+meta_path = "tmp/ai-research-reports/data/md/intergenerational-extraction-in-liberal-democracies/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "intergenerational-extraction-in-liberal-democracies"
+blog_path = "content/posts/intergenerational-extraction-in-liberal-democracies/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "liberalism-as-political-domestication"
+title = "Liberalism as Political Domestication"
+source_date = "2026-06-03"
+docx_file = "Liberalism as Political Domestication.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/liberalism-as-political-domestication/main.md"
+meta_path = "tmp/ai-research-reports/data/md/liberalism-as-political-domestication/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "liberalism-as-political-domestication"
+blog_path = "content/posts/liberalism-as-political-domestication/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "liberalism-equality-and-the-leftward-drift-thesis"
+title = "Liberalism, Equality, and the Leftward Drift Thesis"
+source_date = "2026-06-03"
+docx_file = "Liberalism, Equality, and the Leftward Drift Thesis.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/liberalism-equality-and-the-leftward-drift-thesis/main.md"
+meta_path = "tmp/ai-research-reports/data/md/liberalism-equality-and-the-leftward-drift-thesis/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "liberalism-equality-and-the-leftward-drift-thesis"
+blog_path = "content/posts/liberalism-equality-and-the-leftward-drift-thesis/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "liberalism-social-disembedding-and-managed-dependency"
+title = "Liberalism, Social Disembedding, and Managed Dependency"
+source_date = "2026-06-02"
+docx_file = "Liberalism, Social Disembedding, and Managed Dependency.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/liberalism-social-disembedding-and-managed-dependency/main.md"
+meta_path = "tmp/ai-research-reports/data/md/liberalism-social-disembedding-and-managed-dependency/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "liberalism-social-disembedding-and-managed-dependency"
+blog_path = "content/posts/liberalism-social-disembedding-and-managed-dependency/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "republicans-as-moderating-opposition-without-a-rival-order"
+title = "Republicans as Moderating Opposition Without a Rival Order"
+source_date = "2026-06-03"
+docx_file = "Republicans as Moderating Opposition Without a Rival Order.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/republicans-as-moderating-opposition-without-a-rival-order/main.md"
+meta_path = "tmp/ai-research-reports/data/md/republicans-as-moderating-opposition-without-a-rival-order/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "republicans-as-moderating-opposition-without-a-rival-order"
+blog_path = "content/posts/republicans-as-moderating-opposition-without-a-rival-order/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "the-female-shadow"
+title = "The Female Shadow"
+source_date = "2026-06-02"
+docx_file = "The Female Shadow.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/the-female-shadow/main.md"
+meta_path = "tmp/ai-research-reports/data/md/the-female-shadow/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "the-female-shadow"
+blog_path = "content/posts/the-female-shadow/index.md"
 note = ""
 status = "published"
