@@ -36,8 +36,7 @@ keywords:
 - CSS Zen Garden
 lastmod: '2026-05-04'
 layout: single
-linkTitle: A Comprehensive History of CSS
---- Institutions, Specs, a…
+linkTitle: "A Comprehensive History of CSS"
 markup: goldmark
 meta:
   abstract: A detailed, timeline-driven history of CSS that connects W3C specifications and browser implementation realities with community practice (from early standards and the browser wars to responsive design, Flexbox, Grid, and modern CSS architecture).
@@ -162,7 +161,7 @@ meta:
     - flexbox
     - grid
     - css-architecture
-  title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
+  title: "A Comprehensive History of CSS: Institutions, Specs, and Practice"
   toc: true
   toc-depth: 2
   toc-title: Contents
@@ -185,7 +184,7 @@ tags:
   - flexbox
   - grid
   - css-architecture
-title: A Comprehensive History of CSS --- Institutions, Specs, and Practice
+title: "A Comprehensive History of CSS: Institutions, Specs, and Practice"
 ---
 
 ## Executive Summary
