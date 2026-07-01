@@ -268,7 +268,7 @@ the identity. Here it is.</p>$$(\lambda_1^{-1} \circ \lambda_1): \mathbb{N} \rig
 \label{eq:comp}$$<p>I brought up the notion of type because by this point, its mention seems
 more than proper. In building the type up from the ground, we must keep
 in mind that the inverse takes a function that already has its own type.
-What <a href=#eq:comp>\[eq:comp\]</a>{reference-type=&ldquo;ref&rdquo; reference=&ldquo;eq:comp&rdquo;}
+What <a href=#eq:comp>[eq:comp]</a>{reference-type=&ldquo;ref&rdquo; reference=&ldquo;eq:comp&rdquo;}
 demonstrates is that we can easily feed a function another function and
 retrieve a semantically coherent interpretation as a result. Perchance
 we can provide some similar resolution to the problem of addition.</p><p>The first thing we would do is curry the function. This is a common
@@ -293,10 +293,10 @@ any point and spread outwards.</p><p>Gorgeous. A function as a sequence of types
 an operation to the metaphorical sum of its parts. We want to be able to
 do this to polynomials. Not just in their structured operational form
 but in their iterative dynamic one as well. Given
-<a href=#eq:closed-form-3>\[eq:closed-form-3\]</a>{reference-type=&ldquo;ref&rdquo;
+<a href=#eq:closed-form-3>[eq:closed-form-3]</a>{reference-type=&ldquo;ref&rdquo;
 reference=&ldquo;eq:closed-form-3&rdquo;}, we can express the iteration by following
 the type signature of the incremental iterations. Starting from
-<a href=#eq:closed-form-3>\[eq:closed-form-3\]</a>{reference-type=&ldquo;ref&rdquo;
+<a href=#eq:closed-form-3>[eq:closed-form-3]</a>{reference-type=&ldquo;ref&rdquo;
 reference=&ldquo;eq:closed-form-3&rdquo;},</p>$$f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$$$f_3(x,n) = a_3 \cdot f_3(x,n-1)$$$$f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}$$$$f_3(x,0) = x$$$$f_3(x,1) = a_3 \cdot x^2$$$$f_3(x,2) = a_3^3 \cdot x^4$$$$f_3(x,3) = a_3^5 \cdot x^6$$<p>Let&rsquo;s take do proper accounting of the degree of the polynomial across
 iterations.</p>$$f_3 \in \mathbb{P}^2$$$$f_3(x,1) = f_3$$$$f_3(x,2) \in \mathbb{P}^4$$$$f_3(x,3) \in \mathbb{P}^6$$<p>Expressed as a sequence of operations, the iteration of monomial
 becomes,</p>$$f_3(x,n) \in \mathbb{P}^{2n}$$<p>Let&rsquo;s define a helper type signature to aid in writing down the sequence
@@ -357,7 +357,7 @@ a closed-form for iterating polynomials, comes from the onerous
 requirement of having to treat a polynomial at one point as a noun and
 operand and simultaneously as a verb and operator. This is the crux of
 the problem.</p><p>We need to make another adjustment to be able to overcome a hurdle. You
-can see in <a href=#eq:iter2>\[eq:iter2\]</a>{reference-type=&ldquo;ref&rdquo;
+can see in <a href=#eq:iter2>[eq:iter2]</a>{reference-type=&ldquo;ref&rdquo;
 reference=&ldquo;eq:iter2&rdquo;} we almost have a streamlined account of pure
 function composition. If it weren&rsquo;t those pesky numbers, we would have a
 pure sequence. Well, for the context of what we are trying to
@@ -393,7 +393,7 @@ two different types of functions, the technique we used to reduce a
 function of $\pi(1)$ to $\pi(0)$ can be applied to any function
 $\pi(i), \quad i \in \mathbb{N} \land i > 0$. Given a function $\pi(i)$,
 we can reduce it to $\pi(i-1)$ by
-<a href=#eq:pi-reduc>\[eq:pi-reduc\]</a>{reference-type=&ldquo;ref&rdquo;
+<a href=#eq:pi-reduc>[eq:pi-reduc]</a>{reference-type=&ldquo;ref&rdquo;
 reference=&ldquo;eq:pi-reduc&rdquo;}. Any function can be reduced to a function of
 $\pi(0)$.</p><p>That is quite a quaint development but I rather not have to convert all
 functions to $\pi(0)$ before I can compute the final expression. Much to
