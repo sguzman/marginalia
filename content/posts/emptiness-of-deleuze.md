@@ -8,7 +8,7 @@ categories:
   - Theory
 date: '2026-03-04'
 description: >-
-  The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…
+  A critical report on whether Deleuze’s anti-system rhetoric collapses into decomposition without adequate institutional, practical, or constructive alternatives.
 draft: false
 keywords:
   - The Emptiness of Deleuze
@@ -19,7 +19,7 @@ layout: single
 linkTitle: The Emptiness of Deleuze
 markup: goldmark
 meta:
-  abstract: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
+  abstract: 'A critical report on whether Deleuze’s anti-system rhetoric reduces complex systems without adequately accounting for institutional durability, practical coordination, or constructive alternatives.'
   categories:
     - Philosophy
     - Theory
@@ -27,7 +27,7 @@ meta:
     - Salvador Guzman
   dataset_id: ''
   date: '2026-03-04'
-  description: 'The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…'
+  description: 'A critical report on whether Deleuze’s anti-system rhetoric collapses into decomposition without adequate institutional, practical, or constructive alternatives.'
   edition: '1'
   epub-chapter-level: 0
   epub-title-page: false
@@ -114,7 +114,7 @@ outputs:
   - RSS
 slug: emptiness-of-deleuze
 summary: >-
-  The user’s criticisms of Deleuze center on what they see as the emptiness of his anti-system rhetoric: merely “decomposing” social reality (into multiplicities or constructions) does not mean those systems are unimportant or dispensable; c…
+  A critical report on whether Deleuze’s anti-system rhetoric reduces complex systems without adequately accounting for institutional durability, practical coordination, or constructive alternatives.
 tags:
   - the-emptiness-of-deleuze
   - philosophy
