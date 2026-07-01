@@ -1,30 +1,31 @@
 ---
 ai_generated: true
 authors:
-- Salvador Guzman
-- ChatGPT
+  - Salvador Guzman
+  - ChatGPT
 categories:
-- Health
-- Public Health
+  - Health
+  - Public Health
 date: '2026-03-21'
-description: Global Population Dynamics Peaks in Population Level and Growth Rates
+description: >-
+  Global Population Dynamics Peaks in Population Level and Growth Rates
 draft: false
 keywords:
-- Global Population Dynamics_ Peaks in Population Level and Growth Rates
-- Health
-- Public Health
-- Public aspects of medicine
-lastmod: '2026-05-04'
+  - Global Population Dynamics_ Peaks in Population Level and Growth Rates
+  - Health
+  - Public Health
+  - Public aspects of medicine
+lastmod: '2026-07-01'
 layout: single
 linkTitle: 'Global Population Dynamics: Peaks in Population Level and…'
 markup: goldmark
 meta:
   abstract: Global Population Dynamics Peaks in Population Level and Growth Rates
   categories:
-  - Health
-  - Public Health
+    - Health
+    - Public Health
   creator:
-  - Salvador Guzman
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-03-21'
   description: Global Population Dynamics Peaks in Population Level and Growth Rates
@@ -34,10 +35,10 @@ meta:
   format: markdown
   identifier: urn:marginalia:global-population-dynamics-peaks-in-population-level-and-growth-rates
   keywords:
-  - Global Population Dynamics_ Peaks in Population Level and Growth Rates
-  - Health
-  - Public Health
-  - Public aspects of medicine
+    - Global Population Dynamics_ Peaks in Population Level and Growth Rates
+    - Health
+    - Public Health
+    - Public aspects of medicine
   lang: en
   language: English
   library_of_congress_classification:
@@ -54,8 +55,7 @@ meta:
     collection: ''
     conversion:
       date: '2026-04-20'
-      source_docx: Global Population Dynamics Peaks in Population Level and Growth
-        Rates.docx
+      source_docx: Global Population Dynamics Peaks in Population Level and Growth Rates.docx
       tool: pandoc 3.6
     discipline: public health
     domain: health
@@ -96,36 +96,37 @@ meta:
   slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
   status: complete
   subject:
-  - Public health
-  - Health policy
+    - Public health
+    - Health policy
   subjects:
-  - Public health
-  - Health policy
+    - Public health
+    - Health policy
   subtitle: ''
   tags:
-  - global-population-dynamics-peaks-in-population-level-and-growth-rates
-  - health
-  - public-health
+    - global-population-dynamics-peaks-in-population-level-and-growth-rates
+    - health
+    - public-health
   title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
   toc: false
   toc-depth: 0
   toc-title: Contents
   type: report
 outputs:
-- HTML
-- RSS
+  - HTML
+  - RSS
 slug: global-population-dynamics-peaks-in-population-level-and-growth-rates
-summary: Global Population Dynamics Peaks in Population Level and Growth Rates
+summary: >-
+  Global Population Dynamics Peaks in Population Level and Growth Rates
 tags:
-- global-population-dynamics-peaks-in-population-level-and-growth-rates
-- health
-- public-health
+  - global-population-dynamics-peaks-in-population-level-and-growth-rates
+  - health
+  - public-health
 title: 'Global Population Dynamics: Peaks in Population Level and Growth Rates'
 ---
 
 ## Executive summary
 
-The short answer to your original question is **yes**: the **largest total world population (so far) is occurring in the present era**, and therefore within the last 100 years. This is because global population increased rapidly during the 20th century and has continued rising into the 2020s. [\[1\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
+The **largest total world population observed so far is occurring in the present era**, and therefore within the last 100 years. This is because global population increased rapidly during the 20th century and has continued rising into the 2020s. [\[1\]](https://www.un.org/sustainabledevelopment/blog/2024/07/press-release-wpp2024/)
 
 Key findings from authoritative demographic series:
 

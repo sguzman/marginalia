@@ -1,8 +1,8 @@
 source_root = "tmp/ai-research-reports/data/md"
 crosswalk_path = "tmp/ai-research-reports/data/docx-md-crosswalk.toml"
-generated_at = "2026-05-06T00:00:00+00:00"
-total_documents = 112
-published_documents = 103
+generated_at = "2026-07-01T00:00:00+00:00"
+total_documents = 115
+published_documents = 106
 suppressed_duplicate_documents = 9
 pending_documents = 0
 
@@ -1679,5 +1679,50 @@ crosswalk_match_basis = "manual"
 added = true
 blog_slug = "the-female-shadow"
 blog_path = "content/posts/the-female-shadow/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "formalizing-the-elite-xenophilia-hypothesis"
+title = "Formalizing the Elite Xenophilia Hypothesis"
+source_date = "2026-06-30"
+docx_file = "Formalizing the Elite Xenophilia Hypothesis.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/formalizing-the-elite-xenophilia-hypothesis/main.md"
+meta_path = "tmp/ai-research-reports/data/md/formalizing-the-elite-xenophilia-hypothesis/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "formalizing-the-elite-xenophilia-hypothesis"
+blog_path = "content/posts/formalizing-the-elite-xenophilia-hypothesis/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "mass-and-indiscriminate-immigration-as-indirect-corporate-welfare"
+title = "Mass and Indiscriminate Immigration as Indirect Corporate Welfare"
+source_date = "2026-06-30"
+docx_file = "Mass and Indiscriminate Immigration as Indirect Corporate Welfare.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/mass-and-indiscriminate-immigration-as-indirect-corporate-welfare/main.md"
+meta_path = "tmp/ai-research-reports/data/md/mass-and-indiscriminate-immigration-as-indirect-corporate-welfare/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "mass-and-indiscriminate-immigration-as-indirect-corporate-welfare"
+blog_path = "content/posts/mass-and-indiscriminate-immigration-as-indirect-corporate-welfare/index.md"
+note = ""
+status = "published"
+
+[[documents]]
+source_slug = "testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs"
+title = "Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs"
+source_date = "2026-06-30"
+docx_file = "Testing the Hypothesis That Culture Is Parasitic on Unsatisfied Human Needs.docx"
+source_kind = "docx"
+md_path = "tmp/ai-research-reports/data/md/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/main.md"
+meta_path = "tmp/ai-research-reports/data/md/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/article.yaml"
+crosswalk_match_basis = "manual"
+added = true
+blog_slug = "testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs"
+blog_path = "content/posts/testing-the-hypothesis-that-culture-is-parasitic-on-unsatisfied-human-needs/index.md"
 note = ""
 status = "published"

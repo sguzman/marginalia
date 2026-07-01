@@ -1,80 +1,68 @@
 ---
-title: Puritan Moral Psychology and the Genealogy of American Progressivism
-linkTitle: Puritan Moral Psychology and the Genealogy of American Progressivism
-description: An analysis formalizing the genealogical and institutional connection
-  between modern American progressivism and Puritan moral psychology.
-summary: This report analyzes the formal thesis that modern American progressivism
-  inherited and secularized a durable moral-political grammar first institutionalized
-  in New England Puritanism. The grammar includes covenantal mission, collective guilt,
-  moralized authority, public scrutiny of conduct, and disciplinary institutions.
-slug: puritan-moral-psychology
-date: '2026-06-01'
-lastmod: '2026-06-01'
-draft: false
-authors: &id001
-- Salvador Guzman
-- ChatGPT
-categories: &id002
-- Politics
-- History
-- Political Theory
-tags: &id004
-- puritan-moral-psychology
-- politics
-- history
-- political-theory
-- puritanism
-- american-progressivism
-- sociology-of-religion
-keywords: &id003
-- Puritan Moral Psychology and the Genealogy of American Progressivism
-- Politics
-- History
-- Political Theory
-- Political science (General)
-- Puritanism
-- American Progressivism
-- Moral Psychology
-- Genealogy
-- Covenant
-- Civil Religion
-layout: single
-markup: goldmark
-outputs:
-- HTML
-- RSS
 ai_generated: true
-meta:
-  abstract: This report analyzes the formal thesis that modern American progressivism
-    inherited and secularized a durable moral-political grammar first institutionalized
-    in New England Puritanism. The grammar includes covenantal mission, collective
-    guilt, moralized authority, public scrutiny of conduct, and disciplinary institutions.
-  aliases: []
-  authors: *id001
-  categories: *id002
-  cover-image: ''
-  cover_image: ''
-  creator:
+authors:
   - Salvador Guzman
+  - ChatGPT
+categories:
+  - Politics
+  - History
+  - Political Theory
+date: '2026-06-01'
+description: >-
+  An analysis formalizing the genealogical and institutional connection between modern American progressivism and Puritan moral psychology.
+draft: false
+keywords:
+  - Puritan Moral Psychology and the Genealogy of American Progressivism
+  - Politics
+  - History
+  - Political Theory
+  - Political science (General)
+  - Puritanism
+  - American Progressivism
+  - Moral Psychology
+  - Genealogy
+  - Covenant
+  - Civil Religion
+lastmod: '2026-07-01'
+layout: single
+linkTitle: Puritan Moral Psychology and the Genealogy of American Pr…
+markup: goldmark
+meta:
+  abstract: This report argues that American progressivism is best understood as a partly secularized continuation of a moral-political repertoire established by Puritan New England.
+  categories:
+    - Politics
+    - History
+    - Political Theory
+  creator:
+    - Salvador Guzman
   dataset_id: ''
   date: '2026-06-01'
-  description: An analysis formalizing the genealogical and institutional connection
-    between modern American progressivism and Puritan moral psychology.
+  description: An analysis formalizing the genealogical and institutional connection between modern American progressivism and Puritan moral psychology.
   edition: '1'
-  expiryDate: ''
+  epub-chapter-level: 2
+  epub-title-page: false
+  format: markdown
   identifier: urn:marginalia:puritan-moral-psychology
-  keywords: *id003
+  keywords:
+    - Puritan Moral Psychology and the Genealogy of American Progressivism
+    - Politics
+    - History
+    - Political Theory
+    - Political science (General)
+    - Puritanism
+    - American Progressivism
+    - Moral Psychology
+    - Genealogy
+    - Covenant
+    - Civil Religion
   lang: en
   language: English
-  lastmod: '2026-06-01'
   library_of_congress_classification:
     class: JA
     description: Politics, political history, social theory, and public debate.
     label: Political science (General)
   license: CC0-1.0
-  linkTitle: Puritan Moral Psychology and the Genealogy of American Progressivism
-  markup: ''
-  plate_id: ''
+  number-sections: true
   publisher: Marginalia
   reference-section-title: References
   report:
@@ -124,25 +112,45 @@ meta:
   slug: puritan-moral-psychology
   status: complete
   subject:
-  - Politics
-  - History
+    - Politics
+    - History
   subjects:
-  - Politics
-  - History
+    - Politics
+    - History
   subtitle: ''
-  summary: This report argues that American progressivism is best understood as a
-    partly secularized continuation of a moral-political repertoire established by
-    Puritan New England.
-  tags: *id004
+  tags:
+    - puritan-moral-psychology
+    - politics
+    - history
+    - political-theory
+    - puritanism
+    - american-progressivism
+    - sociology-of-religion
   title: Puritan Moral Psychology and the Genealogy of American Progressivism
-  url: ''
-  weight: 0
+  toc: true
+  toc-depth: 3
+  toc-title: Contents
+  type: report
+outputs:
+  - HTML
+  - RSS
+slug: puritan-moral-psychology
+summary: >-
+  This report argues that American progressivism is best understood as a partly secularized continuation of a moral-political repertoire established by Puritan New England.
+tags:
+  - puritan-moral-psychology
+  - politics
+  - history
+  - political-theory
+  - puritanism
+  - american-progressivism
+  - sociology-of-religion
+title: Puritan Moral Psychology and the Genealogy of American Progressivism
 ---
-# Puritan Moral Psychology and the Genealogy of American Progressivism
 
 ## Executive summary
 
-The thesis can be formalized in a serious, researchable way, but only if
+The argument can be formalized in a serious, researchable way, but only if
 it is stated carefully. The strongest version is **not** that modern
 American progressivism is simply "Puritanism without God," or that every
 progressive reform is a disguised return of seventeenth-century
@@ -318,15 +326,54 @@ moral inventory** with **external social action**.
 The Puritan foundations relevant to later progressivism can be
 summarized comparatively:
 
-| Puritan structure | Early expression | Later progressive or liberal analogue | Evidence |
-|---|---|---|---|
-| Covenantal community | Collective covenant with God and public duty in Winthrop | "Contract with the people," social citizenship, rights plus obligation | [\[14\]](https://history.hanover.edu/courses/excerpts/212winth.html) |
-| Moralized authority | Liberty exists through subjection to "good, just, and honest" rule | Expert administration justified as protecting welfare, equality, or inclusion | [\[15\]](https://teachingamericanhistory.org/document/on-liberty/) |
-| Public discipline | Church/civil censure in Keayne case; scriptural law in colony codes | Inspection, compliance offices, bias reporting, regulatory enforcement | [\[16\]](https://teachingamericanhistory.org/document/admonishment-and-reconciliation-of-robert-keayne-with-the-church-1639-1640/) |
-| Declension and jeremiad | Fear of covenant-breaking and collective shame | Reform rhetoric centered on national sin, hypocrisy, or failure to live ideals | [\[17\]](https://history.hanover.edu/courses/excerpts/212winth.html) |
-| Confession and self-scrutiny | Humiliation before God, Edwardsian self-examination | Testimony, awareness-raising, apology, public acknowledgment of harm or bias | [\[18\]](https://history.hanover.edu/courses/excerpts/212winth.html) |
-| Exemplary mission | "City upon a hill," providential errand | Manifest Destiny, democratic crusade, human-rights diplomacy | [\[19\]](https://nationalhumanitiescenter.org/tserve/nineteen/nkeyinfo/mandestiny.htm) |
-| Purification | Restraint of corruption, vice, false worship | Campaigns against drink, labor exploitation, segregation, discriminatory institutions, and later exclusionary climates | [\[20\]](https://teachingamericanhistory.org/document/the-body-of-liberties-of-the-massachusetts-colony-in-new-england/) |
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Puritan structure Early expression    Later progressive or Evidence
+                                        liberal analogue     
+  ----------------- ------------------- -------------------- ------------------------------------------------------------------------------------------------------------------------------------
+  Covenantal        Collective covenant "Contract with the   [\[14\]](https://history.hanover.edu/courses/excerpts/212winth.html)
+  community         with God and public people," social      
+                    duty in Winthrop    citizenship, rights  
+                                        plus obligation      
+
+  Moralized         Liberty exists      Expert               [\[15\]](https://teachingamericanhistory.org/document/on-liberty/)
+  authority         through subjection  administration       
+                    to "good, just, and justified as         
+                    honest" rule        protecting welfare,  
+                                        equality, or         
+                                        inclusion            
+
+  Public discipline Church/civil        Inspection,          [\[16\]](https://teachingamericanhistory.org/document/admonishment-and-reconciliation-of-robert-keayne-with-the-church-1639-1640/)
+                    censure in Keayne   compliance offices,  
+                    case; scriptural    bias reporting,      
+                    law in colony codes regulatory           
+                                        enforcement          
+
+  Declension and    Fear of             Reform rhetoric      [\[17\]](https://history.hanover.edu/courses/excerpts/212winth.html)
+  jeremiad          covenant-breaking   centered on national 
+                    and collective      sin, hypocrisy, or   
+                    shame               failure to live      
+                                        ideals               
+
+  Confession and    Humiliation before  Testimony,           [\[18\]](https://history.hanover.edu/courses/excerpts/212winth.html)
+  self-scrutiny     God, Edwardsian     awareness-raising,   
+                    self-examination    apology, public      
+                                        acknowledgment of    
+                                        harm or bias         
+
+  Exemplary mission "City upon a hill," Manifest Destiny,    [\[19\]](https://nationalhumanitiescenter.org/tserve/nineteen/nkeyinfo/mandestiny.htm)
+                    providential errand democratic crusade,  
+                                        human-rights         
+                                        diplomacy            
+
+  Purification      Restraint of        Campaigns against    [\[20\]](https://teachingamericanhistory.org/document/the-body-of-liberties-of-the-massachusetts-colony-in-new-england/)
+                    corruption, vice,   drink, labor         
+                    false worship       exploitation,        
+                                        segregation,         
+                                        discriminatory       
+                                        institutions, and    
+                                        later exclusionary   
+                                        climates             
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This table should not be read as proof of a single uninterrupted chain.
 It shows something narrower and firmer: Puritan New England established
@@ -394,26 +441,86 @@ discipline private power and improve collective life.
 
 The trajectory can be summarized in a timeline:
 
-| Date | Node | Key actors | Genealogical significance | Sources |
-|---|---|---|---|---|
-| 1630 | Covenant commonwealth | John Winthrop | Community defined by covenant, mutual obligation, and exemplary mission | [\[27\]](https://history.hanover.edu/courses/excerpts/212winth.html) |
-| 1641--1647 | Scriptural civil order | Massachusetts General Court | Civil liberty and law explicitly anchored to divine rule and public discipline | [\[28\]](https://teachingamericanhistory.org/document/the-body-of-liberties-of-the-massachusetts-colony-in-new-england/) |
-| 1639--1645 | Public admonition and "moral" liberty | Robert Keayne, Winthrop | Economic conduct and liberty moralized and publicly supervised | [\[29\]](https://teachingamericanhistory.org/document/admonishment-and-reconciliation-of-robert-keayne-with-the-church-1639-1640/) |
-| 1730s--1740s | Revival and introspection | Jonathan Edwards | Intensified self-scrutiny, awakening, and conversion-centered public religion | [\[30\]](https://www.ccel.org/e/edwards/sermons.html) |
-| 1820s--1840s | Activist evangelical reform | Charles Finney and revival networks | Reform through organized means; moral action applied to society | [\[31\]](https://nationalhumanitiescenter.org/tserve/nineteen/nkeyinfo/nevanrev.htm) |
-| 1830s--1850s | Moral suasion | Garrison, AASS, Grimké | Slavery attacked as collective sin through testimony, persuasion, and shame | [\[32\]](https://teachingamericanhistory.org/document/to-the-public/) |
-| 1870s--1920s | Social Gospel | Rauschenbusch | Social salvation; politics and administration as moral instruments | [\[33\]](https://www.britannica.com/event/Social-Gospel) |
-| 1889 onward | Settlement movement | Addams, Starr, Kelley | Moral reform embodied in neighborhood institutions and regulation | [\[34\]](https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-nation-of-joiners/changing-america/settlement-houses-hull-house/) |
-| 1909--1912 | Progressive statism | Croly, Theodore Roosevelt, Progressive Party | National administrative capacity justified by welfare and justice | [\[35\]](https://teachingamericanhistory.org/document/the-promise-of-american-life/) |
-| 1935--1944 | Welfare-state rights | FDR, Social Security Board | Economic security reframed as a right and administered by national institutions | [\[36\]](https://www.ssa.gov/history/35act.html) |
-| 1947--1965 | Rights-state expansion | Truman committee, Brown, LBJ | Moral equality juridified and bureaucratized | [\[37\]](https://teachingamericanhistory.org/document/to-secure-these-rights-the-report-of-the-presidents-committee-on-civil-rights/) |
-| 1965 onward | Affirmative-action governance | LBJ, EEOC, OFCCP | Nondiscrimination plus proactive remediation enforced through federal oversight | [\[38\]](https://www.archives.gov/federal-register/codification/executive-order/11246.html) |
-| 2000s--2020s | DEI, bias response, call-out culture | Universities, HR systems, PEN America's critics and defenders | Harm-centered moral language, institutional monitoring, and contested discipline of speech/status | [\[39\]](https://www.smith.edu/your-campus/offices-services/equity-inclusion/policies-resources/bias-response-team) |
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Date           Node                 Key actors      Genealogical          Sources
+                                                      significance          
+  -------------- -------------------- --------------- --------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1630           Covenant             John Winthrop   Community defined by  [\[27\]](https://history.hanover.edu/courses/excerpts/212winth.html)
+                 commonwealth                         covenant, mutual      
+                                                      obligation, and       
+                                                      exemplary mission     
+
+  1641--1647     Scriptural civil     Massachusetts   Civil liberty and law [\[28\]](https://teachingamericanhistory.org/document/the-body-of-liberties-of-the-massachusetts-colony-in-new-england/)
+                 order                General Court   explicitly anchored   
+                                                      to divine rule and    
+                                                      public discipline     
+
+  1639--1645     Public admonition    Robert Keayne,  Economic conduct and  [\[29\]](https://teachingamericanhistory.org/document/admonishment-and-reconciliation-of-robert-keayne-with-the-church-1639-1640/)
+                 and "moral" liberty  Winthrop        liberty moralized and 
+                                                      publicly supervised   
+
+  1730s--1740s   Revival and          Jonathan        Intensified           [\[30\]](https://www.ccel.org/e/edwards/sermons.html)
+                 introspection        Edwards         self-scrutiny,        
+                                                      awakening, and        
+                                                      conversion-centered   
+                                                      public religion       
+
+  1820s--1840s   Activist evangelical Charles Finney  Reform through        [\[31\]](https://nationalhumanitiescenter.org/tserve/nineteen/nkeyinfo/nevanrev.htm)
+                 reform               and revival     organized means;      
+                                      networks        moral action applied  
+                                                      to society            
+
+  1830s--1850s   Moral suasion        Garrison, AASS, Slavery attacked as   [\[32\]](https://teachingamericanhistory.org/document/to-the-public/)
+                                      Grimké          collective sin        
+                                                      through testimony,    
+                                                      persuasion, and shame 
+
+  1870s--1920s   Social Gospel        Rauschenbusch   Social salvation;     [\[33\]](https://www.britannica.com/event/Social-Gospel)
+                                                      politics and          
+                                                      administration as     
+                                                      moral instruments     
+
+  1889 onward    Settlement movement  Addams, Starr,  Moral reform embodied [\[34\]](https://www.loc.gov/exhibitions/join-in-voluntary-associations-in-america/about-this-exhibition/a-nation-of-joiners/changing-america/settlement-houses-hull-house/)
+                                      Kelley          in neighborhood       
+                                                      institutions and      
+                                                      regulation            
+
+  1909--1912     Progressive statism  Croly, Theodore National              [\[35\]](https://teachingamericanhistory.org/document/the-promise-of-american-life/)
+                                      Roosevelt,      administrative        
+                                      Progressive     capacity justified by 
+                                      Party           welfare and justice   
+
+  1935--1944     Welfare-state rights FDR, Social     Economic security     [\[36\]](https://www.ssa.gov/history/35act.html)
+                                      Security Board  reframed as a right   
+                                                      and administered by   
+                                                      national institutions 
+
+  1947--1965     Rights-state         Truman          Moral equality        [\[37\]](https://teachingamericanhistory.org/document/to-secure-these-rights-the-report-of-the-presidents-committee-on-civil-rights/)
+                 expansion            committee,      juridified and        
+                                      Brown, LBJ      bureaucratized        
+
+  1965 onward    Affirmative-action   LBJ, EEOC,      Nondiscrimination     [\[38\]](https://www.archives.gov/federal-register/codification/executive-order/11246.html)
+                 governance           OFCCP           plus proactive        
+                                                      remediation enforced  
+                                                      through federal       
+                                                      oversight             
+
+  2000s--2020s   DEI, bias response,  Universities,   Harm-centered moral   [\[39\]](https://www.smith.edu/your-campus/offices-services/equity-inclusion/policies-resources/bias-response-team)
+                 call-out culture     HR systems, PEN language,             
+                                      America's       institutional         
+                                      critics and     monitoring, and       
+                                      defenders       contested discipline  
+                                                      of speech/status      
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The institutional and conceptual flow looks like this:
 
-![Rendered Mermaid diagram 1](media/rId45.png)
+  ----------------------------------------------------------------------------------------
+                                 ![Rendered Mermaid diagram
+   1](media/rId45.png){width="5.833333333333333in"
+                               height="1.0622419072615923in"}
 
+  ----------------------------------------------------------------------------------------
 
 The diagram simplifies a great deal, but the simplification is useful.
 It shows that the deepest continuity is not doctrine but the migration
