@@ -342,6 +342,6 @@ In conclusion, **“cargo-cult masculinity”** highlights the irony of modern m
 
 <https://csw.fsu.edu/sites/g/files/upcbnu1131/files/documents/Research%20Brief%20PUAs%20PDF%20CLEANED.pdf>
 
-[\[14\]](https://www.aauw.org/app/uploads/2021/03/FactoryFlaw_FINAL-for-web.pdf#:~:text=,whereas%20men%20lost) \[PDF\] Factory Flaw: The Attrition and Retention of Women in Manufacturing
+[\[14\]](https://www.aauw.org/app/uploads/2021/03/FactoryFlaw_FINAL-for-web.pdf#:~:text=,whereas%20men%20lost) [PDF] Factory Flaw: The Attrition and Retention of Women in Manufacturing
 
 <https://www.aauw.org/app/uploads/2021/03/FactoryFlaw_FINAL-for-web.pdf>

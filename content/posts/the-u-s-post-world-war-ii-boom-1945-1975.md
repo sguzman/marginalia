@@ -193,7 +193,7 @@ The Bretton Woods conference established a cooperative postwar monetary framewor
 
 ### Reconstruction demand and export-market creation
 
-The U.S. Department of State[\[21\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23)’s historical milestone on the Marshall Plan links the program to European reconstruction and notes that U.S. funding “eventually rise\[d\] to over \$12 billion,” with the plan also described as a stimulant to U.S. markets for American goods. [\[22\]](https://history.state.gov/milestones/1945-1952/marshall-plan)
+The U.S. Department of State[\[21\]](https://www.irs.gov/statistics/soi-tax-stats-historical-table-23)’s historical milestone on the Marshall Plan links the program to European reconstruction and notes that U.S. funding “eventually rise[d] to over \$12 billion,” with the plan also described as a stimulant to U.S. markets for American goods. [\[22\]](https://history.state.gov/milestones/1945-1952/marshall-plan)
 
 **Mechanism:** reconstruction aid functioned as (i) macro stabilization for Europe, (ii) a market-creation strategy for U.S. exports, and (iii) a geopolitical commitment reducing perceived risk in cross-border investment. [\[22\]](https://history.state.gov/milestones/1945-1952/marshall-plan)
 

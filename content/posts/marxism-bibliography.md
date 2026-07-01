@@ -220,7 +220,7 @@ In sum, this comprehensive bibliography offers both a **timeline** of Marxism's 
 
 ## 3. Chronological Core Bibliography (1840--2025)
 
-*Format:* The core bibliography is divided into five-year periods. Within each period, entries are listed by publication year. Each entry gives: **Author (Year)** -- *Title* (original language; genre) -- a brief annotation. If the first edition is in a different language or year than a well-known edition, that is noted (e.g., "\[First edition in Russian, 1902\]"). Ideological strands are indicated in **\[brackets\]** using abbreviations explained later (e.g. \[**ML**\] Marxist-Leninist, \[**WM**\] Western Marxism, \[**FM**\] Feminist Marxism, etc.), to connect to thematic sections.
+*Format:* The core bibliography is divided into five-year periods. Within each period, entries are listed by publication year. Each entry gives: **Author (Year)** -- *Title* (original language; genre) -- a brief annotation. If the first edition is in a different language or year than a well-known edition, that is noted (e.g., "[First edition in Russian, 1902]"). Ideological strands are indicated in **[brackets]** using abbreviations explained later (e.g. \[**ML**\] Marxist-Leninist, \[**WM**\] Western Marxism, \[**FM**\] Feminist Marxism, etc.), to connect to thematic sections.
 
 **1840--1844: The Young Marx and Early Socialism**\
 - **Marx (1843)** -- *Critique of Hegel's Philosophy of Right: Introduction* (German; essay). This early manuscript outlines Marx's famous dictum that religion is the "opium of the people" and signals his break with Young Hegelian idealism towards materialist critique[\[7\]](https://en.wikipedia.org/wiki/Timeline_of_Karl_Marx#:~:text=%2A%20,1847). *Rationale:* Marks the beginning of Marx's critique of the state and religion; unpublished in Marx's life (first published 1844 in a Paris journal, then widely in 1920s). \[**EM** (Early Marx)\]\
@@ -306,7 +306,7 @@ In sum, this comprehensive bibliography offers both a **timeline** of Marxism's 
 - **Kautsky, Karl (1909)** -- *The Road to Power* (German; pamphlet). Kautsky here seems to return to a more revolutionary rhetoric, arguing that the era of peaceful growth may be ending and that the socialists should be prepared for a fight for power. *Rationale:* Illustrates the height of Second International Marxism, just before Kautsky's split with the Bolsheviks; often cited by Lenin to show Kautsky once held revolutionary views. \[**SM**\]\
 - **Bogdanov, Alexander (1908)** -- *Empiriomonism* (Russian; philosophy essays). Bogdanov, a Bolshevik rival of Lenin, attempts to synthesize Marxism with empirio-criticism (positivist philosophy). *Rationale:* Sparked Lenin's strong philosophical rebuttal (*Materialism and Empirio-Criticism*, 1909). Bogdanov's work is notable as an experiment in Marxist philosophy of science and for influencing early Soviet intellectual debates. \[**WM**/Russia\]\
 - **Lenin (1909)** -- *Materialism and Empirio-Criticism* (Russian; book). Lenin defends dialectical materialism against Bogdanov's empirio-criticism and Machism. *Rationale:* Became the orthodox Marxist-Leninist position on philosophy in the Soviet Union -- asserting philosophical materialism and criticizing subjective idealist trends. \[**ML**\]\
-- **Luxemburg, Rosa (1910)** -- *"The Accumulation of Capital"* (German; published 1913, see below) -- *\[This entry appears below under 1913\].*\
+- **Luxemburg, Rosa (1910)** -- *"The Accumulation of Capital"* (German; published 1913, see below) -- *[This entry appears below under 1913].*\
 - **Labriola, Antonio (1910)** -- *On Marxism and Philosophy* (Italian; essay, posthumous collection). Reiterates historical materialism's core concepts. *Rationale:* Labriola's late writings influenced the next generation of Italian Marxists (including Gramsci) in bridging philosophy and praxis.
 
 **1910--1914: Eve of World War -- Marxism Splits Over War and Revolution**\
@@ -345,7 +345,7 @@ In sum, this comprehensive bibliography offers both a **timeline** of Marxism's 
 
 **1930--1934: Marxism Confronts the Great Depression and Fascism**\
 - **Mao Zedong (1930)** -- *"A Single Spark Can Start a Prairie Fire"* (Chinese; report/essay). Mao's letter analyzing the Chinese revolution's strategy, asserting the power of peasant guerilla warfare and rural base areas. *Rationale:* Early articulation of what became Maoism -- the idea that revolution could begin in agrarian areas encircling the cities. \[**MZM** (Maoism)\]\
-- **Stalin (1936)** -- *Dialectical and Historical Materialism* (Russian; section in *History of the CPSU (Short Course)*, 1938). \[Actually written mid-30s, published in official history 1938\]. Stalin lays out a concise definition of dialectical materialism and the Marxist theory of history. *Rationale:* This became the canonical Marxist-Leninist philosophy text taught in the USSR and beyond, codifying Marxist dialectics in a simplified form. \[**ML**\]\
+- **Stalin (1936)** -- *Dialectical and Historical Materialism* (Russian; section in *History of the CPSU (Short Course)*, 1938). [Actually written mid-30s, published in official history 1938]. Stalin lays out a concise definition of dialectical materialism and the Marxist theory of history. *Rationale:* This became the canonical Marxist-Leninist philosophy text taught in the USSR and beyond, codifying Marxist dialectics in a simplified form. \[**ML**\]\
 - **Trotsky, Leon (1936)** -- *The Revolution Betrayed* (Russian; book). Trotsky's analysis of the degeneration of the Soviet Union under Stalin -- asserting it became a degenerated workers' state, with a bureaucratic caste that had betrayed the revolution. *Rationale:* Foundational text for Trotskyists and for Marxist critiques of Stalinism; predicted that the USSR needed a political revolution. \[**TR**\]\
 - **Antonio Gramsci** -- *(See Prison Notebooks, listed above).* By 1930s, Gramsci's ideas percolated in Europe (though published later).\
 - **Leonard, Myron (1933)** -- *Marxism and the Negro* (USA, 1933; pamphlet). Early Marxist analysis of the race question in America from a Communist perspective. *Rationale:* Indicates growing attention to racial oppression within Marxist-Leninist circles (Comintern's "Black Belt" thesis era). \[**AM**\]\
@@ -370,7 +370,7 @@ In sum, this comprehensive bibliography offers both a **timeline** of Marxism's 
 **1945--1949: Post-War Reorganization -- Cold War and New Revolutions**\
 - **Sartre, Jean-Paul (1946)** -- *"Materialism and Revolution"* (French; essay). Sartre grapples with Marxism from an existentialist angle, trying to reconcile existentialism with Marxist materialism. *Rationale:* Marks the beginning of Sartre's attempt to fuse existentialism and Marxism, important in French intellectual life leading to *Critique of Dialectical Reason*. \[**WM**\]\
 - **Djilas, Milovan (1945)** -- *"Anatomy of a Moral"* (Serbo-Croatian; political critique, published later). Actually his famous work *The New Class* is 1957 (post-Stalin). Perhaps skip here.\
-- **Fanón, Frantz (1952)** -- *Black Skin, White Masks* (French; analysis, published 1952). \[This is slightly beyond 1949, but mention later.\] For 1940s maybe:\
+- **Fanón, Frantz (1952)** -- *Black Skin, White Masks* (French; analysis, published 1952). [This is slightly beyond 1949, but mention later.] For 1940s maybe:\
 - **Visser 't Hooft, H. (1946)** -- *The Struggle for Ideological Influence* (English; international socialist). Possibly skip.\
 - **Koestler, Arthur (1946)** -- *Darkness at Noon* (English translation; novel originally published 1940 in German). A fictional account of a former Bolshevik on trial, allegorizing the Stalinist purges. *Rationale:* While Koestler turned anti-communist, this novel profoundly shaped Western perception of Stalinism and sparked debates within Marxism on means vs ends. Often read (and critiqued) by Marxists grappling with the legacy of the purges.\
 - **Leontiev, A. & others (1948)** -- *Marxism and Problems of Linguistics* (Russian; Stalin's pamphlet on linguistics debate, 1950, skip timeline). - **Bogdanov, Boris (1948)** -- Actually probably skip, not key.
@@ -379,65 +379,65 @@ In sum, this comprehensive bibliography offers both a **timeline** of Marxism's 
 
 *\... \[The chronological list continues through the 1950s, 60s, up to 2020s in similar fashion, including major works such as:*
 
-*-* Marcuse's **One-Dimensional Man** (1964, \[WM\]),\*
+*-* Marcuse's **One-Dimensional Man** (1964, [WM]),\*
 
-*-* Mao's **Quotations (Little Red Book)** (1964, \[MZM\]),\*
+*-* Mao's **Quotations (Little Red Book)** (1964, [MZM]),\*
 
 *-* Guevara's **Socialism and Man in Cuba** (1965, \[3W\]),\*
 
-*-* Debord's **The Society of the Spectacle** (1967, \[SIT\]),\*
+*-* Debord's **The Society of the Spectacle** (1967, [SIT]),\*
 
-*-* Althusser's **For Marx** and **Reading Capital** (1965, \[STM\]),\*
+*-* Althusser's **For Marx** and **Reading Capital** (1965, [STM]),\*
 
-*-* Freire's **Pedagogy of the Oppressed** (1968, \[LT\] Liberation Theology adjacent),\*
+*-* Freire's **Pedagogy of the Oppressed** (1968, [LT] Liberation Theology adjacent),\*
 
-*-* Habermas's **Theory and Practice** (1963, \[WM\]),\*
+*-* Habermas's **Theory and Practice** (1963, [WM]),\*
 
-*-* James and Shachtman's **Facing Reality** (1958, \[LC\]),\*
+*-* James and Shachtman's **Facing Reality** (1958, [LC]),\*
 
-*-* Samir Amin's **Accumulation on a World Scale** (1970, \[DT\] Dependency Theory),\*
+*-* Samir Amin's **Accumulation on a World Scale** (1970, [DT] Dependency Theory),\*
 
-*-* Paulo Freire's **Pedagogy of the Oppressed** (1970, \[LT\]),\*
+*-* Paulo Freire's **Pedagogy of the Oppressed** (1970, [LT]),\*
 
-*-* Dunayevskaya's **Marxism and Freedom** (1958, \[HM\] Humanist Marxism),\*
+*-* Dunayevskaya's **Marxism and Freedom** (1958, [HM] Humanist Marxism),\*
 
-*-* C. L. R. James's **Black Jacobins** (1938, \[AM\]),\*
+*-* C. L. R. James's **Black Jacobins** (1938, [AM]),\*
 
 *-* Solzhenitsyn's **The Gulag Archipelago** (1973, anti-Stalin impact, though not Marxist),\*
 
-*-* Wallerstein's **The Modern World-System** (1974, \[DT\]),\*
+*-* Wallerstein's **The Modern World-System** (1974, [DT]),\*
 
-*-* Cox's **Production, Power, and World Order** (1987, \[AM\] but skip,\*
+*-* Cox's **Production, Power, and World Order** (1987, [AM] but skip,\*
 
 *-* Polanyi's **Great Transformation** (1944, not Marxist per se but important economic history),\*
 
-*-* Arrighi's **The Long Twentieth Century** (1994, \[DT\]),\*
+*-* Arrighi's **The Long Twentieth Century** (1994, [DT]),\*
 
-*-* G.A. Cohen's **Karl Marx's Theory of History: A Defence** (1978, \[AMx\] Analytical Marxism),\*
+*-* G.A. Cohen's **Karl Marx's Theory of History: A Defence** (1978, [AMx] Analytical Marxism),\*
 
 *-* Harvey's **Social Justice and the City** (1973, Marxist geography),\*
 
 *-* Anderson's **Considerations on Western Marxism** (1976, historiography),\*
 
-*-* Jameson's **The Political Unconscious** (1981, \[WM\]),\*
+*-* Jameson's **The Political Unconscious** (1981, [WM]),\*
 
 *-* Hobsbawm's **Marxism Today** essays (1978),\*
 
-*-* Laclau & Mouffe's **Hegemony and Socialist Strategy** (1985, \[PM\] Post-Marxism),\*
+*-* Laclau & Mouffe's **Hegemony and Socialist Strategy** (1985, [PM] Post-Marxism),\*
 
-*-* Hardt & Negri's **Empire** (2000, \[AUTO\] Autonomism/Post-Marxist),\*
+*-* Hardt & Negri's **Empire** (2000, [AUTO] Autonomism/Post-Marxist),\*
 
-*-* Zapatista **First Declaration of the Lacandon Jungle** (1994, revolutionary manifesto, \[AUTO\] anti-globalization Marxism),\*
+*-* Zapatista **First Declaration of the Lacandon Jungle** (1994, revolutionary manifesto, [AUTO] anti-globalization Marxism),\*
 
-*-* John Bellamy Foster's **Marx's Ecology** (2000, \[EcoM\]),\*
+*-* John Bellamy Foster's **Marx's Ecology** (2000, [EcoM]),\*
 
-*-* Saito's **Marx's Ecosocialism** (2017, \[EcoM\]),\*
+*-* Saito's **Marx's Ecosocialism** (2017, [EcoM]),\*
 
-*-* Srnicek & Williams' **Inventing the Future** (2015, \[ACC\] left accelerationism),\*
+*-* Srnicek & Williams' **Inventing the Future** (2015, [ACC] left accelerationism),\*
 
-*-* Badiou's **Communist Hypothesis** (2010, \[PM\]),\*
+*-* Badiou's **Communist Hypothesis** (2010, [PM]),\*
 
-*-* Xi Jinping's **The Governance of China** (Vol.1 2014, \[ML\]), etc.\*\]\...
+*-* Xi Jinping's **The Governance of China** (Vol.1 2014, [ML]), etc.\*\]\...
 
 *(Note: The full chronological list would continue in final report with annotations for each entry through 2025, but due to space we present a representative selection above.)*
 
@@ -531,7 +531,7 @@ Below, we reorganize the literature into thematic and regional sub-lists. Each s
 - **Regis Debray:** *Revolution in the Revolution?* (1967) -- Latin American adaptation of Maoist guerrilla foco theory (from Cuba's experience). *Rationale:* Hugely influential in New Left and guerrilla movements in Latin America, albeit not directly Marxist "theory" in an academic sense, it's a strategic manual with Marxist-Leninist basis.\
 - **Ho Chi Minh:** *Selected Writings* (1920s-1960s) -- e.g. *The Path Which Led Me to Leninism* (1960) recounts how he embraced Marxism-Leninism; *Prison Diary* (poems, 1943) show revolutionary humanism.\
 - **Che Guevara:** *Guerrilla Warfare* (1960) and *Socialism and Man in Cuba* (1965). *Rationale:* Che's manual systematized foco tactics; his 1965 letter/essay emphasizes creating a "new man" under socialism -- a humanist yet ascetic Marxism, influential among 60s revolutionaries.\
-- **Amílcar Cabral:** *Revolution in Guinea* (1969) and *Return to the Source* (1973) -- writings on national liberation in Guinea-Bissau, stressing culture and class alliance in anti-colonial struggle. \[Afro-Marxism/Maoism\].\
+- **Amílcar Cabral:** *Revolution in Guinea* (1969) and *Return to the Source* (1973) -- writings on national liberation in Guinea-Bissau, stressing culture and class alliance in anti-colonial struggle. [Afro-Marxism/Maoism].\
 - **Kwame Nkrumah:** *Consciencism* (1964) -- philosophical exposition of socialism for newly independent Africa, blending Marxism with African communal traditions.\
 - **Frantz Fanon:** *The Wretched of the Earth* (1961, French) -- though Fanon was not a party Marxist, this text analyzing colonized violence and psychology was massively influential in Third World Marxist and revolutionary thought (often read alongside Marxist texts by activists in Africa/Asia/Latin America). It argued for revolutionary violence to decolonize both land and minds. \[**3W**\]\
 - **"Marxism-Leninism-Maoism" synthesis documents:** e.g. *Basic Principles of Marxism-Leninism-Maoism* (1988) by the Communist Party of Peru (Shining Path) -- which formally codified "Maoism" (with the third stage beyond Marxism-Leninism).\
@@ -1059,7 +1059,7 @@ Such a map would highlight dense connections in certain eras (e.g. Second Intern
 
 <https://www.techdirt.com/2014/04/25/radical-publisher-claims-copyright-free-collection-marx-engels-works-orders-them-taken-down/>
 
-[\[31\]](https://www.kevin-anderson.com/wp-content/uploads/docs/anderson-article-uncovering-marx.pdf#:~:text=p.%2063,as%20Marx%20wrote%20in) \[PDF\] Uncovering Marx\'s Yet Unpublished Writings - Kevin Anderson
+[\[31\]](https://www.kevin-anderson.com/wp-content/uploads/docs/anderson-article-uncovering-marx.pdf#:~:text=p.%2063,as%20Marx%20wrote%20in) [PDF] Uncovering Marx\'s Yet Unpublished Writings - Kevin Anderson
 
 <https://www.kevin-anderson.com/wp-content/uploads/docs/anderson-article-uncovering-marx.pdf>
 

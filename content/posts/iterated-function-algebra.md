@@ -497,7 +497,7 @@ $$(\lambda_1^{-1} \circ \lambda_1): \mathbb{N} \rightarrow \mathbb{N} \rightarro
 I brought up the notion of type because by this point, its mention seems
 more than proper. In building the type up from the ground, we must keep
 in mind that the inverse takes a function that already has its own type.
-What [\[eq:comp\]](#eq:comp){reference-type="ref" reference="eq:comp"}
+What [[eq:comp]](#eq:comp){reference-type="ref" reference="eq:comp"}
 demonstrates is that we can easily feed a function another function and
 retrieve a semantically coherent interpretation as a result. Perchance
 we can provide some similar resolution to the problem of addition.
@@ -558,10 +558,10 @@ Gorgeous. A function as a sequence of types is useful for breaking down
 an operation to the metaphorical sum of its parts. We want to be able to
 do this to polynomials. Not just in their structured operational form
 but in their iterative dynamic one as well. Given
-[\[eq:closed-form-3\]](#eq:closed-form-3){reference-type="ref"
+[[eq:closed-form-3]](#eq:closed-form-3){reference-type="ref"
 reference="eq:closed-form-3"}, we can express the iteration by following
 the type signature of the incremental iterations. Starting from
-[\[eq:closed-form-3\]](#eq:closed-form-3){reference-type="ref"
+[[eq:closed-form-3]](#eq:closed-form-3){reference-type="ref"
 reference="eq:closed-form-3"},
 
 $$f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}$$
@@ -726,7 +726,7 @@ operand and simultaneously as a verb and operator. This is the crux of
 the problem.
 
 We need to make another adjustment to be able to overcome a hurdle. You
-can see in [\[eq:iter2\]](#eq:iter2){reference-type="ref"
+can see in [[eq:iter2]](#eq:iter2){reference-type="ref"
 reference="eq:iter2"} we almost have a streamlined account of pure
 function composition. If it weren't those pesky numbers, we would have a
 pure sequence. Well, for the context of what we are trying to
@@ -778,7 +778,7 @@ two different types of functions, the technique we used to reduce a
 function of $\pi(1)$ to $\pi(0)$ can be applied to any function
 $\pi(i), \quad i \in \mathbb{N} \land i > 0$. Given a function $\pi(i)$,
 we can reduce it to $\pi(i-1)$ by
-[\[eq:pi-reduc\]](#eq:pi-reduc){reference-type="ref"
+[[eq:pi-reduc]](#eq:pi-reduc){reference-type="ref"
 reference="eq:pi-reduc"}. Any function can be reduced to a function of
 $\pi(0)$.
 

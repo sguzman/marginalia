@@ -423,6 +423,6 @@ For further details, see the **International Desalination Association (IDA)** we
 
 <https://www.membrane-solutions.com/blog-How-Often-Should-RO-Membrane-Be-Replaced>
 
-[\[49\]](https://www.waterboards.ca.gov/water_issues/programs/ocean/desalination/docs/desal-siting-streamlining-report-dec2023.pdf#:~:text=,include%20the%20most%20detailed) \[PDF\] Seawater Desalination Siting and Streamlining Report to Expedite ...
+[\[49\]](https://www.waterboards.ca.gov/water_issues/programs/ocean/desalination/docs/desal-siting-streamlining-report-dec2023.pdf#:~:text=,include%20the%20most%20detailed) [PDF] Seawater Desalination Siting and Streamlining Report to Expedite ...
 
 <https://www.waterboards.ca.gov/water_issues/programs/ocean/desalination/docs/desal-siting-streamlining-report-dec2023.pdf>

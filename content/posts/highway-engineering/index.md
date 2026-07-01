@@ -320,7 +320,7 @@ Transforming a dirt track into a durable highway is a complex but achievable tas
 
 <https://www.ndltap.org/events/conference/downloads/2022-strength-and-safety.pdf>
 
-[\[6\]](https://dot.sd.gov/media/477a8201/0020%20Rural%20%26%20Urban%20Design%20Criteria%202024.pdf#:~:text=The%20typical%20section%20will%20include,10%27%20ditch%20at%2020%3A1) \[PDF\] Chapter 2 Rural and Urban Design Criteria - DOT.SD.gov.
+[\[6\]](https://dot.sd.gov/media/477a8201/0020%20Rural%20%26%20Urban%20Design%20Criteria%202024.pdf#:~:text=The%20typical%20section%20will%20include,10%27%20ditch%20at%2020%3A1) [PDF] Chapter 2 Rural and Urban Design Criteria - DOT.SD.gov.
 
 <https://dot.sd.gov/media/477a8201/0020%20Rural%20%26%20Urban%20Design%20Criteria%202024.pdf>
 
@@ -344,7 +344,7 @@ Transforming a dirt track into a durable highway is a complex but achievable tas
 
 <https://en.wikipedia.org/wiki/Reichsautobahn>
 
-[\[19\]](https://research.tudelft.nl/files/45373235/Self_healing_Technology_for_Asphalt_Pavements_Revised.pdf#:~:text=Self,80%20years) [\[24\]](https://research.tudelft.nl/files/45373235/Self_healing_Technology_for_Asphalt_Pavements_Revised.pdf#:~:text=entire%20porous%20asphalt%20pavement%20area,healing%20asphalt) [\[25\]](https://research.tudelft.nl/files/45373235/Self_healing_Technology_for_Asphalt_Pavements_Revised.pdf#:~:text=suggested%20that%20the%20optimal%20heating,heating%20also%20affects%20the%20healing) \[PDF\] Self Healing Technology for Asphalt Pavements
+[\[19\]](https://research.tudelft.nl/files/45373235/Self_healing_Technology_for_Asphalt_Pavements_Revised.pdf#:~:text=Self,80%20years) [\[24\]](https://research.tudelft.nl/files/45373235/Self_healing_Technology_for_Asphalt_Pavements_Revised.pdf#:~:text=entire%20porous%20asphalt%20pavement%20area,healing%20asphalt) [\[25\]](https://research.tudelft.nl/files/45373235/Self_healing_Technology_for_Asphalt_Pavements_Revised.pdf#:~:text=suggested%20that%20the%20optimal%20heating,heating%20also%20affects%20the%20healing) [PDF] Self Healing Technology for Asphalt Pavements
 
 <https://research.tudelft.nl/files/45373235/Self_healing_Technology_for_Asphalt_Pavements_Revised.pdf>
 

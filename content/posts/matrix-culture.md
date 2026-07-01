@@ -601,7 +601,7 @@ Together, these readings cover: primary history (MacTutor, Goldstine), narrative
 
 <https://www.reddit.com/r/todayilearned/comments/1f7bvqe/til_that_during_wwii_women_were_hired_as_human/>
 
-[\[40\]](https://repository.lsu.edu/cgi/viewcontent.cgi?article=3096&context=gradschool_theses#:~:text=,errors%20obeyed%20a%20normal%20distri) \[PDF\] Gauss\' method of least squares: an historically-based introduction
+[\[40\]](https://repository.lsu.edu/cgi/viewcontent.cgi?article=3096&context=gradschool_theses#:~:text=,errors%20obeyed%20a%20normal%20distri) [PDF] Gauss\' method of least squares: an historically-based introduction
 
 <https://repository.lsu.edu/cgi/viewcontent.cgi?article=3096&context=gradschool_theses>
 
@@ -625,7 +625,7 @@ Together, these readings cover: primary history (MacTutor, Goldstine), narrative
 
 <https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf>
 
-[\[57\]](http://www.statpower.net/Content/319SEM/Lecture%20Notes/CommonFactorAnalysis.pdf#:~:text=%5BPDF%5D%20Common%20Factor%20Analysis%20,explain%20the%20relationships%20among) \[PDF\] Common Factor Analysis - Statpower
+[\[57\]](http://www.statpower.net/Content/319SEM/Lecture%20Notes/CommonFactorAnalysis.pdf#:~:text=%5BPDF%5D%20Common%20Factor%20Analysis%20,explain%20the%20relationships%20among) [PDF] Common Factor Analysis - Statpower
 
 <http://www.statpower.net/Content/319SEM/Lecture%20Notes/CommonFactorAnalysis.pdf>
 

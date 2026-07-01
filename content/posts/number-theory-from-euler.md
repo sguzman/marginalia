@@ -485,7 +485,7 @@ The preparation of this report benefited from numerous sources and references to
 
 <https://en.wikipedia.org/wiki/Brun%27s_theorem>
 
-[\[32\]](https://www.emis.de/journals/em/images/pdf/em_17.pdf#:~:text=,the%20study%20of%20prime) \[PDF\] The remarkable effectiveness of ergodic theory in number \... - EMIS
+[\[32\]](https://www.emis.de/journals/em/images/pdf/em_17.pdf#:~:text=,the%20study%20of%20prime) [PDF] The remarkable effectiveness of ergodic theory in number \... - EMIS
 
 <https://www.emis.de/journals/em/images/pdf/em_17.pdf>
 
@@ -501,7 +501,7 @@ The preparation of this report benefited from numerous sources and references to
 
 <https://ems.press/content/book-files/22003>
 
-[\[40\]](https://www.ias.ac.in/article/fulltext/reso/023/07/0735-0748#:~:text=The%20key%20ingredient%20for%20the,Baker%20from%201966%20and) \[PDF\] On Some Results of Alan Baker
+[\[40\]](https://www.ias.ac.in/article/fulltext/reso/023/07/0735-0748#:~:text=The%20key%20ingredient%20for%20the,Baker%20from%201966%20and) [PDF] On Some Results of Alan Baker
 
 <https://www.ias.ac.in/article/fulltext/reso/023/07/0735-0748>
 
@@ -509,7 +509,7 @@ The preparation of this report benefited from numerous sources and references to
 
 <https://en.wikipedia.org/wiki/Faltings%27s_theorem>
 
-[\[42\]](https://math.mit.edu/~poonen/786/notes.pdf#:~:text=%5BPDF%5D%20Tate%27s%20thesis%20,functions%20as) \[PDF\] Tate\'s thesis - MIT Mathematics
+[\[42\]](https://math.mit.edu/~poonen/786/notes.pdf#:~:text=%5BPDF%5D%20Tate%27s%20thesis%20,functions%20as) [PDF] Tate\'s thesis - MIT Mathematics
 
 <https://math.mit.edu/~poonen/786/notes.pdf>
 
@@ -569,7 +569,7 @@ The preparation of this report benefited from numerous sources and references to
 
 <https://mathoverflow.net/questions/232087/have-there-been-any-updates-on-mochizukis-proposed-proof-of-the-abc-conjecture>
 
-[\[75\]](https://www-users.cse.umn.edu/~garrett/m/mfms/notes_c/dirichlet.pdf#:~:text=,These%20ideas%20were) \[PDF\] Primes in arithmetic progressions 1. Dirichlet\'s theorem
+[\[75\]](https://www-users.cse.umn.edu/~garrett/m/mfms/notes_c/dirichlet.pdf#:~:text=,These%20ideas%20were) [PDF] Primes in arithmetic progressions 1. Dirichlet\'s theorem
 
 <https://www-users.cse.umn.edu/~garrett/m/mfms/notes_c/dirichlet.pdf>
 

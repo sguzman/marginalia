@@ -370,11 +370,11 @@ In conclusion, the modern era of topology has been one of unprecedented converge
 
 <https://mathshistory.st-andrews.ac.uk/Biographies/Listing/>
 
-[\[56\]](https://cs.brynmawr.edu/~dxu/surfclassif.pdf#:~:text=Surfaces%20cs,readers%20will%20be%20amused) \[PDF\] A Guide to the Classification Theorem for Compact Surfaces
+[\[56\]](https://cs.brynmawr.edu/~dxu/surfclassif.pdf#:~:text=Surfaces%20cs,readers%20will%20be%20amused) [PDF] A Guide to the Classification Theorem for Compact Surfaces
 
 <https://cs.brynmawr.edu/~dxu/surfclassif.pdf>
 
-[\[72\]](https://digitalcommons.ursinus.edu/context/triumphs_topology/article/1006/viewcontent/M22_Sets_MetricSpaces_TopSpaces_2021_11_22.pdf#:~:text=,not%20satisfy%20the%20Hausdorff%20property) \[PDF\] From Sets to Metric Spaces to Topological Spaces
+[\[72\]](https://digitalcommons.ursinus.edu/context/triumphs_topology/article/1006/viewcontent/M22_Sets_MetricSpaces_TopSpaces_2021_11_22.pdf#:~:text=,not%20satisfy%20the%20Hausdorff%20property) [PDF] From Sets to Metric Spaces to Topological Spaces
 
 <https://digitalcommons.ursinus.edu/context/triumphs_topology/article/1006/viewcontent/M22_Sets_MetricSpaces_TopSpaces_2021_11_22.pdf>
 
@@ -390,7 +390,7 @@ In conclusion, the modern era of topology has been one of unprecedented converge
 
 <https://math.stackexchange.com/questions/70445/origins-of-the-modern-definition-of-topology>
 
-[\[76\]](https://www.idpublications.org/wp-content/uploads/2017/12/Full-Paper-BROUWER%E2%80%99S-FIXED-POINT-THEOREM-IN-PLANE.pdf#:~:text=This%20study%20is%20about%20the,and%201913%20in%20plane) \[PDF\] BROUWER\'S FIXED-POINT THEOREM IN PLANE GEOMETRY
+[\[76\]](https://www.idpublications.org/wp-content/uploads/2017/12/Full-Paper-BROUWER%E2%80%99S-FIXED-POINT-THEOREM-IN-PLANE.pdf#:~:text=This%20study%20is%20about%20the,and%201913%20in%20plane) [PDF] BROUWER\'S FIXED-POINT THEOREM IN PLANE GEOMETRY
 
 <https://www.idpublications.org/wp-content/uploads/2017/12/Full-Paper-BROUWER%E2%80%99S-FIXED-POINT-THEOREM-IN-PLANE.pdf>
 
@@ -406,7 +406,7 @@ In conclusion, the modern era of topology has been one of unprecedented converge
 
 <https://news.cornell.edu/stories/2006/09/proof-100-year-old-math-problem-posted-exclusively-arxiv>
 
-[\[94\]](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=3889&context=etd-project#:~:text=Biologists%20and%20chemists%20found%20that,DNA%20molecule%20could%20mean) \[PDF\] Aspects of the Jones polynomial - CSUSB ScholarWorks
+[\[94\]](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=3889&context=etd-project#:~:text=Biologists%20and%20chemists%20found%20that,DNA%20molecule%20could%20mean) [PDF] Aspects of the Jones polynomial - CSUSB ScholarWorks
 
 <https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=3889&context=etd-project>
 
@@ -430,6 +430,6 @@ In conclusion, the modern era of topology has been one of unprecedented converge
 
 <https://www.nature.com/articles/d41586-025-00683-2>
 
-[\[105\]](http://math.uchicago.edu/~may/REU2022/REUPapers/Liu,Hangyu.pdf#:~:text=polynomial%20math,3) \[PDF\] a brief introduction to knot theory and the jones polynomial
+[\[105\]](http://math.uchicago.edu/~may/REU2022/REUPapers/Liu,Hangyu.pdf#:~:text=polynomial%20math,3) [PDF] a brief introduction to knot theory and the jones polynomial
 
 <http://math.uchicago.edu/~may/REU2022/REUPapers/Liu,Hangyu.pdf>

@@ -264,7 +264,7 @@ Demographically, U.S. Jews grew somewhat older and more secular; intermarriage r
 
 **References:** (Chicago Author-Date, key works cited)\
 - Greenberg, Cheryl. 2024. *The Role of Jewish Americans in the Civil Rights Movement*. History Now, Issue 71 (Summer 2024).\
-- Muraskin, Bennett. *Jews in the American Labor Movement*. (Jewish Labor Committee website) \[Online PDF\]. Accessed 2025.\
+- Muraskin, Bennett. *Jews in the American Labor Movement*. (Jewish Labor Committee website) [Online PDF]. Accessed 2025.\
 - Pew Research Center. 2021. *Jewish Americans in 2020*. (May 11, 2021 report).\
 - Pollak, Israel David. 1952. *American Jewish Year Book 1952*, "The Jewish Labor Movement in the United States," pp. 44--46. (Series edited by Cyrus Adler).\
 - OpenSecrets. 2025. Organization Profiles for American Israel Public Affairs Committee and Anti-Defamation League. (Accessed May 2025).\

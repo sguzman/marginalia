@@ -199,7 +199,7 @@ These features are summarized in the coding rubric (Appendix A). For example, Fe
 
 - **Sampling Method:** Use stratified sampling: first identify platforms/communities associated with each ideology (e.g. /pol/ vs r/DankLeft), then randomly sample posts or images labeled as “memes” within each. Supplement with trending memes from general sites (KnowYourMeme, MemeEconomy) tagged by users as political. If necessary, use snowball sampling via share counts or search queries.
 
-- **Annotation Protocol:** Develop a detailed codebook (Appendix A) with definitions of each feature. Train coders on examples. For each meme in the sample, coders record: (1) which category it belongs to (borderer-coded vs left-coded) **per rubric criteria**, and (2) scores or flags for each feature dimension (e.g. Tone: \[Callous, Neutral, Warm\], Humor: \[Irony, Sincerity\], Target type, etc.). Provide rubric with concrete indicators (e.g. “mocking others” vs “self-deprecating”). Coders should label independently. Use at least two coders per item to assess reliability.
+- **Annotation Protocol:** Develop a detailed codebook (Appendix A) with definitions of each feature. Train coders on examples. For each meme in the sample, coders record: (1) which category it belongs to (borderer-coded vs left-coded) **per rubric criteria**, and (2) scores or flags for each feature dimension (e.g. Tone: [Callous, Neutral, Warm], Humor: [Irony, Sincerity], Target type, etc.). Provide rubric with concrete indicators (e.g. “mocking others” vs “self-deprecating”). Coders should label independently. Use at least two coders per item to assess reliability.
 
 - **Coder Reliability:** Calculate inter-rater reliability (Cohen’s κ or Krippendorff’s α) for the categorical label (borderer vs left) and for key binary features (e.g. high mockery vs not). Disagreements can be resolved by discussion or a third coder. Aim for κ≥0.7.
 
@@ -269,7 +269,7 @@ This framework outlines how to rigorously test whether memes can be classified a
 | **Platform** | Fringe/alt media (4chan, Telegram)[\[3\]](https://europeanjournalofhumour.org/ejhr/article/download/1157/906/5770#:~:text=far,pixel%20bleed%2C%20clashing%20fonts%2C%20crude) | Mainstream social (TikTok, Instagram, reddit) | Example: Meme originating on /pol/ vs. TikTok challenge clip. |
 | **Anonymity** | Anonymous or hidden identity | Creator’s persona visible | Example: No credits, phantom account vs. influencer’s TikTok handle. |
 | **Virality** | Shock/controversy-driven (reposts in echo chambers) | Shared via broad community (likes, reshared by peers) | Example: Spread by underground board vs. viral retweet by friend. |
-| **Language** | Slang, coded terms, extreme ("deplorable") | Conversational, plain, sometimes memespeak | Example: Uses “libtard” vs. uses “\[shrug emoji\]”. |
+| **Language** | Slang, coded terms, extreme ("deplorable") | Conversational, plain, sometimes memespeak | Example: Uses “libtard” vs. uses “[shrug emoji]”. |
 | **Intertextuality** | Heavy meme‑in‑meme references (lulz) | References pop culture or internet trends in earnest | Example: Mixes many niche meme templates vs. one pop song lyric. |
 | **Irony Level** | High (explicit “just joking”) | Low (almost literal) | Example: Over-the-top phrase used ironically vs. phrase used at face value. |
 | **Callousness/Vuln.** | Callous, dehumanizing | Vulnerable, caring | Example: Depicts enemies as animals vs. shows personal anxiety with kindness. |

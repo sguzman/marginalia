@@ -260,7 +260,7 @@ In Europe, MiFID II (2018) introduced strict controls on algorithmic trading (e.
 
 **Regulatory Case Notes:** - **Knight Capital (2012):** SEC enforcement fined Knight for inadequate controls after the $460M loss[\[7\]](https://www.nasdaq.com/articles/fintech/regulatory-roundup-september-2025#:~:text=,to%20Lose%20%24160%2C000%20Per%20Second).
 
-- **“The Hammer” (2007):** CFTC prosecuted traders who manipulated oil futures via simple algorithms; the tactic was described as “really bully\[ing\] the market”[\[24\]](https://www.nasdaq.com/articles/fintech/regulatory-roundup-september-2025#:~:text=While%20Knight%27s%20case%20stemmed%20from,TAS%29%20positions).
+- **“The Hammer” (2007):** CFTC prosecuted traders who manipulated oil futures via simple algorithms; the tactic was described as “really bully[ing] the market”[\[24\]](https://www.nasdaq.com/articles/fintech/regulatory-roundup-september-2025#:~:text=While%20Knight%27s%20case%20stemmed%20from,TAS%29%20positions).
 - **MiFID II and beyond:** Regulators now scrutinize HFT/algorithms for market abuse (front-running, spoofing) and require pre-trade risk limits.
 
 In sum, regulation has moved to address the risks of algorithmic trading: mandatory disclosures, liquidity requirements, and capital rules (Basel III for banks) all indirectly affect quant trading capacity. Firms today balance agility with compliance: they must document and test algorithms, and often simulate them on historical data to avoid the extremes of the past.
