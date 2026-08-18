@@ -10,10 +10,12 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import re
 import shutil
 import sys
 from pathlib import Path
 from typing import Any
+from urllib.parse import unquote, urlsplit
 
 import yaml
 
@@ -22,6 +24,13 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 POSTS_ROOT = REPO_ROOT / "content" / "posts"
 ELIGIBLE_STATUSES = {"ready", "published"}
 MANAGED_BY = "ai-research-reports"
+
+MARKDOWN_TARGET_RE = re.compile(r"(!?)\[([^\]]*)\]\(([^)\n]+)\)")
+MERMAID_BLOCK_RE = re.compile(r"(?ms)^```mermaid\s*\n.*?^```\s*$")
+UNFENCED_DIAGRAM_RE = re.compile(
+    r"(?m)^(?: {4}|\t)(?:flowchart|graph|sequenceDiagram|classDiagram|"
+    r"stateDiagram(?:-v2)?|erDiagram|gantt|pie|journey|mindmap|timeline)\b"
+)
 
 
 def load_yaml(path: Path) -> dict[str, Any]:
@@ -57,11 +66,27 @@ def strip_leading_h1(text: str) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def package_digest(meta_bytes: bytes, body_bytes: bytes) -> str:
+def iter_asset_files(assets_root: Path) -> list[Path]:
+    if not assets_root.is_dir():
+        return []
+    return sorted(p for p in assets_root.rglob("*") if p.is_file())
+
+
+def package_digest(meta_bytes: bytes, body_bytes: bytes, assets_root: Path) -> str:
+    """Hash canonical metadata, body, asset names, and asset contents."""
     h = hashlib.sha256()
     h.update(meta_bytes)
-    h.update(b"\0")
+    h.update(b"\0body\0")
     h.update(body_bytes)
+
+    for path in iter_asset_files(assets_root):
+        relative = path.relative_to(assets_root).as_posix().encode("utf-8")
+        h.update(b"\0asset\0")
+        h.update(relative)
+        h.update(b"\0")
+        with path.open("rb") as handle:
+            while chunk := handle.read(1024 * 1024):
+                h.update(chunk)
     return h.hexdigest()
 
 
@@ -119,27 +144,117 @@ def split_frontmatter(text: str) -> tuple[dict[str, Any], str] | None:
     return data, text[end + len(marker) :]
 
 
+def parse_local_target(raw_target: str) -> str | None:
+    target = raw_target.strip()
+    if target.startswith("<") and target.endswith(">"):
+        target = target[1:-1].strip()
+
+    if " " in target and not target.startswith(("http://", "https://")):
+        target = target.split(None, 1)[0]
+
+    parsed = urlsplit(target)
+    if parsed.scheme or target.startswith(("#", "//")):
+        return None
+    return unquote(parsed.path) or None
+
+
+def validate_source_integrity(folder: Path, body: str) -> None:
+    """Fail closed on local dependencies the publication layer cannot reproduce."""
+    assets_root = (folder / "assets").resolve()
+
+    for match in MARKDOWN_TARGET_RE.finditer(body):
+        kind = "image" if match.group(1) else "file link"
+        raw_target = match.group(3).strip()
+        local = parse_local_target(raw_target)
+        if local is None:
+            continue
+
+        resolved = (folder / local).resolve()
+        try:
+            resolved.relative_to(assets_root)
+        except ValueError as exc:
+            raise ValueError(
+                f"{folder.name}: {kind} must resolve beneath assets/: {raw_target!r}"
+            ) from exc
+
+        if not resolved.is_file():
+            raise ValueError(
+                f"{folder.name}: missing local {kind} target: {raw_target!r}"
+            )
+
+    if MERMAID_BLOCK_RE.search(body) or UNFENCED_DIAGRAM_RE.search(body):
+        raise ValueError(
+            f"{folder.name}: publishable source contains Mermaid/diagram source, "
+            "but Marginalia has no Mermaid renderer; publish a rendered asset instead"
+        )
+
+    if body.count("```") % 2:
+        raise ValueError(
+            f"{folder.name}: unmatched triple-backtick fence; refusing potentially broken rendering"
+        )
+
+
 def target_for(slug: str, source_assets: Path) -> tuple[Path, Path | None]:
-    has_assets = source_assets.is_dir() and any(p.is_file() for p in source_assets.rglob("*"))
+    has_assets = bool(iter_asset_files(source_assets))
     if has_assets:
         bundle = POSTS_ROOT / slug
         return bundle / "index.md", bundle
     return POSTS_ROOT / f"{slug}.md", None
 
 
-def assert_target_is_managed(target: Path) -> None:
-    candidates = [target]
+def counterpart_for(target: Path) -> Path:
     if target.name == "index.md":
-        candidates.append(POSTS_ROOT / f"{target.parent.name}.md")
-    else:
-        candidates.append(POSTS_ROOT / target.stem / "index.md")
+        return POSTS_ROOT / f"{target.parent.name}.md"
+    return POSTS_ROOT / target.stem / "index.md"
 
-    existing = next((path for path in candidates if path.exists()), None)
-    if existing is None:
+
+def assert_managed_if_exists(path: Path) -> None:
+    if not path.exists():
         return
-    parsed = split_frontmatter(existing.read_text(encoding="utf-8", errors="replace"))
+    parsed = split_frontmatter(path.read_text(encoding="utf-8", errors="replace"))
     if not parsed or parsed[0].get("managed_by") != MANAGED_BY:
-        raise FileExistsError(f"refusing to overwrite unmanaged post: {existing}")
+        raise FileExistsError(f"refusing to overwrite unmanaged post: {path}")
+
+
+def assert_target_is_managed(target: Path) -> None:
+    assert_managed_if_exists(target)
+    assert_managed_if_exists(counterpart_for(target))
+
+
+def asset_tree_digest(root: Path) -> str | None:
+    if not root.is_dir():
+        return None
+    files = sorted(p for p in root.rglob("*") if p.is_file())
+    if not files:
+        return None
+
+    h = hashlib.sha256()
+    for path in files:
+        h.update(path.relative_to(root).as_posix().encode("utf-8"))
+        h.update(b"\0")
+        with path.open("rb") as handle:
+            while chunk := handle.read(1024 * 1024):
+                h.update(chunk)
+    return h.hexdigest()
+
+
+def assets_differ(source_assets: Path, bundle: Path | None) -> bool:
+    source_digest = asset_tree_digest(source_assets)
+    destination = bundle / "assets" if bundle is not None else None
+    destination_digest = asset_tree_digest(destination) if destination is not None else None
+    return source_digest != destination_digest
+
+
+def remove_managed_counterpart(target: Path) -> None:
+    counterpart = counterpart_for(target)
+    if not counterpart.exists():
+        return
+
+    assert_managed_if_exists(counterpart)
+    if counterpart.name == "index.md":
+        shutil.rmtree(counterpart.parent)
+    else:
+        counterpart.unlink()
 
 
 def publish_one(source_root: Path, slug: str, *, write: bool) -> bool:
@@ -162,34 +277,50 @@ def publish_one(source_root: Path, slug: str, *, write: bool) -> bool:
     if meta.get("draft") is not False:
         raise ValueError(f"{slug}: eligible publication requires draft: false")
 
-    digest = package_digest(meta_bytes, body_bytes)
+    validate_source_integrity(folder, body)
+
+    source_assets = folder / "assets"
+    digest = package_digest(meta_bytes, body_bytes, source_assets)
     fm = managed_frontmatter(slug=slug, meta=meta, digest=digest)
     output = "---\n" + dump_yaml(fm) + "---\n\n" + strip_leading_h1(body)
 
-    source_assets = folder / "assets"
     target, bundle = target_for(slug, source_assets)
     assert_target_is_managed(target)
 
     prior = target.read_text(encoding="utf-8") if target.exists() else None
-    changed = prior != output
+    content_changed = prior != output
+    asset_changed = assets_differ(source_assets, bundle)
+    counterpart_exists = counterpart_for(target).exists()
+    changed = content_changed or asset_changed or counterpart_exists
+
     mode = "WRITE" if write else "DRY-RUN"
-    state = "changed" if changed else "unchanged"
+    reasons = []
+    if content_changed:
+        reasons.append("content")
+    if asset_changed:
+        reasons.append("assets")
+    if counterpart_exists:
+        reasons.append("layout")
+    state = "changed:" + ",".join(reasons) if reasons else "unchanged"
     print(f"{mode} {slug}: {state} -> {target.relative_to(REPO_ROOT)}")
 
     if not write or not changed:
         return changed
 
     POSTS_ROOT.mkdir(parents=True, exist_ok=True)
+    remove_managed_counterpart(target)
+
     if bundle is not None:
         bundle.mkdir(parents=True, exist_ok=True)
         target.write_text(output, encoding="utf-8")
+        destination = bundle / "assets"
+        if destination.exists():
+            shutil.rmtree(destination)
         if source_assets.is_dir():
-            destination = bundle / "assets"
-            if destination.exists():
-                shutil.rmtree(destination)
             shutil.copytree(source_assets, destination)
     else:
         target.write_text(output, encoding="utf-8")
+
     return True
 
 
@@ -211,7 +342,9 @@ def discover_eligible(source_root: Path) -> list[str]:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="One-way publisher from ai-research-reports to Marginalia.")
+    parser = argparse.ArgumentParser(
+        description="One-way publisher from ai-research-reports to Marginalia."
+    )
     parser.add_argument(
         "--source",
         type=Path,
