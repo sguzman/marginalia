@@ -2,7 +2,7 @@
 
 ## Supported research publication tool
 
-- `research_publish.py` — fail-closed, one-way projection from a local checkout of `sguzman/ai-research-reports` into Hugo posts. It never edits the source repository, publishes only canonical `ready` or `published` articles with `draft: false`, defaults to dry-run mode, and refuses to overwrite posts it does not manage.
+`research_publish.py` is the fail-closed, one-way projection from a local checkout of `sguzman/ai-research-reports` into Hugo posts. It never edits the source repository, publishes only canonical `ready` or `published` articles with `draft: false`, defaults to dry-run mode, and refuses to overwrite posts it does not manage.
 
 Example:
 
@@ -10,6 +10,8 @@ Example:
 python scripts/research_publish.py --source ../ai-research-reports --slug example-article
 python scripts/research_publish.py --source ../ai-research-reports --slug example-article --write
 ```
+
+Publication also fails closed when a local image/file is missing, is outside the article's `assets/` directory, or when publishable source still relies on Mermaid source that Marginalia cannot render. Canonical package digests include asset filenames and bytes, and destination assets are compared separately so image-only changes and deleted blog assets are detected.
 
 ## Legacy migration tooling
 
