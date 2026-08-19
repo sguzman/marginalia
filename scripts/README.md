@@ -11,7 +11,7 @@ python scripts/research_publish.py --source ../ai-research-reports --slug exampl
 python scripts/research_publish.py --source ../ai-research-reports --slug example-article --write
 ```
 
-Publication also fails closed when a local image/file is missing, is outside the article's `assets/` directory, or when publishable source still relies on Mermaid source that Marginalia cannot render. Canonical package digests include asset filenames and bytes, and destination assets are compared separately so image-only changes and deleted blog assets are detected.
+Publication also fails closed when a local image/file is missing, is outside the article's `assets/` directory, or when publishable source still relies on Mermaid source that Marginalia cannot render. Local dependency checks cover both Markdown links/images and converted HTML `<img src="…">` / `<a href="…">` references. Canonical package digests include asset filenames and bytes, and destination assets are compared separately so image-only changes and deleted blog assets are detected.
 
 ## Legacy migration tooling
 

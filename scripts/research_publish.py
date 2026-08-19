@@ -26,6 +26,8 @@ ELIGIBLE_STATUSES = {"ready", "published"}
 MANAGED_BY = "ai-research-reports"
 
 MARKDOWN_TARGET_RE = re.compile(r"(!?)\[([^\]]*)\]\(([^)\n]+)\)")
+HTML_IMG_RE = re.compile(r"<img\b[^>]*\bsrc\s*=\s*[\"']([^\"']+)[\"'][^>]*>", re.I)
+HTML_LINK_RE = re.compile(r"<a\b[^>]*\bhref\s*=\s*[\"']([^\"']+)[\"'][^>]*>", re.I)
 MERMAID_BLOCK_RE = re.compile(r"(?ms)^```mermaid\s*\n.*?^```\s*$")
 UNFENCED_DIAGRAM_RE = re.compile(
     r"(?m)^(?: {4}|\t)(?:flowchart|graph|sequenceDiagram|classDiagram|"
@@ -162,12 +164,10 @@ def validate_source_integrity(folder: Path, body: str) -> None:
     """Fail closed on local dependencies the publication layer cannot reproduce."""
     assets_root = (folder / "assets").resolve()
 
-    for match in MARKDOWN_TARGET_RE.finditer(body):
-        kind = "image" if match.group(1) else "file link"
-        raw_target = match.group(3).strip()
+    def validate_target(kind: str, raw_target: str) -> None:
         local = parse_local_target(raw_target)
         if local is None:
-            continue
+            return
 
         resolved = (folder / local).resolve()
         try:
@@ -181,6 +181,16 @@ def validate_source_integrity(folder: Path, body: str) -> None:
             raise ValueError(
                 f"{folder.name}: missing local {kind} target: {raw_target!r}"
             )
+
+    for match in MARKDOWN_TARGET_RE.finditer(body):
+        kind = "image" if match.group(1) else "file link"
+        validate_target(kind, match.group(3).strip())
+
+    for match in HTML_IMG_RE.finditer(body):
+        validate_target("HTML image", match.group(1).strip())
+
+    for match in HTML_LINK_RE.finditer(body):
+        validate_target("HTML file link", match.group(1).strip())
 
     if MERMAID_BLOCK_RE.search(body) or UNFENCED_DIAGRAM_RE.search(body):
         raise ValueError(
