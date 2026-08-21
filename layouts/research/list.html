@@ -1,0 +1,112 @@
+{{ define "title" }}
+  Articles · {{ .Site.Title }}
+{{ end }}
+
+{{ define "content" }}
+  {{- $pages := where .RegularPages "Params.managed_by" "ai-research-reports" -}}
+  {{- $pages = $pages.ByDate.Reverse -}}
+  {{- $tagTerms := slice -}}
+  {{- $categoryTerms := slice -}}
+  {{- $authorTerms := slice -}}
+  {{- range $pages -}}
+    {{- range (.Params.tags | default (slice)) -}}
+      {{- $tagTerms = $tagTerms | append (lower (trim . " ")) -}}
+    {{- end -}}
+    {{- range (.Params.categories | default (slice)) -}}
+      {{- $categoryTerms = $categoryTerms | append (lower (trim . " ")) -}}
+    {{- end -}}
+    {{- $authors := .Params.authors | default (slice) -}}
+    {{- if not $authors -}}
+      {{- with .Params.author -}}
+        {{- $authors = slice . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- range $authors -}}
+      {{- $authorTerms = $authorTerms | append (lower (trim . " ")) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $tagTerms = uniq $tagTerms | sort -}}
+  {{- $categoryTerms = uniq $categoryTerms | sort -}}
+  {{- $authorTerms = uniq $authorTerms | sort -}}
+
+  <section class="container list publications-list-page">
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">Articles</a>
+      </h1>
+    </header>
+
+    {{- if eq (len $pages) 0 -}}
+      <div class="publications-empty-state">
+        <p><strong>Articles coming soon.</strong></p>
+        <p>The research archive is being reviewed and only articles that pass the publication gate appear here.</p>
+      </div>
+    {{- else -}}
+      <div class="publications-toolbar">
+        <div class="publications-filter-panel">
+          <div class="publications-sort-container">
+            <label for="publications-sort">Sort by</label>
+            <select id="publications-sort">
+              <option value="published_date" selected>Published date</option>
+              <option value="last_modified">Last modified</option>
+              <option value="word_count">Word count</option>
+            </select>
+          </div>
+
+          <div class="publications-filter-select-wrap">
+            <label for="publications-sort-direction">Direction</label>
+            <select id="publications-sort-direction">
+              <option value="desc" selected>Descending</option>
+              <option value="asc">Ascending</option>
+            </select>
+          </div>
+
+          <div class="publications-filter-select-wrap">
+            <label for="publications-category-select">Category</label>
+            <select id="publications-category-select">
+              <option value="">All categories</option>
+              {{- range $categoryTerms -}}
+              <option value="{{ . }}">{{ . }}</option>
+              {{- end -}}
+            </select>
+          </div>
+
+          <div class="publications-filter-select-wrap">
+            <label for="publications-tag-select">Tag</label>
+            <select id="publications-tag-select">
+              <option value="">All tags</option>
+              {{- range $tagTerms -}}
+              <option value="{{ . }}">{{ . }}</option>
+              {{- end -}}
+            </select>
+          </div>
+
+          <div class="publications-filter-select-wrap">
+            <label for="publications-author-select">Author</label>
+            <select id="publications-author-select">
+              <option value="">All authors</option>
+              {{- range $authorTerms -}}
+              <option value="{{ . }}">{{ . }}</option>
+              {{- end -}}
+            </select>
+          </div>
+
+          <button type="button" id="publications-clear-filters" class="publications-clear-btn">Clear filters</button>
+        </div>
+
+        <div class="publications-filter-summary">
+          <p id="publications-results-summary">Showing all publications</p>
+        </div>
+      </div>
+
+      <p id="publications-empty-state" class="publications-empty-state" hidden>No publications match the current filters.</p>
+
+      <ul id="publications-list">
+        {{- range $pages -}}
+          {{- .Render "li" -}}
+        {{- end -}}
+      </ul>
+      <script defer src="{{ "js/publications.js" | relURL }}"></script>
+    {{- end -}}
+  </section>
+{{ end }}
