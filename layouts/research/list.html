@@ -1,6 +1,9 @@
+{{ define "title" }}
+  Articles · {{ .Site.Title }}
+{{ end }}
+
 {{ define "content" }}
-  {{- $pages := where .Site.RegularPages "Section" "research" -}}
-  {{- $pages = where $pages "Params.managed_by" "ai-research-reports" -}}
+  {{- $pages := where .RegularPages "Params.managed_by" "ai-research-reports" -}}
   {{- $pages = $pages.ByDate.Reverse -}}
   {{- $tagTerms := slice -}}
   {{- $categoryTerms := slice -}}
