@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-"""Publish canonical ai-research-reports packages into Hugo.
+"""Materialize approved canonical research packages into Hugo's derived research section.
 
 The source repository is read-only. This tool never changes source metadata or
-publication state. It also refuses to overwrite an existing unmanaged blog post.
-Default mode is a dry run. Pass --write to create or update managed posts.
+publication state. It publishes only packages that pass the canonical publication
+gate and refuses to overwrite unmanaged content. Default mode is a dry run. Pass
+--write to materialize content beneath ``content/research``.
+
+For CI/build use, ``--all --write`` resets the derived research section before
+projection so stale pages cannot survive after an article is withdrawn from the
+publication gate.
 """
 
 from __future__ import annotations
@@ -21,8 +26,10 @@ import yaml
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-POSTS_ROOT = REPO_ROOT / "content" / "posts"
+RESEARCH_ROOT = REPO_ROOT / "content" / "research"
 ELIGIBLE_STATUSES = {"ready", "published"}
+APPROVED_PROFILES = {"academic", "technical", "argumentative", "stylized", "personal", "creative"}
+APPROVED_DUPLICATE_REVIEW = {"reviewed", "not-applicable"}
 MANAGED_BY = "ai-research-reports"
 
 MARKDOWN_TARGET_RE = re.compile(r"(!?)\[([^\]]*)\]\(([^)\n]+)\)")
@@ -92,6 +99,30 @@ def package_digest(meta_bytes: bytes, body_bytes: bytes, assets_root: Path) -> s
     return h.hexdigest()
 
 
+def publication_gate_errors(folder: Path, meta: dict[str, Any]) -> list[str]:
+    """Return reasons a canonical package must not enter the public build."""
+    errors: list[str] = []
+    status = clean_text(meta.get("status")).lower()
+    profile = clean_text(meta.get("editorial_profile")).lower()
+
+    if status not in ELIGIBLE_STATUSES:
+        errors.append(f"status {status!r} is not ready/published")
+    if meta.get("draft") is not False:
+        errors.append("draft must be false")
+    if profile not in APPROVED_PROFILES:
+        errors.append("editorial_profile is missing or unapproved")
+    if not (folder / "CHANGELOG.md").is_file():
+        errors.append("article-local CHANGELOG.md is required")
+
+    editorial = meta.get("editorial")
+    duplicate_review: Any = editorial.get("duplicate_review") if isinstance(editorial, dict) else None
+    duplicate_status = clean_text(duplicate_review.get("status")).lower() if isinstance(duplicate_review, dict) else ""
+    if duplicate_status not in APPROVED_DUPLICATE_REVIEW:
+        errors.append("duplicate/relationship review must be reviewed or not-applicable")
+
+    return errors
+
+
 def managed_frontmatter(*, slug: str, meta: dict[str, Any], digest: str) -> dict[str, Any]:
     title = clean_text(meta.get("title"))
     description = clean_text(meta.get("description")) or clean_text(meta.get("summary")) or title
@@ -143,7 +174,7 @@ def split_frontmatter(text: str) -> tuple[dict[str, Any], str] | None:
     data = yaml.safe_load(text[4:end])
     if not isinstance(data, dict):
         return None
-    return data, text[end + len(marker) :]
+    return data, text[end + len(marker):]
 
 
 def parse_local_target(raw_target: str) -> str | None:
@@ -207,15 +238,15 @@ def validate_source_integrity(folder: Path, body: str) -> None:
 def target_for(slug: str, source_assets: Path) -> tuple[Path, Path | None]:
     has_assets = bool(iter_asset_files(source_assets))
     if has_assets:
-        bundle = POSTS_ROOT / slug
+        bundle = RESEARCH_ROOT / slug
         return bundle / "index.md", bundle
-    return POSTS_ROOT / f"{slug}.md", None
+    return RESEARCH_ROOT / f"{slug}.md", None
 
 
 def counterpart_for(target: Path) -> Path:
     if target.name == "index.md":
-        return POSTS_ROOT / f"{target.parent.name}.md"
-    return POSTS_ROOT / target.stem / "index.md"
+        return RESEARCH_ROOT / f"{target.parent.name}.md"
+    return RESEARCH_ROOT / target.stem / "index.md"
 
 
 def assert_managed_if_exists(path: Path) -> None:
@@ -223,7 +254,7 @@ def assert_managed_if_exists(path: Path) -> None:
         return
     parsed = split_frontmatter(path.read_text(encoding="utf-8", errors="replace"))
     if not parsed or parsed[0].get("managed_by") != MANAGED_BY:
-        raise FileExistsError(f"refusing to overwrite unmanaged post: {path}")
+        raise FileExistsError(f"refusing to overwrite unmanaged research content: {path}")
 
 
 def assert_target_is_managed(target: Path) -> None:
@@ -281,11 +312,10 @@ def publish_one(source_root: Path, slug: str, *, write: bool) -> bool:
 
     if clean_text(meta.get("slug")) != slug:
         raise ValueError(f"{slug}: metadata slug does not match folder")
-    status = clean_text(meta.get("status")).lower()
-    if status not in ELIGIBLE_STATUSES:
-        raise ValueError(f"{slug}: status {status!r} is not publishable")
-    if meta.get("draft") is not False:
-        raise ValueError(f"{slug}: eligible publication requires draft: false")
+
+    gate_errors = publication_gate_errors(folder, meta)
+    if gate_errors:
+        raise ValueError(f"{slug}: publication gate failed: {'; '.join(gate_errors)}")
 
     validate_source_integrity(folder, body)
 
@@ -317,7 +347,7 @@ def publish_one(source_root: Path, slug: str, *, write: bool) -> bool:
     if not write or not changed:
         return changed
 
-    POSTS_ROOT.mkdir(parents=True, exist_ok=True)
+    RESEARCH_ROOT.mkdir(parents=True, exist_ok=True)
     remove_managed_counterpart(target)
 
     if bundle is not None:
@@ -346,14 +376,29 @@ def discover_eligible(source_root: Path) -> list[str]:
             meta = load_yaml(meta_path)
         except Exception:
             continue
-        if clean_text(meta.get("status")).lower() in ELIGIBLE_STATUSES and meta.get("draft") is False:
-            slugs.append(folder.name)
+
+        status = clean_text(meta.get("status")).lower()
+        if status not in ELIGIBLE_STATUSES or meta.get("draft") is not False:
+            continue
+
+        gate_errors = publication_gate_errors(folder, meta)
+        if gate_errors:
+            print(f"SKIP {folder.name}: {'; '.join(gate_errors)}", file=sys.stderr)
+            continue
+        slugs.append(folder.name)
     return slugs
+
+
+def reset_derived_research() -> None:
+    """Remove the ephemeral derived section so withdrawn articles cannot linger."""
+    if RESEARCH_ROOT.exists():
+        shutil.rmtree(RESEARCH_ROOT)
+    RESEARCH_ROOT.mkdir(parents=True, exist_ok=True)
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="One-way publisher from ai-research-reports to Marginalia."
+        description="One-way build projection from ai-research-reports to Marginalia research content."
     )
     parser.add_argument(
         "--source",
@@ -363,7 +408,7 @@ def main() -> int:
     )
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--slug", help="publish one canonical slug")
-    group.add_argument("--all", action="store_true", help="publish every eligible canonical slug")
+    group.add_argument("--all", action="store_true", help="publish every package passing the gate")
     parser.add_argument("--write", action="store_true", help="write changes; default is dry-run")
     args = parser.parse_args()
 
@@ -371,6 +416,9 @@ def main() -> int:
     if not (source_root / "data" / "md").is_dir():
         print(f"error: not an ai-research-reports checkout: {source_root}", file=sys.stderr)
         return 2
+
+    if args.all and args.write:
+        reset_derived_research()
 
     slugs = [args.slug] if args.slug else discover_eligible(source_root)
     changed = 0
