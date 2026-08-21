@@ -6,3 +6,7 @@ tmp
 .DS_Store
 *.pyc
 scripts/__pycache__
+
+# Build-derived research projection and canonical checkout.
+content/research/
+.canonical/
