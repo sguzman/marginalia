@@ -4,6 +4,14 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    paths:
+      - '.github/workflows/pages.yml'
+      - 'scripts/research_publish.py'
+      - 'scripts/README.md'
+      - 'layouts/**'
+      - 'hugo.toml'
+      - '.gitignore'
   workflow_dispatch:
   schedule:
     - cron: '17 * * * *'
@@ -52,7 +60,7 @@ jobs:
             --all \
             --write
           echo 'Derived research files:'
-          find content/research -type f -maxdepth 4 -print | sort || true
+          find content/research -maxdepth 4 -type f -print | sort || true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -64,6 +72,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to GitHub Pages (gh-pages branch)
+        if: github.event_name != 'pull_request'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
